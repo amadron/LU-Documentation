@@ -77,6 +77,8 @@ nav:
       - CDClient tables: db/README.md
       - CDClient table reference: LEGO Universe CDClient Table Reference.md
       - Data model: LEGO Universe Data Model and Public Research.md
+  - Community:
+      - Mods and improvements: wiki/Community Mods and Improvements.md
   - Server documentation:
       - Overview: server/README.md
       - Architecture: server/DarkflameServer Architecture and Repository Structure.md

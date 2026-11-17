@@ -13,6 +13,7 @@ The documents describe that source snapshot. Configuration, client data, and run
 | Topic | Document | Main coverage |
 |---|---|---|
 | Content authoring | [Content Authoring](./content-authoring/README.md) | Practical workflows for zones, scene objects, spawners, native scripts, data dependencies, and validation. |
+| Community projects | [Mods and Improvements](../wiki/Community%20Mods%20and%20Improvements.md) | Selected client modifications, companion applications, operator tools, and modding projects. |
 | Processes and architecture | [Architecture and Repository Structure](./DarkflameServer%20Architecture%20and%20Repository%20Structure.md) | Service boundaries, startup, login, world instances, transfers, runtime ownership, build organization. |
 | Client protocol | [Client-Server Protocol and Gameplay](./DarkflameServer%20Client-Server%20Protocol%20and%20Gameplay.md) | RakNet transport, packet families, login flow, game messages, example request paths. |
 | World implementation | [World Simulation and Entity Model](./DarkflameServer%20World%20Simulation%20and%20Entity%20Model.md) | Zone loading, entities, components, native scripts, game-message dispatch, simulation and replication. |
