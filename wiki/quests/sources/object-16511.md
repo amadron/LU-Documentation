@@ -1,0 +1,20 @@
+# Skeleton Mad Scientist - quest/objective source LOT 16511
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -87.358 | 200.5 | -125.293 | Spawner path: EnemySpawnPoints&#95;4 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -77.864 | 200.5 | -132.113 | Spawner path: EnemySpawnPoints&#95;4 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -98.375 | 200.5 | -120.563 | Spawner path: EnemySpawnPoints&#95;4 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -72.95 | 200.5 | -138.943 | Spawner path: EnemySpawnPoints&#95;4 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -108.34 | 200.5 | -119.117 | Spawner path: EnemySpawnPoints&#95;4 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -66.372 | 200.5 | -146.853 | Spawner path: EnemySpawnPoints&#95;4 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -118.58 | 200.5 | -118.644 | Spawner path: EnemySpawnPoints&#95;4 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -63.445 | 200.5 | -155.838 | Spawner path: EnemySpawnPoints&#95;4 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -126.848 | 200.5 | -121.187 | Spawner path: EnemySpawnPoints&#95;4 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -60.51 | 200.702 | -164.223 | Spawner path: EnemySpawnPoints&#95;4 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |

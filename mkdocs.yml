@@ -1,0 +1,79 @@
+site_name: LEGO Universe Documentation
+site_description: Player guides, game data references, and DarkflameServer documentation
+docs_dir: site-src
+site_dir: site
+use_directory_urls: true
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+hooks:
+  - hooks/site_links.py
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+not_in_nav: |
+  **/*.md
+
+exclude_docs: |
+  .github/**
+  .git/**
+  .venv/**
+  hooks/**
+  scripts/**
+  site/**
+  db/*.csv
+  db/*.md
+  !db/README.md
+  !db/Schema.md
+  LEGO Universe Item List.csv
+  LEGO Universe Item List.md
+  LEGO Universe NPC List.csv
+  LEGO Universe NPC List.md
+  /README.md
+  /mkdocs.yml
+  /requirements.txt
+  /.gitignore
+
+nav:
+  - Home: index.md
+  - Play guides:
+      - Quests: wiki/Quest Guide.md
+      - Items: wiki/Item Guide.md
+      - Racing: wiki/Racing Guide.md
+      - Pets: wiki/Pet Guide.md
+  - Game databases:
+      - Items: wiki/items/README.md
+      - Quests and achievements: wiki/quests/README.md
+      - Racing: wiki/racing/README.md
+      - Pets: wiki/pets/README.md
+  - Data reference:
+      - CDClient tables: db/README.md
+      - CDClient table reference: LEGO Universe CDClient Table Reference.md
+      - Data model: LEGO Universe Data Model and Public Research.md
+  - Server documentation:
+      - Overview: server/README.md
+      - Architecture: server/DarkflameServer Architecture and Repository Structure.md
+      - Client-server protocol: server/DarkflameServer Client-Server Protocol and Gameplay.md
+      - Gamemaster guide: server/DarkflameServer Gamemaster Guide.md
+      - Commands: server/DarkflameServer Command Reference.md
+      - Content authoring: server/content-authoring/README.md

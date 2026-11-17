@@ -1,0 +1,24 @@
+# Skeleton Mad Scientist — source LOT 14029
+
+[Item database](../README.md) | [Methodology](../Methodology.md)
+
+| Source use | Definition | Condition |
+| --- | --- | --- |
+| Drop | [Matrix 893](matrix-893.md) | DestructibleComponent 1915; static component precedence |
+
+## Mapped placements and spawner waypoints
+
+These are static candidates, not a statement that every instance is currently spawned or reachable. Coordinates are map XYZ. Inactive spawners and feature gates are retained explicitly. Client-only objects are excluded. Scene/spawner records can overlap and are not an enemy-population count.
+
+| Zone | X | Y | Z | Scene / path | Conditions / stock override |
+| --- | --- | --- | --- | --- | --- |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -305.251 | 78.807 | -436.753 | Spawner path: Caves&#95;Special&#95;01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -248.623 | 78.807 | -389.118 | Spawner path: Caves&#95;Special&#95;01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -175.994 | 78.807 | -457.19 | Spawner path: Caves&#95;Special&#95;01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -264.254 | 78.807 | -491.091 | Spawner path: Caves&#95;Special&#95;01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -22.074 | 170.371 | -293.754 | Spawner path: Caves&#95;Special&#95;02 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 2.392 | 170.663 | -425.463 | Spawner path: Caves&#95;Special&#95;02 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 47.764 | 170.371 | -328.317 | Spawner path: Caves&#95;Special&#95;02 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 316.212 | 153.125 | -234.37 | Spawner path: Caves&#95;Special&#95;03 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 242.979 | 153.125 | -168.017 | Spawner path: Caves&#95;Special&#95;03 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 326.75 | 153.125 | -131.583 | Spawner path: Caves&#95;Special&#95;03 | No additional condition recorded |

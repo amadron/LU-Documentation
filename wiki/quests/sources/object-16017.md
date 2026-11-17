@@ -1,0 +1,15 @@
+# NJMON - Johnny Thunder Collectable Spawner - quest/objective source LOT 16017
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 176.048 | 163.647 | 532.973 | Scene nd&#95;nj&#95;monastery&#95;5&#95;siegefieldd.lvl (SiegeFieldD), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -125.672 | 230.282 | 210.496 | Scene nd&#95;nj&#95;monastery&#95;11&#95;moncoreback.lvl (MonCoreBack), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -748.135 | 290.743 | 311.483 | Scene nd&#95;nj&#95;monastery&#95;19&#95;lightninggate.lvl (LightningGate), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -293.236 | 86.407 | -323.487 | Scene nd&#95;nj&#95;monastery&#95;31&#95;cavesa.lvl (CavesA), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 502.511 | 220.95 | -129.402 | Scene nd&#95;nj&#95;monastery&#95;37&#95;cavesg.lvl (CavesG), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |

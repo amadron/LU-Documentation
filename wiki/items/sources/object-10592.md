@@ -1,0 +1,20 @@
+# WBL - Ice Cube — source LOT 10592
+
+[Item database](../README.md) | [Methodology](../Methodology.md)
+
+| Source use | Definition | Condition |
+| --- | --- | --- |
+| Drop | [Matrix 452](matrix-452.md) | DestructibleComponent 1588; static component precedence |
+
+## Mapped placements and spawner waypoints
+
+These are static candidates, not a statement that every instance is currently spawned or reachable. Coordinates are map XYZ. Inactive spawners and feature gates are retained explicitly. Client-only objects are excluded. Scene/spawner records can overlap and are not an enemy-population count.
+
+| Zone | X | Y | Z | Scene / path | Conditions / stock override |
+| --- | --- | --- | --- | --- | --- |
+| [DeepFreeze (1601)](../locations/zone-1601.md) | 101.106 | 200.041 | 104.611 | Scene wbl&#95;deep&#95;freeze&#95;intro.lvl (Global Scene); LOT 176 spawner | No additional condition recorded |
+| [DeepFreeze (1601)](../locations/zone-1601.md) | -1.174 | 200 | -41.43 | Scene wbl&#95;deep&#95;freeze&#95;intro.lvl (Global Scene); LOT 176 spawner | No additional condition recorded |
+| [DeepFreeze (1601)](../locations/zone-1601.md) | 34.112 | 200 | 128.74 | Scene wbl&#95;deep&#95;freeze&#95;intro.lvl (Global Scene); LOT 176 spawner | No additional condition recorded |
+| [DeepFreeze (1601)](../locations/zone-1601.md) | 48.626 | 200.28 | 103.869 | Scene wbl&#95;deep&#95;freeze&#95;intro.lvl (Global Scene); LOT 176 spawner | No additional condition recorded |
+| [DeepFreeze (1601)](../locations/zone-1601.md) | 51.284 | 200 | -5.323 | Scene wbl&#95;deep&#95;freeze&#95;intro.lvl (Global Scene); LOT 176 spawner | No additional condition recorded |
+| [DeepFreeze (1601)](../locations/zone-1601.md) | -9.659 | 211.23 | 114.377 | Scene wbl&#95;deep&#95;freeze&#95;intro.lvl (Global Scene); LOT 176 spawner | No additional condition recorded |

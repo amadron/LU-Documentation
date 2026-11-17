@@ -1,0 +1,26 @@
+# Hammerhurl Stromling - quest/objective source LOT 8238
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Return to the Venture Explorer (1001)](../locations/zone-1001.md) | -188 | 583.863 | -46.4 | Spawner path: Ranged&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Return to the Venture Explorer (1001)](../locations/zone-1001.md) | -187.73 | 584.443 | -10.964 | Spawner path: Ranged&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Return to the Venture Explorer (1001)](../locations/zone-1001.md) | -280.795 | 600.684 | -75.534 | Spawner path: Ranged&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Return to the Venture Explorer (1001)](../locations/zone-1001.md) | -267.734 | 602.785 | -67.974 | Spawner path: Ranged&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Return to the Venture Explorer (1001)](../locations/zone-1001.md) | -254.201 | 598.077 | -75.615 | Spawner path: Ranged&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Return to the Venture Explorer (1001)](../locations/zone-1001.md) | -267.611 | 605.984 | -99.485 | Spawner path: Ranged&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Return to the Venture Explorer (1001)](../locations/zone-1001.md) | -426.086 | 591.378 | -13.261 | Spawner path: Ranged&#95;03 | Automatic spawning disabled; trigger/script may be required |
+| [Return to the Venture Explorer (1001)](../locations/zone-1001.md) | -482.652 | 591.378 | -23.316 | Spawner path: Ranged&#95;03 | Automatic spawning disabled; trigger/script may be required |
+| [Return to the Venture Explorer (1001)](../locations/zone-1001.md) | -499.098 | 591.378 | -35.054 | Spawner path: Ranged&#95;03 | Automatic spawning disabled; trigger/script may be required |
+| [Return to the Venture Explorer (1001)](../locations/zone-1001.md) | -428.721 | 591.378 | -47.321 | Spawner path: Ranged&#95;03 | Automatic spawning disabled; trigger/script may be required |
+| [Return to the Venture Explorer (1001)](../locations/zone-1001.md) | -528.81 | 598.19 | -22.281 | Spawner path: Ranged&#95;04 | Automatic spawning disabled; trigger/script may be required |
+| [Return to the Venture Explorer (1001)](../locations/zone-1001.md) | -529.106 | 598.19 | -37.18 | Spawner path: Ranged&#95;04 | Automatic spawning disabled; trigger/script may be required |
+| [Return to the Venture Explorer (1001)](../locations/zone-1001.md) | -254.905 | 606.98 | 32.961 | Spawner path: Melee&#95;07 | Automatic spawning disabled; trigger/script may be required |
+| [Return to the Venture Explorer (1001)](../locations/zone-1001.md) | -267.872 | 611.876 | 25.333 | Spawner path: Melee&#95;07 | Automatic spawning disabled; trigger/script may be required |
+| [Return to the Venture Explorer (1001)](../locations/zone-1001.md) | -268.072 | 602.815 | 8.933 | Spawner path: Melee&#95;07 | Automatic spawning disabled; trigger/script may be required |
+| [Return to the Venture Explorer (1001)](../locations/zone-1001.md) | -281.437 | 606.676 | 32.594 | Spawner path: Melee&#95;07 | Automatic spawning disabled; trigger/script may be required |

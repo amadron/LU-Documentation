@@ -1,0 +1,2233 @@
+{
+  "generatedAt": "2026-11-17",
+  "sourceRevision": "8b7d1b946b5e7df18f2c82ccabcb2634aefc11f4",
+  "scope": "Racing folder only; local exported CDClient tables, matching DarkflameServer source, and locally supplied map assets.",
+  "carRaceActivities": [
+    {
+      "activityId": "39",
+      "title": "Keelhaul Canyon Raceway",
+      "worldId": "1300",
+      "instanceMapId": "1303",
+      "activityRewardRows": 20,
+      "distinctLootMatrices": 11,
+      "trackScript": "dScripts/ai/RACING/TRACK_GF/GfRaceServer.cpp",
+      "zoneTableAsset": "01_Live_Maps/Gnarled_Forest/Racetrack/gf_racetrack.luz",
+      "discoveredAsset": "res/res/maps/01_Live_Maps/Gnarled_Forest/Racetrack/gf_racetrack.luz",
+      "zoneTablePathMatched": true,
+      "mapMatchEvidence": {
+        "embeddedWorldId": "1303",
+        "zoneTableIds": [
+          "1303"
+        ]
+      },
+      "configuredEntryLots": [
+        "10413"
+      ],
+      "entryPlacements": [
+        {
+          "lot": "10413",
+          "name": "GF - Race Activator",
+          "sourceLot": "10413",
+          "worldId": "1300",
+          "zoneTableIds": [
+            "375",
+            "1300"
+          ],
+          "map": "res/res/maps/01_Live_Maps/Gnarled_Forest/nd_gnarled_forest.luz",
+          "scene": "Global Scene",
+          "level": "res/res/maps/01_Live_Maps/Gnarled_Forest/nd_gnarled_forest.lvl",
+          "xyz": [
+            76.22593688964844,
+            316.61041259765625,
+            503.787109375
+          ],
+          "config": {
+            "CheckPrecondition": "",
+            "activityID": "39",
+            "add_to_navmesh": "1",
+            "bounding_radius_override": "0",
+            "camGradSnap": "0",
+            "camPrefersToFadeObject": "1",
+            "carver_only": "0",
+            "create_physics": "1",
+            "custom_config_names": "custom_script_client\u001dcustom_script_server\u001dtransferZoneID",
+            "custom_script_client": "scripts\\client\\ai\\GF\\L_GF_RACE_JOIN_CLIENT.lua",
+            "custom_script_server": "scripts\\ai\\GF\\L_GF_RACE_INSTANCER.lua",
+            "friction": "1.5",
+            "fxpriority": "0",
+            "ignoreCameraCollision": "0",
+            "interaction_distance": "16",
+            "is_smashable": "0",
+            "loadOnClientOnly": "0",
+            "loadSrvrOnly": "0",
+            "navmesh_carver": "0",
+            "renderCullingGroup": "0",
+            "sceneIDOverride": "0",
+            "sceneIDOverrideEnabled": "1",
+            "sceneLayerIDOverride": "0",
+            "template": "-1",
+            "transferZoneID": "1303"
+          }
+        }
+      ]
+    },
+    {
+      "activityId": "42",
+      "title": "Vertigo Loop",
+      "worldId": "1200",
+      "instanceMapId": "1203",
+      "activityRewardRows": 20,
+      "distinctLootMatrices": 11,
+      "trackScript": "dScripts/ai/RACING/TRACK_NS/NsRaceServer.cpp",
+      "zoneTableAsset": "01_Live_Maps/Nimbus_Station/Racetrack/nd_nimbus_station_racetrack.luz",
+      "discoveredAsset": "res/res/maps/01_Live_Maps/Nimbus_Station/Racetrack/nd_nimbus_station_racetrack.luz",
+      "zoneTablePathMatched": true,
+      "mapMatchEvidence": {
+        "embeddedWorldId": "1203",
+        "zoneTableIds": [
+          "1203"
+        ]
+      },
+      "configuredEntryLots": [
+        "10413"
+      ],
+      "entryPlacements": [
+        {
+          "lot": "10413",
+          "name": "GF - Race Activator",
+          "sourceLot": "10413",
+          "worldId": "1200",
+          "zoneTableIds": [
+            "1200"
+          ],
+          "map": "res/res/maps/01_Live_Maps/Nimbus_Station/nd_nimbus_station.luz",
+          "scene": "Global Scene",
+          "level": "res/res/maps/01_Live_Maps/Nimbus_Station/nd_nimbus_station.lvl",
+          "xyz": [
+            270.4057922363281,
+            289.1878356933594,
+            188.11526489257812
+          ],
+          "config": {
+            "CheckPrecondition": "47;125|126",
+            "actIDovrd": "1",
+            "activityID": "42",
+            "add_to_navmesh": "1",
+            "bounding_radius_override": "0",
+            "camGradSnap": "0",
+            "camPrefersToFadeObject": "1",
+            "carver_only": "0",
+            "create_physics": "1",
+            "custom_config_names": "custom_script_client\u001dcustom_script_server\u001dtransferZoneID",
+            "custom_script_client": "scripts\\client\\ai\\NS\\L_NS_RACE_JOIN_CLIENT.lua",
+            "custom_script_server": "scripts\\ai\\GF\\L_GF_RACE_INSTANCER.lua",
+            "friction": "1.5",
+            "fxpriority": "0",
+            "ignoreCameraCollision": "0",
+            "interaction_distance": "16",
+            "is_smashable": "0",
+            "loadOnClientOnly": "0",
+            "loadSrvrOnly": "0",
+            "navmesh_carver": "0",
+            "renderCullingGroup": "3",
+            "sceneIDOverride": "0",
+            "sceneIDOverrideEnabled": "1",
+            "sceneLayerIDOverride": "0",
+            "template": "-1",
+            "transferZoneID": "1203"
+          }
+        }
+      ]
+    },
+    {
+      "activityId": "54",
+      "title": "Dragonmaw Chasm",
+      "worldId": "1400",
+      "instanceMapId": "1403",
+      "activityRewardRows": 20,
+      "distinctLootMatrices": 11,
+      "trackScript": "dScripts/ai/RACING/TRACK_FV/FvRaceServer.cpp",
+      "zoneTableAsset": "FVracetrack/fv_racetrack.luz",
+      "discoveredAsset": "res/res/maps/FVracetrack/fv_racetrack.luz",
+      "zoneTablePathMatched": true,
+      "mapMatchEvidence": {
+        "embeddedWorldId": "1403",
+        "zoneTableIds": [
+          "1403"
+        ]
+      },
+      "configuredEntryLots": [
+        "11178"
+      ],
+      "entryPlacements": [
+        {
+          "lot": "11178",
+          "name": "FV - Race Activator",
+          "sourceLot": "11178",
+          "worldId": "1400",
+          "zoneTableIds": [
+            "1400"
+          ],
+          "map": "res/res/maps/01_Live_Maps/Forbidden_Valley/nd_forbidden_valley.luz",
+          "scene": "Global Scene",
+          "level": "res/res/maps/01_Live_Maps/Forbidden_Valley/nd_forbidden_valley.lvl",
+          "xyz": [
+            787.4707641601562,
+            240.56407165527344,
+            459.27349853515625
+          ],
+          "config": {
+            "CheckPrecondition": "",
+            "actIDovrd": "1",
+            "activityID": "54",
+            "add_to_navmesh": "1",
+            "bounding_radius_override": "0",
+            "camGradSnap": "0",
+            "camPrefersToFadeObject": "1",
+            "carver_only": "0",
+            "create_physics": "1",
+            "custom_config_names": "custom_script_client\u001dcustom_script_server\u001dtransferZoneID",
+            "custom_script_client": "",
+            "custom_script_server": "",
+            "friction": "1.5",
+            "fxpriority": "0",
+            "gatingOnFeature": "FVracetrack",
+            "ignoreCameraCollision": "0",
+            "interaction_distance": "16",
+            "is_smashable": "0",
+            "loadOnClientOnly": "0",
+            "loadSrvrOnly": "0",
+            "navmesh_carver": "0",
+            "renderCullingGroup": "4",
+            "sceneIDOverride": "0",
+            "sceneIDOverrideEnabled": "1",
+            "sceneLayerIDOverride": "0",
+            "template": "-1",
+            "transferZoneID": "1403"
+          }
+        }
+      ]
+    },
+    {
+      "activityId": "60",
+      "title": "Space Blizzard",
+      "worldId": "1260",
+      "instanceMapId": "1261",
+      "activityRewardRows": 20,
+      "distinctLootMatrices": 11,
+      "trackScript": "dScripts/ai/RACING/TRACK_NS_WINTER/NsWinterRaceServer.cpp",
+      "zoneTableAsset": null,
+      "discoveredAsset": "res/res/maps/seasonal_live maps/december/ns_winter_racetrack/nd_nimbus_station_winter-racetrack.luz",
+      "zoneTablePathMatched": false,
+      "mapMatchEvidence": {
+        "embeddedWorldId": "1261",
+        "zoneTableIds": []
+      },
+      "configuredEntryLots": [
+        "11418"
+      ],
+      "entryPlacements": [
+        {
+          "lot": "11418",
+          "name": "WT - Race Activator",
+          "sourceLot": "11418",
+          "worldId": "1260",
+          "zoneTableIds": [],
+          "map": "res/res/maps/seasonal_live maps/december/winter_celebrity_property/ns_property_large_winter.luz",
+          "scene": "Global Scene",
+          "level": "res/res/maps/seasonal_live maps/december/winter_celebrity_property/ns_property_large_winter.lvl",
+          "xyz": [
+            -290.03753662109375,
+            535.4100952148438,
+            147.371826171875
+          ],
+          "config": {
+            "CheckPrecondition": "",
+            "actIDovrd": "1",
+            "activityID": "60",
+            "add_to_navmesh": "1",
+            "bounding_radius_override": "0",
+            "camGradSnap": "0",
+            "camPrefersToFadeObject": "1",
+            "carver_only": "0",
+            "create_physics": "1",
+            "custom_config_names": "custom_script_client\u001dcustom_script_server\u001dtransferZoneID",
+            "custom_script_client": "scripts\\client\\ai\\NS\\WH\\L_WH_RACE_JOIN_CLIENT.lua",
+            "custom_script_server": "scripts\\ai\\GF\\L_GF_RACE_INSTANCER.lua",
+            "friction": "1.5",
+            "fxpriority": "0",
+            "ignoreCameraCollision": "0",
+            "interaction_distance": "16",
+            "is_smashable": "0",
+            "loadOnClientOnly": "0",
+            "loadSrvrOnly": "0",
+            "navmesh_carver": "0",
+            "renderCullingGroup": "0",
+            "sceneIDOverride": "255",
+            "sceneIDOverrideEnabled": "0",
+            "sceneLayerIDOverride": "0",
+            "template": "-1",
+            "transferZoneID": "1261"
+          }
+        }
+      ]
+    }
+  ],
+  "racingObjectives": {
+    "definitionsWithRacingObjectives": 84,
+    "rows": 84,
+    "paramValues": [
+      [
+        "1",
+        "Finish with placement"
+      ],
+      [
+        "2",
+        "Lap time"
+      ],
+      [
+        "3",
+        "Total track time"
+      ],
+      [
+        "4",
+        "Complete any racing task"
+      ],
+      [
+        "5",
+        "Complete track tasks"
+      ],
+      [
+        "6",
+        "Modular building"
+      ],
+      [
+        "10",
+        "Safe driver"
+      ],
+      [
+        "11",
+        "Smashables"
+      ],
+      [
+        "12",
+        "Collect imagination"
+      ],
+      [
+        "13",
+        "Competed in a race"
+      ],
+      [
+        "14",
+        "Win a race in a world"
+      ],
+      [
+        "15",
+        "First place on multiple tracks"
+      ],
+      [
+        "16",
+        "Last-place finish"
+      ],
+      [
+        "17",
+        "Smash a specific smashable"
+      ]
+    ],
+    "orphanRows": [
+      {
+        "missionId": "1405",
+        "uid": "1937",
+        "type": "23",
+        "target": "",
+        "param": "17"
+      }
+    ],
+    "links": [
+      {
+        "missionId": "624",
+        "path": "../quests/624.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "625",
+        "path": "../quests/625.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "626",
+        "path": "../quests/626.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "627",
+        "path": "../quests/627.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "628",
+        "path": "../quests/628.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "630",
+        "path": "../quests/630.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "631",
+        "path": "../quests/631.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "632",
+        "path": "../quests/632.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "635",
+        "path": "../quests/635.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "636",
+        "path": "../quests/636.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "638",
+        "path": "../quests/638.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "639",
+        "path": "../quests/639.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "640",
+        "path": "../quests/640.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "641",
+        "path": "../quests/641.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "642",
+        "path": "../quests/642.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "643",
+        "path": "../quests/643.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "644",
+        "path": "../quests/644.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "645",
+        "path": "../quests/645.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "646",
+        "path": "../quests/646.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "647",
+        "path": "../quests/647.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "648",
+        "path": "../quests/648.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "649",
+        "path": "../quests/649.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "650",
+        "path": "../quests/650.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "651",
+        "path": "../quests/651.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "652",
+        "path": "../quests/652.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "653",
+        "path": "../quests/653.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "654",
+        "path": "../quests/654.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "655",
+        "path": "../quests/655.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "656",
+        "path": "../quests/656.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "657",
+        "path": "../quests/657.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "658",
+        "path": "../quests/658.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "659",
+        "path": "../quests/659.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "661",
+        "path": "../quests/661.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "662",
+        "path": "../quests/662.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "663",
+        "path": "../quests/663.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "665",
+        "path": "../quests/665.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "666",
+        "path": "../quests/666.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "667",
+        "path": "../quests/667.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "668",
+        "path": "../quests/668.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "669",
+        "path": "../quests/669.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "673",
+        "path": "../quests/673.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "674",
+        "path": "../quests/674.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "675",
+        "path": "../quests/675.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "676",
+        "path": "../quests/676.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "677",
+        "path": "../quests/677.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "678",
+        "path": "../quests/678.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1160",
+        "path": "../quests/1160.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1161",
+        "path": "../quests/1161.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1162",
+        "path": "../quests/1162.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1163",
+        "path": "../quests/1163.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1164",
+        "path": "../quests/1164.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1165",
+        "path": "../quests/1165.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1167",
+        "path": "../quests/1167.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1168",
+        "path": "../quests/1168.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1181",
+        "path": "../quests/1181.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1406",
+        "path": "../quests/1406.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1407",
+        "path": "../quests/1407.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1408",
+        "path": "../quests/1408.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1504",
+        "path": "../quests/1504.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1505",
+        "path": "../quests/1505.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1506",
+        "path": "../quests/1506.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1541",
+        "path": "../quests/1541.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1542",
+        "path": "../quests/1542.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1543",
+        "path": "../quests/1543.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1578",
+        "path": "../quests/1578.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1579",
+        "path": "../quests/1579.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1580",
+        "path": "../quests/1580.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1624",
+        "path": "../quests/1624.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1625",
+        "path": "../quests/1625.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1626",
+        "path": "../quests/1626.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1634",
+        "path": "../quests/1634.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1635",
+        "path": "../quests/1635.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1636",
+        "path": "../quests/1636.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1644",
+        "path": "../quests/1644.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1645",
+        "path": "../quests/1645.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1646",
+        "path": "../quests/1646.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1654",
+        "path": "../quests/1654.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1655",
+        "path": "../quests/1655.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1656",
+        "path": "../quests/1656.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1772",
+        "path": "../quests/1772.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1773",
+        "path": "../quests/1773.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1774",
+        "path": "../quests/1774.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1775",
+        "path": "../quests/1775.md",
+        "summaryExists": true
+      },
+      {
+        "missionId": "1776",
+        "path": "../quests/1776.md",
+        "summaryExists": true
+      }
+    ]
+  },
+  "racingCategoryPages": {
+    "count": 66,
+    "ids": [
+      "622",
+      "623",
+      "624",
+      "625",
+      "626",
+      "627",
+      "628",
+      "629",
+      "630",
+      "631",
+      "632",
+      "635",
+      "636",
+      "637",
+      "638",
+      "639",
+      "640",
+      "641",
+      "642",
+      "643",
+      "644",
+      "645",
+      "646",
+      "647",
+      "648",
+      "649",
+      "650",
+      "651",
+      "652",
+      "653",
+      "654",
+      "655",
+      "656",
+      "657",
+      "658",
+      "659",
+      "661",
+      "662",
+      "663",
+      "665",
+      "666",
+      "667",
+      "668",
+      "669",
+      "673",
+      "674",
+      "675",
+      "676",
+      "677",
+      "678",
+      "806",
+      "861",
+      "1160",
+      "1161",
+      "1162",
+      "1163",
+      "1164",
+      "1165",
+      "1166",
+      "1167",
+      "1181",
+      "1772",
+      "1773",
+      "1774",
+      "1775",
+      "1776"
+    ]
+  },
+  "reusedQuestAndAchievementPages": {
+    "count": 97,
+    "ids": [
+      "179",
+      "180",
+      "181",
+      "319",
+      "622",
+      "623",
+      "624",
+      "625",
+      "626",
+      "627",
+      "628",
+      "629",
+      "630",
+      "631",
+      "632",
+      "635",
+      "636",
+      "637",
+      "638",
+      "639",
+      "640",
+      "641",
+      "642",
+      "643",
+      "644",
+      "645",
+      "646",
+      "647",
+      "648",
+      "649",
+      "650",
+      "651",
+      "652",
+      "653",
+      "654",
+      "655",
+      "656",
+      "657",
+      "658",
+      "659",
+      "661",
+      "662",
+      "663",
+      "665",
+      "666",
+      "667",
+      "668",
+      "669",
+      "673",
+      "674",
+      "675",
+      "676",
+      "677",
+      "678",
+      "806",
+      "861",
+      "1160",
+      "1161",
+      "1162",
+      "1163",
+      "1164",
+      "1165",
+      "1166",
+      "1167",
+      "1168",
+      "1181",
+      "1406",
+      "1407",
+      "1408",
+      "1504",
+      "1505",
+      "1506",
+      "1541",
+      "1542",
+      "1543",
+      "1578",
+      "1579",
+      "1580",
+      "1624",
+      "1625",
+      "1626",
+      "1634",
+      "1635",
+      "1636",
+      "1644",
+      "1645",
+      "1646",
+      "1654",
+      "1655",
+      "1656",
+      "1772",
+      "1773",
+      "1774",
+      "1775",
+      "1776",
+      "1877",
+      "1884"
+    ]
+  },
+  "footRaces": {
+    "starterLots": [
+      {
+        "lot": "8663",
+        "name": "FV Ninja Foot Race Starter",
+        "script": "scripts\\ai\\ACT\\FootRace\\L_ACT_BASE_FOOT_RACE.lua",
+        "placements": [
+          {
+            "lot": "8663",
+            "name": "FV Ninja Foot Race Starter",
+            "sourceLot": "176",
+            "worldId": "1400",
+            "zoneTableIds": [
+              "1400"
+            ],
+            "map": "res/res/maps/01_Live_Maps/Forbidden_Valley/nd_forbidden_valley.luz",
+            "scene": "Temple1Tree",
+            "level": "res/res/maps/01_Live_Maps/Forbidden_Valley/nd_forbidden_valley_4_temple1tree.lvl",
+            "xyz": [
+              193.86659240722656,
+              350.7392272949219,
+              152.11962890625
+            ],
+            "config": {
+              "CheckPrecondition": "",
+              "activityID": "46",
+              "add_to_navmesh": "1",
+              "aggroRadius": "2",
+              "bounding_radius_override": "0",
+              "camGradSnap": "0",
+              "camPrefersToFadeObject": "1",
+              "carver_only": "0",
+              "create_physics": "1",
+              "currency": "0",
+              "custom_config_names": "",
+              "friction": "1.5",
+              "fxpriority": "0",
+              "ignoreCameraCollision": "0",
+              "interaction_distance": "16",
+              "is_smashable": "0",
+              "loadOnClientOnly": "0",
+              "max_to_spawn": "-1",
+              "name": "",
+              "navmesh_carver": "0",
+              "no_auto_spawn": "1",
+              "no_timed_spawn": "1",
+              "radius": "0",
+              "renderAnimLODSkew": "1",
+              "renderCullingGroup": "3",
+              "renderOffscreenAnimEnabled": "0",
+              "respawn": "20000",
+              "sceneIDOverride": "255",
+              "sceneIDOverrideEnabled": "0",
+              "sceneLayerIDOverride": "0",
+              "spawner_active_on_load": "1",
+              "spawntemplate": "8663",
+              "template": "-1",
+              "tetherRadius": "2",
+              "wanderRadius": "2"
+            }
+          }
+        ]
+      },
+      {
+        "lot": "9714",
+        "name": "Paradox Foot Race Man",
+        "script": "scripts\\ai\\ACT\\FootRace\\L_ACT_BASE_FOOT_RACE.lua",
+        "placements": [
+          {
+            "lot": "9714",
+            "name": "Paradox Foot Race Man",
+            "sourceLot": "176",
+            "worldId": "1400",
+            "zoneTableIds": [
+              "1400"
+            ],
+            "map": "res/res/maps/01_Live_Maps/Forbidden_Valley/nd_forbidden_valley.luz",
+            "scene": "Paradox",
+            "level": "res/res/maps/01_Live_Maps/Forbidden_Valley/nd_forbidden_valley_10_paradox.lvl",
+            "xyz": [
+              -604.5023803710938,
+              -20.659229278564453,
+              -274.529052734375
+            ],
+            "config": {
+              "CheckPrecondition": "",
+              "SmashableDoesNotCutNavmesh": "0",
+              "activityID": "47",
+              "add_to_navmesh": "1",
+              "aggroRadius": "2",
+              "bounding_radius_override": "0",
+              "camGradSnap": "0",
+              "camPrefersToFadeObject": "1",
+              "carver_only": "0",
+              "create_physics": "1",
+              "currency": "0",
+              "custom_config_names": "",
+              "explode_factor": "1",
+              "friction": "1.5",
+              "fxpriority": "0",
+              "gravFactor": "1",
+              "grpNameQBShowBricks": "",
+              "ignoreCameraCollision": "0",
+              "interaction_distance": "16",
+              "is_smashable": "1",
+              "loadOnClientOnly": "0",
+              "loadSrvrOnly": "0",
+              "max_to_spawn": "-1",
+              "name": "",
+              "navmesh_carver": "0",
+              "no_auto_spawn": "1",
+              "no_timed_spawn": "1",
+              "override_faction": "0",
+              "radius": "0",
+              "renderAnimLODSkew": "1",
+              "renderCullingGroup": "3",
+              "renderOffscreenAnimEnabled": "0",
+              "respawn": "20000",
+              "sceneIDOverride": "255",
+              "sceneIDOverrideEnabled": "0",
+              "sceneLayerIDOverride": "0",
+              "set_faction": "-1",
+              "smashable_loot_matrix": "-1",
+              "smashable_loot_matrix_set": "0",
+              "softtetherRadius": "2",
+              "spawner_active_on_load": "1",
+              "spawntemplate": "9714",
+              "startsQBActivator": "0",
+              "template": "-1",
+              "tetherRadius": "2",
+              "usetetherdb": "0",
+              "usewanderdb": "0",
+              "wanderRadius": "2"
+            }
+          }
+        ]
+      },
+      {
+        "lot": "9732",
+        "name": "FV - Panda Block",
+        "script": "scripts\\ai\\ACT\\FootRace\\L_ACT_BASE_FOOT_RACE.lua",
+        "placements": [
+          {
+            "lot": "9732",
+            "name": "FV - Panda Block",
+            "sourceLot": "176",
+            "worldId": "1400",
+            "zoneTableIds": [
+              "1400"
+            ],
+            "map": "res/res/maps/01_Live_Maps/Forbidden_Valley/nd_forbidden_valley.luz",
+            "scene": "Tree",
+            "level": "res/res/maps/01_Live_Maps/Forbidden_Valley/nd_forbidden_valley_2_tree.lvl",
+            "xyz": [
+              -77.4178466796875,
+              387.6495666503906,
+              -152.70436096191406
+            ],
+            "config": {
+              "CamRlBiasAmt": "0",
+              "CamRlBiasBi": "0",
+              "CamRlBiasFwd": "0",
+              "CamRlBiasRet": "0",
+              "CamRlCamPath": "",
+              "CamRlCamRetPath": "",
+              "CamRlFaceTgt": "1",
+              "CamRlPosPath": "",
+              "CheckPrecondition": "106",
+              "NDAEG": "",
+              "SmashableDoesNotCutNavmesh": "0",
+              "activityID": "48",
+              "add_to_navmesh": "1",
+              "camBehaviorDirectional": "0",
+              "camBehaviorPitch": "0",
+              "camBehaviorYaw": "0",
+              "camDir": "",
+              "camGradSnap": "0",
+              "camLkDir": "0",
+              "camPitchAngleDown": "120",
+              "camPitchAngleUp": "60",
+              "camPrefersToFadeObject": "1",
+              "cancelBehaviorMovement": "0",
+              "carver_only": "0",
+              "create_physics": "1",
+              "custom_config_names": "",
+              "explode_factor": "1",
+              "fxpriority": "0",
+              "gravFactor": "1",
+              "groupID": "PandaRaceObject;",
+              "grpNameQBShowBricks": "",
+              "ignoreCameraCollision": "0",
+              "interaction_distance": "16",
+              "is_smashable": "0",
+              "loadOnClientOnly": "0",
+              "loadSrvrOnly": "0",
+              "max_to_spawn": "-1",
+              "navmesh_carver": "0",
+              "no_auto_spawn": "1",
+              "no_timed_spawn": "1",
+              "override_faction": "0",
+              "radius": "0",
+              "renderCullingGroup": "0",
+              "respawn": "20000",
+              "respawnVol": "0",
+              "respawnVolName": "",
+              "rlLeadIn": "1",
+              "rlLeadOut": "-1",
+              "rspPos": "0.0000\u001f0.0000\u001f0.0000",
+              "rspRot": "1.0000 \u001f 0.0000 \u001f 0.0000 \u001f 0.0000",
+              "sceneIDOverride": "255",
+              "sceneIDOverrideEnabled": "0",
+              "sceneLayerIDOverride": "0",
+              "set_faction": "-1",
+              "setsRailCam": "0",
+              "smashable_loot_matrix": "-1",
+              "smashable_loot_matrix_set": "0",
+              "spawner_active_on_load": "1",
+              "spawntemplate": "9732",
+              "startsQBActivator": "0",
+              "template": "-1"
+            }
+          }
+        ]
+      },
+      {
+        "lot": "9777",
+        "name": "FV Ninja Foot Race Starter DUPE",
+        "script": "scripts\\ai\\ACT\\FootRace\\L_ACT_BASE_FOOT_RACE.lua",
+        "placements": []
+      },
+      {
+        "lot": "9983",
+        "name": "Nimbus Racer",
+        "script": "scripts\\ai\\ACT\\FootRace\\L_ACT_BASE_FOOT_RACE.lua",
+        "placements": [
+          {
+            "lot": "9983",
+            "name": "Nimbus Racer",
+            "sourceLot": "176",
+            "worldId": "1200",
+            "zoneTableIds": [
+              "1200"
+            ],
+            "map": "res/res/maps/01_Live_Maps/Nimbus_Station/nd_nimbus_station.luz",
+            "scene": "Race Place",
+            "level": "res/res/maps/01_Live_Maps/Nimbus_Station/nd_nimbus_station_15_race_place.lvl",
+            "xyz": [
+              175.3800048828125,
+              294.93011474609375,
+              186.77000427246094
+            ],
+            "config": {
+              "CheckPrecondition": "",
+              "SmashableDoesNotCutNavmesh": "0",
+              "actIDovrd": "1",
+              "activityID": "49",
+              "add_to_navmesh": "1",
+              "aggroRadius": "2",
+              "bounding_radius_override": "0",
+              "camGradSnap": "0",
+              "camPrefersToFadeObject": "1",
+              "carver_only": "0",
+              "create_physics": "1",
+              "currency": "0",
+              "custom_config_names": "",
+              "explode_factor": "1",
+              "friction": "1.5",
+              "fxpriority": "0",
+              "gravFactor": "1",
+              "grpNameQBShowBricks": "",
+              "ignoreCameraCollision": "0",
+              "interaction_distance": "8",
+              "is_smashable": "1",
+              "loadOnClientOnly": "0",
+              "loadSrvrOnly": "0",
+              "max_to_spawn": "-1",
+              "name": "",
+              "navmesh_carver": "0",
+              "no_auto_spawn": "1",
+              "no_timed_spawn": "1",
+              "override_faction": "0",
+              "radius": "0",
+              "renderAnimLODSkew": "1",
+              "renderCullingGroup": "2",
+              "renderOffscreenAnimEnabled": "0",
+              "respawn": "20",
+              "sceneIDOverride": "255",
+              "sceneIDOverrideEnabled": "0",
+              "sceneLayerIDOverride": "0",
+              "set_faction": "-1",
+              "smashable_loot_matrix": "-1",
+              "smashable_loot_matrix_set": "0",
+              "softtetherRadius": "2",
+              "spawner_active_on_load": "1",
+              "spawntemplate": "9983",
+              "startsQBActivator": "0",
+              "template": "-1",
+              "tetherRadius": "2",
+              "usetetherdb": "0",
+              "usewanderdb": "0",
+              "wanderRadius": "2"
+            }
+          }
+        ]
+      },
+      {
+        "lot": "12055",
+        "name": "Melty Puddles",
+        "script": "scripts\\ai\\ACT\\FootRace\\L_ACT_BASE_FOOT_RACE.lua",
+        "placements": [
+          {
+            "lot": "12055",
+            "name": "Melty Puddles",
+            "sourceLot": "176",
+            "worldId": "1260",
+            "zoneTableIds": [],
+            "map": "res/res/maps/seasonal_live maps/december/winter_celebrity_property/ns_property_large_winter.luz",
+            "scene": "Global Scene",
+            "level": "res/res/maps/seasonal_live maps/december/winter_celebrity_property/ns_property_large_winter.lvl",
+            "xyz": [
+              -432.9599914550781,
+              534.3800048828125,
+              353.6300048828125
+            ],
+            "config": {
+              "CheckPrecondition": "",
+              "SmashableDoesNotCutNavmesh": "0",
+              "actIDovrd": "1",
+              "activityID": "104",
+              "add_to_navmesh": "1",
+              "bounding_radius_override": "0",
+              "camGradSnap": "0",
+              "camPrefersToFadeObject": "1",
+              "carver_only": "0",
+              "create_physics": "1",
+              "custom_config_names": "",
+              "explode_factor": "1",
+              "friction": "1.5",
+              "fxpriority": "0",
+              "gravFactor": "1",
+              "grpNameQBShowBricks": "",
+              "ignoreCameraCollision": "0",
+              "interaction_distance": "16",
+              "is_smashable": "0",
+              "loadOnClientOnly": "0",
+              "loadSrvrOnly": "0",
+              "max_to_spawn": "-1",
+              "navmesh_carver": "0",
+              "no_auto_spawn": "1",
+              "no_timed_spawn": "1",
+              "override_faction": "0",
+              "radius": "0",
+              "renderCullingGroup": "0",
+              "respawn": "20",
+              "sceneIDOverride": "255",
+              "sceneIDOverrideEnabled": "0",
+              "sceneLayerIDOverride": "0",
+              "set_faction": "-1",
+              "smashable_loot_matrix": "-1",
+              "smashable_loot_matrix_set": "0",
+              "spawner_active_on_load": "1",
+              "spawntemplate": "12055",
+              "startsQBActivator": "0",
+              "template": "-1"
+            }
+          }
+        ]
+      },
+      {
+        "lot": "12347",
+        "name": "Venture Explorer Foot Race Console",
+        "script": "scripts\\ai\\ACT\\FootRace\\L_ACT_BASE_FOOT_RACE.lua",
+        "placements": []
+      }
+    ],
+    "activityIds": [
+      "46",
+      "47",
+      "48",
+      "49",
+      "104",
+      "108"
+    ],
+    "separateAgFootRaceStrongman": {
+      "lot": "10046",
+      "activityId": "53",
+      "activityRow": {
+        "ActivityID": "53",
+        "locStatus": "2",
+        "instanceMapID": "",
+        "minTeams": "",
+        "maxTeams": "",
+        "minTeamSize": "",
+        "maxTeamSize": "",
+        "waitTime": "",
+        "startDelay": "",
+        "requiresUniqueData": "False",
+        "leaderboardType": "3",
+        "localize": "True",
+        "optionalCostLOT": "",
+        "optionalCostCount": "",
+        "showUIRewards": "True",
+        "CommunityActivityFlagID": "",
+        "gate_version": "",
+        "noTeamLootOnDeath": "",
+        "optionalPercentage": ""
+      },
+      "placements": [
+        {
+          "lot": "10046",
+          "name": "AG Foot Race Strongman",
+          "sourceLot": "176",
+          "worldId": "1100",
+          "zoneTableIds": [
+            "1100"
+          ],
+          "map": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens.luz",
+          "scene": "Launch",
+          "level": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens_4_launch.lvl",
+          "xyz": [
+            514.74169921875,
+            406.09039306640625,
+            145.22125244140625
+          ],
+          "config": {
+            "CheckPrecondition": "256",
+            "SmashableDoesNotCutNavmesh": "0",
+            "actIDovrd": "1",
+            "activityID": "53",
+            "add_to_navmesh": "1",
+            "aggroRadius": "2",
+            "bounding_radius_override": "0",
+            "camGradSnap": "0",
+            "camPrefersToFadeObject": "1",
+            "carver_only": "0",
+            "create_physics": "1",
+            "currency": "0",
+            "custom_config_names": "custom_script_client\u001dcustom_script_server",
+            "custom_script_client": "scripts\\client\\ai\\AG\\L_AG_NPC_FOOT_RACE_CLIENT_01.lua",
+            "custom_script_server": "scripts\\ai\\ACT\\FootRace\\L_ACT_BASE_FOOT_RACE.lua",
+            "explode_factor": "1",
+            "friction": "1.5",
+            "fxpriority": "0",
+            "gravFactor": "1",
+            "grpNameQBShowBricks": "",
+            "ignoreCameraCollision": "0",
+            "interaction_distance": "8",
+            "is_smashable": "1",
+            "loadOnClientOnly": "0",
+            "loadSrvrOnly": "0",
+            "max_to_spawn": "-1",
+            "name": "",
+            "navmesh_carver": "0",
+            "no_auto_spawn": "1",
+            "no_timed_spawn": "0",
+            "override_faction": "0",
+            "radius": "0",
+            "renderAnimLODSkew": "1",
+            "renderCullingGroup": "7",
+            "renderOffscreenAnimEnabled": "0",
+            "respawn": "0",
+            "sceneIDOverride": "255",
+            "sceneIDOverrideEnabled": "0",
+            "sceneLayerIDOverride": "0",
+            "set_faction": "-1",
+            "smashable_loot_matrix": "-1",
+            "smashable_loot_matrix_set": "0",
+            "softtetherRadius": "2",
+            "spawner_active_on_load": "1",
+            "spawntemplate": "10046",
+            "startsQBActivator": "0",
+            "template": "-1",
+            "tetherRadius": "2",
+            "usetetherdb": "0",
+            "usewanderdb": "0",
+            "wanderRadius": "2"
+          }
+        }
+      ]
+    },
+    "mapLdfFootraceRegistrations": [
+      {
+        "lot": "10046",
+        "activityId": "53",
+        "placements": [
+          {
+            "lot": "10046",
+            "name": "AG Foot Race Strongman",
+            "sourceLot": "176",
+            "worldId": "1100",
+            "zoneTableIds": [
+              "1100"
+            ],
+            "map": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens.luz",
+            "scene": "Launch",
+            "level": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens_4_launch.lvl",
+            "xyz": [
+              514.74169921875,
+              406.09039306640625,
+              145.22125244140625
+            ],
+            "config": {
+              "CheckPrecondition": "256",
+              "SmashableDoesNotCutNavmesh": "0",
+              "actIDovrd": "1",
+              "activityID": "53",
+              "add_to_navmesh": "1",
+              "aggroRadius": "2",
+              "bounding_radius_override": "0",
+              "camGradSnap": "0",
+              "camPrefersToFadeObject": "1",
+              "carver_only": "0",
+              "create_physics": "1",
+              "currency": "0",
+              "custom_config_names": "custom_script_client\u001dcustom_script_server",
+              "custom_script_client": "scripts\\client\\ai\\AG\\L_AG_NPC_FOOT_RACE_CLIENT_01.lua",
+              "custom_script_server": "scripts\\ai\\ACT\\FootRace\\L_ACT_BASE_FOOT_RACE.lua",
+              "explode_factor": "1",
+              "friction": "1.5",
+              "fxpriority": "0",
+              "gravFactor": "1",
+              "grpNameQBShowBricks": "",
+              "ignoreCameraCollision": "0",
+              "interaction_distance": "8",
+              "is_smashable": "1",
+              "loadOnClientOnly": "0",
+              "loadSrvrOnly": "0",
+              "max_to_spawn": "-1",
+              "name": "",
+              "navmesh_carver": "0",
+              "no_auto_spawn": "1",
+              "no_timed_spawn": "0",
+              "override_faction": "0",
+              "radius": "0",
+              "renderAnimLODSkew": "1",
+              "renderCullingGroup": "7",
+              "renderOffscreenAnimEnabled": "0",
+              "respawn": "0",
+              "sceneIDOverride": "255",
+              "sceneIDOverrideEnabled": "0",
+              "sceneLayerIDOverride": "0",
+              "set_faction": "-1",
+              "smashable_loot_matrix": "-1",
+              "smashable_loot_matrix_set": "0",
+              "softtetherRadius": "2",
+              "spawner_active_on_load": "1",
+              "spawntemplate": "10046",
+              "startsQBActivator": "0",
+              "template": "-1",
+              "tetherRadius": "2",
+              "usetetherdb": "0",
+              "usewanderdb": "0",
+              "wanderRadius": "2"
+            }
+          }
+        ]
+      },
+      {
+        "lot": "12916",
+        "activityId": "49",
+        "placements": [
+          {
+            "lot": "12916",
+            "name": "Parrot Blue Mission Giver",
+            "sourceLot": "176",
+            "worldId": "1900",
+            "zoneTableIds": [
+              "1900"
+            ],
+            "map": "res/res/maps/nexustower/nd_nexus_tower.luz",
+            "scene": "Subscene 15",
+            "level": "res/res/maps/nexustower/nd_nexus_tower_15_subscene_15.lvl",
+            "xyz": [
+              39.0884895324707,
+              1148.699951171875,
+              -83.25920104980469
+            ],
+            "config": {
+              "CheckPrecondition": "",
+              "SmashableDoesNotCutNavmesh": "0",
+              "actIDovrd": "1",
+              "activityID": "49",
+              "add_to_navmesh": "1",
+              "aggroRadius": "2",
+              "bounding_radius_override": "0",
+              "camGradSnap": "0",
+              "camPrefersToFadeObject": "1",
+              "carver_only": "0",
+              "create_physics": "1",
+              "currency": "0",
+              "custom_config_names": "custom_script_client\u001dcustom_script_server",
+              "custom_script_client": "scripts\\02_client\\Map\\NT\\L_NT_NPC_FOOT_RACE_CLIENT.lua",
+              "custom_script_server": "scripts\\ai\\ACT\\FootRace\\L_ACT_BASE_FOOT_RACE.lua",
+              "explode_factor": "1",
+              "friction": "1.5",
+              "fxpriority": "0",
+              "gravFactor": "1",
+              "grpNameQBShowBricks": "",
+              "ignoreCameraCollision": "0",
+              "interaction_distance": "16",
+              "is_smashable": "0",
+              "loadOnClientOnly": "0",
+              "loadSrvrOnly": "0",
+              "max_to_spawn": "-1",
+              "name": "",
+              "navmesh_carver": "0",
+              "no_auto_spawn": "1",
+              "no_timed_spawn": "1",
+              "override_faction": "0",
+              "radius": "0",
+              "renderAnimLODSkew": "1",
+              "renderCullingGroup": "2",
+              "renderOffscreenAnimEnabled": "0",
+              "respawn": "20",
+              "sceneIDOverride": "255",
+              "sceneIDOverrideEnabled": "0",
+              "sceneLayerIDOverride": "0",
+              "set_faction": "-1",
+              "smashable_loot_matrix": "-1",
+              "smashable_loot_matrix_set": "0",
+              "softtetherRadius": "2",
+              "spawner_active_on_load": "1",
+              "spawntemplate": "12916",
+              "startsQBActivator": "0",
+              "template": "-1",
+              "tetherRadius": "2",
+              "usetetherdb": "0",
+              "usewanderdb": "0",
+              "wanderRadius": "2"
+            }
+          }
+        ]
+      }
+    ],
+    "nexusParrotAssociationNote": "LOT 12916 has a local map LDF Activity 49 registration and generic foot-race server script in a Nexus Tower subscene; its exact historical course identity/access remains uncertain.",
+    "awardRows": [
+      [
+        "46",
+        "FV Foot Race",
+        "-1",
+        "598",
+        "1"
+      ],
+      [
+        "47",
+        "FV Foot Race 2",
+        "-1",
+        "598",
+        "1"
+      ],
+      [
+        "48",
+        "FV Foot Race 3",
+        "-1",
+        "598",
+        "1"
+      ],
+      [
+        "49",
+        "NS Foot Race",
+        "-1",
+        "598",
+        "1"
+      ],
+      [
+        "53",
+        "AG Foot Race",
+        "-1",
+        "598",
+        "1"
+      ],
+      [
+        "104",
+        "FB Foot Race",
+        "-1",
+        "598",
+        "1"
+      ],
+      [
+        "108",
+        "VE Instance Foot Race",
+        "-1",
+        "598",
+        "1"
+      ]
+    ],
+    "itemOutcomeRowCount": 1100,
+    "activityIdsWithoutAwardRows": [],
+    "goalLots": [
+      "8175"
+    ],
+    "serverSource": "dScripts/ai/ACT/FootRace/BaseFootRaceManager.cpp"
+  },
+  "monumentRace": {
+    "placementScope": "Avant Gardens (1100), scene 38, level nd_avant_gardens_38_monument_race.lvl",
+    "scene": {
+      "zoneId": "1100",
+      "sceneId": 38,
+      "filename": "nd_avant_gardens_38_monument_race.lvl",
+      "parsedInstances": [
+        {
+          "worldId": "1100",
+          "zoneTableIds": [
+            "1100"
+          ],
+          "sceneId": 38,
+          "sceneName": "Monument_Race",
+          "level": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens_38_monument_race.lvl",
+          "objectCount": 5
+        }
+      ]
+    },
+    "objects": [
+      {
+        "lot": "4967",
+        "name": "AG - Finish Line",
+        "raceScenePlacements": [
+          {
+            "lot": "4967",
+            "name": "AG - Finish Line",
+            "sourceLot": "176",
+            "worldId": "1100",
+            "zoneTableIds": [
+              "1100"
+            ],
+            "map": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens.luz",
+            "scene": "Monument_Race",
+            "level": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens_38_monument_race.lvl",
+            "xyz": [
+              123.76927947998047,
+              394.5333557128906,
+              202.40151977539062
+            ],
+            "config": {
+              "CheckPrecondition": "",
+              "actIDovrd": "1",
+              "activityID": "1",
+              "add_to_navmesh": "1",
+              "bounding_radius_override": "0",
+              "camGradSnap": "0",
+              "camPrefersToFadeObject": "1",
+              "carver_only": "0",
+              "create_physics": "1",
+              "custom_config_names": "custom_script_client\u001dcustom_script_server",
+              "custom_script_client": "scripts\\client\\ai\\AG\\L_NPC_AG_COURSE_STARTER_CLIENT.lua",
+              "custom_script_server": "scripts\\02_server\\Map\\AG\\L_NPC_AG_COURSE_STARTER.lua",
+              "force_object_spawner": "1",
+              "friction": "1.5",
+              "fxpriority": "0",
+              "groupID": "StartLine;race;race_manager;",
+              "ignoreCameraCollision": "0",
+              "interaction_distance": "16",
+              "is_smashable": "0",
+              "loadOnClientOnly": "0",
+              "loadSrvrOnly": "0",
+              "max_to_spawn": "-1",
+              "navmesh_carver": "0",
+              "no_auto_spawn": "1",
+              "no_timed_spawn": "1",
+              "radius": "0",
+              "renderAnimLODSkew": "1",
+              "renderCullingGroup": "0",
+              "renderOffscreenAnimEnabled": "0",
+              "respawn": "20",
+              "sceneIDOverride": "38",
+              "sceneIDOverrideEnabled": "1",
+              "sceneLayerIDOverride": "0",
+              "spawner_active_on_load": "1",
+              "spawntemplate": "4967",
+              "template": "-1"
+            }
+          },
+          {
+            "lot": "4967",
+            "name": "AG - Finish Line",
+            "sourceLot": "176",
+            "worldId": "1100",
+            "zoneTableIds": [
+              "1100"
+            ],
+            "map": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens.luz",
+            "scene": "Monument_Race",
+            "level": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens_38_monument_race.lvl",
+            "xyz": [
+              310.36956787109375,
+              470.7700500488281,
+              298.59716796875
+            ],
+            "config": {
+              "CheckPrecondition": "",
+              "actIDovrd": "1",
+              "activityID": "1",
+              "add_to_navmesh": "1",
+              "bounding_radius_override": "0",
+              "camGradSnap": "0",
+              "camPrefersToFadeObject": "1",
+              "carver_only": "0",
+              "create_physics": "1",
+              "custom_config_names": "custom_script_client",
+              "custom_script_client": "scripts\\client\\ai\\AG\\L_AG_FINISHLINE_VISIBLITY.lua",
+              "force_object_spawner": "1",
+              "friction": "1.5",
+              "fxpriority": "0",
+              "groupID": "StartLine;",
+              "ignoreCameraCollision": "0",
+              "interaction_distance": "16",
+              "is_smashable": "0",
+              "loadOnClientOnly": "0",
+              "loadSrvrOnly": "0",
+              "max_to_spawn": "-1",
+              "navmesh_carver": "0",
+              "no_auto_spawn": "1",
+              "no_timed_spawn": "1",
+              "radius": "0",
+              "renderAnimLODSkew": "1",
+              "renderCullingGroup": "4",
+              "renderOffscreenAnimEnabled": "0",
+              "respawn": "20",
+              "sceneIDOverride": "38",
+              "sceneIDOverrideEnabled": "1",
+              "sceneLayerIDOverride": "0",
+              "spawner_active_on_load": "1",
+              "spawntemplate": "4967",
+              "template": "-1"
+            }
+          }
+        ],
+        "otherAvantGardensPlacements": []
+      },
+      {
+        "lot": "6011",
+        "name": "AG - Rusty -  Assembly Foreman",
+        "raceScenePlacements": [
+          {
+            "lot": "6011",
+            "name": "AG - Rusty -  Assembly Foreman",
+            "sourceLot": "176",
+            "worldId": "1100",
+            "zoneTableIds": [
+              "1100"
+            ],
+            "map": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens.luz",
+            "scene": "Monument_Race",
+            "level": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens_38_monument_race.lvl",
+            "xyz": [
+              127.18788146972656,
+              395.48333740234375,
+              183.49053955078125
+            ],
+            "config": {
+              "CheckPrecondition": "",
+              "SmashableDoesNotCutNavmesh": "0",
+              "add_to_navmesh": "1",
+              "aggroRadius": "2",
+              "attached_cinematic_path": "",
+              "bounding_radius_override": "0",
+              "camGradSnap": "0",
+              "camPrefersToFadeObject": "1",
+              "carver_only": "0",
+              "conductRadius": "20",
+              "create_physics": "1",
+              "currency": "0",
+              "custom_config_names": "npcName",
+              "explode_factor": "1",
+              "friction": "1.5",
+              "fxpriority": "0",
+              "gravFactor": "1",
+              "groupID": "Minimap_MissionGivers;",
+              "grpNameQBShowBricks": "",
+              "ignoreCameraCollision": "0",
+              "interaction_distance": "8",
+              "is_smashable": "0",
+              "loadOnClientOnly": "0",
+              "loadSrvrOnly": "0",
+              "max_to_spawn": "-1",
+              "miss_prereq_text": "",
+              "name": "",
+              "navmesh_carver": "0",
+              "no_auto_spawn": "1",
+              "no_timed_spawn": "1",
+              "npcName": "Rusty",
+              "override_faction": "0",
+              "radius": "0",
+              "renderAnimLODSkew": "1",
+              "renderCullingGroup": "0",
+              "renderOffscreenAnimEnabled": "0",
+              "respawn": "25",
+              "sceneIDOverride": "38",
+              "sceneIDOverrideEnabled": "1",
+              "sceneLayerIDOverride": "0",
+              "set_faction": "-1",
+              "smashable_loot_matrix": "-1",
+              "smashable_loot_matrix_set": "0",
+              "softtetherRadius": "2",
+              "spawner_active_on_load": "1",
+              "spawntemplate": "6011",
+              "startsQBActivator": "0",
+              "template": "-1",
+              "tetherRadius": "2",
+              "usesConductRadius": "1",
+              "usetetherdb": "0",
+              "usewanderdb": "0",
+              "wanderRadius": "2"
+            }
+          }
+        ],
+        "otherAvantGardensPlacements": []
+      },
+      {
+        "lot": "6012",
+        "name": "AG - Venture Scout",
+        "raceScenePlacements": [
+          {
+            "lot": "6012",
+            "name": "AG - Venture Scout",
+            "sourceLot": "176",
+            "worldId": "1100",
+            "zoneTableIds": [
+              "1100"
+            ],
+            "map": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens.luz",
+            "scene": "Monument_Race",
+            "level": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens_38_monument_race.lvl",
+            "xyz": [
+              321.05462646484375,
+              472.0020446777344,
+              296.8455505371094
+            ],
+            "config": {
+              "CheckPrecondition": "",
+              "SmashableDoesNotCutNavmesh": "0",
+              "add_to_navmesh": "1",
+              "aggroRadius": "2",
+              "attached_cinematic_path": "",
+              "bounding_radius_override": "0",
+              "camGradSnap": "0",
+              "camPrefersToFadeObject": "1",
+              "carver_only": "0",
+              "conductRadius": "20",
+              "create_physics": "1",
+              "currency": "0",
+              "custom_config_names": "custom_script_client\u001dcustom_script_server",
+              "custom_script_client": "",
+              "custom_script_server": "",
+              "explode_factor": "1",
+              "friction": "1.5",
+              "fxpriority": "0",
+              "gravFactor": "1",
+              "groupID": "Minimap_MissionGivers;FinishLine_NPC;",
+              "grpNameQBShowBricks": "",
+              "ignoreCameraCollision": "0",
+              "interaction_distance": "16",
+              "is_smashable": "0",
+              "loadOnClientOnly": "0",
+              "loadSrvrOnly": "0",
+              "max_to_spawn": "-1",
+              "miss_prereq_text": "MISSION_PREREQ_AG_SURVEYOR",
+              "name": "",
+              "navmesh_carver": "0",
+              "no_auto_spawn": "1",
+              "no_timed_spawn": "1",
+              "override_faction": "0",
+              "radius": "0",
+              "renderAnimLODSkew": "1",
+              "renderCullingGroup": "7",
+              "renderOffscreenAnimEnabled": "0",
+              "respawn": "25",
+              "sceneIDOverride": "38",
+              "sceneIDOverrideEnabled": "1",
+              "sceneLayerIDOverride": "0",
+              "set_faction": "-1",
+              "smashable_loot_matrix": "-1",
+              "smashable_loot_matrix_set": "0",
+              "softtetherRadius": "2",
+              "spawner_active_on_load": "1",
+              "spawntemplate": "6012",
+              "startsQBActivator": "0",
+              "template": "-1",
+              "tetherRadius": "2",
+              "usesConductRadius": "1",
+              "usetetherdb": "0",
+              "usewanderdb": "0",
+              "wanderRadius": "2"
+            }
+          }
+        ],
+        "otherAvantGardensPlacements": []
+      },
+      {
+        "lot": "6097",
+        "name": "AG - Rebuild Finish Line",
+        "raceScenePlacements": [
+          {
+            "lot": "6097",
+            "name": "AG - Rebuild Finish Line",
+            "sourceLot": "176",
+            "worldId": "1100",
+            "zoneTableIds": [
+              "1100"
+            ],
+            "map": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens.luz",
+            "scene": "Monument_Race",
+            "level": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens_38_monument_race.lvl",
+            "xyz": [
+              310.3999938964844,
+              469.67340087890625,
+              299.1999816894531
+            ],
+            "config": {
+              "CheckPrecondition": "256;19",
+              "SmashableDoesNotCutNavmesh": "0",
+              "actIDovrd": "1",
+              "activityID": "6097",
+              "add_to_navmesh": "1",
+              "bounding_radius_override": "0",
+              "camGradSnap": "0",
+              "camPrefersToFadeObject": "0",
+              "carver_only": "0",
+              "celebAnim": "",
+              "compTime": "3",
+              "create_physics": "1",
+              "custom_config_names": "custom_script_client\u001dcustom_script_server",
+              "custom_script_client": "scripts\\client\\ai\\AG\\L_AG_FINISHLINE_CINE.lua",
+              "custom_script_server": "",
+              "explode_factor": "1",
+              "friction": "1.5",
+              "fxpriority": "0",
+              "gravFactor": "1",
+              "grpNameQBShowBricks": "",
+              "ignoreCameraCollision": "0",
+              "interaction_distance": "16",
+              "is_smashable": "1",
+              "loadOnClientOnly": "0",
+              "loadSrvrOnly": "0",
+              "max_to_spawn": "-1",
+              "navmesh_carver": "0",
+              "no_auto_spawn": "1",
+              "no_timed_spawn": "1",
+              "override_faction": "0",
+              "qbStrtBlt": "0",
+              "quickbuild_cinematic": "Mon_QB_FinishLine_01",
+              "quickbuild_cinematic_lead_in": "0",
+              "quickbuild_single_build": "1",
+              "quickbuild_single_build_player_flag": "33",
+              "quickbuild_single_build_shared": "0",
+              "quickbuild_skip_slam": "0",
+              "radius": "0",
+              "rebuild_activators": "318.1646\u001f471.9850\u001f285.7860",
+              "rebuild_reset_time": "1.5",
+              "renderCullingGroup": "0",
+              "respawn": "3",
+              "sceneIDOverride": "38",
+              "sceneIDOverrideEnabled": "1",
+              "sceneLayerIDOverride": "0",
+              "set_faction": "-1",
+              "smashable_loot_matrix": "-1",
+              "smashable_loot_matrix_set": "0",
+              "spawnActivator": "1",
+              "spawnNetNameForSpawnGroupOnSmash": "",
+              "spawner_active_on_load": "1",
+              "spawnsGroupOnSmash": "0",
+              "spawntemplate": "6097",
+              "startsQBActivator": "0",
+              "template": "-1",
+              "tmeSmsh": "5",
+              "vlntDth": "0"
+            }
+          }
+        ],
+        "otherAvantGardensPlacements": []
+      },
+      {
+        "lot": "6417",
+        "name": "AGFX - Platforming Statue FX1B",
+        "raceScenePlacements": [],
+        "otherAvantGardensPlacements": [
+          {
+            "lot": "6417",
+            "name": "AGFX - Platforming Statue FX1B",
+            "sourceLot": "6417",
+            "worldId": "1100",
+            "zoneTableIds": [
+              "1100"
+            ],
+            "map": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens.luz",
+            "scene": "monument_a",
+            "level": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens_19_monument_a.lvl",
+            "xyz": [
+              111.08000183105469,
+              390,
+              281.4100036621094
+            ],
+            "config": {
+              "CheckPrecondition": "",
+              "add_to_navmesh": "1",
+              "bounding_radius_override": "0",
+              "camGradSnap": "0",
+              "camPrefersToFadeObject": "1",
+              "carver_only": "0",
+              "create_physics": "1",
+              "custom_config_names": "",
+              "friction": "1.5",
+              "fxpriority": "0",
+              "ignoreCameraCollision": "0",
+              "interaction_distance": "16",
+              "is_smashable": "0",
+              "loadOnClientOnly": "0",
+              "loadSrvrOnly": "0",
+              "navmesh_carver": "0",
+              "renderCullingGroup": "5",
+              "sceneIDOverride": "19",
+              "sceneIDOverrideEnabled": "0",
+              "sceneLayerIDOverride": "0",
+              "template": "-1"
+            }
+          }
+        ]
+      },
+      {
+        "lot": "6615",
+        "name": "AG Monument Scene Tree Glom",
+        "raceScenePlacements": [],
+        "otherAvantGardensPlacements": [
+          {
+            "lot": "6615",
+            "name": "AG Monument Scene Tree Glom",
+            "sourceLot": "6615",
+            "worldId": "1100",
+            "zoneTableIds": [
+              "1100"
+            ],
+            "map": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens.luz",
+            "scene": "MONUMENT",
+            "level": "res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens_35_monument.lvl",
+            "xyz": [
+              178.23553466796875,
+              398.0207214355469,
+              0.19702674448490143
+            ],
+            "config": {
+              "CheckPrecondition": "",
+              "add_to_navmesh": "1",
+              "bounding_radius_override": "0",
+              "camGradSnap": "0",
+              "camPrefersToFadeObject": "0",
+              "carver_only": "0",
+              "create_physics": "1",
+              "custom_config_names": "",
+              "friction": "1.5",
+              "fxpriority": "0",
+              "ignoreCameraCollision": "0",
+              "interaction_distance": "16",
+              "is_smashable": "0",
+              "loadOnClientOnly": "0",
+              "loadSrvrOnly": "0",
+              "navmesh_carver": "0",
+              "renderCullingGroup": "0",
+              "sceneIDOverride": "35",
+              "sceneIDOverrideEnabled": "1",
+              "sceneLayerIDOverride": "0",
+              "template": "-1"
+            }
+          }
+        ]
+      }
+    ],
+    "triggerSources": [
+      "dScripts/02_server/Map/AG/AgMonumentRaceGoal.cpp",
+      "dScripts/02_server/Map/AG/AgMonumentRaceCancel.cpp"
+    ],
+    "managerImplementation": "Static scene LDF for spawntemplate 4967 lists groupID StartLine;race;race_manager and server script L_NPC_AG_COURSE_STARTER; goal/cancel scripts forward events to that group. This supports a map-configured manager association but does not prove live availability.",
+    "relatedQuestAndMedalPageIds": [
+      "179",
+      "180",
+      "181",
+      "319",
+      "1877",
+      "1884"
+    ]
+  },
+  "agObstacleCourse": {
+    "starterLot": "3004",
+    "objects": [
+      {
+        "lot": "3004",
+        "name": "AG - Obstacle Course Starter",
+        "placements": []
+      },
+      {
+        "lot": "4997",
+        "name": "AG - Obstacle Course Finish Line Flagger",
+        "placements": []
+      },
+      {
+        "lot": "5025",
+        "name": "AG -Finish Line Flags",
+        "placements": []
+      }
+    ],
+    "source": "dScripts/02_server/Map/AG/NpcAgCourseStarter.cpp",
+    "missionHook": "1884"
+  },
+  "mapCoverage": {
+    "parsedLuzAssets": 39,
+    "distinctReferencedLevelFilesParsed": 659,
+    "exactZoneTablePathMatches": 34,
+    "raceRelatedAssets": [
+      {
+        "asset": "res/res/maps/01_Live_Maps/Nimbus_Station/Racetrack/nd_nimbus_station_racetrack.luz",
+        "zoneTableIds": [
+          "1203"
+        ],
+        "embeddedWorldId": "1203",
+        "sceneCount": 1,
+        "spawnerCount": 130
+      },
+      {
+        "asset": "res/res/maps/01_Live_Maps/Gnarled_Forest/Racetrack/gf_racetrack.luz",
+        "zoneTableIds": [
+          "1303"
+        ],
+        "embeddedWorldId": "1303",
+        "sceneCount": 1,
+        "spawnerCount": 185
+      },
+      {
+        "asset": "res/res/maps/FVracetrack/fv_racetrack.luz",
+        "zoneTableIds": [
+          "1403"
+        ],
+        "embeddedWorldId": "1403",
+        "sceneCount": 17,
+        "spawnerCount": 150
+      },
+      {
+        "asset": "res/res/maps/seasonal_live maps/december/ns_winter_racetrack/nd_nimbus_station_winter-racetrack.luz",
+        "zoneTableIds": [],
+        "embeddedWorldId": "1261",
+        "sceneCount": 1,
+        "spawnerCount": 133
+      },
+      {
+        "asset": "res/res/maps/seasonal_live maps/december/winter_celebrity_property/ns_property_large_winter.luz",
+        "zoneTableIds": [],
+        "embeddedWorldId": "1260",
+        "sceneCount": 1,
+        "spawnerCount": 0
+      }
+    ],
+    "errors": [],
+    "matchedZoneTableRowsForTrackInstances": [
+      {
+        "worldId": "1203",
+        "path": "01_Live_Maps/Nimbus_Station/Racetrack/nd_nimbus_station_racetrack.luz",
+        "embeddedMapFiles": [
+          "res/res/maps/01_Live_Maps/Nimbus_Station/Racetrack/nd_nimbus_station_racetrack.luz"
+        ]
+      },
+      {
+        "worldId": "1303",
+        "path": "01_Live_Maps/Gnarled_Forest/Racetrack/gf_racetrack.luz",
+        "embeddedMapFiles": [
+          "res/res/maps/01_Live_Maps/Gnarled_Forest/Racetrack/gf_racetrack.luz"
+        ]
+      },
+      {
+        "worldId": "1403",
+        "path": "FVracetrack/fv_racetrack.luz",
+        "embeddedMapFiles": [
+          "res/res/maps/FVracetrack/fv_racetrack.luz"
+        ]
+      },
+      {
+        "worldId": "1261",
+        "path": null,
+        "embeddedMapFiles": [
+          "res/res/maps/seasonal_live maps/december/ns_winter_racetrack/nd_nimbus_station_winter-racetrack.luz"
+        ]
+      }
+    ]
+  },
+  "staticRaceNamedObjectRows": 247,
+  "scriptRowsWithRaceOrFootRacePaths": 62,
+  "coverageLimits": [
+    "A static object or script registration does not prove a feature is enabled on a live server.",
+    "Only activity 39/42/54/60 are explicitly configured as the full three-lap car tracks in the checked server sources.",
+    "Activity 60 asset is not matched by ZoneTable path; it is treated as seasonal/legacy.",
+    "Unmatched or map-only test assets are not promoted to separate playable tracks.",
+    "Historical public instructions are cited and separated from local fact.",
+    "Activity item chances are modeled per matrix invocation, not per race/player, and do not include eligibility, team, faction, or live overrides."
+  ]
+}

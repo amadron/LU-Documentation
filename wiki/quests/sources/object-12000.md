@@ -1,0 +1,103 @@
+# Skeleton Miner - quest/objective source LOT 12000
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -175.082 | 46.365 | -176.195 | Spawner path: Skullkin&#95;Miner&#95;1 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -172.524 | 48.66 | -160.414 | Spawner path: Skullkin&#95;Miner&#95;1 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -154.95 | 48.051 | -159.46 | Spawner path: Skullkin&#95;Miner&#95;1 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -136.262 | 49.034 | -157.789 | Spawner path: Skullkin&#95;Miner&#95;1 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -126.248 | 49.849 | -141.278 | Spawner path: Skullkin&#95;Miner&#95;1 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -118.965 | 49.963 | -126.26 | Spawner path: Skullkin&#95;Miner&#95;1 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -132.473 | 49.963 | -117.284 | Spawner path: Skullkin&#95;Miner&#95;1 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -145.417 | 50.311 | -112.569 | Spawner path: Skullkin&#95;Miner&#95;1 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -146.173 | 51.758 | -98.958 | Spawner path: Skullkin&#95;Miner&#95;1 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -141.101 | 52.866 | -86.727 | Spawner path: Skullkin&#95;Miner&#95;1 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -161.135 | 49.239 | -147.009 | Spawner path: Skullkin&#95;Miner&#95;1 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -182.505 | 46.134 | -180.492 | Spawner path: Skullkin&#95;Miner&#95;1 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -198.04 | 47.764 | -195.82 | Spawner path: Skullkin&#95;Miner&#95;1 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -140.499 | 52.441 | -72.954 | Spawner path: Skullkin&#95;Miner&#95;1 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -134.048 | 50.085 | -102.856 | Spawner path: Skullkin&#95;Miner&#95;1 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -159.252 | 46.873 | -175.09 | Spawner path: Skullkin&#95;Miner&#95;1 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -228.496 | 46.857 | -283.223 | Spawner path: Skullkin&#95;Miner&#95;2 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -229.844 | 45.994 | -295.403 | Spawner path: Skullkin&#95;Miner&#95;2 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -233.597 | 44.271 | -310.667 | Spawner path: Skullkin&#95;Miner&#95;2 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -235.37 | 43.977 | -327.71 | Spawner path: Skullkin&#95;Miner&#95;2 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -241.227 | 42.573 | -342.801 | Spawner path: Skullkin&#95;Miner&#95;2 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -239.234 | 41.339 | -357.613 | Spawner path: Skullkin&#95;Miner&#95;2 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -226.442 | 41.268 | -367.954 | Spawner path: Skullkin&#95;Miner&#95;2 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -213.073 | 41.623 | -380.85 | Spawner path: Skullkin&#95;Miner&#95;2 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -200.634 | 44.322 | -392.316 | Spawner path: Skullkin&#95;Miner&#95;2 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -223.855 | 41.069 | -359.004 | Spawner path: Skullkin&#95;Miner&#95;2 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -224.753 | 43.633 | -312.693 | Spawner path: Skullkin&#95;Miner&#95;2 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -209.895 | 43.292 | -312.434 | Spawner path: Skullkin&#95;Miner&#95;2 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -201.838 | 41.658 | -367.625 | Spawner path: Skullkin&#95;Miner&#95;2 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -232.604 | 41.892 | -342.26 | Spawner path: Skullkin&#95;Miner&#95;2 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -214.013 | 41.14 | -350.601 | Spawner path: Skullkin&#95;Miner&#95;2 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -44.192 | 43.776 | -326.535 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -31.715 | 44.552 | -327.227 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -20.501 | 45.937 | -314.282 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -22.343 | 47.972 | -301.518 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -24.629 | 47.928 | -289.885 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -3.464 | 49.366 | -270.088 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 2.793 | 50.443 | -259.602 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -6.272 | 47.749 | -252.378 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -14.249 | 47.139 | -244.384 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -23.221 | 47.506 | -248.299 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -33.127 | 47.698 | -256.818 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -30.937 | 46.642 | -269.904 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -31.685 | 45.757 | -281.7 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -37.619 | 44.611 | -296.866 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -49.804 | 42.772 | -317.945 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 10.056 | 52.407 | -250.846 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 16.015 | 53.28 | -242.142 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 4.678 | 49.588 | -236.882 | Spawner path: Skullkin&#95;Miner&#95;4 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 26.623 | 51.637 | -227.471 | Spawner path: Skullkin&#95;Miner&#95;5 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 33.212 | 51.074 | -214.339 | Spawner path: Skullkin&#95;Miner&#95;5 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 38.208 | 52.218 | -202.639 | Spawner path: Skullkin&#95;Miner&#95;5 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 38.253 | 52.111 | -194.149 | Spawner path: Skullkin&#95;Miner&#95;5 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 23.627 | 51.243 | -182.22 | Spawner path: Skullkin&#95;Miner&#95;5 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 12.103 | 50.913 | -172.502 | Spawner path: Skullkin&#95;Miner&#95;5 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 3.196 | 51.203 | -163.767 | Spawner path: Skullkin&#95;Miner&#95;5 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -1.824 | 51.188 | -152.023 | Spawner path: Skullkin&#95;Miner&#95;5 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -5.496 | 51.444 | -139.263 | Spawner path: Skullkin&#95;Miner&#95;5 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -10.382 | 50.476 | -127.33 | Spawner path: Skullkin&#95;Miner&#95;5 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 13.899 | 49.542 | -222.551 | Spawner path: Skullkin&#95;Miner&#95;5 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 27.271 | 50.037 | -203.951 | Spawner path: Skullkin&#95;Miner&#95;5 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 5.511 | 49.518 | -200.911 | Spawner path: Skullkin&#95;Miner&#95;5 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 18.368 | 49.942 | -188.613 | Spawner path: Skullkin&#95;Miner&#95;5 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -7.367 | 49.483 | -185.313 | Spawner path: Skullkin&#95;Miner&#95;5 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -14.546 | 49.654 | -165.758 | Spawner path: Skullkin&#95;Miner&#95;5 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -21.011 | 49.761 | -146.127 | Spawner path: Skullkin&#95;Miner&#95;5 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -139.8 | 42.648 | -441.244 | Spawner path: Skullkin&#95;Miner&#95;3 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -150.458 | 43.974 | -436.746 | Spawner path: Skullkin&#95;Miner&#95;3 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -161.452 | 44.726 | -431.376 | Spawner path: Skullkin&#95;Miner&#95;3 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -172.91 | 44.288 | -426.379 | Spawner path: Skullkin&#95;Miner&#95;3 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -184.659 | 44.427 | -419.648 | Spawner path: Skullkin&#95;Miner&#95;3 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -194.484 | 46.18 | -411.717 | Spawner path: Skullkin&#95;Miner&#95;3 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -194.393 | 43.693 | -403.361 | Spawner path: Skullkin&#95;Miner&#95;3 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -178.607 | 42.76 | -405.767 | Spawner path: Skullkin&#95;Miner&#95;3 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -175.071 | 43.394 | -419.104 | Spawner path: Skullkin&#95;Miner&#95;3 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -154.85 | 42.675 | -413.12 | Spawner path: Skullkin&#95;Miner&#95;3 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -143.018 | 42.549 | -426.415 | Spawner path: Skullkin&#95;Miner&#95;3 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -171.557 | 41.969 | -397.331 | Spawner path: Skullkin&#95;Miner&#95;3 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -16.555 | 50.43 | -114.651 | Spawner path: Skullkin&#95;Miner&#95;6 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -20.166 | 50.62 | -105.727 | Spawner path: Skullkin&#95;Miner&#95;6 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -31.491 | 50.506 | -90.6 | Spawner path: Skullkin&#95;Miner&#95;6 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -31.398 | 51.554 | -78.931 | Spawner path: Skullkin&#95;Miner&#95;6 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -32.966 | 52.489 | -72.262 | Spawner path: Skullkin&#95;Miner&#95;6 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -35.629 | 52.955 | -57.053 | Spawner path: Skullkin&#95;Miner&#95;6 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -46.973 | 54.462 | -46.798 | Spawner path: Skullkin&#95;Miner&#95;6 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -56.161 | 57.034 | -37.345 | Spawner path: Skullkin&#95;Miner&#95;6 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -67.45 | 57.529 | -33.881 | Spawner path: Skullkin&#95;Miner&#95;6 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -67.975 | 54.878 | -45.025 | Spawner path: Skullkin&#95;Miner&#95;6 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -52.818 | 53.443 | -57.476 | Spawner path: Skullkin&#95;Miner&#95;6 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -62.382 | 52.854 | -64.24 | Spawner path: Skullkin&#95;Miner&#95;6 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -53.659 | 51.277 | -84.827 | Spawner path: Skullkin&#95;Miner&#95;6 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -42.575 | 50.155 | -101.182 | Spawner path: Skullkin&#95;Miner&#95;6 | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -32.848 | 50.131 | -120.601 | Spawner path: Skullkin&#95;Miner&#95;6 | Automatic spawning disabled; trigger/script may be required |

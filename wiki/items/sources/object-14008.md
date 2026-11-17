@@ -1,0 +1,24 @@
+# Skeleton Marksman — source LOT 14008
+
+[Item database](../README.md) | [Methodology](../Methodology.md)
+
+| Source use | Definition | Condition |
+| --- | --- | --- |
+| Drop | [Matrix 881](matrix-881.md) | DestructibleComponent 1908; static component precedence |
+
+## Mapped placements and spawner waypoints
+
+These are static candidates, not a statement that every instance is currently spawned or reachable. Coordinates are map XYZ. Inactive spawners and feature gates are retained explicitly. Client-only objects are excluded. Scene/spawner records can overlap and are not an enemy-population count.
+
+| Zone | X | Y | Z | Scene / path | Conditions / stock override |
+| --- | --- | --- | --- | --- | --- |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -77.037 | 200.5 | -129.578 | Spawner path: EnemySpawnPoints&#95;2 | Spawner inactive on load; script activation required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -87.025 | 200.5 | -122.89 | Spawner path: EnemySpawnPoints&#95;2 | Spawner inactive on load; script activation required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -71.533 | 200.5 | -137.194 | Spawner path: EnemySpawnPoints&#95;2 | Spawner inactive on load; script activation required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -98.344 | 200.5 | -117.597 | Spawner path: EnemySpawnPoints&#95;2 | Spawner inactive on load; script activation required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -65.138 | 200.5 | -146.373 | Spawner path: EnemySpawnPoints&#95;2 | Spawner inactive on load; script activation required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -108.383 | 200.5 | -116.524 | Spawner path: EnemySpawnPoints&#95;2 | Spawner inactive on load; script activation required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -61.542 | 201.5 | -154.398 | Spawner path: EnemySpawnPoints&#95;2 | Spawner inactive on load; script activation required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -118.408 | 200.5 | -117.566 | Spawner path: EnemySpawnPoints&#95;2 | Spawner inactive on load; script activation required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -126.728 | 200.5 | -120.945 | Spawner path: EnemySpawnPoints&#95;2 | Spawner inactive on load; script activation required |
+| [Battle Against Frakjaw! (2001)](../locations/zone-2001.md) | -59.301 | 200.906 | -164.264 | Spawner path: EnemySpawnPoints&#95;2 | Spawner inactive on load; script activation required |

@@ -1,0 +1,18 @@
+# Talli Reeko - Stromling Invader - quest/objective source LOT 11982
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 307.064 | 94.522 | 250.646 | Spawner path: Named&#95;Enemies | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 237.225 | 79.644 | 55.621 | Spawner path: Named&#95;Enemies | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 132.692 | 75.954 | -36.933 | Spawner path: Named&#95;Enemies | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -52.149 | 67.992 | 394.185 | Spawner path: Named&#95;Enemies | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -471.497 | 28.682 | 71.839 | Spawner path: Named&#95;Enemies | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -452.243 | 28.682 | -159.693 | Spawner path: Named&#95;Enemies | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -436.573 | 28.238 | 125.796 | Spawner path: Named&#95;Enemies | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 129.206 | 66.287 | 168.402 | Spawner path: Named&#95;Enemies | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |

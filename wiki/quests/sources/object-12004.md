@@ -1,0 +1,18 @@
+# Skeleton Pit Boss - quest/objective source LOT 12004
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -57.729 | 50.443 | -102.593 | Spawner path: Skullkin&#95;Patrollers | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -72.975 | 50.109 | -167.344 | Spawner path: Skullkin&#95;Patrollers | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -64.619 | 48.903 | -205.681 | Spawner path: Skullkin&#95;Patrollers | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -102.199 | 42.357 | -326.298 | Spawner path: Skullkin&#95;Patrollers | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -149.158 | 42.252 | -335.818 | Spawner path: Skullkin&#95;Patrollers | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -66.821 | 44.343 | -278.336 | Spawner path: Skullkin&#95;Patrollers | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -143.007 | 47.428 | -177.573 | Spawner path: Skullkin&#95;Patrollers | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -186.794 | 45.391 | -257.25 | Spawner path: Skullkin&#95;Patrollers | Automatic spawning disabled; trigger/script may be required |

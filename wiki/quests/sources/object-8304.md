@@ -1,0 +1,31 @@
+# AG Survival Zone Control Object - quest/objective source LOT 8304
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+Item acquisition: [AG Survival Zone Control Object (LOT 8304)](../../items/8304.md).
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |
+| [Avant Gardens Survival (1101)](../locations/zone-1101.md) | 0 | 0 | 0 | Scene nd&#95;ag&#95;survival&#95;battlefield.lvl (Global Scene), layer 0 | No additional scene condition recorded |

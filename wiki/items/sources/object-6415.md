@@ -1,0 +1,20 @@
+# AG - Hedgehog Barrier — source LOT 6415
+
+[Item database](../README.md) | [Methodology](../Methodology.md)
+
+| Source use | Definition | Condition |
+| --- | --- | --- |
+| Drop | [Matrix 29](matrix-29.md) | DestructibleComponent 534; static component precedence |
+
+## Mapped placements and spawner waypoints
+
+These are static candidates, not a statement that every instance is currently spawned or reachable. Coordinates are map XYZ. Inactive spawners and feature gates are retained explicitly. Client-only objects are excluded. Scene/spawner records can overlap and are not an enemy-population count.
+
+| Zone | X | Y | Z | Scene / path | Conditions / stock override |
+| --- | --- | --- | --- | --- | --- |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -95.055 | 359.727 | -284.918 | Scene nd&#95;avant&#95;gardens&#95;7&#95;battlefield&#95;b.lvl (Battlefield&#95;b); LOT 176 spawner | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -101.855 | 359.525 | -289.396 | Scene nd&#95;avant&#95;gardens&#95;7&#95;battlefield&#95;b.lvl (Battlefield&#95;b); LOT 176 spawner | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -118.236 | 359.322 | -294.378 | Scene nd&#95;avant&#95;gardens&#95;7&#95;battlefield&#95;b.lvl (Battlefield&#95;b); LOT 176 spawner | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -134.741 | 359.225 | -280.134 | Scene nd&#95;avant&#95;gardens&#95;7&#95;battlefield&#95;b.lvl (Battlefield&#95;b); LOT 176 spawner | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 150.239 | 378.008 | -204.115 | Scene nd&#95;avant&#95;gardens&#95;12&#95;sen&#95;camp.lvl (SEN&#95;camp); LOT 176 spawner | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 162.138 | 379.116 | -198.858 | Scene nd&#95;avant&#95;gardens&#95;12&#95;sen&#95;camp.lvl (SEN&#95;camp); LOT 176 spawner | No additional condition recorded |

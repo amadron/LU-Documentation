@@ -1,0 +1,15 @@
+# AG - Johnny Thunder Collectable Spawner - quest/objective source LOT 9985
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -342.469 | 346.261 | -205.214 | Scene nd&#95;avant&#95;gardens&#95;2&#95;battlefield&#95;a.lvl (Battlefield&#95;a), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 495.233 | 407.208 | 106.927 | Scene nd&#95;avant&#95;gardens&#95;4&#95;launch.lvl (Launch), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 64.947 | 366.659 | -331.022 | Scene nd&#95;avant&#95;gardens&#95;8x1&#95;audio.lvl (Audio), layer 1; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -109.387 | 332.967 | 105.311 | Scene nd&#95;avant&#95;gardens&#95;10&#95;spider&#95;entrance.lvl (spider&#95;entrance), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 22.561 | 463.006 | 391.018 | Scene nd&#95;avant&#95;gardens&#95;21x1&#95;audio.lvl (Audio), layer 1; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |

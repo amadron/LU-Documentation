@@ -1,0 +1,126 @@
+{
+  "generated": "2026-11-17T10:10:56.826Z",
+  "sourceRevision": "8b7d1b946b5e7df18f2c82ccabcb2634aefc11f4",
+  "input": {
+    "database": "LU Documentation/db CSV exports from supplied local CDClient snapshot",
+    "sourceCheckout": "DarkflameServer",
+    "publicResearchRetrievedAt": "2026-11-17T10:00:00.220Z"
+  },
+  "scope": {
+    "petComponentEnumValue": 26,
+    "petCreatorComponentEnumValue": 37,
+    "petComponentRegistrations": 38,
+    "uniquePetComponentLots": 38,
+    "petComponentDefinitionRows": 35,
+    "referencedPetComponentDefinitionIds": 31,
+    "unreferencedPetComponentDefinitionIds": [
+      "5",
+      "10",
+      "12",
+      "38"
+    ],
+    "uniqueTamingPuzzleLots": 30,
+    "uniquePetDefinitionPages": 39,
+    "confirmedTamablePetTemplates": 26,
+    "otherPetComponentOrPuzzleRecords": 13,
+    "petCreatorTemplates": 1,
+    "petControlRegistrations": 0,
+    "petTamingControlRegistrations": 0,
+    "petInventoryItemLots": 31,
+    "petFoodItemLots": 1,
+    "eggItemLots": 2,
+    "itemEggDataRows": 3,
+    "petTamingTaskRows": 38,
+    "definitionsWithPetTamingTasks": 19,
+    "definitionsWithDirectPetRewardItemRows": 0,
+    "historicalCostComparisons": 22,
+    "historicalCostMismatches": [
+      {
+        "lot": "5636",
+        "name": "Buffalo",
+        "historicalPoints": 8,
+        "localImagCostPerBuild": 10,
+        "matches": false
+      },
+      {
+        "lot": "16210",
+        "name": "Earth Dragon",
+        "historicalPoints": 10,
+        "localImagCostPerBuild": 8,
+        "matches": false
+      }
+    ],
+    "tamableTemplatesWithMappedPlacements": 16,
+    "tamableTemplatesWithoutMappedPlacements": [
+      "3520",
+      "5643",
+      "7694",
+      "12294",
+      "12431",
+      "12432",
+      "12433",
+      "12434",
+      "13067",
+      "16210"
+    ]
+  },
+  "maps": {
+    "luzFilesFound": 39,
+    "luzFilesMatchedToZoneTable": 34,
+    "uniqueReferencedLevels": 536,
+    "parsedLevels": 536,
+    "failedLevels": 0,
+    "directObjectRecordsParsed": 10760,
+    "spawnerWaypointRecordsSeen": 4494,
+    "excludedClientOnlyCandidates": 1,
+    "invalidPositionCandidates": [],
+    "mapErrors": [],
+    "unmatchedLuzFiles": [
+      {
+        "file": "maps/01_live_maps/gnarled_forest/survival/nd_gf_survival_trench.luz",
+        "embeddedZoneId": "58001"
+      },
+      {
+        "file": "maps/earthgauntlet/earthgauntlet.luz",
+        "embeddedZoneId": "2100"
+      },
+      {
+        "file": "maps/earthgauntlet/nd_nj_earth.luz",
+        "embeddedZoneId": "2100"
+      },
+      {
+        "file": "maps/seasonal_live maps/december/ns_winter_racetrack/nd_nimbus_station_winter-racetrack.luz",
+        "embeddedZoneId": "1261"
+      },
+      {
+        "file": "maps/seasonal_live maps/december/winter_celebrity_property/ns_property_large_winter.luz",
+        "embeddedZoneId": "1260"
+      }
+    ]
+  },
+  "publicSources": [
+    {
+      "title": "Pets",
+      "pageId": 2528,
+      "revision": 160061,
+      "revisionTimestamp": "2018-04-03T23:13:01Z",
+      "url": "https://legouniverse.fandom.com/wiki/Pets?oldid=160061",
+      "use": "Historical species roster, discovery locations, stated imagination costs, item/mission/achievement requirements, and faction pets."
+    },
+    {
+      "title": "Pet Cove",
+      "pageId": 2532,
+      "revision": 163381,
+      "revisionTimestamp": "2022-04-16T07:42:02Z",
+      "url": "https://legouniverse.fandom.com/wiki/Pet_Cove?oldid=163381",
+      "use": "Historical introduction to pet taming in Pet Cove and Coalessa’s teaching role."
+    }
+  ],
+  "notes": [
+    "Tamable classification requires a PET registration, matching TamingBuildPuzzles row, matching PET_INVENTORY_ITEM component, Objects description \"Tamable Pet\", and a recorded named crosswalk to the fixed Pets wiki revision.",
+    "Historical public names, costs, locations, and requirements are not treated as current server facts; local LOT matching is a name crosswalk.",
+    "PET registrations and puzzle-only LOTs outside that conservative intersection are retained as individual pages but are not claimed to be player-tamable species.",
+    "Client map placements are static candidates. Inactive spawners, feature gates, and mission/precondition settings are retained; client-only and invalid-position records are excluded.",
+    "No probability, live availability, or missing species identity is inferred."
+  ]
+}

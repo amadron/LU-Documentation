@@ -1,0 +1,679 @@
+# Loot matrix 227
+
+[Item database](../README.md) | [Methodology](../Methodology.md)
+
+## Sources and mapped locations
+
+| Kind | Source | Location evidence | Conditions |
+| --- | --- | --- | --- |
+| Drop | [VO - Obelisk (LOT 1638)](../sources/object-1638.md) | No matched local placement found | DestructibleComponent 776; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - LEGO Fence (LOT 1766)](../sources/object-1766.md) | No matched local placement found | DestructibleComponent 772; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Mushroom 2 (LOT 1806)](../sources/object-1806.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md) | DestructibleComponent 770; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Mushroom 5 (LOT 1809)](../sources/object-1809.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md); [Portabello (1604)](../locations/zone-1604.md) | DestructibleComponent 793; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Tiny Crate (LOT 1856)](../sources/object-1856.md) | [Forbidden Valley (1400)](../locations/zone-1400.md); [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md) | DestructibleComponent 779; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Small Crate (LOT 1857)](../sources/object-1857.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md) | DestructibleComponent 791; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Medium Crate (LOT 1858)](../sources/object-1858.md) | [Forbidden Valley (1400)](../locations/zone-1400.md) | DestructibleComponent 811; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Large Crate (LOT 1859)](../sources/object-1859.md) | [Forbidden Valley (1400)](../locations/zone-1400.md) | DestructibleComponent 820; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [sss (LOT 1874)](../sources/object-1874.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md) | DestructibleComponent 804; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Pirate Desk (LOT 1944)](../sources/object-1944.md) | No matched local placement found | DestructibleComponent 782; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Payphone (LOT 2161)](../sources/object-2161.md) | No matched local placement found | DestructibleComponent 805; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Water Cooler (LOT 2162)](../sources/object-2162.md) | No matched local placement found | DestructibleComponent 794; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Tiny Crate 01 (LOT 2293)](../sources/object-2293.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md) | DestructibleComponent 768; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Small Crate 01 (LOT 2294)](../sources/object-2294.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md) | DestructibleComponent 801; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Medium Crate 01 (LOT 2295)](../sources/object-2295.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md) | DestructibleComponent 225; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Large Crate 01 (LOT 2296)](../sources/object-2296.md) | No matched local placement found | DestructibleComponent 226; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Tiny Crate 02 (LOT 2297)](../sources/object-2297.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md) | DestructibleComponent 769; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Small Crate 02 (LOT 2298)](../sources/object-2298.md) | No matched local placement found | DestructibleComponent 148; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Medium Crate 02 (LOT 2299)](../sources/object-2299.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md) | DestructibleComponent 225; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Large Crate 02 (LOT 2300)](../sources/object-2300.md) | No matched local placement found | DestructibleComponent 816; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Tiny Crate 03 (LOT 2301)](../sources/object-2301.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md) | DestructibleComponent 775; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Small Crate 03 (LOT 2302)](../sources/object-2302.md) | No matched local placement found | DestructibleComponent 802; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Medium Crate 03 (LOT 2303)](../sources/object-2303.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md) | DestructibleComponent 806; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Large Crate 03 (LOT 2304)](../sources/object-2304.md) | No matched local placement found | DestructibleComponent 817; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Red Crate (LOT 2305)](../sources/object-2305.md) | [Avant Gardens (1100)](../locations/zone-1100.md) | DestructibleComponent 781; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [AG - Pipe Stack (LOT 4920)](../sources/object-4920.md) | [Forbidden Valley (1400)](../locations/zone-1400.md) | DestructibleComponent 463; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Exploding Enemy Crate (LOT 5838)](../sources/object-5838.md) | No matched local placement found | DestructibleComponent 493; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Maelstrom Infected Chest (LOT 5864)](../sources/object-5864.md) | No matched local placement found | DestructibleComponent 496; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [Defender Capture-Object QB (LOT 6573)](../sources/object-6573.md) | No matched local placement found | DestructibleComponent 225; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Pirate Arch Wall (LOT 6916)](../sources/object-6916.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md) | DestructibleComponent 649; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Smash Wall (LOT 6946)](../sources/object-6946.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md) | DestructibleComponent 655; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Ninja Jail door (LOT 6957)](../sources/object-6957.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md) | DestructibleComponent 656; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Racer Battery (LOT 6991)](../sources/object-6991.md) | No matched local placement found | DestructibleComponent 736; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Racer Dolly (LOT 6992)](../sources/object-6992.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md); [Nimbus Station (1200)](../locations/zone-1200.md) | DestructibleComponent 737; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Racer Tool Wall (LOT 6993)](../sources/object-6993.md) | No matched local placement found | DestructibleComponent 738; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Racer Work Bench (LOT 6994)](../sources/object-6994.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md); [Nimbus Station (1200)](../locations/zone-1200.md) | DestructibleComponent 739; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Racer Work Bench 2 (LOT 6995)](../sources/object-6995.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md); [Nimbus Station (1200)](../locations/zone-1200.md) | DestructibleComponent 740; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Racer Fire Extinguisher (LOT 6997)](../sources/object-6997.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md); [Nimbus Station (1200)](../locations/zone-1200.md) | DestructibleComponent 742; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Racer Computer (LOT 6998)](../sources/object-6998.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md); [Nimbus Station (1200)](../locations/zone-1200.md) | DestructibleComponent 743; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Racing Tooth A (LOT 7857)](../sources/object-7857.md) | [Keelhaul Canyon Racetrack (1303)](../locations/zone-1303.md) | DestructibleComponent 759; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Racing Jawbone B (LOT 7860)](../sources/object-7860.md) | [Keelhaul Canyon Racetrack (1303)](../locations/zone-1303.md) | DestructibleComponent 760; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Racing Jawbone C (LOT 7861)](../sources/object-7861.md) | [Keelhaul Canyon Racetrack (1303)](../locations/zone-1303.md) | DestructibleComponent 761; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Racing Jawbone D (LOT 7862)](../sources/object-7862.md) | [Keelhaul Canyon Racetrack (1303)](../locations/zone-1303.md) | DestructibleComponent 762; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Racing Jawbone E (LOT 7863)](../sources/object-7863.md) | No matched local placement found | DestructibleComponent 763; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Racing Jawbone F (LOT 7864)](../sources/object-7864.md) | No matched local placement found | DestructibleComponent 764; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [Car Landmine (LOT 7865)](../sources/object-7865.md) | No matched local placement found | DestructibleComponent 759; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Racing barricade (LOT 8163)](../sources/object-8163.md) | [Keelhaul Canyon Racetrack (1303)](../locations/zone-1303.md) | DestructibleComponent 860; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Racing Imagine Crate (LOT 8164)](../sources/object-8164.md) | [Keelhaul Canyon Racetrack (1303)](../locations/zone-1303.md); [Vertigo Loop Racetrack (1203)](../locations/zone-1203.md) | DestructibleComponent 975; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Racing Maelstrom chest (LOT 8166)](../sources/object-8166.md) | [Keelhaul Canyon Racetrack (1303)](../locations/zone-1303.md) | DestructibleComponent 863; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Gauntlet Barrier (LOT 8177)](../sources/object-8177.md) | No matched local placement found | DestructibleComponent 865; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [FV - Quick Build Red Crate (LOT 9738)](../sources/object-9738.md) | No matched local placement found | DestructibleComponent 956; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Fence (LOT 9898)](../sources/object-9898.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md) | DestructibleComponent 979; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [FV Quick Build Pipes (LOT 10039)](../sources/object-10039.md) | [Forbidden Valley (1400)](../locations/zone-1400.md) | DestructibleComponent 463; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [Ring (LOT 10285)](../sources/object-10285.md) | [LEGO Club (1700)](../locations/zone-1700.md) | DestructibleComponent 1537; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [FV - Racing Maelstrom statue (LOT 11390)](../sources/object-11390.md) | No matched local placement found | DestructibleComponent 1615; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [GF - Racing Imagine Crate (LOT 11391)](../sources/object-11391.md) | No matched local placement found | DestructibleComponent 1616; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [FV racetrack -- ghost smashable -- EVIL (LOT 11951)](../sources/object-11951.md) | [Dragonmaw Chasm Racetrack (1403)](../locations/zone-1403.md) | DestructibleComponent 1714; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [FV racetrack -- ghost smashable -- GOOD (LOT 12371)](../sources/object-12371.md) | [Dragonmaw Chasm Racetrack (1403)](../locations/zone-1403.md) | DestructibleComponent 1715; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [NT - Small Crate 03 (LOT 12439)](../sources/object-12439.md) | No matched local placement found | DestructibleComponent 1718; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [Unnamed LOT 13953 (LOT 13953)](../sources/object-13953.md) | No matched local placement found | DestructibleComponent 1714; static component precedence; Static association, not a live-spawn guarantee |
+| Drop | [Gnarled Forest Cliff Bouncer Quickbuild (LOT 10010)](../sources/object-10010.md) | [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md); [Gnarled Forest (1300)](../locations/zone-1300.md) | Requires scene is&#95;smashable; see individual placements.; Static association, not a live-spawn guarantee |
+
+## Item candidates
+
+Default vendor-stock probabilities are shown only when this matrix has a registered vendor. Loot probabilities use the generic algorithm, not a guarantee of actual use by every script/activity.
+
+| Item | Modeled loot chance / expected count | Default vendor stock |
+| --- | --- | --- |
+| [Dustbin (LOT 22)](../22.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Brick 2x4 (LOT 29)](../29.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Brick 2x3 (LOT 30)](../30.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Brick 2x2 (LOT 31)](../31.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Brick 1x2 (LOT 32)](../32.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Brick 1x1 (LOT 33)](../33.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Brick 2x8 (LOT 35)](../35.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Brick 1x8 (LOT 36)](../36.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Brick 1x6 (LOT 37)](../37.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Brick 1x4 (LOT 38)](../38.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Plate 2x4 (LOT 39)](../39.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Plate 2x3 (LOT 40)](../40.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Plate 1x2 (LOT 41)](../41.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Plate 1x1 (LOT 42)](../42.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Plate 1x8 (LOT 58)](../58.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Brick 1x3 (LOT 59)](../59.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Plate 1x3 (LOT 60)](../60.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Plate 1x6 (LOT 62)](../62.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Plate 1x4 (LOT 66)](../66.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Brick 2x6 (LOT 98)](../98.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Foliate Tree, Globe (LOT 112)](../112.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Plate 2x6 (LOT 144)](../144.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Telescope Stand 2x2x2 (LOT 344)](../344.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Antenna 4 (LOT 348)](../348.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Gate 1x4x2 with 2 Studs (LOT 357)](../357.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Ladder (LOT 370)](../370.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Dish 6x6 Inverted with Grid (LOT 381)](../381.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Box 2x2x2 with Hinge (LOT 383)](../383.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Lid for Box 2x2x2 (LOT 384)](../384.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Wooden Tub, Round 4x4 (LOT 385)](../385.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Streamer (LOT 393)](../393.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Brick 1x1 Round with Cross Flower (LOT 411)](../411.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Brick 1x1 Round with Flower (LOT 412)](../412.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Lattice 1x4x3 (LOT 435)](../435.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Grating 1x4x6 with 2 Horizontal Clips (LOT 436)](../436.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Lattice 9X13 M (LOT 444)](../444.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Bush (LOT 452)](../452.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Lattice Fence 1x8x2 2/3 (LOT 459)](../459.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Palm Stem Element (LOT 468)](../468.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Hanger 1x6 with 4 Studs (LOT 469)](../469.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Palm Leaf (LOT 470)](../470.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Tile 1x2 with Handle 1x4x2 (LOT 479)](../479.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Washbowl 4x4 with 4 Studs (LOT 482)](../482.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Plant with 3 Leaves (LOT 496)](../496.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Plate 1x6 with Railing (LOT 502)](../502.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Tile 1x2 with Water Tap (LOT 504)](../504.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Tap Element 1x2 (LOT 505)](../505.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Plate 2x2 with Parabolic Ring (LOT 511)](../511.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Grating 1x4x2 with 2 Studs (LOT 516)](../516.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Grating 4x4x2 with 2 Studs 1/4-Circle (LOT 517)](../517.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Petals/Propeller with 4 Studs (LOT 520)](../520.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Sea Grass (LOT 521)](../521.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Plate 2x2 with Square Ring (LOT 522)](../522.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Grating 1x4x6 with 4 Horizontal Clips (LOT 523)](../523.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Box 3x4 (LOT 534)](../534.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Brick 1x1 Round with 3 Bamboo Leaves (LOT 539)](../539.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Fern Leaf (LOT 548)](../548.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Tile 4x4 with Palm Stem (LOT 563)](../563.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Palm Leaves Quadruple (LOT 564)](../564.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Picket Fence 1x4x2 (LOT 628)](../628.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Brick 1x4 with 2 Studs and Curved Ends (LOT 633)](../633.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Bar 1.5 with Clip (LOT 724)](../724.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Parabolic Dish (LOT 768)](../768.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Lamppost 2x2x7 (LOT 784)](../784.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Plant Leaves 6x5 (LOT 802)](../802.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Plant Leaves 4x3 (LOT 806)](../806.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Small Spruce Tree (LOT 810)](../810.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Gate 1x8x2 (LOT 828)](../828.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Barrel 2x2 (LOT 829)](../829.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Palm Leaf (LOT 830)](../830.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Flag 6x4 with Horizontal Clips (LOT 831)](../831.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Shroud (LOT 838)](../838.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Tile 2x2 with Palm Base (LOT 841)](../841.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Plate 2x2 (LOT 865)](../865.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Plate 2x8 (LOT 869)](../869.md) | 1.81818182%; mean 0.018181818 | Not associated with a vendor |
+| [Fence 1x4x2 (LOT 879)](../879.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Fence 1x4x1 (LOT 912)](../912.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Flower Stems (LOT 924)](../924.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Minifigure Head (LOT 1209)](../1209.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Bracket 1x1 with Pin Hole - 1x1 with Stud (LOT 1210)](../1210.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Tool Holder (LOT 1212)](../1212.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Fork Connector with 4 Tips (LOT 1213)](../1213.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Hand Ladle (LOT 1214)](../1214.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Space Blaster with Grooves (LOT 1215)](../1215.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Megaphone (LOT 1217)](../1217.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Skid 1x4 with Stud and Clip (LOT 1219)](../1219.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Telephone Receiver (LOT 1220)](../1220.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Chalice (LOT 1222)](../1222.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Binoculars, Round (LOT 1224)](../1224.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Wheel for Skate Board (LOT 1225)](../1225.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Hot Chocolate (LOT 1883)](../1883.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Healing Banana (LOT 1966)](../1966.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Whip with Loop (LOT 2135)](../2135.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Spruce Tree (LOT 2137)](../2137.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Notion Potion (LOT 2198)](../2198.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Quicksicle (LOT 2620)](../2620.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Armor Polish (LOT 2993)](../2993.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Healing Cherry (LOT 2994)](../2994.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Healing Apple (LOT 2995)](../2995.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Armor Shine (LOT 2996)](../2996.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Armor Gleam (LOT 2997)](../2997.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Strong Notion Potion (LOT 2998)](../2998.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Super Notion Potion (LOT 2999)](../2999.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [BBQ Blast Hot Dog (LOT 3011)](../3011.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Blue Imaginite (LOT 3038)](../3038.md) | 0.056%; mean 0.00056 | Not associated with a vendor |
+| [Green Imaginite (LOT 3039)](../3039.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Red Imaginite (LOT 3040)](../3040.md) | 0.105%; mean 0.00105 | Not associated with a vendor |
+| [Amber Gem (LOT 3100)](../3100.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Castle Maiden's Headdress (LOT 5032)](../5032.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Crash Helmet Visor (LOT 5033)](../5033.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Knapsack (LOT 5039)](../5039.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Admiral's Hat (LOT 5040)](../5040.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Sabre (LOT 5041)](../5041.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Paddle (LOT 5046)](../5046.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Head Scarf (LOT 5047)](../5047.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Shako (LOT 5049)](../5049.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Flintlock Rifle (LOT 5055)](../5055.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Crossbow (LOT 5056)](../5056.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Oval Battle Shield (LOT 5058)](../5058.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Knight Armor with Skirt (LOT 5059)](../5059.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Ghost Costume (LOT 5060)](../5060.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Visor for Knight's Helmet (LOT 5061)](../5061.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Life Vest (LOT 5062)](../5062.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Fishing Rod (LOT 5063)](../5063.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Bar 7 with Stopper and Pin on End (LOT 5066)](../5066.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Peaked Cap (LOT 5079)](../5079.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Construction Worker's Helmet (LOT 5089)](../5089.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Firefighter's Helmet (LOT 5090)](../5090.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Firefighter's Axe (LOT 5091)](../5091.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Push Broom (LOT 5092)](../5092.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Shovel (LOT 5093)](../5093.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Oxygen Bottles (LOT 5094)](../5094.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Vest (LOT 5095)](../5095.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [PickAxe (LOT 5096)](../5096.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Great Helm with Neck Protection (LOT 5097)](../5097.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Knight Shield Triangular (LOT 5098)](../5098.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Shortsword (LOT 5099)](../5099.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Battle Axe (LOT 5100)](../5100.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Knight Jousting Lance (LOT 5101)](../5101.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Hair Brush (LOT 5102)](../5102.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Baker's Hat (LOT 5106)](../5106.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Mug with Holder (LOT 5107)](../5107.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Wig, Boy (LOT 5108)](../5108.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Handheld Radio (LOT 5109)](../5109.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Screwdriver/Wrench (LOT 5110)](../5110.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Pipe Wrench (LOT 5116)](../5116.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Broom (LOT 5117)](../5117.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Ladle (LOT 5118)](../5118.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Pot with Handles (LOT 5119)](../5119.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Loaf of Bread (LOT 5120)](../5120.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Space Gun (LOT 5123)](../5123.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Pitcher (LOT 5124)](../5124.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Butterfly Net (LOT 5125)](../5125.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Large Axe (LOT 5126)](../5126.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Suitcase (LOT 5128)](../5128.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Metal Detector (LOT 5129)](../5129.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Horse Saddle (LOT 5130)](../5130.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Spear (LOT 5133)](../5133.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Quiver (LOT 5134)](../5134.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Bow (LOT 5135)](../5135.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Knight Tournament Helmet (LOT 5136)](../5136.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Sledgehammer (LOT 5138)](../5138.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Pannier (LOT 5139)](../5139.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Pan (LOT 5140)](../5140.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Pot with Handle (LOT 5141)](../5141.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Wig with Wavy Hair (LOT 5142)](../5142.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Stretcher 2x6 (LOT 5145)](../5145.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Underframe for Stretcher (LOT 5146)](../5146.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Jetpack with Studs (LOT 5150)](../5150.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Oar (LOT 5151)](../5151.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Surfboard 10M (LOT 5156)](../5156.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Frogman Visor (LOT 5161)](../5161.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Wig Ponytail (LOT 5162)](../5162.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Ice Saw (LOT 5164)](../5164.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Halberd (LOT 5166)](../5166.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Magic Wand (LOT 5167)](../5167.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Horse Dragon Mask with Clip (LOT 5168)](../5168.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Flame with Haft (LOT 5169)](../5169.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Magic Hat (LOT 5173)](../5173.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Santa Beard (LOT 5174)](../5174.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Fireman Breathing Mask (LOT 5175)](../5175.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Feeding Bottle (LOT 5181)](../5181.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [1x1 Round with Ice Cream (LOT 5187)](../5187.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Dish Ø24 (LOT 5188)](../5188.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Cherry (LOT 5195)](../5195.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Astronaut Visor (LOT 5196)](../5196.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Hand-Held Scanner (LOT 5198)](../5198.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Morion Helmet (LOT 5201)](../5201.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Harpoon 5M (LOT 5203)](../5203.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Camera (LOT 5204)](../5204.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Diver's Mask (LOT 5205)](../5205.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Oxygen Bottle with Tube (LOT 5206)](../5206.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Chain 16M (LOT 5208)](../5208.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Bat Helmet (LOT 5209)](../5209.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Crystal Globe (LOT 5210)](../5210.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Alien Breastplate (LOT 5212)](../5212.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Indian Feather with Bolt (LOT 5213)](../5213.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Indian Feather with Clip (LOT 5214)](../5214.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Revolver (LOT 5215)](../5215.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Neck Scarf (LOT 5216)](../5216.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Officer's Cap (LOT 5217)](../5217.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Rifle (LOT 5218)](../5218.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Movie Camera (LOT 5220)](../5220.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Magnifying Glass (LOT 5222)](../5222.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Diamond with Stick (LOT 5223)](../5223.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Sextant (LOT 5224)](../5224.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Rucksack, Opening (LOT 5225)](../5225.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Safari Hat (LOT 5226)](../5226.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Pharaoh's Headdress (LOT 5227)](../5227.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Flying Goggles (LOT 5229)](../5229.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Flying Helmet (LOT 5230)](../5230.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Safari Helmet (LOT 5231)](../5231.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Ninja Sword (LOT 5232)](../5232.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Samurai Armor (LOT 5233)](../5233.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Strap 12M (LOT 5240)](../5240.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Grappling Hook (LOT 5241)](../5241.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Ice Axe (LOT 5242)](../5242.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Circular Saw (LOT 5243)](../5243.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Energy Element (LOT 5244)](../5244.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Insectoid Helmet (LOT 5245)](../5245.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Shell (LOT 5246)](../5246.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Popsicle (LOT 5247)](../5247.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Pneumatic Hammer (LOT 5250)](../5250.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Slider Roller with Handle (LOT 5251)](../5251.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Spider Web (LOT 5253)](../5253.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Square Sign with Vertical Clip (LOT 5255)](../5255.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Triangular Sign with Vertical Clip (LOT 5256)](../5256.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Round Sign with Clip (LOT 5257)](../5257.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Knight's Helmet with Brim (LOT 5258)](../5258.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Inca Helmet (LOT 5260)](../5260.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Snowshoe (LOT 5261)](../5261.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Polar Hood with Fur Lining (LOT 5262)](../5262.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Rock 4x4x1 1/3 Top Part (LOT 5263)](../5263.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Binoculars, High-tech (LOT 5264)](../5264.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Polar Rucksack (LOT 5265)](../5265.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Space Helmet without Chin Strap (LOT 5266)](../5266.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Lifering with Stud (LOT 5267)](../5267.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Hood (LOT 5269)](../5269.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Rock Crystal (LOT 5270)](../5270.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Wig with Multiple Braids (LOT 5276)](../5276.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Wig, Crew Cut (LOT 5282)](../5282.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Book (LOT 5311)](../5311.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Apple with Leaf (LOT 5312)](../5312.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Pot with Handle (LOT 5313)](../5313.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Turkey Drumstick (LOT 5314)](../5314.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Glass (LOT 5315)](../5315.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Sausage (LOT 5316)](../5316.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Banana (LOT 5317)](../5317.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Ice-Cream Cone (LOT 5318)](../5318.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Croissant (LOT 5321)](../5321.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Comb (LOT 5322)](../5322.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Carrot (LOT 5323)](../5323.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Rosette with Ribbon (LOT 5324)](../5324.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Celery (LOT 5325)](../5325.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Turban (LOT 5329)](../5329.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Old Man's Wig (LOT 5330)](../5330.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Man's Wig (LOT 5331)](../5331.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Boy's Hair (LOT 5332)](../5332.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Girl's Hair (LOT 5334)](../5334.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Knit Cap (LOT 5351)](../5351.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Minifig Short Legs and Hips (LOT 5354)](../5354.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Ice Crystal (LOT 5357)](../5357.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Wig, Wolfman  (LOT 5359)](../5359.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Skateboard 1 (LOT 5360)](../5360.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Basketball (LOT 5362)](../5362.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Wig with Blow-dried Hairdo (LOT 5364)](../5364.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Scimitar (LOT 5366)](../5366.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Russian Fur Cap (LOT 5370)](../5370.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Spiked Pike (LOT 5371)](../5371.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Knife (LOT 5377)](../5377.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Skateboard 2 (LOT 5381)](../5381.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Ice Hockey Helmet (LOT 5383)](../5383.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Hockey Body Armor (LOT 5384)](../5384.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Wing 4x7 Scaled (LOT 5389)](../5389.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Visor No. 1 Wise (LOT 5391)](../5391.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Visor No. 3 Rookie (LOT 5392)](../5392.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Visor No. 4 Brute (LOT 5393)](../5393.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Visor No. 2 Joker (LOT 5394)](../5394.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Visor No. 5 Evil (LOT 5395)](../5395.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Dark Knight Helmet (LOT 5397)](../5397.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Knight Shield Octagonal with Stud (LOT 5398)](../5398.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Sword with Inverted V-Guard (LOT 5399)](../5399.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Bracket 1x1 with Pin (LOT 5401)](../5401.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Viking Helmet (LOT 5418)](../5418.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [BattleAxe Head with Horizontal Clip (LOT 5419)](../5419.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Wig Manga 1 (LOT 5433)](../5433.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Wig Manga 2 (LOT 5434)](../5434.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Hammer (LOT 5446)](../5446.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Oil Can (LOT 5447)](../5447.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Drilling Machine (LOT 5448)](../5448.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Screwdriver (LOT 5449)](../5449.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Open Firm Key (LOT 5450)](../5450.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Closed Wrench (LOT 5451)](../5451.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Moulding Element with 4 Flowers (LOT 5468)](../5468.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Silver Harpoons (LOT 5471)](../5471.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Round Cap 1x1 with Bar (LOT 5488)](../5488.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Scythe Blade (LOT 5502)](../5502.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Round Shield (LOT 5503)](../5503.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Morningstar (LOT 5504)](../5504.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Lightning Bolt with Handle (LOT 5505)](../5505.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Frogman's Feet (LOT 5506)](../5506.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Lady Wig (LOT 5507)](../5507.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Princess Hair (LOT 5508)](../5508.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Dwarf King's Helmet (LOT 5546)](../5546.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Dwarf Warrior's Helmet (LOT 5547)](../5547.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Dwarf King Beard (LOT 5548)](../5548.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Dwarf Warrior Beard (LOT 5549)](../5549.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Warrior Helmet (LOT 5550)](../5550.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Notched Scimitar (LOT 5551)](../5551.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Flag 2x2 with Horizontal Clips (LOT 5552)](../5552.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Nozzle with Shaft (LOT 5556)](../5556.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Slope 1x2x2/3 Brick with Grating (LOT 5562)](../5562.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Box 2x2x2 (LOT 5571)](../5571.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Knight Shield Octagonal (LOT 5572)](../5572.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Lattice 1x4x3 (LOT 5573)](../5573.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Breastplate (LOT 5576)](../5576.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Wig with Long Ponytail (LOT 5582)](../5582.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Helmet with Jagged Jaw (LOT 5583)](../5583.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Barbed Wire (LOT 5585)](../5585.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Wig, Bowl Cut (LOT 5587)](../5587.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Antique Key (LOT 5590)](../5590.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Wig, Boy (LOT 5592)](../5592.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [String with End Studs 30M (LOT 5594)](../5594.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Light Sword Handle (LOT 5598)](../5598.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Bucket (LOT 5601)](../5601.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Fanfare Horn, Chrome (LOT 5604)](../5604.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Handle for Bucket (LOT 5605)](../5605.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Space Suit (LOT 5607)](../5607.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Goblet (LOT 5608)](../5608.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Soccer Ball (LOT 5610)](../5610.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [BaseBall Cap (LOT 5622)](../5622.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Hiccup Tablets (LOT 5832)](../5832.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Brick Booster Pack (LOT 5834)](../5834.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Super Brick Booster Pack (LOT 5835)](../5835.md) | 0.105%; mean 0.00105 | Not associated with a vendor |
+| [Picnic Basket (LOT 5836)](../5836.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Super Picnic Basket (LOT 5837)](../5837.md) | 0.105%; mean 0.00105 | Not associated with a vendor |
+| [Tiny Mushroom Model (LOT 6027)](../6027.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Small Mushroom Model (LOT 6028)](../6028.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Medium Mushroom Model (LOT 6029)](../6029.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Large Mushroom Model (LOT 6030)](../6030.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Tiny Crate Model (LOT 6031)](../6031.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Small Crate Model (LOT 6032)](../6032.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Medium Crate Model (LOT 6033)](../6033.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Large Crate Model (LOT 6034)](../6034.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Wooden Barrel Model (LOT 6035)](../6035.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Tent Model (LOT 6036)](../6036.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Desk Model (LOT 6037)](../6037.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Water Cooler Model (LOT 6039)](../6039.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Crate of Bananas Model (LOT 6040)](../6040.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Pirate Lantern Model (LOT 6041)](../6041.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Timeclock Model (LOT 6043)](../6043.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Small Table Model (LOT 6044)](../6044.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Brig Model (LOT 6045)](../6045.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Hat Stand Model 1 (LOT 6053)](../6053.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Hat Stand Model 2 (LOT 6054)](../6054.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Hat Stand Model 3 (LOT 6055)](../6055.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Weapon Rack Model (LOT 6056)](../6056.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Sword Barrel Model (LOT 6058)](../6058.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Hut Model (LOT 6060)](../6060.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Coffee Table Model (LOT 6064)](../6064.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Cart Model (LOT 6065)](../6065.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Cot Model (LOT 6066)](../6066.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Raft with Sails Model (LOT 6068)](../6068.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Fence Model (LOT 6071)](../6071.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Wood Pile Model (LOT 6072)](../6072.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Thirst Quencher (LOT 6201)](../6201.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Island Jail Model (LOT 6518)](../6518.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Lookout Post Model (LOT 6519)](../6519.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Island Fort Model (LOT 6520)](../6520.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Mini Raft Model (LOT 6521)](../6521.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Volley Gun Model (LOT 6522)](../6522.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Palm Tree Model (LOT 6523)](../6523.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Island Plant Model (LOT 6524)](../6524.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Deluxe Raft Model (LOT 6525)](../6525.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Large Cannon Model (LOT 6526)](../6526.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Box of Pistols Model (LOT 6774)](../6774.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Small Cannon Model (LOT 6776)](../6776.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Box of Cups Model (LOT 6778)](../6778.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Tiki Torch Model (LOT 6779)](../6779.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Mini Galleon Model (LOT 6781)](../6781.md) | 0.00333333%; mean 0.000033333333 | Not associated with a vendor |
+| [Mini Windrunner Model (LOT 6782)](../6782.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Hardtack Biscuit (LOT 6790)](../6790.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Cat Model (LOT 6840)](../6840.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Dark Red Gem (LOT 6862)](../6862.md) | 0.035%; mean 0.00035 | Not associated with a vendor |
+| [Yellow Gem (LOT 6863)](../6863.md) | 0.035%; mean 0.00035 | Not associated with a vendor |
+| [Green Gem (LOT 6864)](../6864.md) | 0.056%; mean 0.00056 | Not associated with a vendor |
+| [Light Blue Gem (LOT 6865)](../6865.md) | 0.105%; mean 0.00105 | Not associated with a vendor |
+| [Pink Gem (LOT 6866)](../6866.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Clamshell Model (LOT 6869)](../6869.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Snake Model (LOT 6870)](../6870.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Flash Bang (LOT 6884)](../6884.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Stinky Fish (LOT 6885)](../6885.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Tasty Fish (LOT 6886)](../6886.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Pirate Duck Model (LOT 6941)](../6941.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Shark Model (LOT 6942)](../6942.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| Unnamed LOT 6943 (LOT 6943; not an item registration) | 0% in the generic loot model | Not associated with a vendor |
+| [Frog Model (LOT 7057)](../7057.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Starfish Model (LOT 7060)](../7060.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Boom Trap Kit (LOT 7084)](../7084.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Candle Holder Model (LOT 7122)](../7122.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Dock Model (LOT 7123)](../7123.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Organ Model (LOT 7124)](../7124.md) | 0.00333333%; mean 0.000033333333 | Not associated with a vendor |
+| [Shack Model (LOT 7125)](../7125.md) | 0.00333333%; mean 0.000033333333 | Not associated with a vendor |
+| [Soda Rack Model (LOT 7126)](../7126.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Treasure Chest Model (LOT 7127)](../7127.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Cabinet Model (LOT 7134)](../7134.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Antique Chair Model (LOT 7135)](../7135.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Buttery Croissant (LOT 7724)](../7724.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Healing Drumstick (LOT 7725)](../7725.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Firecracker (LOT 7778)](../7778.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Armchair Model (LOT 8051)](../8051.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Goblet Box Model (LOT 8055)](../8055.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Potion of Shielding (LOT 8365)](../8365.md) | 0.09375%; mean 0.0009375 | Not associated with a vendor |
+| [Baroque Sign (LOT 8787)](../8787.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Epaulets (LOT 8803)](../8803.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Boat Mast Extension (LOT 8804)](../8804.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Boat Bowsprit (LOT 8805)](../8805.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Flintlock Pistol (LOT 8807)](../8807.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Gate 1x8x3 (LOT 8810)](../8810.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Wig with Small Pigtails (LOT 8839)](../8839.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Cowboy Hat (LOT 8840)](../8840.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Cypress (LOT 8845)](../8845.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Mini Crash Helmet (LOT 8846)](../8846.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Great Helm with Chin Guard (LOT 8848)](../8848.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Sunshade (LOT 8851)](../8851.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Pitchfork (LOT 8858)](../8858.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Forestman Cap (LOT 8860)](../8860.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Plastic Cape (LOT 8861)](../8861.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Bobbed Hair (LOT 8870)](../8870.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Islander Demon Mask (LOT 8871)](../8871.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Bush Bottom (LOT 8883)](../8883.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Plate 4x4 with Boat Mast Base (LOT 8884)](../8884.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Space Suit with Helmet and Propeller (LOT 8887)](../8887.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Space Suit with Helmet and Breathing Device (LOT 8888)](../8888.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Visor with Antenna (LOT 8890)](../8890.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Oval Suitcase (LOT 8894)](../8894.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Parasol (LOT 8903)](../8903.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Tile 2x2 with Parasol Stand (LOT 8904)](../8904.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Bath Tub 6x12x2 1/3 (LOT 8915)](../8915.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Helmet with Hose and Stud (LOT 8919)](../8919.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Underwater scooter (LOT 8926)](../8926.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Lattice Fence 2x12x6 (LOT 8928)](../8928.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Medicine Man Wig (LOT 8929)](../8929.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Indian Wig (LOT 8930)](../8930.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Alien Helmet (LOT 8931)](../8931.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Crash Helmet (LOT 8932)](../8932.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Hollow Stump (LOT 8933)](../8933.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Chief Brilliant Plumage (LOT 8934)](../8934.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Barrel 4x4 (LOT 8935)](../8935.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Samurai Helmet (LOT 8938)](../8938.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Aqua Suit Helmet (LOT 8940)](../8940.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Sensor Dish with Bent Stem (LOT 8942)](../8942.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Standard with Foot 2x2x5 (LOT 8943)](../8943.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Sign Octagonal with Vertical Clip (LOT 8944)](../8944.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Rock 4x4x1 2/3 Bottom Part (LOT 8947)](../8947.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Antenna 8 with Streamer (LOT 8949)](../8949.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [BIONICLE Flame (LOT 8986)](../8986.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Hairdryer (LOT 8987)](../8987.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Turkey (LOT 8988)](../8988.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Decoration Ball (LOT 8989)](../8989.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Ski Pole (LOT 8992)](../8992.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Skates with 2 Studs (LOT 9007)](../9007.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Pivot Joint Housing on 2x2-Base (LOT 9018)](../9018.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [1/2 Ball 3M (LOT 9019)](../9019.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Snowboard (LOT 9028)](../9028.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Grid 95x57 (LOT 9034)](../9034.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Cloth Cape (LOT 9036)](../9036.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Ball Ø16 (LOT 9061)](../9061.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Shackles (LOT 9065)](../9065.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Technic Dome 7x7x5 Ø4.85 (LOT 9078)](../9078.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Troll Club (LOT 9097)](../9097.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Handcuffs (LOT 9108)](../9108.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Fedora Hat (LOT 9110)](../9110.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Whip, Furled (LOT 9117)](../9117.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Shoulder Bag (LOT 9118)](../9118.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Joker Hat (LOT 9124)](../9124.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Evil Wig (LOT 9128)](../9128.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Spiral Tube with Flanges (LOT 9133)](../9133.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Telescope Bar 1x1x2 (LOT 9145)](../9145.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Blade with Haft (LOT 9153)](../9153.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Dynamite (LOT 9154)](../9154.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Wig, Older Guy (LOT 9156)](../9156.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Breastplate Chrome Silver (LOT 9161)](../9161.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Bugle (LOT 9162)](../9162.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Samurai Helmet Ornament (LOT 9164)](../9164.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Hand Tool with Suction Cup (LOT 9165)](../9165.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Birdcage (LOT 9175)](../9175.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Alien Helmet "Snake" (LOT 9179)](../9179.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Slizer Helmet (LOT 9181)](../9181.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Skull Helmet (LOT 9182)](../9182.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Squid Head (LOT 9184)](../9184.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Kranxx Head (LOT 9185)](../9185.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Flame 7M with Shaft (LOT 9186)](../9186.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Protective Vest (LOT 9187)](../9187.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Wig, Girl with Long Hair (LOT 9190)](../9190.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Fez (LOT 9191)](../9191.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Right Wing for Dragon Knight's Helmet (LOT 9211)](../9211.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Left Wing for Dragon Knight's Helmet (LOT 9212)](../9212.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Dragon Ornament for Dragon Knight's Helmet (LOT 9213)](../9213.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Rosette (LOT 9216)](../9216.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Imitation jewelry Wheel (LOT 9217)](../9217.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Feather for Helmet (LOT 9218)](../9218.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Small Feather for Helmet (LOT 9219)](../9219.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Big Feather for Helmet (LOT 9220)](../9220.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Animal Horns (LOT 9221)](../9221.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Splendorous Feather (LOT 9222)](../9222.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Atlantis Suit (LOT 9230)](../9230.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Squidman Head (LOT 9232)](../9232.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Visor with Slit (LOT 9234)](../9234.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Flame 1x4 with Shaft (LOT 9239)](../9239.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Visor for Atlantis Suit (LOT 9243)](../9243.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Mushroom Model 5 (LOT 9537)](../9537.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Submarine Model (LOT 9565)](../9565.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| Unnamed LOT 9572 (LOT 9572; not an item registration) | 0% in the generic loot model | Not associated with a vendor |
+| [Shipwreck Hideout Pack (LOT 9603)](../9603.md) | 0.01923077%; mean 0.00019230769 | Not associated with a vendor |
+| [Modular Dock Model 1 (LOT 9812)](../9812.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Modular Dock Model 2 (LOT 9813)](../9813.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Modular Dock Model 3 (LOT 9814)](../9814.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Cup of Yo (LOT 10038)](../10038.md) | 0.056%; mean 0.00056 | Not associated with a vendor |
+| [Pirate Captain's Hut Model (LOT 10069)](../10069.md) | 0.00333333%; mean 0.000033333333 | Not associated with a vendor |
+| [Pirate Tower Model (LOT 10070)](../10070.md) | 0.00333333%; mean 0.000033333333 | Not associated with a vendor |
+| [Pirate Idol Model (LOT 10071)](../10071.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Palm Tree Model 2 (LOT 10072)](../10072.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Pirate Staircase Model (LOT 10073)](../10073.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate Gate Model (LOT 10074)](../10074.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate Wall Model 1 (LOT 10075)](../10075.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate Wall Model 2 (LOT 10076)](../10076.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate Wall Model 3 (LOT 10077)](../10077.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate Wall End Model (LOT 10078)](../10078.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate Wall With Gunport Model (LOT 10079)](../10079.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate Wall Bridge Model (LOT 10080)](../10080.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate Barrel Hut Model 1 (LOT 10081)](../10081.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate Barrel Hut Model 2 (LOT 10082)](../10082.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate Barrel Hut Model 3 (LOT 10083)](../10083.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate Corner Wall Model (LOT 10084)](../10084.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate Corner Lookout Model (LOT 10085)](../10085.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate Medium Wall Model (LOT 10086)](../10086.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Pirate Small Wall Model (LOT 10087)](../10087.md) | 0.0075%; mean 0.000075 | Not associated with a vendor |
+| [Pirate T-Wall Model (LOT 10088)](../10088.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate T-Wall With Stairs Model (LOT 10089)](../10089.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate Ship Model 5 (LOT 10090)](../10090.md) | 0.00333333%; mean 0.000033333333 | Not associated with a vendor |
+| [Pirate Ship Model 1 (LOT 10091)](../10091.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate Ship Model 3 (LOT 10092)](../10092.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate Ship Model 2 (LOT 10093)](../10093.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Pirate Ship Model 4 (LOT 10094)](../10094.md) | 0.00285714%; mean 0.000028571429 | Not associated with a vendor |
+| [Minifigure Torso with Right Arm Prosthesis (LOT 10184)](../10184.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Minifigure Legs (LOT 10190)](../10190.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Control Stick with Base (LOT 10192)](../10192.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Minifigure Torso (LOT 10200)](../10200.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Minifigure Legs with Right Wooden Leg (LOT 10204)](../10204.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Minifigure Torso with Left Hook Prosthesis (LOT 10205)](../10205.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Treasure chest 2x4 Bottom Part (LOT 10233)](../10233.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Treasure chest 2x4 Lid (LOT 10234)](../10234.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [BroadSword (LOT 11113)](../11113.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| Imagination Powerup 3 points (LOT 11910; not an item registration) | 45%; mean 0.45 | Not associated with a vendor |
+| Armor Powerup 2 points (LOT 11912; not an item registration) | 33%; mean 0.33 | Not associated with a vendor |
+| Life Powerup 2 points (LOT 11915; not an item registration) | 33%; mean 0.33 | Not associated with a vendor |
+| [Anchors Away (LOT 13426)](../13426.md) | 0.105%; mean 0.00105 | Not associated with a vendor |
+| [Faction Token Proxy (LOT 13763)](../13763.md) | 2%; mean 0.02 | Not associated with a vendor |
+| [Med Pack (LOT 14679)](../14679.md) | 0.056%; mean 0.00056 | Not associated with a vendor |
+| [Armor Repair Kit (LOT 14680)](../14680.md) | 0.056%; mean 0.00056 | Not associated with a vendor |
+| [Mummy Coffin (LOT 16341)](../16341.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Mummy Coffin Lid (LOT 16342)](../16342.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Farmer's Cap (LOT 16370)](../16370.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Goggles (LOT 16373)](../16373.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Globe (LOT 16380)](../16380.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Flame (LOT 16399)](../16399.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Wig, Medium Hair (LOT 16412)](../16412.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Porcupine, Shoulder Armor (LOT 16415)](../16415.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Knight&#96;s Helmet (LOT 16421)](../16421.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Wig, Short Hair (LOT 16434)](../16434.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Wig, Long Hair (LOT 16435)](../16435.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Sack (LOT 16441)](../16441.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Ø3.2 Shaft with Cored Knob (LOT 16444)](../16444.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [5 M. Ø3.2 Bone (LOT 16445)](../16445.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Armour with Spike (LOT 16449)](../16449.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Star with Ø3.2 Wheel (LOT 16450)](../16450.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Hat (LOT 16451)](../16451.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Sensei Beard (LOT 16459)](../16459.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Egyptian Sword (LOT 16461)](../16461.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Anubis Head (LOT 16462)](../16462.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Horus Hat (LOT 16463)](../16463.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Egyptian Eaglewing (LOT 16464)](../16464.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Scarab Shield with Ø 3.2 Shaft (LOT 16465)](../16465.md) | 0.00840336%; mean 0.000084033613 | Not associated with a vendor |
+| [Shaft Ø3.2 with Cored Ø3.2 Hole (LOT 16466)](../16466.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Crowbar (LOT 16507)](../16507.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+| [Helmet with Ø3.2 Shaft at Front (LOT 16509)](../16509.md) | 0.00325733%; mean 0.00003257329 | Not associated with a vendor |
+
+## Raw matrix entries
+
+| Row | Loot table | Rarity table | Trigger | Min | Max | Flag | Gate |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 481 | 415 | 4 | 0.33 | 1 | 1 |  |  |
+| 482 | 420 | 4 | 0.45 | 1 | 1 |  |  |
+| 483 | 103 | 4 | 0.035 | 1 | 1 |  |  |
+| 484 | 423 | 4 | 0.33 | 1 | 1 |  |  |
+| 485 | 243 | 18 | 0.01 | 1 | 1 |  |  |
+| 857 | 670 | 23 | 0.02 | 1 | 1 |  |  |
+| 1496 | 110 | 18 | 0.4 | 1 | 1 |  |  |
+| 1497 | 244 | 18 | 0.01 | 1 | 1 |  |  |
+| 5085 | 105 | 4 | 0.01 | 1 | 1 |  |  |
+
+[LootMatrix](../../../db/LootMatrix.md), [LootTable](../../../db/LootTable.md), [RarityTable](../../../db/RarityTable.md).

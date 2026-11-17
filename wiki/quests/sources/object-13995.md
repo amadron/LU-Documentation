@@ -1,0 +1,19 @@
+# Bone Wolf - quest/objective source LOT 13995
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -185.668 | 79.307 | -509.84 | Spawner path: Caves&#95;Wolves&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -198.406 | 79.307 | -409.813 | Spawner path: Caves&#95;Wolves&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -297.314 | 79.307 | -383.621 | Spawner path: Caves&#95;Wolves&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 41.206 | 171.184 | -406.473 | Spawner path: Caves&#95;Wolves&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 61.952 | 170.871 | -268.341 | Spawner path: Caves&#95;Wolves&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -42.256 | 170.871 | -280.031 | Spawner path: Caves&#95;Wolves&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 332.772 | 153.625 | -163.046 | Spawner path: Caves&#95;Wolves&#95;03 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 261.72 | 153.625 | -224.237 | Spawner path: Caves&#95;Wolves&#95;03 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 244.849 | 153.625 | -145.484 | Spawner path: Caves&#95;Wolves&#95;03 | Automatic spawning disabled; trigger/script may be required |

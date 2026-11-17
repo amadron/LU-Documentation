@@ -1,0 +1,7 @@
+# Exploration key AG&#95;Mon&#95;2
+
+[Achievement 347 &#91;347&#93;](../347.md) | [Methodology](../Methodology.md)
+
+These coordinates identify configured trigger-object positions, not exact collision-volume boundaries or a guaranteed route. The evidence joins LUZ scene ID, LVL trigger_id, the scene’s .lutriggers file, and updateMission exploretask argument 5. Disabled triggers and event conditions remain explicit.
+
+No complete scene-ID / trigger-ID / exploration-key placement chain was resolved. The key may be emitted by another script/client path; no coordinates are guessed.

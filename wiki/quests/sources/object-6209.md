@@ -1,0 +1,14 @@
+# AG - Beacon Quickbuild - quest/objective source LOT 6209
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -230.456 | 358.012 | -372.306 | Scene nd&#95;avant&#95;gardens&#95;6&#95;battlefield&#95;c.lvl (battlefield&#95;c), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 14.695 | 370.716 | -388.226 | Scene nd&#95;avant&#95;gardens&#95;8&#95;battlefield&#95;d.lvl (battlefield&#95;d), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 14.657 | 357.334 | -117.622 | Scene nd&#95;avant&#95;gardens&#95;9x1&#95;audio.lvl (Audio), layer 1; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 171.131 | 379.8 | -167.913 | Scene nd&#95;avant&#95;gardens&#95;12&#95;sen&#95;camp.lvl (SEN&#95;camp), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |

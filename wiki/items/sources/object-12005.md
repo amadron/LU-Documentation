@@ -1,0 +1,32 @@
+# Nuckal - Skeleton Lightning General — source LOT 12005
+
+[Item database](../README.md) | [Methodology](../Methodology.md)
+
+| Source use | Definition | Condition |
+| --- | --- | --- |
+| Drop | [Matrix 525](matrix-525.md) | DestructibleComponent 1651; static component precedence |
+
+## Mapped placements and spawner waypoints
+
+These are static candidates, not a statement that every instance is currently spawned or reachable. Coordinates are map XYZ. Inactive spawners and feature gates are retained explicitly. Client-only objects are excluded. Scene/spawner records can overlap and are not an enemy-population count.
+
+| Zone | X | Y | Z | Scene / path | Conditions / stock override |
+| --- | --- | --- | --- | --- | --- |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -148.029 | 43.092 | -261.573 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -45.682 | 46.965 | -238.204 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -92.642 | 46.727 | -217.324 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -142.508 | 42.31 | -354.814 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -197.496 | 43.766 | -309.6 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -15.562 | 49.998 | -210.238 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -110.874 | 42.31 | -358.041 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -172.88 | 43.574 | -278.089 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -136.08 | 46.99 | -193.814 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -128.318 | 48.549 | -164.498 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -205.907 | 42.146 | -359.912 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -130.511 | 42.514 | -402.375 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -137.376 | 42.217 | -319.333 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -17.511 | 50.038 | -183.671 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -109.526 | 49.07 | -173.549 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -87.875 | 50.44 | -137.992 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -35.504 | 50.436 | -127.226 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -20.894 | 50.404 | -164.739 | Spawner path: Skullkin&#95;Named&#95;Patroller | No additional condition recorded |

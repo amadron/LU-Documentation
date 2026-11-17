@@ -1,0 +1,55 @@
+# Stromling Pirate — source LOT 10378
+
+[Item database](../README.md) | [Methodology](../Methodology.md)
+
+| Source use | Definition | Condition |
+| --- | --- | --- |
+| Drop | [Matrix 193](matrix-193.md) | DestructibleComponent 1550; static component precedence |
+
+## Mapped placements and spawner waypoints
+
+These are static candidates, not a statement that every instance is currently spawned or reachable. Coordinates are map XYZ. Inactive spawners and feature gates are retained explicitly. Client-only objects are excluded. Scene/spawner records can overlap and are not an enemy-population count.
+
+| Zone | X | Y | Z | Scene / path | Conditions / stock override |
+| --- | --- | --- | --- | --- | --- |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -6.843 | 432.798 | -84.706 | Spawner path: PiratesGen | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -11.645 | 432.798 | -85.641 | Spawner path: PiratesGen | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -11.441 | 432.798 | -96.235 | Spawner path: PiratesGen | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -4.907 | 432.798 | -99.995 | Spawner path: PiratesGen | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -0.579 | 432.798 | -96.173 | Spawner path: PiratesGen | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | 29.538 | 432.798 | -86.071 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -26.336 | 432.798 | -94.894 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -31.521 | 432.798 | -83.561 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -20.702 | 432.798 | -71.195 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -1.466 | 432.888 | -69.328 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | 15.342 | 432.798 | -82.745 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | 23.712 | 432.798 | -67.652 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | 35.089 | 432.798 | -64.143 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | 23.263 | 432.798 | -40.583 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | 10.422 | 432.798 | -45.296 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -44.872 | 432.798 | -61.407 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -32.149 | 432.798 | -81.041 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -54.187 | 432.798 | -47.668 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -51.07 | 432.798 | -35.002 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | 24.853 | 432.798 | -16.842 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | 33.603 | 432.798 | -32.103 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | 16.264 | 432.798 | -77.813 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -1.479 | 433.008 | -72.615 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -22.11 | 432.798 | -82.075 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | 8.896 | 432.798 | -103.53 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -15.693 | 432.798 | -104.083 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -7.552 | 432.798 | -57.418 | Spawner path: PiratesWander | Spawner inactive on load; script activation required |
+| [Nimbus Rock (1250)](../locations/zone-1250.md) | 7.532 | 433.298 | -56.644 | Spawner path: PirateWander | Spawner inactive on load; script activation required |
+| [Nimbus Rock (1250)](../locations/zone-1250.md) | 21.174 | 432.765 | -53.532 | Spawner path: PirateWander | Spawner inactive on load; script activation required |
+| [Nimbus Rock (1250)](../locations/zone-1250.md) | -23.008 | 433.298 | -41.113 | Spawner path: PirateWander | Spawner inactive on load; script activation required |
+| [Nimbus Rock (1250)](../locations/zone-1250.md) | -20.433 | 433.298 | -32.055 | Spawner path: PirateWander | Spawner inactive on load; script activation required |
+| [Nimbus Rock (1250)](../locations/zone-1250.md) | -35.442 | 433.298 | -40.398 | Spawner path: PirateWander | Spawner inactive on load; script activation required |
+| [Nimbus Rock (1250)](../locations/zone-1250.md) | -45.57 | 433.298 | -71.356 | Spawner path: PirateWander | Spawner inactive on load; script activation required |
+| [Nimbus Rock (1250)](../locations/zone-1250.md) | -38.299 | 433.298 | -85.755 | Spawner path: PirateWander | Spawner inactive on load; script activation required |
+| [Nimbus Rock (1250)](../locations/zone-1250.md) | 0.566 | 433.298 | -89.528 | Spawner path: PirateWander | Spawner inactive on load; script activation required |
+| [Nimbus Rock (1250)](../locations/zone-1250.md) | -10.356 | 433.032 | -44.842 | Spawner path: PirateWander | Spawner inactive on load; script activation required |
+| [Nimbus Rock (1250)](../locations/zone-1250.md) | -18.909 | 433.298 | -26.867 | Spawner path: PirateWander | Spawner inactive on load; script activation required |
+| [Nimbus Rock (1250)](../locations/zone-1250.md) | -17.784 | 433.298 | -59.913 | Spawner path: PirateWander | Spawner inactive on load; script activation required |
+| [Nimbus Rock (1250)](../locations/zone-1250.md) | -12.531 | 432.806 | -75.584 | Spawner path: PirateGen | Spawner inactive on load; script activation required |
+| [Nimbus Rock (1250)](../locations/zone-1250.md) | -12.903 | 432.806 | -90.711 | Spawner path: PirateGen | Spawner inactive on load; script activation required |
+| [Nimbus Rock (1250)](../locations/zone-1250.md) | -5.421 | 432.806 | -83.22 | Spawner path: PirateGen | Spawner inactive on load; script activation required |

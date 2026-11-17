@@ -1,0 +1,42 @@
+# GF - Mushroom 2 - quest/objective source LOT 1806
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -107.471 | 318.134 | 422.51 | Scene nd&#95;gnarled&#95;forest&#95;4&#95;junctandprop.lvl (JunctAndProp), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -131.48 | 320.447 | 442.462 | Scene nd&#95;gnarled&#95;forest&#95;4&#95;junctandprop.lvl (JunctAndProp), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -107.21 | 323.343 | 491.849 | Scene nd&#95;gnarled&#95;forest&#95;4&#95;junctandprop.lvl (JunctAndProp), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -108.877 | 323.326 | 491.678 | Scene nd&#95;gnarled&#95;forest&#95;4&#95;junctandprop.lvl (JunctAndProp), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -107.471 | 318.134 | 422.51 | Scene nd&#95;gnarled&#95;forest&#95;4&#95;junctandprop.lvl (JunctAndProp), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -131.48 | 320.447 | 442.462 | Scene nd&#95;gnarled&#95;forest&#95;4&#95;junctandprop.lvl (JunctAndProp), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -107.21 | 323.343 | 491.849 | Scene nd&#95;gnarled&#95;forest&#95;4&#95;junctandprop.lvl (JunctAndProp), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -108.877 | 323.326 | 491.678 | Scene nd&#95;gnarled&#95;forest&#95;4&#95;junctandprop.lvl (JunctAndProp), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -7.511 | 286.185 | 277.413 | Scene nd&#95;gnarled&#95;forest&#95;5&#95;jail.lvl (Jail), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -3.025 | 282.263 | 219.163 | Scene nd&#95;gnarled&#95;forest&#95;5&#95;jail.lvl (Jail), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -7.511 | 286.185 | 277.413 | Scene nd&#95;gnarled&#95;forest&#95;5&#95;jail.lvl (Jail), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -3.025 | 282.263 | 219.163 | Scene nd&#95;gnarled&#95;forest&#95;5&#95;jail.lvl (Jail), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -185.6 | 302.125 | 391.2 | Scene nd&#95;gnarled&#95;forest&#95;7&#95;junction.lvl (Junction), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -183.717 | 302.255 | 390.73 | Scene nd&#95;gnarled&#95;forest&#95;7&#95;junction.lvl (Junction), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -185.6 | 302.125 | 391.2 | Scene nd&#95;gnarled&#95;forest&#95;7&#95;junction.lvl (Junction), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -183.717 | 302.255 | 390.73 | Scene nd&#95;gnarled&#95;forest&#95;7&#95;junction.lvl (Junction), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -464.445 | 252.316 | -458.972 | Scene nd&#95;gnarled&#95;forest&#95;9&#95;start.lvl (Start), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -405.426 | 254.595 | -439.887 | Scene nd&#95;gnarled&#95;forest&#95;9&#95;start.lvl (Start), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -494.579 | 262.443 | -411.244 | Scene nd&#95;gnarled&#95;forest&#95;9&#95;start.lvl (Start), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -457.112 | 266.4 | -365.723 | Scene nd&#95;gnarled&#95;forest&#95;9&#95;start.lvl (Start), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -455.711 | 266.565 | -367.353 | Scene nd&#95;gnarled&#95;forest&#95;9&#95;start.lvl (Start), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -464.445 | 252.316 | -458.972 | Scene nd&#95;gnarled&#95;forest&#95;9&#95;start.lvl (Start), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -405.426 | 254.595 | -439.887 | Scene nd&#95;gnarled&#95;forest&#95;9&#95;start.lvl (Start), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -494.579 | 262.443 | -411.244 | Scene nd&#95;gnarled&#95;forest&#95;9&#95;start.lvl (Start), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -457.112 | 266.4 | -365.723 | Scene nd&#95;gnarled&#95;forest&#95;9&#95;start.lvl (Start), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -455.711 | 266.565 | -367.353 | Scene nd&#95;gnarled&#95;forest&#95;9&#95;start.lvl (Start), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | 126.015 | 284.82 | 93.212 | Scene nd&#95;gnarled&#95;forest&#95;11&#95;shipandjail.lvl (ShipAndJail), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | 126.015 | 284.82 | 93.212 | Scene nd&#95;gnarled&#95;forest&#95;11&#95;shipandjail.lvl (ShipAndJail), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | 147.864 | 287.121 | -104.706 | Scene nd&#95;gnarled&#95;forest&#95;13&#95;abovegorrilla.lvl (AboveGorrilla), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | 147.864 | 287.121 | -104.706 | Scene nd&#95;gnarled&#95;forest&#95;13&#95;abovegorrilla.lvl (AboveGorrilla), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -372.912 | 300.659 | -17.472 | Scene nd&#95;gnarled&#95;forest&#95;15&#95;battle.lvl (Battle), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -372.912 | 300.659 | -17.472 | Scene nd&#95;gnarled&#95;forest&#95;15&#95;battle.lvl (Battle), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |

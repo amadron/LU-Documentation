@@ -1,0 +1,13 @@
+.venv/
+site-src/
+site/
+__pycache__/
+*.py[cod]
+/db/*.csv
+/db/*.md
+!/db/README.md
+!/db/Schema.md
+/LEGO Universe Item List.csv
+/LEGO Universe Item List.md
+/LEGO Universe NPC List.csv
+/LEGO Universe NPC List.md

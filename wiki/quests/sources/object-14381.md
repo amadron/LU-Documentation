@@ -1,0 +1,12 @@
+# Maelstrom Spider Queen - quest/objective source LOT 14381
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Spider Queen Battle (1102)](../locations/zone-1102.md) | -12.607 | 432.8 | -68.284 | Spawner path: SpiderBoss | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Block Yard (1150)](../locations/zone-1150.md) | -12.607 | 432.8 | -68.284 | Spawner path: SpiderBoss | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |

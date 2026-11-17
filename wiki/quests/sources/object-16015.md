@@ -1,0 +1,20 @@
+# Cole's Climbing Flag - quest/objective source LOT 16015
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -204.665 | 185.436 | 543.318 | Scene nd&#95;nj&#95;monastery&#95;4&#95;siegefieldc.lvl (SiegeFieldC), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 576.41 | 284.209 | 310.416 | Scene nd&#95;nj&#95;monastery&#95;15&#95;earthgate.lvl (EarthGate), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -852.691 | 299.826 | 314.459 | Scene nd&#95;nj&#95;monastery&#95;19&#95;lightninggate.lvl (LightningGate), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 783.454 | 288.249 | 133.013 | Scene nd&#95;nj&#95;monastery&#95;23&#95;icegate.lvl (IceGate), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -634.255 | 303.345 | 189.802 | Scene nd&#95;nj&#95;monastery&#95;27&#95;firegate.lvl (FireGate), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -92.251 | 240.537 | 24.283 | Scene nd&#95;nj&#95;monastery&#95;28&#95;storageroom.lvl (StorageRoom), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -217.625 | 125.977 | -417.733 | Scene nd&#95;nj&#95;monastery&#95;31&#95;cavesa.lvl (CavesA), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 89.818 | 201.786 | -448.011 | Scene nd&#95;nj&#95;monastery&#95;34&#95;cavesd.lvl (CavesD), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 241.703 | 235.876 | -75.707 | Scene nd&#95;nj&#95;monastery&#95;37&#95;cavesg.lvl (CavesG), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 373.314 | 187.17 | -95.784 | Scene nd&#95;nj&#95;monastery&#95;37&#95;cavesg.lvl (CavesG), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |

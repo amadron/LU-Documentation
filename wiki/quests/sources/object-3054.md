@@ -1,0 +1,15 @@
+# Cat Pet - quest/objective source LOT 3054
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+Item acquisition: [Cat Pet (LOT 3054)](../../items/3054.md).
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Pet Cove (1201)](../locations/zone-1201.md) | 160.701 | 184.288 | -20.586 | Scene nd&#95;ns&#95;pet&#95;ranch.lvl (Global Scene), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Pet Cove (1201)](../locations/zone-1201.md) | 168.855 | 182.625 | -36.52 | Scene nd&#95;ns&#95;pet&#95;ranch.lvl (Global Scene), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Pet Cove (1201)](../locations/zone-1201.md) | 170.094 | 183.429 | -10.717 | Scene nd&#95;ns&#95;pet&#95;ranch.lvl (Global Scene), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |

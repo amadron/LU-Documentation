@@ -1,0 +1,34 @@
+# Stromling Admiral — source LOT 6789
+
+[Item database](../README.md) | [Methodology](../Methodology.md)
+
+| Source use | Definition | Condition |
+| --- | --- | --- |
+| Drop | [Matrix 217](matrix-217.md) | DestructibleComponent 631; static component precedence |
+
+## Mapped placements and spawner waypoints
+
+These are static candidates, not a statement that every instance is currently spawned or reachable. Coordinates are map XYZ. Inactive spawners and feature gates are retained explicitly. Client-only objects are excluded. Scene/spawner records can overlap and are not an enemy-population count.
+
+| Zone | X | Y | Z | Scene / path | Conditions / stock override |
+| --- | --- | --- | --- | --- | --- |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | 186.148 | 260.867 | 188.074 | Spawner path: JailCaptain03 | No additional condition recorded |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | 192.178 | 262.72 | 186.471 | Spawner path: JailCaptain03 | No additional condition recorded |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | 188.741 | 252.899 | 253.888 | Spawner path: JailCaptain02 | No additional condition recorded |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | 191.299 | 251.907 | 249.485 | Spawner path: JailCaptain02 | No additional condition recorded |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | 96.171 | 263.345 | 290.052 | Spawner path: JailCaptain01 | No additional condition recorded |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | 92.54 | 264.249 | 294.289 | Spawner path: JailCaptain01 | No additional condition recorded |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -335.349 | 301.74 | 111.394 | Spawner path: BattleCaptain | No additional condition recorded |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -335.349 | 301.74 | 111.394 | Spawner path: BattleCaptain | No additional condition recorded |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -335.349 | 301.74 | 111.394 | Spawner path: BattleCaptain | No additional condition recorded |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -335.349 | 301.74 | 111.394 | Spawner path: BattleCaptain | No additional condition recorded |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | 186.148 | 260.867 | 188.074 | Spawner path: JailCaptain03 | No additional condition recorded |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | 192.178 | 262.72 | 186.471 | Spawner path: JailCaptain03 | No additional condition recorded |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | 188.741 | 252.899 | 253.888 | Spawner path: JailCaptain02 | No additional condition recorded |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | 191.299 | 251.907 | 249.485 | Spawner path: JailCaptain02 | No additional condition recorded |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | 96.171 | 263.345 | 290.052 | Spawner path: JailCaptain01 | No additional condition recorded |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | 92.54 | 264.249 | 294.289 | Spawner path: JailCaptain01 | No additional condition recorded |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -335.349 | 301.74 | 111.394 | Spawner path: BattleCaptain | No additional condition recorded |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -335.349 | 301.74 | 111.394 | Spawner path: BattleCaptain | No additional condition recorded |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -335.349 | 301.74 | 111.394 | Spawner path: BattleCaptain | No additional condition recorded |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -335.349 | 301.74 | 111.394 | Spawner path: BattleCaptain | No additional condition recorded |

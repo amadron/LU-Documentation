@@ -1,0 +1,151 @@
+# CDClient Database Export
+
+This folder contains CSV and Markdown exports of every table in the local `res\res\cdclient.fdb` snapshot. The FDB and source client files were read only. Each CSV retains the source table and column names; tables with zero records contain the header row only. Values are UTF-8 (source text decoded as Windows-1252), numeric formatting uses invariant culture, and empty CSV cells represent null or empty source values.
+
+Each Markdown file contains all rows from its corresponding CSV. Markdown and HTML special characters are escaped to display them as data, and line breaks inside cells are represented by `<br>`. Very large tables may exceed GitLab's rendering limits; use the CSV or raw Markdown view in that case.
+
+**137 tables · 418,262 rows** in this snapshot. Row counts are data rows, excluding CSV headers.
+
+For short descriptions and relationships between tables, see the [CDClient Table Reference](../LEGO%20Universe%20CDClient%20Table%20Reference.md) and [Data Model overview](../LEGO%20Universe%20Data%20Model%20and%20Public%20Research.md).
+
+For GM permissions, commands, and practical support workflows using these tables, see the [Gamemaster Guide](../server/DarkflameServer%20Gamemaster%20Guide.md).
+
+| Table | Rows | Columns | CSV data | Markdown table |
+|---|---:|---:|---|---|
+| `AccessoryDefaultLoc` | 170 | 8 | [AccessoryDefaultLoc.csv](AccessoryDefaultLoc.csv) | [AccessoryDefaultLoc.md](AccessoryDefaultLoc.md) |
+| `Activities` | 158 | 19 | [Activities.csv](Activities.csv) | [Activities.md](Activities.md) |
+| `ActivityRewards` | 291 | 7 | [ActivityRewards.csv](ActivityRewards.csv) | [ActivityRewards.md](ActivityRewards.md) |
+| `ActivityText` | 23 | 5 | [ActivityText.csv](ActivityText.csv) | [ActivityText.md](ActivityText.md) |
+| `AICombatRoles` | 117 | 6 | [AICombatRoles.csv](AICombatRoles.csv) | [AICombatRoles.md](AICombatRoles.md) |
+| `AnimationIndex` | 630 | 3 | [AnimationIndex.csv](AnimationIndex.csv) | [AnimationIndex.md](AnimationIndex.md) |
+| `Animations` | 7,615 | 13 | [Animations.csv](Animations.csv) | [Animations.md](Animations.md) |
+| `BaseCombatAIComponent` | 179 | 17 | [BaseCombatAIComponent.csv](BaseCombatAIComponent.csv) | [BaseCombatAIComponent.md](BaseCombatAIComponent.md) |
+| `BehaviorEffect` | 22,057 | 34 | [BehaviorEffect.csv](BehaviorEffect.csv) | [BehaviorEffect.md](BehaviorEffect.md) |
+| `BehaviorParameter` | 219,782 | 3 | [BehaviorParameter.csv](BehaviorParameter.csv) | [BehaviorParameter.md](BehaviorParameter.md) |
+| `BehaviorTemplate` | 41,126 | 4 | [BehaviorTemplate.csv](BehaviorTemplate.csv) | [BehaviorTemplate.md](BehaviorTemplate.md) |
+| `BehaviorTemplateName` | 65 | 2 | [BehaviorTemplateName.csv](BehaviorTemplateName.csv) | [BehaviorTemplateName.md](BehaviorTemplateName.md) |
+| `Blueprints` | 2 | 12 | [Blueprints.csv](Blueprints.csv) | [Blueprints.md](Blueprints.md) |
+| `brickAttributes` | 25 | 4 | [brickAttributes.csv](brickAttributes.csv) | [brickAttributes.md](brickAttributes.md) |
+| `BrickColors` | 53 | 10 | [BrickColors.csv](BrickColors.csv) | [BrickColors.md](BrickColors.md) |
+| `BrickIDTable` | 1,909 | 2 | [BrickIDTable.csv](BrickIDTable.csv) | [BrickIDTable.md](BrickIDTable.md) |
+| `BuffDefinitions` | 68 | 3 | [BuffDefinitions.csv](BuffDefinitions.csv) | [BuffDefinitions.md](BuffDefinitions.md) |
+| `BuffParameters` | 67 | 5 | [BuffParameters.csv](BuffParameters.csv) | [BuffParameters.md](BuffParameters.md) |
+| `Camera` | 16 | 60 | [Camera.csv](Camera.csv) | [Camera.md](Camera.md) |
+| `CelebrationParameters` | 14 | 30 | [CelebrationParameters.csv](CelebrationParameters.csv) | [CelebrationParameters.md](CelebrationParameters.md) |
+| `ChoiceBuildComponent` | 5 | 3 | [ChoiceBuildComponent.csv](ChoiceBuildComponent.csv) | [ChoiceBuildComponent.md](ChoiceBuildComponent.md) |
+| `CollectibleComponent` | 79 | 2 | [CollectibleComponent.csv](CollectibleComponent.csv) | [CollectibleComponent.md](CollectibleComponent.md) |
+| `ComponentsRegistry` | 42,521 | 3 | [ComponentsRegistry.csv](ComponentsRegistry.csv) | [ComponentsRegistry.md](ComponentsRegistry.md) |
+| `ControlSchemes` | 9 | 25 | [ControlSchemes.csv](ControlSchemes.csv) | [ControlSchemes.md](ControlSchemes.md) |
+| `CurrencyDenominations` | 9 | 2 | [CurrencyDenominations.csv](CurrencyDenominations.csv) | [CurrencyDenominations.md](CurrencyDenominations.md) |
+| `CurrencyTable` | 166 | 5 | [CurrencyTable.csv](CurrencyTable.csv) | [CurrencyTable.md](CurrencyTable.md) |
+| `DBExclude` | 104 | 2 | [DBExclude.csv](DBExclude.csv) | [DBExclude.md](DBExclude.md) |
+| `DeletionRestrictions` | 16 | 7 | [DeletionRestrictions.csv](DeletionRestrictions.csv) | [DeletionRestrictions.md](DeletionRestrictions.md) |
+| `DestructibleComponent` | 1,437 | 14 | [DestructibleComponent.csv](DestructibleComponent.csv) | [DestructibleComponent.md](DestructibleComponent.md) |
+| `DevModelBehaviors` | 0 | 2 | [DevModelBehaviors.csv](DevModelBehaviors.csv) | [DevModelBehaviors.md](DevModelBehaviors.md) |
+| `dtproperties` | 0 | 7 | [dtproperties.csv](dtproperties.csv) | [dtproperties.md](dtproperties.md) |
+| `Emotes` | 389 | 9 | [Emotes.csv](Emotes.csv) | [Emotes.md](Emotes.md) |
+| `EventGating` | 8 | 3 | [EventGating.csv](EventGating.csv) | [EventGating.md](EventGating.md) |
+| `ExhibitComponent` | 11 | 9 | [ExhibitComponent.csv](ExhibitComponent.csv) | [ExhibitComponent.md](ExhibitComponent.md) |
+| `Factions` | 66 | 5 | [Factions.csv](Factions.csv) | [Factions.md](Factions.md) |
+| `FeatureGating` | 35 | 5 | [FeatureGating.csv](FeatureGating.csv) | [FeatureGating.md](FeatureGating.md) |
+| `FlairTable` | 59 | 2 | [FlairTable.csv](FlairTable.csv) | [FlairTable.md](FlairTable.md) |
+| `Icons` | 3,279 | 3 | [Icons.csv](Icons.csv) | [Icons.md](Icons.md) |
+| `InventoryComponent` | 1,292 | 4 | [InventoryComponent.csv](InventoryComponent.csv) | [InventoryComponent.md](InventoryComponent.md) |
+| `ItemComponent` | 7,405 | 42 | [ItemComponent.csv](ItemComponent.csv) | [ItemComponent.md](ItemComponent.md) |
+| `ItemEggData` | 3 | 2 | [ItemEggData.csv](ItemEggData.csv) | [ItemEggData.md](ItemEggData.md) |
+| `ItemFoodData` | 0 | 9 | [ItemFoodData.csv](ItemFoodData.csv) | [ItemFoodData.md](ItemFoodData.md) |
+| `ItemSets` | 49 | 15 | [ItemSets.csv](ItemSets.csv) | [ItemSets.md](ItemSets.md) |
+| `ItemSetSkills` | 322 | 3 | [ItemSetSkills.csv](ItemSetSkills.csv) | [ItemSetSkills.md](ItemSetSkills.md) |
+| `JetPackPadComponent` | 4 | 6 | [JetPackPadComponent.csv](JetPackPadComponent.csv) | [JetPackPadComponent.md](JetPackPadComponent.md) |
+| `LanguageType` | 1 | 2 | [LanguageType.csv](LanguageType.csv) | [LanguageType.md](LanguageType.md) |
+| `LevelProgressionLookup` | 85 | 3 | [LevelProgressionLookup.csv](LevelProgressionLookup.csv) | [LevelProgressionLookup.md](LevelProgressionLookup.md) |
+| `LootMatrix` | 2,675 | 9 | [LootMatrix.csv](LootMatrix.csv) | [LootMatrix.md](LootMatrix.md) |
+| `LootMatrixIndex` | 581 | 2 | [LootMatrixIndex.csv](LootMatrixIndex.csv) | [LootMatrixIndex.md](LootMatrixIndex.md) |
+| `LootTable` | 6,519 | 5 | [LootTable.csv](LootTable.csv) | [LootTable.md](LootTable.md) |
+| `LootTableIndex` | 756 | 1 | [LootTableIndex.csv](LootTableIndex.csv) | [LootTableIndex.md](LootTableIndex.md) |
+| `LUPExhibitComponent` | 1 | 7 | [LUPExhibitComponent.csv](LUPExhibitComponent.csv) | [LUPExhibitComponent.md](LUPExhibitComponent.md) |
+| `LUPExhibitModelData` | 4 | 6 | [LUPExhibitModelData.csv](LUPExhibitModelData.csv) | [LUPExhibitModelData.md](LUPExhibitModelData.md) |
+| `LUPZoneIDs` | 5 | 1 | [LUPZoneIDs.csv](LUPZoneIDs.csv) | [LUPZoneIDs.md](LUPZoneIDs.md) |
+| `map_BlueprintCategory` | 1 | 3 | [map_BlueprintCategory.csv](map_BlueprintCategory.csv) | [map_BlueprintCategory.md](map_BlueprintCategory.md) |
+| `mapAnimationPriorities` | 12 | 3 | [mapAnimationPriorities.csv](mapAnimationPriorities.csv) | [mapAnimationPriorities.md](mapAnimationPriorities.md) |
+| `mapAssetType` | 11 | 4 | [mapAssetType.csv](mapAssetType.csv) | [mapAssetType.md](mapAssetType.md) |
+| `mapIcon` | 2,224 | 3 | [mapIcon.csv](mapIcon.csv) | [mapIcon.md](mapIcon.md) |
+| `mapItemTypes` | 23 | 3 | [mapItemTypes.csv](mapItemTypes.csv) | [mapItemTypes.md](mapItemTypes.md) |
+| `mapRenderEffects` | 13 | 3 | [mapRenderEffects.csv](mapRenderEffects.csv) | [mapRenderEffects.md](mapRenderEffects.md) |
+| `mapShaders` | 100 | 4 | [mapShaders.csv](mapShaders.csv) | [mapShaders.md](mapShaders.md) |
+| `mapTextureResource` | 80 | 3 | [mapTextureResource.csv](mapTextureResource.csv) | [mapTextureResource.md](mapTextureResource.md) |
+| `MinifigComponent` | 580 | 13 | [MinifigComponent.csv](MinifigComponent.csv) | [MinifigComponent.md](MinifigComponent.md) |
+| `MinifigDecals_Eyebrows` | 52 | 6 | [MinifigDecals_Eyebrows.csv](MinifigDecals_Eyebrows.csv) | [MinifigDecals_Eyebrows.md](MinifigDecals_Eyebrows.md) |
+| `MinifigDecals_Eyes` | 51 | 6 | [MinifigDecals_Eyes.csv](MinifigDecals_Eyes.csv) | [MinifigDecals_Eyes.md](MinifigDecals_Eyes.md) |
+| `MinifigDecals_Legs` | 136 | 2 | [MinifigDecals_Legs.csv](MinifigDecals_Legs.csv) | [MinifigDecals_Legs.md](MinifigDecals_Legs.md) |
+| `MinifigDecals_Mouths` | 61 | 6 | [MinifigDecals_Mouths.csv](MinifigDecals_Mouths.csv) | [MinifigDecals_Mouths.md](MinifigDecals_Mouths.md) |
+| `MinifigDecals_Torsos` | 480 | 5 | [MinifigDecals_Torsos.csv](MinifigDecals_Torsos.csv) | [MinifigDecals_Torsos.md](MinifigDecals_Torsos.md) |
+| `MissionEmail` | 272 | 8 | [MissionEmail.csv](MissionEmail.csv) | [MissionEmail.md](MissionEmail.md) |
+| `MissionNPCComponent` | 917 | 5 | [MissionNPCComponent.csv](MissionNPCComponent.csv) | [MissionNPCComponent.md](MissionNPCComponent.md) |
+| `Missions` | 1,427 | 52 | [Missions.csv](Missions.csv) | [Missions.md](Missions.md) |
+| `MissionTasks` | 1,804 | 13 | [MissionTasks.csv](MissionTasks.csv) | [MissionTasks.md](MissionTasks.md) |
+| `MissionText` | 1,430 | 33 | [MissionText.csv](MissionText.csv) | [MissionText.md](MissionText.md) |
+| `ModelBehavior` | 6 | 2 | [ModelBehavior.csv](ModelBehavior.csv) | [ModelBehavior.md](ModelBehavior.md) |
+| `ModularBuildComponent` | 4 | 8 | [ModularBuildComponent.csv](ModularBuildComponent.csv) | [ModularBuildComponent.md](ModularBuildComponent.md) |
+| `ModuleComponent` | 387 | 6 | [ModuleComponent.csv](ModuleComponent.csv) | [ModuleComponent.md](ModuleComponent.md) |
+| `MotionFX` | 6 | 10 | [MotionFX.csv](MotionFX.csv) | [MotionFX.md](MotionFX.md) |
+| `MovementAIComponent` | 98 | 8 | [MovementAIComponent.csv](MovementAIComponent.csv) | [MovementAIComponent.md](MovementAIComponent.md) |
+| `MovingPlatforms` | 41 | 8 | [MovingPlatforms.csv](MovingPlatforms.csv) | [MovingPlatforms.md](MovingPlatforms.md) |
+| `NpcIcons` | 154 | 15 | [NpcIcons.csv](NpcIcons.csv) | [NpcIcons.md](NpcIcons.md) |
+| `ObjectBehaviors` | 3 | 2 | [ObjectBehaviors.csv](ObjectBehaviors.csv) | [ObjectBehaviors.md](ObjectBehaviors.md) |
+| `ObjectBehaviorXREF` | 0 | 7 | [ObjectBehaviorXREF.csv](ObjectBehaviorXREF.csv) | [ObjectBehaviorXREF.md](ObjectBehaviorXREF.md) |
+| `Objects` | 12,985 | 14 | [Objects.csv](Objects.csv) | [Objects.md](Objects.md) |
+| `ObjectSkills` | 3,951 | 4 | [ObjectSkills.csv](ObjectSkills.csv) | [ObjectSkills.md](ObjectSkills.md) |
+| `PackageComponent` | 159 | 3 | [PackageComponent.csv](PackageComponent.csv) | [PackageComponent.md](PackageComponent.md) |
+| `PetAbilities` | 4 | 4 | [PetAbilities.csv](PetAbilities.csv) | [PetAbilities.md](PetAbilities.md) |
+| `PetComponent` | 35 | 15 | [PetComponent.csv](PetComponent.csv) | [PetComponent.md](PetComponent.md) |
+| `PetNestComponent` | 1 | 2 | [PetNestComponent.csv](PetNestComponent.csv) | [PetNestComponent.md](PetNestComponent.md) |
+| `PhysicsComponent` | 6,749 | 16 | [PhysicsComponent.csv](PhysicsComponent.csv) | [PhysicsComponent.md](PhysicsComponent.md) |
+| `PlayerFlags` | 415 | 4 | [PlayerFlags.csv](PlayerFlags.csv) | [PlayerFlags.md](PlayerFlags.md) |
+| `PlayerStatistics` | 27 | 4 | [PlayerStatistics.csv](PlayerStatistics.csv) | [PlayerStatistics.md](PlayerStatistics.md) |
+| `PossessableComponent` | 11 | 15 | [PossessableComponent.csv](PossessableComponent.csv) | [PossessableComponent.md](PossessableComponent.md) |
+| `Preconditions` | 333 | 10 | [Preconditions.csv](Preconditions.csv) | [Preconditions.md](Preconditions.md) |
+| `PropertyEntranceComponent` | 12 | 5 | [PropertyEntranceComponent.csv](PropertyEntranceComponent.csv) | [PropertyEntranceComponent.md](PropertyEntranceComponent.md) |
+| `PropertyTemplate` | 73 | 20 | [PropertyTemplate.csv](PropertyTemplate.csv) | [PropertyTemplate.md](PropertyTemplate.md) |
+| `ProximityMonitorComponent` | 40 | 4 | [ProximityMonitorComponent.csv](ProximityMonitorComponent.csv) | [ProximityMonitorComponent.md](ProximityMonitorComponent.md) |
+| `ProximityTypes` | 8 | 8 | [ProximityTypes.csv](ProximityTypes.csv) | [ProximityTypes.md](ProximityTypes.md) |
+| `RacingModuleComponent` | 57 | 6 | [RacingModuleComponent.csv](RacingModuleComponent.csv) | [RacingModuleComponent.md](RacingModuleComponent.md) |
+| `RailActivatorComponent` | 11 | 16 | [RailActivatorComponent.csv](RailActivatorComponent.csv) | [RailActivatorComponent.md](RailActivatorComponent.md) |
+| `RarityTable` | 54 | 4 | [RarityTable.csv](RarityTable.csv) | [RarityTable.md](RarityTable.md) |
+| `RarityTableIndex` | 26 | 1 | [RarityTableIndex.csv](RarityTableIndex.csv) | [RarityTableIndex.md](RarityTableIndex.md) |
+| `RebuildComponent` | 227 | 10 | [RebuildComponent.csv](RebuildComponent.csv) | [RebuildComponent.md](RebuildComponent.md) |
+| `RebuildSections` | 99 | 13 | [RebuildSections.csv](RebuildSections.csv) | [RebuildSections.md](RebuildSections.md) |
+| `Release_Version` | 126 | 2 | [Release_Version.csv](Release_Version.csv) | [Release_Version.md](Release_Version.md) |
+| `RenderComponent` | 13,690 | 28 | [RenderComponent.csv](RenderComponent.csv) | [RenderComponent.md](RenderComponent.md) |
+| `RenderComponentFlash` | 74 | 7 | [RenderComponentFlash.csv](RenderComponentFlash.csv) | [RenderComponentFlash.md](RenderComponentFlash.md) |
+| `RenderComponentWrapper` | 2 | 2 | [RenderComponentWrapper.csv](RenderComponentWrapper.csv) | [RenderComponentWrapper.md](RenderComponentWrapper.md) |
+| `RenderIconAssets` | 897 | 3 | [RenderIconAssets.csv](RenderIconAssets.csv) | [RenderIconAssets.md](RenderIconAssets.md) |
+| `ReputationRewards` | 0 | 3 | [ReputationRewards.csv](ReputationRewards.csv) | [ReputationRewards.md](ReputationRewards.md) |
+| `RewardCodes` | 78 | 5 | [RewardCodes.csv](RewardCodes.csv) | [RewardCodes.md](RewardCodes.md) |
+| `Rewards` | 10 | 6 | [Rewards.csv](Rewards.csv) | [Rewards.md](Rewards.md) |
+| `RocketLaunchpadControlComponent` | 36 | 13 | [RocketLaunchpadControlComponent.csv](RocketLaunchpadControlComponent.csv) | [RocketLaunchpadControlComponent.md](RocketLaunchpadControlComponent.md) |
+| `SceneTable` | 61 | 2 | [SceneTable.csv](SceneTable.csv) | [SceneTable.md](SceneTable.md) |
+| `ScriptComponent` | 1,484 | 3 | [ScriptComponent.csv](ScriptComponent.csv) | [ScriptComponent.md](ScriptComponent.md) |
+| `SkillBehavior` | 1,521 | 19 | [SkillBehavior.csv](SkillBehavior.csv) | [SkillBehavior.md](SkillBehavior.md) |
+| `SmashableChain` | 4 | 9 | [SmashableChain.csv](SmashableChain.csv) | [SmashableChain.md](SmashableChain.md) |
+| `SmashableChainIndex` | 1 | 4 | [SmashableChainIndex.csv](SmashableChainIndex.csv) | [SmashableChainIndex.md](SmashableChainIndex.md) |
+| `SmashableComponent` | 5 | 2 | [SmashableComponent.csv](SmashableComponent.csv) | [SmashableComponent.md](SmashableComponent.md) |
+| `SmashableElements` | 775 | 2 | [SmashableElements.csv](SmashableElements.csv) | [SmashableElements.md](SmashableElements.md) |
+| `SpeedchatMenu` | 64 | 7 | [SpeedchatMenu.csv](SpeedchatMenu.csv) | [SpeedchatMenu.md](SpeedchatMenu.md) |
+| `SubscriptionPricing` | 3 | 7 | [SubscriptionPricing.csv](SubscriptionPricing.csv) | [SubscriptionPricing.md](SubscriptionPricing.md) |
+| `SurfaceType` | 15 | 2 | [SurfaceType.csv](SurfaceType.csv) | [SurfaceType.md](SurfaceType.md) |
+| `sysdiagrams` | 1 | 5 | [sysdiagrams.csv](sysdiagrams.csv) | [sysdiagrams.md](sysdiagrams.md) |
+| `TamingBuildPuzzles` | 30 | 13 | [TamingBuildPuzzles.csv](TamingBuildPuzzles.csv) | [TamingBuildPuzzles.md](TamingBuildPuzzles.md) |
+| `TextDescription` | 0 | 2 | [TextDescription.csv](TextDescription.csv) | [TextDescription.md](TextDescription.md) |
+| `TextLanguage` | 0 | 3 | [TextLanguage.csv](TextLanguage.csv) | [TextLanguage.md](TextLanguage.md) |
+| `TrailEffects` | 9 | 26 | [TrailEffects.csv](TrailEffects.csv) | [TrailEffects.md](TrailEffects.md) |
+| `UGBehaviorSounds` | 21 | 5 | [UGBehaviorSounds.csv](UGBehaviorSounds.csv) | [UGBehaviorSounds.md](UGBehaviorSounds.md) |
+| `VehiclePhysics` | 28 | 103 | [VehiclePhysics.csv](VehiclePhysics.csv) | [VehiclePhysics.md](VehiclePhysics.md) |
+| `VehicleStatMap` | 12 | 4 | [VehicleStatMap.csv](VehicleStatMap.csv) | [VehicleStatMap.md](VehicleStatMap.md) |
+| `VendorComponent` | 92 | 5 | [VendorComponent.csv](VendorComponent.csv) | [VendorComponent.md](VendorComponent.md) |
+| `WhatsCoolItemSpotlight` | 88 | 5 | [WhatsCoolItemSpotlight.csv](WhatsCoolItemSpotlight.csv) | [WhatsCoolItemSpotlight.md](WhatsCoolItemSpotlight.md) |
+| `WhatsCoolNewsAndTips` | 83 | 6 | [WhatsCoolNewsAndTips.csv](WhatsCoolNewsAndTips.csv) | [WhatsCoolNewsAndTips.md](WhatsCoolNewsAndTips.md) |
+| `WorldConfig` | 1 | 57 | [WorldConfig.csv](WorldConfig.csv) | [WorldConfig.md](WorldConfig.md) |
+| `ZoneLoadingTips` | 35 | 8 | [ZoneLoadingTips.csv](ZoneLoadingTips.csv) | [ZoneLoadingTips.md](ZoneLoadingTips.md) |
+| `ZoneSummary` | 48 | 4 | [ZoneSummary.csv](ZoneSummary.csv) | [ZoneSummary.md](ZoneSummary.md) |
+| `ZoneTable` | 1,056 | 27 | [ZoneTable.csv](ZoneTable.csv) | [ZoneTable.md](ZoneTable.md) |

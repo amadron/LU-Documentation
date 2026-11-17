@@ -1,0 +1,30 @@
+# Spawner - Imagination Powerup 1 point — source LOT 1656
+
+[Item database](../README.md) | [Methodology](../Methodology.md)
+
+| Source use | Definition | Condition |
+| --- | --- | --- |
+| Drop | [Matrix 36](matrix-36.md) | DestructibleComponent 26; static component precedence |
+
+## Mapped placements and spawner waypoints
+
+These are static candidates, not a statement that every instance is currently spawned or reachable. Coordinates are map XYZ. Inactive spawners and feature gates are retained explicitly. Client-only objects are excluded. Scene/spawner records can overlap and are not an enemy-population count.
+
+| Zone | X | Y | Z | Scene / path | Conditions / stock override |
+| --- | --- | --- | --- | --- | --- |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 61.037 | 473.793 | 252.74 | Scene nd&#95;avant&#95;gardens&#95;3&#95;monument.lvl (Monument); LOT 176 spawner | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 70.013 | 473.793 | 258.055 | Scene nd&#95;avant&#95;gardens&#95;3&#95;monument.lvl (Monument); LOT 176 spawner | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 76.322 | 473.793 | 247.886 | Scene nd&#95;avant&#95;gardens&#95;3&#95;monument.lvl (Monument); LOT 176 spawner | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 68.027 | 473.793 | 242.245 | Scene nd&#95;avant&#95;gardens&#95;3&#95;monument.lvl (Monument); LOT 176 spawner | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 186.813 | 479.014 | 285.013 | Scene nd&#95;avant&#95;gardens&#95;3&#95;monument.lvl (Monument); LOT 176 spawner | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 50.738 | 521.093 | 311.568 | Scene nd&#95;avant&#95;gardens&#95;3&#95;monument.lvl (Monument); LOT 176 spawner | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 71.287 | 464.183 | 346.409 | Scene nd&#95;avant&#95;gardens&#95;3&#95;monument.lvl (Monument); LOT 176 spawner | No additional condition recorded |
+| [Pet Cove (1201)](../locations/zone-1201.md) | 57.342 | 224.161 | -129.073 | Scene nd&#95;ns&#95;pet&#95;ranch.lvl (Global Scene); LOT 176 spawner | No additional condition recorded |
+| [Pet Cove (1201)](../locations/zone-1201.md) | 57.342 | 211.149 | -129.073 | Scene nd&#95;ns&#95;pet&#95;ranch.lvl (Global Scene); LOT 176 spawner | No additional condition recorded |
+| [Pet Cove (1201)](../locations/zone-1201.md) | 57.342 | 199.617 | -129.073 | Scene nd&#95;ns&#95;pet&#95;ranch.lvl (Global Scene); LOT 176 spawner | No additional condition recorded |
+| [Pet Cove (1201)](../locations/zone-1201.md) | 43.364 | 222.306 | -118.293 | Scene nd&#95;ns&#95;pet&#95;ranch.lvl (Global Scene); LOT 176 spawner | No additional condition recorded |
+| [Pet Cove (1201)](../locations/zone-1201.md) | 64.059 | 222.486 | -108.259 | Scene nd&#95;ns&#95;pet&#95;ranch.lvl (Global Scene); LOT 176 spawner | No additional condition recorded |
+| [Pet Cove (1201)](../locations/zone-1201.md) | 43.364 | 209.294 | -118.293 | Scene nd&#95;ns&#95;pet&#95;ranch.lvl (Global Scene); LOT 176 spawner | No additional condition recorded |
+| [Pet Cove (1201)](../locations/zone-1201.md) | 63.918 | 209.474 | -108.272 | Scene nd&#95;ns&#95;pet&#95;ranch.lvl (Global Scene); LOT 176 spawner | No additional condition recorded |
+| [Pet Cove (1201)](../locations/zone-1201.md) | 42.672 | 197.762 | -118.508 | Scene nd&#95;ns&#95;pet&#95;ranch.lvl (Global Scene); LOT 176 spawner | No additional condition recorded |
+| [Pet Cove (1201)](../locations/zone-1201.md) | 63.571 | 197.942 | -108.277 | Scene nd&#95;ns&#95;pet&#95;ranch.lvl (Global Scene); LOT 176 spawner | No additional condition recorded |

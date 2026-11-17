@@ -1,0 +1,11 @@
+# Sentinel Faction Token - quest/objective source LOT 8319
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+Item acquisition: [Sentinel Faction Token (LOT 8319)](../../items/8319.md).
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+No placement was found in successfully parsed maps with an exact ZoneTable asset-path match. Scripted, missing, or unused content remains possible.

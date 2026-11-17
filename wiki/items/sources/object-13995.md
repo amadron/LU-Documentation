@@ -1,0 +1,23 @@
+# Bone Wolf — source LOT 13995
+
+[Item database](../README.md) | [Methodology](../Methodology.md)
+
+| Source use | Definition | Condition |
+| --- | --- | --- |
+| Drop | [Matrix 761](matrix-761.md) | DestructibleComponent 1899; static component precedence |
+
+## Mapped placements and spawner waypoints
+
+These are static candidates, not a statement that every instance is currently spawned or reachable. Coordinates are map XYZ. Inactive spawners and feature gates are retained explicitly. Client-only objects are excluded. Scene/spawner records can overlap and are not an enemy-population count.
+
+| Zone | X | Y | Z | Scene / path | Conditions / stock override |
+| --- | --- | --- | --- | --- | --- |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -185.668 | 79.307 | -509.84 | Spawner path: Caves&#95;Wolves&#95;01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -198.406 | 79.307 | -409.813 | Spawner path: Caves&#95;Wolves&#95;01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -297.314 | 79.307 | -383.621 | Spawner path: Caves&#95;Wolves&#95;01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 41.206 | 171.184 | -406.473 | Spawner path: Caves&#95;Wolves&#95;02 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 61.952 | 170.871 | -268.341 | Spawner path: Caves&#95;Wolves&#95;02 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -42.256 | 170.871 | -280.031 | Spawner path: Caves&#95;Wolves&#95;02 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 332.772 | 153.625 | -163.046 | Spawner path: Caves&#95;Wolves&#95;03 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 261.72 | 153.625 | -224.237 | Spawner path: Caves&#95;Wolves&#95;03 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 244.849 | 153.625 | -145.484 | Spawner path: Caves&#95;Wolves&#95;03 | No additional condition recorded |

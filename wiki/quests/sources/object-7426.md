@@ -1,0 +1,13 @@
+# Numb Chuck - Paradox Agent - quest/objective source LOT 7426
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+Associated quest/achievement definitions: [The Way of the Dragon &#91;513&#93;](../513.md); [Quest 689 &#91;689&#93;](../689.md); [Quest 735 &#91;735&#93;](../735.md); [Quest 899 &#91;899&#93;](../899.md); [Secrets are Safe &#91;1175&#93;](../1175.md).
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Forbidden Valley (1400)](../locations/zone-1400.md) | -174.081 | 479.708 | -117.228 | Scene nd&#95;forbidden&#95;valley&#95;2&#95;tree.lvl (Tree), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |

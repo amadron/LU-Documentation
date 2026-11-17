@@ -1,0 +1,39 @@
+# Stromling Admiral — source LOT 10379
+
+[Item database](../README.md) | [Methodology](../Methodology.md)
+
+| Source use | Definition | Condition |
+| --- | --- | --- |
+| Drop | [Matrix 439](matrix-439.md) | DestructibleComponent 1551; static component precedence |
+
+## Mapped placements and spawner waypoints
+
+These are static candidates, not a statement that every instance is currently spawned or reachable. Coordinates are map XYZ. Inactive spawners and feature gates are retained explicitly. Client-only objects are excluded. Scene/spawner records can overlap and are not an enemy-population count.
+
+| Zone | X | Y | Z | Scene / path | Conditions / stock override |
+| --- | --- | --- | --- | --- | --- |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -14.005 | 432.798 | -91.292 | Spawner path: AdmiralsGen | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -1.418 | 432.798 | -86.947 | Spawner path: AdmiralsGen | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | 31.627 | 432.798 | -79.293 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | 28.768 | 432.798 | -40.044 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -45.459 | 432.798 | -53.312 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -32.991 | 432.798 | -87.735 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -22.924 | 432.798 | -100.617 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | 19.854 | 432.798 | -94.706 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | 6.403 | 432.798 | -62.68 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | -19.654 | 432.798 | -66.043 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Nimbus Isle (1251)](../locations/zone-1251.md) | -19.733 | 455.499 | 53.807 | Spawner path: Admirals | Spawner inactive on load; script activation required |
+| [Nimbus Isle (1251)](../locations/zone-1251.md) | -1.989 | 455.499 | 43.687 | Spawner path: Admirals | Spawner inactive on load; script activation required |
+| [Nimbus Isle (1251)](../locations/zone-1251.md) | 55.554 | 455.499 | 82.06 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Nimbus Isle (1251)](../locations/zone-1251.md) | 35.978 | 455.499 | 92.643 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Nimbus Isle (1251)](../locations/zone-1251.md) | 42.277 | 455.499 | 120.139 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Nimbus Isle (1251)](../locations/zone-1251.md) | 50.8 | 455.499 | 136.646 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Nimbus Isle (1251)](../locations/zone-1251.md) | 13.192 | 455.499 | 129.97 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Nimbus Isle (1251)](../locations/zone-1251.md) | -26.254 | 455.499 | 118.203 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Nimbus Isle (1251)](../locations/zone-1251.md) | -32.712 | 455.499 | 98.486 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Nimbus Isle (1251)](../locations/zone-1251.md) | -58.335 | 455.499 | 105.877 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Nimbus Isle (1251)](../locations/zone-1251.md) | -16.875 | 455.499 | 104.968 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Nimbus Isle (1251)](../locations/zone-1251.md) | 15.541 | 455.499 | 119.857 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Nimbus Isle (1251)](../locations/zone-1251.md) | 19.784 | 455.499 | 81.331 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Nimbus Isle (1251)](../locations/zone-1251.md) | -38.419 | 455.499 | 75.058 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |
+| [Nimbus Isle (1251)](../locations/zone-1251.md) | -62.318 | 455.499 | 46.463 | Spawner path: AdmiralsWander | Spawner inactive on load; script activation required |

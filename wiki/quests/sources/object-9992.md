@@ -1,0 +1,15 @@
+# FV - Johnny Thunder Collectable Spawner - quest/objective source LOT 9992
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Forbidden Valley (1400)](../locations/zone-1400.md) | 249.748 | 252.048 | -315.686 | Scene nd&#95;forbidden&#95;valley&#95;3&#95;gate.lvl (Gate), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Forbidden Valley (1400)](../locations/zone-1400.md) | -233.079 | 365.39 | 305.215 | Scene nd&#95;forbidden&#95;valley&#95;7&#95;temple2.lvl (Temple2), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Forbidden Valley (1400)](../locations/zone-1400.md) | -574.144 | 182.419 | 113.821 | Scene nd&#95;forbidden&#95;valley&#95;9&#95;temple3.lvl (Temple3), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Forbidden Valley (1400)](../locations/zone-1400.md) | -591.191 | 90.17 | -209.069 | Scene nd&#95;forbidden&#95;valley&#95;10&#95;paradox.lvl (Paradox), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Forbidden Valley (1400)](../locations/zone-1400.md) | -636.143 | -42.523 | -464.807 | Scene nd&#95;forbidden&#95;valley&#95;10&#95;paradox.lvl (Paradox), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |

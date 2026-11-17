@@ -1,0 +1,22 @@
+# Skunk Pet - quest/objective source LOT 3261
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+Item acquisition: [Skunk Pet (LOT 3261)](../../items/3261.md).
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Nimbus Station (1200)](../locations/zone-1200.md) | 113.139 | 292.979 | -133.454 | Spawner path: Pet&#95;Skunk | Automatic spawning disabled; trigger/script may be required |
+| [Nimbus Station (1200)](../locations/zone-1200.md) | 60.088 | 292.98 | -24.79 | Spawner path: Pet&#95;Skunk | Automatic spawning disabled; trigger/script may be required |
+| [Nimbus Station (1200)](../locations/zone-1200.md) | -66.315 | 291.629 | -4.075 | Spawner path: Pet&#95;Skunk | Automatic spawning disabled; trigger/script may be required |
+| [Nimbus Station (1200)](../locations/zone-1200.md) | -130.089 | 291.949 | -76.68 | Spawner path: Pet&#95;Skunk | Automatic spawning disabled; trigger/script may be required |
+| [Nimbus Station (1200)](../locations/zone-1200.md) | -129.7 | 295.029 | -170.958 | Spawner path: Pet&#95;Skunk | Automatic spawning disabled; trigger/script may be required |
+| [Nimbus Station (1200)](../locations/zone-1200.md) | -82.66 | 292.979 | -229.544 | Spawner path: Pet&#95;Skunk | Automatic spawning disabled; trigger/script may be required |
+| [Nimbus Station (1200)](../locations/zone-1200.md) | -10.619 | 292.981 | -241.564 | Spawner path: Pet&#95;Skunk | Automatic spawning disabled; trigger/script may be required |
+| [Nimbus Station (1200)](../locations/zone-1200.md) | -105.376 | 322.443 | 161.302 | Spawner path: Pet&#95;Skunk | Automatic spawning disabled; trigger/script may be required |
+| [Nimbus Station (1200)](../locations/zone-1200.md) | -113.129 | 341.372 | 232.396 | Spawner path: Pet&#95;Skunk | Automatic spawning disabled; trigger/script may be required |
+| [Nimbus Station (1200)](../locations/zone-1200.md) | 116.788 | 310.283 | 85.199 | Spawner path: Pet&#95;Skunk | Automatic spawning disabled; trigger/script may be required |

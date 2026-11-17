@@ -1,0 +1,14 @@
+# Red Dragon Pet - quest/objective source LOT 5639
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+Item acquisition: [Red Dragon Pet (LOT 5639)](../../items/5639.md).
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Forbidden Valley (1400)](../locations/zone-1400.md) | -561.533 | 87.371 | -203.284 | Spawner path: Pet&#95;Dragon&#95;2 | Automatic spawning disabled; trigger/script may be required |
+| [Forbidden Valley (1400)](../locations/zone-1400.md) | -569.319 | 87.944 | -213.515 | Spawner path: Pet&#95;Dragon&#95;2 | Automatic spawning disabled; trigger/script may be required |

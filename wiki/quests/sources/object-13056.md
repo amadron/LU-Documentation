@@ -1,0 +1,20 @@
+# CP - Collectable Scroll Spawner - quest/objective source LOT 13056
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -200.063 | 72.172 | 392.38 | Scene nd&#95;aura&#95;mar&#95;2&#95;startarearight.lvl (StartAreaRight), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 72.132 | 68.09 | 54.373 | Scene nd&#95;aura&#95;mar&#95;4&#95;centerzipper.lvl (CenterZipper), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -106.296 | 75.629 | 225.955 | Scene nd&#95;aura&#95;mar&#95;6&#95;startertoskull.lvl (StarterToSkull), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -147.546 | 72.484 | 36.697 | Scene nd&#95;aura&#95;mar&#95;6&#95;startertoskull.lvl (StarterToSkull), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -332 | 67.6 | -146 | Scene nd&#95;aura&#95;mar&#95;10&#95;pitd.lvl (PitD), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | -82.02 | 59.748 | -453.782 | Scene nd&#95;aura&#95;mar&#95;12&#95;skullkinb.lvl (SkullkinB), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 270.111 | 94.2 | 253.194 | Scene nd&#95;aura&#95;mar&#95;18&#95;fingersa.lvl (FingersA), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 118.338 | 68.092 | 371.586 | Scene nd&#95;aura&#95;mar&#95;20&#95;trappednpc.lvl (TrappedNPC), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 341.669 | 78.91 | -110.748 | Scene nd&#95;aura&#95;mar&#95;23&#95;fingersd.lvl (FingersD), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 181.959 | 76.967 | -63.101 | Scene nd&#95;aura&#95;mar&#95;23&#95;fingersd.lvl (FingersD), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |

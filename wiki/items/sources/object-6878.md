@@ -1,0 +1,22 @@
+# GF - QB Non-Smash Wall — source LOT 6878
+
+[Item database](../README.md) | [Methodology](../Methodology.md)
+
+| Source use | Definition | Condition |
+| --- | --- | --- |
+| Drop | [Matrix 36](matrix-36.md) | Requires scene is&#95;smashable; see individual placements. |
+
+## Mapped placements and spawner waypoints
+
+These are static candidates, not a statement that every instance is currently spawned or reachable. Coordinates are map XYZ. Inactive spawners and feature gates are retained explicitly. Client-only objects are excluded. Scene/spawner records can overlap and are not an enemy-population count.
+
+| Zone | X | Y | Z | Scene / path | Conditions / stock override |
+| --- | --- | --- | --- | --- | --- |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 771.225 | 61.123 | 62.819 | Scene nd&#95;aura&#95;mar&#95;27&#95;teethb.lvl (TeethB); LOT 176 spawner | Feature gate: auramarruins |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 796.418 | 58.137 | 71.104 | Scene nd&#95;aura&#95;mar&#95;27&#95;teethb.lvl (TeethB); LOT 176 spawner | Feature gate: auramarruins |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 822.574 | 55.451 | 80.077 | Scene nd&#95;aura&#95;mar&#95;27&#95;teethb.lvl (TeethB); LOT 176 spawner | Feature gate: auramarruins |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 845.834 | 52.965 | 88.839 | Scene nd&#95;aura&#95;mar&#95;27&#95;teethb.lvl (TeethB); LOT 176 spawner | Feature gate: auramarruins |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 781.228 | 61.465 | 41.694 | Scene nd&#95;aura&#95;mar&#95;27&#95;teethb.lvl (TeethB); LOT 176 spawner | Feature gate: auramarruins |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 804.083 | 58.151 | 51.462 | Scene nd&#95;aura&#95;mar&#95;27&#95;teethb.lvl (TeethB); LOT 176 spawner | Feature gate: auramarruins |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 829.823 | 55.337 | 61.568 | Scene nd&#95;aura&#95;mar&#95;27&#95;teethb.lvl (TeethB); LOT 176 spawner | Feature gate: auramarruins |
+| [Crux Prime (1800)](../locations/zone-1800.md) | 854.63 | 51.922 | 70.944 | Scene nd&#95;aura&#95;mar&#95;27&#95;teethb.lvl (TeethB); LOT 176 spawner | Feature gate: auramarruins |

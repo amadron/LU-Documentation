@@ -1,0 +1,25 @@
+# NT Treasure Chest Collectable Spawner - quest/objective source LOT 12405
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Nexus Tower (1900)](../locations/zone-1900.md) | -701.819 | 1152.986 | 37.899 | Scene nd&#95;nexus&#95;tower&#95;1&#95;subscene&#95;1.lvl (Subscene 1), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Nexus Tower (1900)](../locations/zone-1900.md) | -464.131 | 1130.131 | 21.59 | Scene nd&#95;nexus&#95;tower&#95;2&#95;subscene&#95;2.lvl (Subscene 2), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Nexus Tower (1900)](../locations/zone-1900.md) | -444.801 | 1150.876 | -214.344 | Scene nd&#95;nexus&#95;tower&#95;3&#95;subscene&#95;3.lvl (Subscene 3), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Nexus Tower (1900)](../locations/zone-1900.md) | -208.222 | 1144.351 | -358.839 | Scene nd&#95;nexus&#95;tower&#95;10&#95;subscene&#95;10.lvl (Subscene 10), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Nexus Tower (1900)](../locations/zone-1900.md) | 75.178 | 1207.919 | -69.556 | Scene nd&#95;nexus&#95;tower&#95;15&#95;subscene&#95;15.lvl (Subscene 15), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Nexus Tower (1900)](../locations/zone-1900.md) | -128.551 | 1146.415 | -157.514 | Scene nd&#95;nexus&#95;tower&#95;18&#95;subscene&#95;18.lvl (Subscene 18), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Nexus Tower (1900)](../locations/zone-1900.md) | 56.488 | 1164.974 | 342.357 | Scene nd&#95;nexus&#95;tower&#95;21&#95;subscene&#95;21.lvl (Subscene 21), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Nexus Tower (1900)](../locations/zone-1900.md) | -58.283 | 1168.147 | 210.973 | Scene nd&#95;nexus&#95;tower&#95;23&#95;subscene&#95;23.lvl (Subscene 23), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Nexus Tower (1900)](../locations/zone-1900.md) | -304.798 | 1081.235 | 380.281 | Scene nd&#95;nexus&#95;tower&#95;29&#95;subscene&#95;29.lvl (Subscene 29), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Nexus Tower (1900)](../locations/zone-1900.md) | -419.749 | 1078.752 | 390.597 | Scene nd&#95;nexus&#95;tower&#95;31&#95;subscene&#95;31.lvl (Subscene 31), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Nexus Tower (1900)](../locations/zone-1900.md) | -361.426 | 1159.242 | 7.768 | Scene nd&#95;nexus&#95;tower&#95;35&#95;subscene&#95;35.lvl (Subscene 35), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Nexus Tower (1900)](../locations/zone-1900.md) | -371.254 | 1138.065 | 112.375 | Scene nd&#95;nexus&#95;tower&#95;36&#95;subscene&#95;36.lvl (Subscene 36), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Nexus Tower (1900)](../locations/zone-1900.md) | -161.21 | 1139.645 | 149.349 | Scene nd&#95;nexus&#95;tower&#95;37&#95;subscene&#95;37.lvl (Subscene 37), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Nexus Tower (1900)](../locations/zone-1900.md) | -268.035 | 1172.029 | -36.173 | Scene nd&#95;nexus&#95;tower&#95;38&#95;subscene&#95;38.lvl (Subscene 38), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Nexus Tower (1900)](../locations/zone-1900.md) | -278.894 | 1120.392 | 469.219 | Scene nd&#95;nexus&#95;tower&#95;57&#95;subscene&#95;57.lvl (Subscene 57), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |

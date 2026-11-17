@@ -1,0 +1,66 @@
+{
+  "generated": "2026-11-17T09:32:48.349Z",
+  "itemCount": 6832,
+  "withClientDescription": 2628,
+  "withoutObjectRow": 357,
+  "withMatrixAssociation": 4609,
+  "withRewardAssociation": 696,
+  "withCommunityReferences": 647,
+  "sourceMatrices": 559,
+  "sourceLots": 1181,
+  "mapFiles": 39,
+  "matchedMapFiles": 34,
+  "parsedLevels": 536,
+  "failedLevels": 0,
+  "invalidPlacementRecords": 1,
+  "invalidPlacements": [
+    {
+      "lot": "5632",
+      "zone": "1601",
+      "origin": "Scene wbl_deep_freeze_intro.lvl (Global Scene)",
+      "xyz": [
+        "NaN",
+        "NaN",
+        "NaN"
+      ],
+      "reason": "Non-finite source coordinates; placement excluded, remaining level objects retained"
+    }
+  ],
+  "directObjects": 10760,
+  "spawnerWaypointRecords": 4494,
+  "excludedClientOnly": 1122,
+  "mappedSourceLots": 510,
+  "invalidGenericMatrices": 54,
+  "matrixItemRateRows": 87033,
+  "unresolvedMatrixDefinitions": [
+    "36",
+    "828",
+    "209",
+    "359"
+  ],
+  "publicPages": 17,
+  "publicResearchFailures": [],
+  "mapErrors": [],
+  "unmatchedMaps": [
+    {
+      "file": "maps/01_live_maps/gnarled_forest/survival/nd_gf_survival_trench.luz",
+      "embeddedID": "58001"
+    },
+    {
+      "file": "maps/earthgauntlet/earthgauntlet.luz",
+      "embeddedID": "2100"
+    },
+    {
+      "file": "maps/earthgauntlet/nd_nj_earth.luz",
+      "embeddedID": "2100"
+    },
+    {
+      "file": "maps/seasonal_live maps/december/ns_winter_racetrack/nd_nimbus_station_winter-racetrack.luz",
+      "embeddedID": "1261"
+    },
+    {
+      "file": "maps/seasonal_live maps/december/winter_celebrity_property/ns_property_large_winter.luz",
+      "embeddedID": "1260"
+    }
+  ]
+}

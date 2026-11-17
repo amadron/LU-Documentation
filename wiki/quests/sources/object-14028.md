@@ -1,0 +1,24 @@
+# Skeleton Marksman - quest/objective source LOT 14028
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -476.367 | 163.221 | 690.818 | Spawner path: Siegefield&#95;Special&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -495.616 | 163.221 | 661.425 | Spawner path: Siegefield&#95;Special&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -395.589 | 163.221 | 640.388 | Spawner path: Siegefield&#95;Special&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -335.357 | 163.221 | 547.362 | Spawner path: Siegefield&#95;Special&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -319.573 | 163.721 | 665.683 | Spawner path: Siegefield&#95;Special&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -200.344 | 163.721 | 613.951 | Spawner path: Siegefield&#95;Special&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -333.272 | 163.221 | 740.852 | Spawner path: Siegefield&#95;Special&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 394.605 | 163.221 | 710.496 | Spawner path: Siegefield&#95;Special&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 377.063 | 163.221 | 735.959 | Spawner path: Siegefield&#95;Special&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 330.921 | 163.221 | 624.614 | Spawner path: Siegefield&#95;Special&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 285.449 | 163.221 | 526.948 | Spawner path: Siegefield&#95;Special&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 262.576 | 163.721 | 621.108 | Spawner path: Siegefield&#95;Special&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 108.358 | 163.721 | 633.721 | Spawner path: Siegefield&#95;Special&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 217.565 | 163.721 | 507.805 | Spawner path: Siegefield&#95;Special&#95;02 | Automatic spawning disabled; trigger/script may be required |

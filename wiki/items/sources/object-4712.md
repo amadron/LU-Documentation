@@ -1,0 +1,99 @@
+# Stromling — source LOT 4712
+
+[Item database](../README.md) | [Methodology](../Methodology.md)
+
+| Source use | Definition | Condition |
+| --- | --- | --- |
+| Drop | [Matrix 160](matrix-160.md) | DestructibleComponent 489; static component precedence |
+
+## Mapped placements and spawner waypoints
+
+These are static candidates, not a statement that every instance is currently spawned or reachable. Coordinates are map XYZ. Inactive spawners and feature gates are retained explicitly. Client-only objects are excluded. Scene/spawner records can overlap and are not an enemy-population count.
+
+| Zone | X | Y | Z | Scene / path | Conditions / stock override |
+| --- | --- | --- | --- | --- | --- |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -210.382 | 354.88 | -382.873 | Spawner path: Battle&#95;Mobs&#95;01 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -182.576 | 354.018 | -387.227 | Spawner path: Battle&#95;Mobs&#95;01 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -190.93 | 356.957 | -354.933 | Spawner path: Battle&#95;Mobs&#95;01 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -196.594 | 353.851 | -337.26 | Spawner path: Battle&#95;Mobs&#95;01 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -205.493 | 355.181 | -350.962 | Spawner path: Battle&#95;Mobs&#95;01 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -177.672 | 355.417 | -378.692 | Spawner path: Battle&#95;Mobs&#95;02 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -184.021 | 357.066 | -414.333 | Spawner path: Battle&#95;Mobs&#95;02 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -200.758 | 356.65 | -420.622 | Spawner path: Battle&#95;Mobs&#95;02 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -217.598 | 355.817 | -377.304 | Spawner path: Battle&#95;Mobs&#95;02 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -249.862 | 362.234 | -383.366 | Spawner path: Battle&#95;Mobs&#95;03 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -249.391 | 365.27 | -399.726 | Spawner path: Battle&#95;Mobs&#95;03 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -238.469 | 359.65 | -391.158 | Spawner path: Battle&#95;Mobs&#95;03 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -183.774 | 353.453 | -270.536 | Spawner path: Battle&#95;Mobs&#95;04 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -169.281 | 352.021 | -251.789 | Spawner path: Battle&#95;Mobs&#95;04 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -147.379 | 352.562 | -245.296 | Spawner path: Battle&#95;Mobs&#95;04 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -63.307 | 357.08 | -272.031 | Spawner path: Battle&#95;Mobs&#95;04 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -47.931 | 359.24 | -277.353 | Spawner path: Battle&#95;Mobs&#95;04 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -56.878 | 359.087 | -286.98 | Spawner path: Battle&#95;Mobs&#95;04 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -128.963 | 353.511 | -254.495 | Spawner path: Battle&#95;Mobs&#95;04 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -144.794 | 353.72 | -255.65 | Spawner path: Battle&#95;Mobs&#95;04 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -157.87 | 354.593 | -260.212 | Spawner path: Battle&#95;Mobs&#95;04 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -170.752 | 353.697 | -268.987 | Spawner path: Battle&#95;Mobs&#95;04 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -174.632 | 354.414 | -286.372 | Spawner path: Battle&#95;Mobs&#95;04 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -45.562 | 365.362 | -323.77 | Spawner path: Battle&#95;Mobs&#95;05 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -48.389 | 365.604 | -340.81 | Spawner path: Battle&#95;Mobs&#95;05 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -36.054 | 365.864 | -353.476 | Spawner path: Battle&#95;Mobs&#95;05 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -17.834 | 365.698 | -346.17 | Spawner path: Battle&#95;Mobs&#95;05 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -6.516 | 365.604 | -322.34 | Spawner path: Battle&#95;Mobs&#95;05 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -17.609 | 365.739 | -308.428 | Spawner path: Battle&#95;Mobs&#95;05 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -33.79 | 364.839 | -316.686 | Spawner path: Battle&#95;Mobs&#95;05 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -46.398 | 369.122 | -414.301 | Spawner path: Battle&#95;Mobs&#95;06 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -39.68 | 369.02 | -416.88 | Spawner path: Battle&#95;Mobs&#95;06 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -34.534 | 369.22 | -412.382 | Spawner path: Battle&#95;Mobs&#95;06 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -21.492 | 369.386 | -395.243 | Spawner path: Battle&#95;Mobs&#95;06 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -52.373 | 368.808 | -363.987 | Spawner path: Battle&#95;Mobs&#95;06 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -62.457 | 368.935 | -381.963 | Spawner path: Battle&#95;Mobs&#95;06 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -45.143 | 366.815 | -372.716 | Spawner path: Battle&#95;Mobs&#95;07 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 30.082 | 370.016 | -372.268 | Spawner path: Battle&#95;Mobs&#95;07 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 16.575 | 367.419 | -353.756 | Spawner path: Battle&#95;Mobs&#95;07 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -11.994 | 365.338 | -349.884 | Spawner path: Battle&#95;Mobs&#95;07 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -30.282 | 365.643 | -361.644 | Spawner path: Battle&#95;Mobs&#95;07 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 41.763 | 367.861 | -336.548 | Spawner path: Battle&#95;Mobs&#95;08 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 57.527 | 367.858 | -331.114 | Spawner path: Battle&#95;Mobs&#95;08 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 27.852 | 367.896 | -327.226 | Spawner path: Battle&#95;Mobs&#95;08 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 16.819 | 367.858 | -333.648 | Spawner path: Battle&#95;Mobs&#95;08 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 24.095 | 368.162 | -351.799 | Spawner path: Battle&#95;Mobs&#95;08 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 35.423 | 367.866 | -345.725 | Spawner path: Battle&#95;Mobs&#95;08 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 31.079 | 366.818 | -254.597 | Spawner path: Battle&#95;Mobs&#95;09 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 5.206 | 366.742 | -227.913 | Spawner path: Battle&#95;Mobs&#95;09 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 12.576 | 366.817 | -210.594 | Spawner path: Battle&#95;Mobs&#95;09 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -3.107 | 366.823 | -200.716 | Spawner path: Battle&#95;Mobs&#95;09 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 16.956 | 366.817 | -185.118 | Spawner path: Battle&#95;Mobs&#95;09 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 12.082 | 366.82 | -167.933 | Spawner path: Battle&#95;Mobs&#95;09 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 29.707 | 366.93 | -147.228 | Spawner path: Battle&#95;Mobs&#95;09 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 44.692 | 367.5 | -188.173 | Spawner path: Battle&#95;Mobs&#95;09 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 30.081 | 366.818 | -208.715 | Spawner path: Battle&#95;Mobs&#95;09 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 46.797 | 367.431 | -220.271 | Spawner path: Battle&#95;Mobs&#95;09 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 31.425 | 366.818 | -232.322 | Spawner path: Battle&#95;Mobs&#95;09 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 74.674 | 375.782 | -249.046 | Spawner path: Battle&#95;Mobs&#95;10 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 61.749 | 373.295 | -230.325 | Spawner path: Battle&#95;Mobs&#95;10 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 62.697 | 373.481 | -184.101 | Spawner path: Battle&#95;Mobs&#95;10 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 74.342 | 375.32 | -163.349 | Spawner path: Battle&#95;Mobs&#95;10 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 82.404 | 374.867 | -176.735 | Spawner path: Battle&#95;Mobs&#95;10 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 75.114 | 374.785 | -189.804 | Spawner path: Battle&#95;Mobs&#95;10 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 82.639 | 375.148 | -203.247 | Spawner path: Battle&#95;Mobs&#95;10 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | 75.847 | 374.142 | -216.349 | Spawner path: Battle&#95;Mobs&#95;10 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -31.766 | 358.172 | -200.954 | Spawner path: Battle&#95;Mobs&#95;11 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -28.388 | 359.854 | -168.511 | Spawner path: Battle&#95;Mobs&#95;11 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -12.369 | 359.193 | -144.761 | Spawner path: Battle&#95;Mobs&#95;11 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -37.083 | 358.761 | -139.717 | Spawner path: Battle&#95;Mobs&#95;11 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -57.994 | 360.18 | -171.003 | Spawner path: Battle&#95;Mobs&#95;11 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -59.748 | 358.17 | -190.233 | Spawner path: Battle&#95;Mobs&#95;11 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -9.244 | 359.355 | -135.16 | Spawner path: Battle&#95;Mobs&#95;12 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -22.466 | 360.007 | -166.397 | Spawner path: Battle&#95;Mobs&#95;12 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -45.892 | 359.191 | -171.427 | Spawner path: Battle&#95;Mobs&#95;12 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -26.776 | 358.391 | -124.863 | Spawner path: Battle&#95;Mobs&#95;12 | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -74.919 | 331.403 | 3.791 | Spawner path: SpiderEntance&#95;Strom | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -97.78 | 331.403 | 21.97 | Spawner path: SpiderEntance&#95;Strom | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -65.148 | 331.403 | 31.619 | Spawner path: SpiderEntance&#95;Strom | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -101.476 | 331.403 | 47.258 | Spawner path: SpiderEntance&#95;Strom | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -103.074 | 331.656 | 81.333 | Spawner path: SpiderEntance&#95;Strom | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -128.063 | 331.54 | 49.178 | Spawner path: SpiderEntance&#95;Strom | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -126.234 | 331.403 | 26.797 | Spawner path: SpiderEntance&#95;Strom | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -142.571 | 331.49 | 17.364 | Spawner path: SpiderEntance&#95;Strom | No additional condition recorded |
+| [Avant Gardens (1100)](../locations/zone-1100.md) | -104.66 | 331.403 | 2.367 | Spawner path: SpiderEntance&#95;Strom | No additional condition recorded |

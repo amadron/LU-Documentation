@@ -1,0 +1,25 @@
+# Skeleton Commando - quest/objective source LOT 14026
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -299.35 | 163.221 | 639.942 | Spawner path: Siegefield&#95;Sergeants&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -376.07 | 163.221 | 538.563 | Spawner path: Siegefield&#95;Sergeants&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -450.404 | 163.221 | 648.87 | Spawner path: Siegefield&#95;Sergeants&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 302.798 | 163.221 | 660.4 | Spawner path: Siegefield&#95;Sergeants&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 395.544 | 163.221 | 662.232 | Spawner path: Siegefield&#95;Sergeants&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 278.381 | 163.221 | 584.54 | Spawner path: Siegefield&#95;Sergeants&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -305.569 | 163.721 | 823.399 | Spawner path: SF&#95;Tower&#95;Privates&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -251.917 | 163.721 | 861.722 | Spawner path: SF&#95;Tower&#95;Privates&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -245.867 | 163.721 | 803.612 | Spawner path: SF&#95;Tower&#95;Privates&#95;01 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -208.537 | 163.221 | 715.191 | Spawner path: SF&#95;Tower&#95;Privates&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -144.014 | 163.221 | 697.222 | Spawner path: SF&#95;Tower&#95;Privates&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -191.813 | 163.221 | 666.148 | Spawner path: SF&#95;Tower&#95;Privates&#95;02 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 231.709 | 163.721 | 699.252 | Spawner path: SF&#95;Tower&#95;Privates&#95;03 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 287.733 | 163.721 | 724.968 | Spawner path: SF&#95;Tower&#95;Privates&#95;03 | Automatic spawning disabled; trigger/script may be required |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 238.872 | 163.721 | 747.312 | Spawner path: SF&#95;Tower&#95;Privates&#95;03 | Automatic spawning disabled; trigger/script may be required |

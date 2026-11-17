@@ -1,0 +1,13 @@
+# Epsilon Starcracker - Nexus Force Scout — source LOT 8223
+
+[Item database](../README.md) | [Methodology](../Methodology.md)
+
+Associated through a mission NPC or scene inventory override rather than a resolved matrix.
+
+## Mapped placements and spawner waypoints
+
+These are static candidates, not a statement that every instance is currently spawned or reachable. Coordinates are map XYZ. Inactive spawners and feature gates are retained explicitly. Client-only objects are excluded. Scene/spawner records can overlap and are not an enemy-population count.
+
+| Zone | X | Y | Z | Scene / path | Conditions / stock override |
+| --- | --- | --- | --- | --- | --- |
+| [Return to the Venture Explorer (1001)](../locations/zone-1001.md) | -201.263 | 608.274 | 46.122 | Scene nd&#95;space&#95;ship&#95;battle&#95;instance.lvl (Global Scene); LOT 176 spawner | No additional condition recorded |

@@ -1,0 +1,46 @@
+# Skeleton Blacksmith — source LOT 14024
+
+[Item database](../README.md) | [Methodology](../Methodology.md)
+
+| Source use | Definition | Condition |
+| --- | --- | --- |
+| Drop | [Matrix 881](matrix-881.md) | DestructibleComponent 1910; static component precedence |
+
+## Mapped placements and spawner waypoints
+
+These are static candidates, not a statement that every instance is currently spawned or reachable. Coordinates are map XYZ. Inactive spawners and feature gates are retained explicitly. Client-only objects are excluded. Scene/spawner records can overlap and are not an enemy-population count.
+
+| Zone | X | Y | Z | Scene / path | Conditions / stock override |
+| --- | --- | --- | --- | --- | --- |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -383.357 | 163.6 | 768.551 | Spawner path: Siegefield&#95;Charging01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -346.315 | 164.1 | 830.353 | Spawner path: Siegefield&#95;Charging01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -241.881 | 164 | 879.093 | Spawner path: Siegefield&#95;Charging01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -181.548 | 164.2 | 849.814 | Spawner path: Siegefield&#95;Charging01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -139.088 | 163.721 | 811.132 | Spawner path: Siegefield&#95;Charging01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 56.523 | 164.4 | 777.015 | Spawner path: Siegefield&#95;Charging01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 148.372 | 164.4 | 750.661 | Spawner path: Siegefield&#95;Charging01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 197.938 | 163.721 | 697.483 | Spawner path: Siegefield&#95;Charging01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 321.782 | 163.721 | 708.094 | Spawner path: Siegefield&#95;Charging01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 438.438 | 164 | 699.379 | Spawner path: Siegefield&#95;Charging01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -201.288 | 163.221 | 777.38 | Spawner path: Siegefield&#95;Privates&#95;01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -215.908 | 163.221 | 766.784 | Spawner path: Siegefield&#95;Privates&#95;01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -185.002 | 163.221 | 834.883 | Spawner path: Siegefield&#95;Privates&#95;01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -210.54 | 163.221 | 889.115 | Spawner path: Siegefield&#95;Privates&#95;01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -260.95 | 163.221 | 724.759 | Spawner path: Siegefield&#95;Privates&#95;01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -256.61 | 163.221 | 658.364 | Spawner path: Siegefield&#95;Privates&#95;01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -403.128 | 163.221 | 809.35 | Spawner path: Siegefield&#95;Privates&#95;01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -374.171 | 163.221 | 822.9 | Spawner path: Siegefield&#95;Privates&#95;01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -342.857 | 163.221 | 661.582 | Spawner path: Siegefield&#95;Privates&#95;01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | -433.395 | 163.221 | 642.389 | Spawner path: Siegefield&#95;Privates&#95;01 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 71.372 | 163.221 | 621.718 | Spawner path: Siegefield&#95;Privates&#95;02 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 105.223 | 163.221 | 592.544 | Spawner path: Siegefield&#95;Privates&#95;02 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 121.279 | 163.221 | 604.745 | Spawner path: Siegefield&#95;Privates&#95;02 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 149.69 | 163.221 | 697.554 | Spawner path: Siegefield&#95;Privates&#95;02 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 169.001 | 163.221 | 730.997 | Spawner path: Siegefield&#95;Privates&#95;02 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 88.642 | 163.221 | 715.88 | Spawner path: Siegefield&#95;Privates&#95;02 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 78.463 | 163.221 | 768.093 | Spawner path: Siegefield&#95;Privates&#95;02 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 85.288 | 163.221 | 663.593 | Spawner path: Siegefield&#95;Privates&#95;02 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 133.476 | 163.221 | 664.996 | Spawner path: Siegefield&#95;Privates&#95;02 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 142.192 | 163.221 | 780.968 | Spawner path: Siegefield&#95;Privates&#95;02 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 362.867 | 163.221 | 689.306 | Spawner path: Siegefield&#95;Privates&#95;02 | No additional condition recorded |
+| [Ninjago Monastery (2000)](../locations/zone-2000.md) | 263.093 | 163.221 | 544.859 | Spawner path: Siegefield&#95;Privates&#95;02 | No additional condition recorded |

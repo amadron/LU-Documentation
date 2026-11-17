@@ -1,0 +1,15 @@
+# pink and purple moving platform - quest/objective source LOT 10703
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Avant Grove (1151)](../locations/zone-1151.md) | 8.658 | 455.067 | -149.693 | Spawner path: ClaimMarker | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Raven Bluff (1450)](../locations/zone-1450.md) | -11.04 | 468.898 | -108.56 | Spawner path: Platform | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Chantey Shanty (1350)](../locations/zone-1350.md) | 3.845 | 432.798 | -91.932 | Spawner path: BehavPlat | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Nimbus Rock (1250)](../locations/zone-1250.md) | -24.919 | 432.798 | -82.629 | Spawner path: ClaimMarker | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Nimbus Isle (1251)](../locations/zone-1251.md) | 1.549 | 492.5 | 48.256 | Spawner path: ClaimMarker | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |

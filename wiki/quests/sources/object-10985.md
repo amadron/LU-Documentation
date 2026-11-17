@@ -1,0 +1,15 @@
+# Starbase 3001 - Johnny Thunder Collectable Spawner - quest/objective source LOT 10985
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Starbase 3001 (1600)](../locations/zone-1600.md) | -46.236 | 1530.967 | 215.943 | Scene nd&#95;starbase3001.lvl (Global Scene), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Starbase 3001 (1600)](../locations/zone-1600.md) | 10.925 | 1533.1 | 118.07 | Scene nd&#95;starbase3001.lvl (Global Scene), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Starbase 3001 (1600)](../locations/zone-1600.md) | 122.71 | 1559.229 | 223.086 | Scene nd&#95;starbase3001.lvl (Global Scene), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Starbase 3001 (1600)](../locations/zone-1600.md) | 92.726 | 1528.195 | 104.486 | Scene nd&#95;starbase3001.lvl (Global Scene), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |
+| [Starbase 3001 (1600)](../locations/zone-1600.md) | 52.627 | 1545.069 | -173.548 | Scene nd&#95;starbase3001.lvl (Global Scene), layer 0; LOT 176 spawner | Automatic spawning disabled; trigger/script may be required |

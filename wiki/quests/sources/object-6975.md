@@ -1,0 +1,31 @@
+# Stromling Admiral - quest/objective source LOT 6975
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | -73.399 | 307.323 | -19.141 | Spawner path: Base&#95;MobB | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | -79.708 | 308.443 | -37.32 | Spawner path: Base&#95;MobB | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | -39.107 | 311.552 | 63.609 | Spawner path: Base&#95;MobB | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | -33.238 | 310.416 | 75.379 | Spawner path: Base&#95;MobB | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | 25.188 | 308.964 | 86.608 | Spawner path: Base&#95;MobB | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | 7.303 | 308.872 | 87.788 | Spawner path: Base&#95;MobB | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | 18.102 | 309.257 | 89.689 | Spawner path: MobB&#95;01 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | -26.466 | 311.083 | 75.316 | Spawner path: MobB&#95;01 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | -36.043 | 312.09 | 67.349 | Spawner path: MobB&#95;01 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | -1.869 | 309.726 | 84.013 | Spawner path: MobB&#95;01 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | 26.791 | 309.089 | 82.614 | Spawner path: MobB&#95;01 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | -70.338 | 316.011 | -3.936 | Spawner path: MobB&#95;02 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | -80.412 | 305.06 | -27.244 | Spawner path: MobB&#95;02 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | -73.655 | 312.791 | -11.673 | Spawner path: MobB&#95;02 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | -83.969 | 305.847 | -34.46 | Spawner path: MobB&#95;02 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | -76.305 | 306.132 | -20.036 | Spawner path: MobB&#95;02 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | 114.417 | 302.895 | -50.379 | Spawner path: MobB&#95;03 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | 107.345 | 302.27 | -57.179 | Spawner path: MobB&#95;03 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | 101.021 | 301.93 | -70.446 | Spawner path: MobB&#95;03 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | 105.755 | 302.57 | -64.986 | Spawner path: MobB&#95;03 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Survival (1301)](../locations/zone-1301.md) | 114.336 | 303.862 | -43.29 | Spawner path: MobB&#95;03 | Spawner inactive on load; Automatic spawning disabled; trigger/script may be required |

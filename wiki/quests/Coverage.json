@@ -1,0 +1,141 @@
+{
+  "generated": "2026-11-17T09:49:07.652Z",
+  "definitions": 1427,
+  "quests": 682,
+  "achievements": 745,
+  "taskRows": 1804,
+  "attachedTaskRows": 1800,
+  "orphanTasks": [
+    {
+      "id": "959",
+      "locStatus": "2",
+      "taskType": "3",
+      "target": "12050",
+      "targetGroup": "",
+      "targetValue": "5",
+      "taskParam1": "",
+      "largeTaskIcon": "",
+      "IconID": "2988",
+      "uid": "1392",
+      "largeTaskIconID": "0",
+      "localize": "True",
+      "gate_version": "nexustower"
+    },
+    {
+      "id": "989",
+      "locStatus": "2",
+      "taskType": "4",
+      "target": "6014",
+      "targetGroup": "",
+      "targetValue": "1",
+      "taskParam1": "",
+      "largeTaskIcon": "",
+      "IconID": "2912",
+      "uid": "1424",
+      "largeTaskIconID": "2912",
+      "localize": "False",
+      "gate_version": "nexustower"
+    },
+    {
+      "id": "990",
+      "locStatus": "2",
+      "taskType": "4",
+      "target": "9680",
+      "targetGroup": "",
+      "targetValue": "1",
+      "taskParam1": "",
+      "largeTaskIcon": "",
+      "IconID": "3190",
+      "uid": "1425",
+      "largeTaskIconID": "3171",
+      "localize": "False",
+      "gate_version": "nexustower"
+    },
+    {
+      "id": "1405",
+      "locStatus": "2",
+      "taskType": "23",
+      "target": "",
+      "targetGroup": "8167,8165,7857,7860,7861,7862,8163",
+      "targetValue": "10",
+      "taskParam1": "17",
+      "largeTaskIcon": "",
+      "IconID": "0",
+      "uid": "1937",
+      "largeTaskIconID": "0",
+      "localize": "True",
+      "gate_version": "nexustower"
+    }
+  ],
+  "definitionsWithCommunityAssociation": 409,
+  "definitionsWithSingleCandidateTitle": 406,
+  "researchedPublicPages": 757,
+  "parsedPublicInfoboxes": 982,
+  "ambiguousPublicInfoboxes": 93,
+  "definitionsWithMappedGiver": 681,
+  "definitionsWithAnyLocationEvidence": 1022,
+  "relatedSourceLots": 1083,
+  "linkedItemRewardSlots": 1861,
+  "explorationKeysWithMappedTriggers": 22,
+  "mapFiles": 39,
+  "matchedMapFiles": 34,
+  "parsedLevels": 536,
+  "mapErrors": [],
+  "clientOnlyExcluded": 1122,
+  "invalidCoordinates": 1,
+  "invalidPositionDetails": [
+    {
+      "lot": "5632",
+      "zone": "1601",
+      "origin": "Scene wbl_deep_freeze_intro.lvl (Global Scene), layer 0",
+      "reason": "Non-finite source coordinates; placement excluded"
+    }
+  ],
+  "unmatchedMaps": [
+    {
+      "file": "maps/01_live_maps/gnarled_forest/survival/nd_gf_survival_trench.luz",
+      "embeddedID": "58001"
+    },
+    {
+      "file": "maps/earthgauntlet/earthgauntlet.luz",
+      "embeddedID": "2100"
+    },
+    {
+      "file": "maps/earthgauntlet/nd_nj_earth.luz",
+      "embeddedID": "2100"
+    },
+    {
+      "file": "maps/seasonal_live maps/december/ns_winter_racetrack/nd_nimbus_station_winter-racetrack.luz",
+      "embeddedID": "1261"
+    },
+    {
+      "file": "maps/seasonal_live maps/december/winter_celebrity_property/ns_property_large_winter.luz",
+      "embeddedID": "1260"
+    }
+  ],
+  "missingPrerequisites": [],
+  "taskTypeCounts": {
+    "0": 459,
+    "1": 164,
+    "2": 133,
+    "3": 57,
+    "4": 142,
+    "5": 7,
+    "9": 3,
+    "10": 91,
+    "11": 268,
+    "12": 79,
+    "14": 31,
+    "15": 23,
+    "16": 130,
+    "17": 5,
+    "21": 6,
+    "22": 38,
+    "23": 85,
+    "24": 60,
+    "25": 4,
+    "27": 4,
+    "30": 9,
+    "32": 6
+  }
+}

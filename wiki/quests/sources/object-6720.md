@@ -1,0 +1,48 @@
+# Warthog Pet - quest/objective source LOT 6720
+
+[Quest database](../README.md) | [Methodology](../Methodology.md)
+
+Item acquisition: [Warthog Pet (LOT 6720)](../../items/6720.md).
+
+## Candidate placements / spawner waypoints
+
+Coordinates are static map XYZ, not confirmed live NPC positions. Multiple scene objects and waypoints may refer to a shared spawn mechanism; counts are not population estimates. Feature gates and disabled auto-spawning are retained, and client-only objects are excluded.
+
+| Zone | X | Y | Z | Origin | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -185.905 | 309.328 | 315.435 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -211.539 | 309.594 | 274.129 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -213.787 | 309.731 | 271.841 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -217.481 | 309.497 | 268.105 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | 129.197 | 296.839 | -43.525 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | 151.452 | 290.698 | -67.818 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | 163.013 | 285.615 | -97.143 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | 160.918 | 285.444 | -96.863 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | 178.512 | 281.575 | -106.671 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -459.336 | 251.188 | -447.944 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -449.226 | 250.569 | -438.714 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -460.282 | 250.651 | -433.79 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -474.876 | 251.572 | -440.932 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -456.663 | 250.551 | -435.722 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -210.256 | 309.763 | 276.045 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -223.26 | 309.605 | 280.399 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -232.511 | 309.801 | 272.733 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest Deep Dive Map (375)](../locations/zone-375.md) | -183.96 | 309.128 | 316.835 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -185.905 | 309.328 | 315.435 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -211.539 | 309.594 | 274.129 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -213.787 | 309.731 | 271.841 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -217.481 | 309.497 | 268.105 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | 129.197 | 296.839 | -43.525 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | 151.452 | 290.698 | -67.818 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | 163.013 | 285.615 | -97.143 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | 160.918 | 285.444 | -96.863 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | 178.512 | 281.575 | -106.671 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -459.336 | 251.188 | -447.944 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -449.226 | 250.569 | -438.714 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -460.282 | 250.651 | -433.79 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -474.876 | 251.572 | -440.932 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -456.663 | 250.551 | -435.722 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -210.256 | 309.763 | 276.045 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -223.26 | 309.605 | 280.399 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -232.511 | 309.801 | 272.733 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
+| [Gnarled Forest (1300)](../locations/zone-1300.md) | -183.96 | 309.128 | 316.835 | Spawner path: WarthogSpawns | Automatic spawning disabled; trigger/script may be required |
