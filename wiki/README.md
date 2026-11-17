@@ -28,6 +28,8 @@ These are detailed reference collections rather than walkthroughs:
 | [Quest and achievement database](./quests/README.md) | Look up a mission or achievement by title, ID, objective, NPC association, or region. |
 | [Racing database](./racing/README.md) | Check track-specific rules, entry evidence, rewards, and linked racing objectives. |
 | [Pet database](./pets/README.md) | Check a pet's taming evidence, requirements, puzzle details, and mapped locations. |
+| [Player skill database](./skills/README.md) | Find candidate equipment and set skills by ID and linked items. |
+| [Worlds, zones, and maps](./zones/README.md) | Browse known destinations and their textual location evidence. |
 
 ## Quick catalogs
 

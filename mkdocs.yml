@@ -71,6 +71,8 @@ nav:
       - Quests and achievements: wiki/quests/README.md
       - Racing: wiki/racing/README.md
       - Pets: wiki/pets/README.md
+      - Player skills: wiki/skills/README.md
+      - Worlds and zones: wiki/zones/README.md
   - Data reference:
       - CDClient tables: db/README.md
       - CDClient table reference: LEGO Universe CDClient Table Reference.md

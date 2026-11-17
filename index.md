@@ -21,6 +21,8 @@ technical documentation for DarkflameServer.
 - [Quest and achievement database](wiki/quests/README.md)
 - [Racing database](wiki/racing/README.md)
 - [Pet database](wiki/pets/README.md)
+- [Player skill database](wiki/skills/README.md)
+- [Worlds, zones, and maps](wiki/zones/README.md)
 
 Search finds item and quest detail pages by name, ID, and description; their
 technical sections and catalog tables are not fully indexed. All details

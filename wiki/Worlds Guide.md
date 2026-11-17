@@ -17,7 +17,9 @@ map and journal for the current route.
 | Forbidden Valley | Ninja-themed missions, difficult terrain, pets, and dragon-related activities. | [Quest locations](./quests/locations/zone-1400.md) |
 | Starbase 3001 | A smaller historical side destination accessed from Nimbus Station. | [Quest locations](./quests/locations/zone-1600.md) |
 
-The [complete location index](./quests/locations/README.md) includes additional
+The [world and zone database](./zones/README.md) links destinations to quest,
+item, pet, and racing location evidence.
+The [quest location index](./quests/locations/README.md) includes additional
 areas from the local data, including worlds not covered by the 2010 guide.
 It lists candidate associations rather than confirmed live spawns.
 

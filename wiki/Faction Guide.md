@@ -45,7 +45,8 @@ is authoritative. See the [Quest Guide](./Quest%20Guide.md) and
 
 An item or ability listed in a reference may be unavailable, modified, or
 incomplete on your server. See the [Item Guide](./Item%20Guide.md) for
-equipment and vendor checks.
+equipment and vendor checks, and the [player skill database](./skills/README.md)
+for candidate equipment and set associations.
 
 ## Source and limitations
 
