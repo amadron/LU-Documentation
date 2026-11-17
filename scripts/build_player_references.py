@@ -151,8 +151,8 @@ def build_skills(root, tables, evidence):
         "See each named page for the source and item match.", "",
         "Equipment and set references are static associations, not instructions "
         "for obtaining or unlocking an ability. Item pages provide acquisition evidence.", "",
-        "| Skill | Equipment examples | Set associations |",
-        "| --- | --- | --- |",
+        "| Skill ID | Name | Equipment examples | Set associations |",
+        "| --- | --- | --- | --- |",
     ]
     for skill in sorted(skills, key=int):
         data = skills[skill]
@@ -162,17 +162,18 @@ def build_skills(root, tables, evidence):
         examples = ", ".join(item_link(lot, objects, item_pages) for lot in items[:3])
         if len(items) > 3:
             examples += f" and {len(items) - 3} more"
-        label = f"{name} — skill {skill} (candidate)" if candidate else f"Skill {skill} — name unknown"
-        index.append(f"| [{label}](./{skill}.md) | {examples or 'None recorded'} | {len(data['sets'])} |")
+        label = f"[{name}](./{skill}.md) (candidate)" if candidate else "Name unknown"
+        index.append(f"| [{skill}](./{skill}.md) | {label} | {examples or 'None recorded'} | {len(data['sets'])} |")
         definition = definitions.get(skill)
         lines = [
-            f"# {name} — skill {skill}" if candidate else f"# Skill {skill}", "",
+            f"# {name}" if candidate else f"# Skill {skill}", "",
             "[Player skills](./README.md) | [Methodology](./Methodology.md)", "",
         ]
         if candidate:
             source = evidence["sources"][candidate["source"]]
             item = item_link(candidate["item"], objects, item_pages)
             lines += [
+                f"**Skill ID:** {skill}", "",
                 f"**Community name candidate:** {name}. "
                 f"[{escape(source['label'])}]({source['url']}) associates this "
                 f"name with {escape(candidate['community_item'])}; the local data "
