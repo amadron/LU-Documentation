@@ -1,5 +1,6 @@
 import csv
 import html
+import json
 import re
 from collections import defaultdict
 from pathlib import Path
@@ -113,21 +114,41 @@ def check_stale_pages(output, expected):
         raise RuntimeError(f"Obsolete generated pages in {output}: {', '.join(stale)}. Review and remove them before rebuilding.")
 
 
-def build_skills(root, tables):
+def validate_skill_names(evidence, skills):
+    results = {}
+    for candidate in evidence["names"]:
+        skill = candidate["id"]
+        if skill in results:
+            raise ValueError(f"Duplicate community-name candidate for skill {skill}")
+        if skill not in skills or candidate["item"] not in skills[skill]["items"]:
+            raise ValueError(f"Skill {skill} is not associated with item {candidate['item']}")
+        if candidate["source"] not in evidence["sources"]:
+            raise ValueError(f"Missing source for skill {skill}")
+        if not candidate["name"].strip() or not candidate["community_item"].strip():
+            raise ValueError(f"Incomplete community-name evidence for skill {skill}")
+        results[skill] = candidate
+    return results
+
+
+def build_skills(root, tables, evidence):
     output = root / "wiki" / "skills"
     output.mkdir(parents=True, exist_ok=True)
     item_pages = {path.stem for path in (root / "wiki" / "items").glob("*.md")}
     skills, objects, equip, sets = player_skill_data(tables, item_pages)
     check_stale_pages(output, skills)
+    names = validate_skill_names(evidence, skills)
     definitions = {row["skillID"]: row for row in tables["SkillBehavior"]}
     index = [
         "# Player Skill Database", "",
         "[Game Guide](../README.md) | [Items](../items/README.md) | "
         "[Faction guide](../Faction%20Guide.md) | [Methodology](./Methodology.md)", "",
         "Browse skill IDs connected to equipment slots or equipment-set bonuses. "
-        "The supplied data does not contain localized skill names, so entries use "
-        "their IDs and linked items instead. These are candidates, not a complete "
-        "list of every player ability or proof that an item works on your server.", "",
+        "Some entries have a **community name candidate** based on an equipment "
+        "cross-reference, not a verified localized client name. Others remain "
+        "unnamed. These are candidates, not a complete list of every player "
+        "ability or proof that an item works on your server.", "",
+        f"Community-name candidates: **{len(names)} of {len(skills)} skills**. "
+        "See each named page for the source and item match.", "",
         "Equipment and set references are static associations, not instructions "
         "for obtaining or unlocking an ability. Item pages provide acquisition evidence.", "",
         "| Skill | Equipment examples | Set associations |",
@@ -135,19 +156,36 @@ def build_skills(root, tables):
     ]
     for skill in sorted(skills, key=int):
         data = skills[skill]
+        candidate = names.get(skill)
+        name = escape(candidate["name"]) if candidate else ""
         items = sorted(data["items"], key=int)
         examples = ", ".join(item_link(lot, objects, item_pages) for lot in items[:3])
         if len(items) > 3:
             examples += f" and {len(items) - 3} more"
-        index.append(f"| [Skill {skill}](./{skill}.md) | {examples or 'None recorded'} | {len(data['sets'])} |")
+        label = f"{name} — skill {skill} (candidate)" if candidate else f"Skill {skill} — name unknown"
+        index.append(f"| [{label}](./{skill}.md) | {examples or 'None recorded'} | {len(data['sets'])} |")
         definition = definitions.get(skill)
         lines = [
-            f"# Skill {skill}", "",
+            f"# {name} — skill {skill}" if candidate else f"# Skill {skill}", "",
             "[Player skills](./README.md) | [Methodology](./Methodology.md)", "",
-            "This is a candidate player skill linked to equipment or a set bonus. "
-            "Its localized name and complete effect are not established by this index.", "",
-            "## Recorded settings", "",
         ]
+        if candidate:
+            source = evidence["sources"][candidate["source"]]
+            item = item_link(candidate["item"], objects, item_pages)
+            lines += [
+                f"**Community name candidate:** {name}. "
+                f"[{escape(source['label'])}]({source['url']}) associates this "
+                f"name with {escape(candidate['community_item'])}; the local data "
+                f"associates {item} with skill {skill}. This indirect match is "
+                "not a verified localized client name and could refer to another "
+                "action of the item.", "",
+            ]
+        else:
+            lines += [
+                "This is a candidate player skill linked to equipment or a set bonus. "
+                "Its localized name and complete effect are not established by this index.", "",
+            ]
+        lines += ["## Recorded settings", ""]
         if definition:
             lines += [
                 f"- **Imagination cost (client data):** {escape(definition['imaginationcost'] or 'not recorded')}",
@@ -249,7 +287,8 @@ def main():
     names = ("Objects", "ItemComponent", "ComponentsRegistry", "ObjectSkills",
              "ItemSetSkills", "ItemSets", "SkillBehavior", "ZoneTable")
     tables = {name: load_table(database, name) for name in names}
-    print(f"Built {build_skills(ROOT, tables)} skill pages and {build_zones(ROOT, tables)} zone pages.")
+    evidence = json.loads(Path(__file__).with_name("skill_name_evidence.json").read_text(encoding="utf-8"))
+    print(f"Built {build_skills(ROOT, tables, evidence)} skill pages and {build_zones(ROOT, tables)} zone pages.")
 
 
 if __name__ == "__main__":

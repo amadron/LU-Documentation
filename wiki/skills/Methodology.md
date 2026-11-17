@@ -4,8 +4,8 @@
 
 This is a **candidate** catalog, not all skill definitions or a list of
 verified playable abilities. The supplied snapshot has no localized skill
-names or descriptions. We use skill IDs and linked equipment instead of
-inventing names, effects, damage, or unlock instructions.
+names or descriptions. We use skill IDs and linked equipment and identify
+some historical community-name candidates as described below.
 
 ## Inclusion
 
@@ -31,6 +31,27 @@ The [StartSkill handler](https://github.com/DarkflameUniverse/DarkflameServer/bl
 uses the recorded imagination cost after a successful player cast. That does
 not prove how every item-set or other skill path uses the field. Cooldown is
 reported as a stored client value, not as measured game behavior.
+
+## Community name candidates
+
+The wiki articles below name certain historical abilities in connection with
+particular equipment. We match that equipment to a local item LOT and then to
+its cast-on-type `0` skill association. This is an **indirect candidate**, not
+a verified `locale.xml` name or proof that the named ability is the exact
+action represented by that skill ID. Some gear has multiple actions; historical
+wiki text can contain errors or describe a different version. Entries without
+adequate evidence retain an unknown name.
+
+The short name candidates and item-to-ID crosswalk are recorded in
+`scripts/skill_name_evidence.json`; article prose and images are not copied.
+Source: LEGO Universe Wiki contributors, under the wiki's
+[CC-BY-SA license](https://www.fandom.com/licensing):
+
+- [Faction Gear, revision 163921](https://legouniverse.fandom.com/api.php?action=query&prop=revisions&revids=163921&rvprop=ids%7Ccontent&rvslots=main&formatversion=2&format=json)
+- [Sorcerer, revision 163840](https://legouniverse.fandom.com/api.php?action=query&prop=revisions&revids=163840&rvprop=ids%7Ccontent&rvslots=main&formatversion=2&format=json)
+- [Shinobi, revision 164260](https://legouniverse.fandom.com/api.php?action=query&prop=revisions&revids=164260&rvprop=ids%7Ccontent&rvslots=main&formatversion=2&format=json)
+- [Space Marauder, revision 164249](https://legouniverse.fandom.com/api.php?action=query&prop=revisions&revids=164249&rvprop=ids%7Ccontent&rvslots=main&formatversion=2&format=json)
+- [Adventurer, revision 164153](https://legouniverse.fandom.com/api.php?action=query&prop=revisions&revids=164153&rvprop=ids%7Ccontent&rvslots=main&formatversion=2&format=json)
 
 Records, names, and stored values are snapshot evidence: server configuration,
 client localization, ownership, prerequisites, and implemented behavior may

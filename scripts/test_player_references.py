@@ -45,6 +45,11 @@ class PlayerReferenceTests(unittest.TestCase):
                 {"skillID": "148", "imaginationcost": "2", "cooldown": "0.5"},
             ],
         }
+        evidence = {
+            "sources": {"example": {"label": "Example", "url": "https://example.com"}},
+            "names": [{"id": "148", "name": "Sword Move", "item": "10",
+                       "community_item": "Dagger", "source": "example"}],
+        }
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)
             items = root / "wiki" / "items"
@@ -52,14 +57,27 @@ class PlayerReferenceTests(unittest.TestCase):
             (items / "10.md").touch()
             (items / "11.md").touch()
             (items / "13.md").touch()
-            self.assertEqual(refs.build_skills(root, tables), 2)
+            self.assertEqual(refs.build_skills(root, tables, evidence), 2)
             equipment = (root / "wiki" / "skills" / "148.md").read_text(encoding="utf-8")
             self.assertIn("[Dagger (LOT 10)](../items/10.md)", equipment)
             self.assertIn("slot `special_r`", equipment)
+            self.assertIn("# Sword Move — skill 148", equipment)
+            self.assertIn("not a verified localized client name", equipment)
+            self.assertIn("Sword Move — skill 148 (candidate)", (root / "wiki" / "skills" / "README.md").read_text(encoding="utf-8"))
             self.assertIn("No matching SkillBehavior", (root / "wiki" / "skills" / "200.md").read_text(encoding="utf-8"))
+            self.assertIn("name unknown", (root / "wiki" / "skills" / "README.md").read_text(encoding="utf-8"))
             self.assertIn("Set 1, 3 equipped pieces", (root / "wiki" / "skills" / "200.md").read_text(encoding="utf-8"))
             self.assertFalse((root / "wiki" / "skills" / "150.md").exists())
             self.assertFalse((root / "wiki" / "skills" / "152.md").exists())
+
+    def test_name_evidence_requires_a_matching_item(self):
+        evidence = {
+            "sources": {"example": {"label": "Example", "url": "https://example.com"}},
+            "names": [{"id": "148", "name": "Sword Move", "item": "99",
+                       "community_item": "Dagger", "source": "example"}],
+        }
+        with self.assertRaisesRegex(ValueError, "not associated"):
+            refs.validate_skill_names(evidence, {"148": {"items": {"10"}}})
 
     def test_zone_links_only_existing_evidence_and_distinguishes_unmatched_zone(self):
         with tempfile.TemporaryDirectory() as temp:

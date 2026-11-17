@@ -1,0 +1,70 @@
+{
+  "sources": {
+    "faction": {
+      "label": "Faction Gear, revision 163921",
+      "url": "https://legouniverse.fandom.com/api.php?action=query&prop=revisions&revids=163921&rvprop=ids%7Ccontent&rvslots=main&formatversion=2&format=json"
+    },
+    "sorcerer": {
+      "label": "Sorcerer, revision 163840",
+      "url": "https://legouniverse.fandom.com/api.php?action=query&prop=revisions&revids=163840&rvprop=ids%7Ccontent&rvslots=main&formatversion=2&format=json"
+    },
+    "shinobi": {
+      "label": "Shinobi, revision 164260",
+      "url": "https://legouniverse.fandom.com/api.php?action=query&prop=revisions&revids=164260&rvprop=ids%7Ccontent&rvslots=main&formatversion=2&format=json"
+    },
+    "marauder": {
+      "label": "Space Marauder, revision 164249",
+      "url": "https://legouniverse.fandom.com/api.php?action=query&prop=revisions&revids=164249&rvprop=ids%7Ccontent&rvslots=main&formatversion=2&format=json"
+    },
+    "adventurer": {
+      "label": "Adventurer, revision 164153",
+      "url": "https://legouniverse.fandom.com/api.php?action=query&prop=revisions&revids=164153&rvprop=ids%7Ccontent&rvslots=main&formatversion=2&format=json"
+    }
+  },
+  "names": [
+    {"id":"338","name":"Hurricane","item":"7409","community_item":"Rank 3 Knight Shoulderpads","source":"faction"},
+    {"id":"342","name":"Shield Rush 2","item":"7403","community_item":"Rank 2 Knight Shield","source":"faction"},
+    {"id":"346","name":"Maelstrom Breath 1","item":"7357","community_item":"Sorcerer Hat 1","source":"sorcerer"},
+    {"id":"383","name":"Funky Monkey","item":"7416","community_item":"Rank 3 Buccaneer Bandolier","source":"faction"},
+    {"id":"445","name":"Super Jump 1","item":"7358","community_item":"Rank 1 Buccaneer Scarf","source":"faction"},
+    {"id":"449","name":"Super Jump 2","item":"7365","community_item":"Rank 2 Buccaneer Scarf","source":"faction"},
+    {"id":"450","name":"Super Jump 3","item":"7465","community_item":"Rank 3 Daredevil Helmet","source":"faction"},
+    {"id":"458","name":"Plasma Ball 1","item":"7448","community_item":"Rank 1 Space Marauder Helmet","source":"marauder"},
+    {"id":"459","name":"Plasma Ball 2","item":"7449","community_item":"Rank 2 Space Marauder Helmet","source":"marauder"},
+    {"id":"460","name":"Plasma Ball 3","item":"7450","community_item":"Rank 3 Space Marauder Helmet","source":"marauder"},
+    {"id":"482","name":"Shinobi Barrage","item":"7541","community_item":"Shinobi Shoulderpads 3","source":"shinobi"},
+    {"id":"550","name":"Ronin Rush","item":"7539","community_item":"Rank 3 Samurai Shoulderpads","source":"faction"},
+    {"id":"565","name":"Shield Rush 3","item":"7404","community_item":"Rank 3 Knight Shield","source":"faction"},
+    {"id":"575","name":"Maelstrom Breath 2","item":"7361","community_item":"Sorcerer Hat 2","source":"sorcerer"},
+    {"id":"576","name":"Maelstrom Breath 3","item":"7362","community_item":"Sorcerer Hat 3","source":"sorcerer"},
+    {"id":"599","name":"Fire Extinguisher","item":"7543","community_item":"Rank 3 Daredevil Shoulderpads","source":"faction"},
+    {"id":"606","name":"Cluster Strike","item":"7540","community_item":"Rank 3 Space Marauder Shoulderpads","source":"marauder"},
+    {"id":"609","name":"Maelstrom Rocket 1","item":"7548","community_item":"Rank 2 Space Marauder Launcher","source":"marauder"},
+    {"id":"624","name":"Deploy Turret 1","item":"7356","community_item":"Rank 1 Engineer Helmet","source":"faction"},
+    {"id":"625","name":"Deploy Turret 2","item":"7363","community_item":"Rank 2 Engineer Helmet","source":"faction"},
+    {"id":"626","name":"Deploy Turret 3","item":"7364","community_item":"Rank 3 Engineer Helmet","source":"faction"},
+    {"id":"631","name":"Bulper 1","item":"7457","community_item":"Rank 1 Summoner Hat","source":"faction"},
+    {"id":"632","name":"Bulper 2","item":"7458","community_item":"Rank 2 Summoner Hat","source":"faction"},
+    {"id":"633","name":"Bulper 3","item":"12924","community_item":"Recolored Rank 3 Summoner Hat","source":"faction"},
+    {"id":"647","name":"Maelstrom Rocket 2","item":"7550","community_item":"Rank 3 Space Marauder Launcher","source":"marauder"},
+    {"id":"649","name":"Personal Fortress","item":"16182","community_item":"Valiant Engineer's Cape","source":"faction"},
+    {"id":"655","name":"Last Blast","item":"7415","community_item":"Sorcerer Shoulderpads 3","source":"sorcerer"},
+    {"id":"673","name":"Scratch","item":"7555","community_item":"Rank 3 Summoner Shoulderpads","source":"faction"},
+    {"id":"689","name":"Thwok 1","item":"7556","community_item":"Rank 2 Summoner Orb","source":"faction"},
+    {"id":"690","name":"Thwok 2","item":"7557","community_item":"Rank 3 Summoner Orb","source":"faction"},
+    {"id":"777","name":"Armor Buff 1","item":"7355","community_item":"Rank 1 Knight Helm","source":"faction"},
+    {"id":"778","name":"Armor Buff 2","item":"7359","community_item":"Rank 2 Knight Helm","source":"faction"},
+    {"id":"779","name":"Armor Buff 3","item":"7360","community_item":"Rank 3 Knight Helm","source":"faction"},
+    {"id":"1055","name":"Invention 1","item":"7454","community_item":"Rank 1 Inventor Goggles","source":"faction"},
+    {"id":"1056","name":"Invention 2","item":"7455","community_item":"Rank 2 Inventor Goggles","source":"faction"},
+    {"id":"1057","name":"Invention 3","item":"7456","community_item":"Rank 3 Inventor Goggles","source":"faction"},
+    {"id":"1058","name":"Improved Backpack 1","item":"7542","community_item":"Rank 3 Inventor Shoulderpads","source":"faction"},
+    {"id":"1068","name":"Whipsnap 1","item":"11458","community_item":"Adventurer Whip 2","source":"adventurer"},
+    {"id":"1069","name":"Whipsnap 2","item":"11459","community_item":"Adventurer Whip 3","source":"adventurer"},
+    {"id":"1070","name":"Speed Boost 1","item":"7460","community_item":"Rank 1 Adventurer Hat","source":"faction"},
+    {"id":"1071","name":"Speed Boost 2","item":"7461","community_item":"Rank 2 Adventurer Hat","source":"faction"},
+    {"id":"1075","name":"Shinobi Lightning 1","item":"7451","community_item":"Shinobi Hood 1","source":"shinobi"},
+    {"id":"1076","name":"Shinobi Lightning 2","item":"7452","community_item":"Shinobi Hood 2","source":"shinobi"},
+    {"id":"1077","name":"Shinobi Lightning 3","item":"7453","community_item":"Shinobi Hood 3","source":"shinobi"}
+  ]
+}
