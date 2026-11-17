@@ -89,11 +89,13 @@ nav:
       - CDClient tables: db/README.md
       - CDClient table reference: LEGO Universe CDClient Table Reference.md
       - Data model: LEGO Universe Data Model and Public Research.md
+      - Client libraries: LEGO Universe Client Libraries.md
   - Community:
       - Mods and improvements: wiki/Community Mods and Improvements.md
   - Server documentation:
       - Overview: server/README.md
       - Architecture: server/DarkflameServer Architecture and Repository Structure.md
+      - Libraries: server/DarkflameServer Libraries.md
       - Client-server protocol: server/DarkflameServer Client-Server Protocol and Gameplay.md
       - Gamemaster guide: server/DarkflameServer Gamemaster Guide.md
       - Commands: server/DarkflameServer Command Reference.md

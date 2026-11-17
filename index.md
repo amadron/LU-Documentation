@@ -34,6 +34,8 @@ remain available on the pages.
 
 - [CDClient table schemas](db/Schema.md) — table names, columns, and summaries; no exported table rows.
 - [Data model and public research](LEGO%20Universe%20Data%20Model%20and%20Public%20Research.md)
+- [Client libraries](LEGO%20Universe%20Client%20Libraries.md) — middleware and libraries used by the game client.
+- [Server libraries](server/DarkflameServer%20Libraries.md) — third-party libraries used by DarkflameServer.
 - [DarkflameServer overview](server/README.md)
 - [Gamemaster Guide](server/DarkflameServer%20Gamemaster%20Guide.md)
 
