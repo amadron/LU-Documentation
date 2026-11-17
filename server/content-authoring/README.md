@@ -7,6 +7,7 @@ This guide is for adding or changing **world content** for the local DarkflameSe
 | Goal | Usually involves | Start here |
 |---|---|---|
 | Add a map or scene | Zone-table metadata plus compatible zone/scene/resource assets and a way to reach the map | [Create or Extend a Zone](./create-or-extend-a-zone.md) |
+| Inspect or convert resource files | Format-specific viewers, editors, or converters | [Asset Formats and Tools](./asset-formats-and-tools.md) |
 | Place an existing object or NPC | Scene object data, an existing LOT/template, and the component registrations it needs | [Place Objects and Configure Spawners](./place-objects-and-configure-spawners.md) |
 | Add spawn groups or moving content | Zone paths/spawner nodes and compatible LOT/component data | [Place Objects and Configure Spawners](./place-objects-and-configure-spawners.md) |
 | Add server-side interaction or behavior | Existing native component/script, or a code change and C++ script registration | [Add Scripts and Server Behavior](./add-scripts-and-server-behavior.md) |
@@ -16,7 +17,7 @@ This guide is for adding or changing **world content** for the local DarkflameSe
 
 1. [Concepts and Prerequisites](./concepts-and-prerequisites.md): understand maps, instances, clones, source assets, and the data/code boundary.
 2. Select the workflow above and follow its checklist.
-3. Use the [Zone File Reference](./reference/zone-files-and-fields.md) and [CDClient Table Guide](./reference/cdclient-tables.md) when working with source formats and static data.
+3. Use [Asset Formats and Tools](./asset-formats-and-tools.md), the [Zone File Reference](./reference/zone-files-and-fields.md), and the [CDClient Table Guide](./reference/cdclient-tables.md) when working with source formats and static data.
 4. Validate with [Testing and Troubleshooting](./test-and-troubleshoot.md).
 5. Use the [Content-to-Code Map](./reference/content-to-code-map.md) to trace a data field to its runtime consumer.
 

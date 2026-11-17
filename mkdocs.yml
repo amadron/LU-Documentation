@@ -84,3 +84,4 @@ nav:
       - Gamemaster guide: server/DarkflameServer Gamemaster Guide.md
       - Commands: server/DarkflameServer Command Reference.md
       - Content authoring: server/content-authoring/README.md
+      - Asset formats and tools: server/content-authoring/asset-formats-and-tools.md
