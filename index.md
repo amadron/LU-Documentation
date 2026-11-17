@@ -22,6 +22,10 @@ technical documentation for DarkflameServer.
 - [Racing database](wiki/racing/README.md)
 - [Pet database](wiki/pets/README.md)
 
+Search finds item and quest detail pages by name, ID, and description; their
+technical sections and catalog tables are not fully indexed. All details
+remain available on the pages.
+
 ## Reference and server documentation
 
 - [CDClient table schemas](db/Schema.md) — table names, columns, and summaries; no exported table rows.

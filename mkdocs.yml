@@ -17,6 +17,7 @@ theme:
 
 hooks:
   - hooks/site_links.py
+  - hooks/search_index.py
 
 markdown_extensions:
   - admonition

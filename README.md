@@ -5,6 +5,12 @@ documentation website about LEGO Universe and DarkflameServer. The public
 site includes table schemas and column explanations, not the full exported
 CDClient table rows.
 
+To reduce browser memory use, search indexes item and quest detail pages by
+name, ID, and description rather than every technical section. Item and quest
+source, type, location, and index pages are searchable by title only. Their
+complete content remains available on the pages; player guides and other
+documentation retain full-text search.
+
 ## Browse the content
 
 Start at the [LEGO Universe Game Guide](wiki/README.md). It links to the
