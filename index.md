@@ -8,7 +8,8 @@ technical documentation for DarkflameServer.
 
 - [Getting Started](wiki/Getting%20Started.md) — learn the basics and plan your first adventure.
 - [Worlds Guide](wiki/Worlds%20Guide.md) — find places and activities to explore.
-- [Faction Guide](wiki/Faction%20Guide.md) — compare factions and specialty kits.
+- [Faction Guide](wiki/Faction%20Guide.md) — compare factions and their classes.
+- [Faction Classes](wiki/classes/README.md) — all twelve classes with abilities, unlock path, and equipment.
 - [Building Guide](wiki/Building%20Guide.md) — explore models and properties.
 - [Quest Guide](wiki/Quest%20Guide.md) — understand missions, objectives, and rewards.
 - [Item Guide](wiki/Item%20Guide.md) — find and use items.

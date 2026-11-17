@@ -11,7 +11,8 @@ when you need to look up a particular name, reward, or location.
 |---|---|
 | Learn the basics and plan your first adventure | [Getting Started](./Getting%20Started.md) |
 | Explore the worlds and find your next destination | [Worlds Guide](./Worlds%20Guide.md) |
-| Compare factions and specialty kits | [Faction Guide](./Faction%20Guide.md) |
+| Compare factions and their classes | [Faction Guide](./Faction%20Guide.md) |
+| Learn a class's abilities, unlock path, and equipment | [Faction Classes](./classes/README.md) |
 | Build models and explore properties | [Building Guide](./Building%20Guide.md) |
 | Accept missions, understand objectives, and claim rewards | [Quest Guide](./Quest%20Guide.md) |
 | Find, compare, equip, or keep an item | [Item Guide](./Item%20Guide.md) |
