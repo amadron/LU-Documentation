@@ -6,6 +6,10 @@ technical documentation for DarkflameServer.
 
 ## Play guides
 
+- [Getting Started](wiki/Getting%20Started.md) — learn the basics and plan your first adventure.
+- [Worlds Guide](wiki/Worlds%20Guide.md) — find places and activities to explore.
+- [Faction Guide](wiki/Faction%20Guide.md) — compare factions and specialty kits.
+- [Building Guide](wiki/Building%20Guide.md) — explore models and properties.
 - [Quest Guide](wiki/Quest%20Guide.md) — understand missions, objectives, and rewards.
 - [Item Guide](wiki/Item%20Guide.md) — find and use items.
 - [Racing Guide](wiki/Racing%20Guide.md) — learn how to enter races and what to expect.

@@ -25,6 +25,21 @@ Exact requirements, puzzle pieces, and time limits vary by pet. The pet's
 database page is the place to check those details; the general steps above do
 not replace the activity's on-screen instructions.
 
+## What pets can help with
+
+The 2010 game guide describes pets helping to uncover buried treasure and
+activate certain pet bouncers. It also describes a pet introduction with
+Coalessa in Pet Cove. Look for the related prompts and missions in game:
+individual interactions and their availability depend on the server.
+The local server snapshot contains pet-dig and pet-bouncer code, but this
+does not establish that every historical location or interaction works.
+
+For example, the guide places the Doberman in Avant Gardens and the Elephant
+in Gnarled Forest; the latter historically needed a Bag of Peanuts. The
+[Doberman](./pets/5635.md) and [Elephant](./pets/3050.md) pages provide
+local puzzle data and separate historical location evidence. Verify current
+spawns and requirements in game.
+
 ## If taming does not start or fails
 
 - Check whether the creature is actually one of the confirmed tamable entries,
@@ -45,3 +60,6 @@ not replace the activity's on-screen instructions.
 The detailed pet pages include technical component values for reference.
 Those values are not all used by the game and should not be treated as live
 success odds or proof that a pet is available.
+
+Historical pet introduction, activities, and examples: user-provided
+*LEGO Universe Official Game Guide* (2010), pp. 40–41 and 44.

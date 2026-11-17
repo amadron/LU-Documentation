@@ -57,6 +57,10 @@ exclude_docs: |
 nav:
   - Home: index.md
   - Play guides:
+      - Getting started: wiki/Getting Started.md
+      - Worlds: wiki/Worlds Guide.md
+      - Factions: wiki/Faction Guide.md
+      - Building and properties: wiki/Building Guide.md
       - Quests: wiki/Quest Guide.md
       - Items: wiki/Item Guide.md
       - Racing: wiki/Racing Guide.md
