@@ -14,16 +14,16 @@ tooltips.
 
 | Rank | Slot | Ability | Effect | IP cost | Cooldown |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Head | [Plasma Ball 1](../skills/458.md) | Damage: 6. Tosses an energy sphere that does 6 damage to enemies. | 6 | 5 s |
-| 1 | Main hand | [Blaster Master 1](../skills/605.md) | Damage: 1+2+2. Charge attack: Restores 2 Imagination for nearby characters. | — | — |
-| 2 | Head | [Plasma Ball 2](../skills/459.md) | Damage: 8. Tosses an energy sphere that does 8 damage to enemies. | 7 | 5 s |
-| 2 | Main hand | [Blaster Master 2](../skills/645.md) | Damage: 2+2+2. Charge attack: Restores up to 5 Imagination for nearby characters - charge longer for more Imagination. | — | — |
-| 2 | Off hand | [Maelstrom Rocket 1](../skills/609.md) | Damage: 7. Launches a rocket that does 7 damage. | 6 | 5 s |
-| 3 | Head | [Plasma Ball 3](../skills/460.md) | Damage: 10. Tosses an energy sphere that does 10 damage to enemies. | 8 | 5 s |
-| 3 | Main hand | [Blaster Master 3](../skills/646.md) | Damage: 2+3+3. Charge attack: Restores up to 5 Imagination for nearby characters - charge longer for more Imagination. | — | — |
-| 3 | Main hand (valiant) | [Valiant Attack](../skills/1032.md) | Damage: 5. Charge attack: Hold down to do up to 30 damage over time. | — | 1 s |
-| 3 | Off hand | [Maelstrom Rocket 2](../skills/647.md) | Damage: 9. Launches a rocket that does 9 damage. | 7 | 5 s |
-| 3 | Neck/back | [Cluster Strike](../skills/606.md) | Damage: 4x8. Throws spheres of Maelstrom energy that each do 4 damage. | 12 | 30 s |
+| 1 | Head | ![](../../assets/icons/skills/458.webp){ width="24" } [Plasma Ball 1](../skills/458.md) | Damage: 6. Tosses an energy sphere that does 6 damage to enemies. | 6 | 5 s |
+| 1 | Main hand | ![](../../assets/icons/skills/605.webp){ width="24" } [Blaster Master 1](../skills/605.md) | Damage: 1+2+2. Charge attack: Restores 2 Imagination for nearby characters. | — | — |
+| 2 | Head | ![](../../assets/icons/skills/459.webp){ width="24" } [Plasma Ball 2](../skills/459.md) | Damage: 8. Tosses an energy sphere that does 8 damage to enemies. | 7 | 5 s |
+| 2 | Main hand | ![](../../assets/icons/skills/645.webp){ width="24" } [Blaster Master 2](../skills/645.md) | Damage: 2+2+2. Charge attack: Restores up to 5 Imagination for nearby characters - charge longer for more Imagination. | — | — |
+| 2 | Off hand | ![](../../assets/icons/skills/609.webp){ width="24" } [Maelstrom Rocket 1](../skills/609.md) | Damage: 7. Launches a rocket that does 7 damage. | 6 | 5 s |
+| 3 | Head | ![](../../assets/icons/skills/460.webp){ width="24" } [Plasma Ball 3](../skills/460.md) | Damage: 10. Tosses an energy sphere that does 10 damage to enemies. | 8 | 5 s |
+| 3 | Main hand | ![](../../assets/icons/skills/646.webp){ width="24" } [Blaster Master 3](../skills/646.md) | Damage: 2+3+3. Charge attack: Restores up to 5 Imagination for nearby characters - charge longer for more Imagination. | — | — |
+| 3 | Main hand (valiant) | ![](../../assets/icons/skills/1032.webp){ width="24" } [Valiant Attack](../skills/1032.md) | Damage: 5. Charge attack: Hold down to do up to 30 damage over time. | — | 1 s |
+| 3 | Off hand | ![](../../assets/icons/skills/647.webp){ width="24" } [Maelstrom Rocket 2](../skills/647.md) | Damage: 9. Launches a rocket that does 9 damage. | 7 | 5 s |
+| 3 | Neck/back | ![](../../assets/icons/skills/606.webp){ width="24" } [Cluster Strike](../skills/606.md) | Damage: 4x8. Throws spheres of Maelstrom energy that each do 4 damage. | 12 | 30 s |
 
 ## Unlocking the class
 
@@ -50,10 +50,10 @@ variants, and valiant gear at [Sutoro Hatto - Paradox Vendor (LOT 13378)](../ite
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | [Space Marauder Helm 1 (LOT 7448)](../items/7448.md) | 5 | 25 | [Plasma Ball 1](../skills/458.md) (6 IP, 5 s) |
-| Chest | [Space Marauder Jacket 1 (LOT 7472)](../items/7472.md) | 5 | 25 | — |
-| Legs | [Space Marauder Pants 1 (LOT 7496)](../items/7496.md) | 5 | 25 | — |
-| Main hand | [Space Marauder Blaster 1 (LOT 7520)](../items/7520.md) | 5 | 25 | [Blaster Master 1](../skills/605.md) |
+| Head | ![](../../assets/icons/objects/7448.webp){ width="32" } [Space Marauder Helm 1 (LOT 7448)](../items/7448.md) | 5 | 25 | [Plasma Ball 1](../skills/458.md) (6 IP, 5 s) |
+| Chest | ![](../../assets/icons/objects/7472.webp){ width="32" } [Space Marauder Jacket 1 (LOT 7472)](../items/7472.md) | 5 | 25 | — |
+| Legs | ![](../../assets/icons/objects/7496.webp){ width="32" } [Space Marauder Pants 1 (LOT 7496)](../items/7496.md) | 5 | 25 | — |
+| Main hand | ![](../../assets/icons/objects/7520.webp){ width="32" } [Space Marauder Blaster 1 (LOT 7520)](../items/7520.md) | 5 | 25 | [Blaster Master 1](../skills/605.md) |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
@@ -63,12 +63,12 @@ variants, and valiant gear at [Sutoro Hatto - Paradox Vendor (LOT 13378)](../ite
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | [Space Marauder Helm 2 (LOT 7449)](../items/7449.md) | 15 | 60 | [Plasma Ball 2](../skills/459.md) (7 IP, 5 s) |
-| Chest | [Space Marauder Jacket 2 (LOT 7473)](../items/7473.md) | 15 | 60 | — |
-| Legs | [Space Marauder Pants 2 (LOT 7497)](../items/7497.md) | 15 | 60 | — |
-| Main hand | [Space Marauder Blaster 2 (LOT 7521)](../items/7521.md) | 15 | 60 | [Blaster Master 2](../skills/645.md) |
-| Off hand | [Space Marauder Launcher 2 (LOT 7548)](../items/7548.md) | 15 | 60 | [Maelstrom Rocket 1](../skills/609.md) (6 IP, 5 s) |
-| Neck/back | [Space Marauder Shoulderpads 2 (LOT 8460)](../items/8460.md) | 15 | 60 | — |
+| Head | ![](../../assets/icons/objects/7449.webp){ width="32" } [Space Marauder Helm 2 (LOT 7449)](../items/7449.md) | 15 | 60 | [Plasma Ball 2](../skills/459.md) (7 IP, 5 s) |
+| Chest | ![](../../assets/icons/objects/7473.webp){ width="32" } [Space Marauder Jacket 2 (LOT 7473)](../items/7473.md) | 15 | 60 | — |
+| Legs | ![](../../assets/icons/objects/7497.webp){ width="32" } [Space Marauder Pants 2 (LOT 7497)](../items/7497.md) | 15 | 60 | — |
+| Main hand | ![](../../assets/icons/objects/7521.webp){ width="32" } [Space Marauder Blaster 2 (LOT 7521)](../items/7521.md) | 15 | 60 | [Blaster Master 2](../skills/645.md) |
+| Off hand | ![](../../assets/icons/objects/7548.webp){ width="32" } [Space Marauder Launcher 2 (LOT 7548)](../items/7548.md) | 15 | 60 | [Maelstrom Rocket 1](../skills/609.md) (6 IP, 5 s) |
+| Neck/back | ![](../../assets/icons/objects/8460.webp){ width="32" } [Space Marauder Shoulderpads 2 (LOT 8460)](../items/8460.md) | 15 | 60 | — |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
@@ -80,20 +80,20 @@ variants, and valiant gear at [Sutoro Hatto - Paradox Vendor (LOT 13378)](../ite
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | [Space Marauder Helm 3 (LOT 7450)](../items/7450.md) | 30 | 180 | [Plasma Ball 3](../skills/460.md) (8 IP, 5 s) |
-| Head | [Space Marauder Helm 3 (LOT 12986)](../items/12986.md) (color variant) | 30 | 180 | [Plasma Ball 3](../skills/460.md) (8 IP, 5 s) |
-| Chest | [Space Marauder Jacket 3 (LOT 7474)](../items/7474.md) | 30 | 180 | — |
-| Chest | [Space Marauder Jacket 3 (LOT 12960)](../items/12960.md) (color variant) | 30 | 180 | — |
-| Legs | [Space Marauder Pants 3 (LOT 7498)](../items/7498.md) | 30 | 180 | — |
-| Legs | [Space Marauder Pants 3 (LOT 12961)](../items/12961.md) (color variant) | 30 | 180 | — |
-| Main hand | [Space Marauder Blaster 3 (LOT 7522)](../items/7522.md) | 30 | 180 | [Blaster Master 3](../skills/646.md) |
-| Main hand | [Space Marauder Blaster 3 (LOT 12987)](../items/12987.md) (color variant) | 30 | 180 | [Blaster Master 3](../skills/646.md) |
-| Main hand | [The Wormholer (LOT 12809)](../items/12809.md) (valiant) | 35 | 500 | [Valiant Attack](../skills/1032.md) (1 s) |
-| Off hand | [Space Marauder Launcher 3 (LOT 7550)](../items/7550.md) | 30 | 180 | [Maelstrom Rocket 2](../skills/647.md) (7 IP, 5 s) |
-| Off hand | [Space Marauder Launcher 3 (LOT 12988)](../items/12988.md) (color variant) | 30 | 180 | [Maelstrom Rocket 2.0](../skills/1439.md) (7 IP, 5 s) |
-| Neck/back | [Space Marauder Shoulderpads 3 (LOT 7540)](../items/7540.md) | 30 | 180 | [Cluster Strike](../skills/606.md) (12 IP, 30 s) |
-| Neck/back | [Space Marauder Shoulderpads 3 (LOT 12991)](../items/12991.md) (color variant) | 30 | 180 | [Cluster Strike](../skills/606.md) (12 IP, 30 s) |
-| Neck/back | [Valiant Space Marauder's Cape (LOT 16188)](../items/16188.md) (valiant) | 40 | 250 | [Cluster Strike](../skills/606.md) (12 IP, 30 s) |
+| Head | ![](../../assets/icons/objects/7450.webp){ width="32" } [Space Marauder Helm 3 (LOT 7450)](../items/7450.md) | 30 | 180 | [Plasma Ball 3](../skills/460.md) (8 IP, 5 s) |
+| Head | ![](../../assets/icons/objects/12986.webp){ width="32" } [Space Marauder Helm 3 (LOT 12986)](../items/12986.md) (color variant) | 30 | 180 | [Plasma Ball 3](../skills/460.md) (8 IP, 5 s) |
+| Chest | ![](../../assets/icons/objects/7474.webp){ width="32" } [Space Marauder Jacket 3 (LOT 7474)](../items/7474.md) | 30 | 180 | — |
+| Chest | ![](../../assets/icons/objects/12960.webp){ width="32" } [Space Marauder Jacket 3 (LOT 12960)](../items/12960.md) (color variant) | 30 | 180 | — |
+| Legs | ![](../../assets/icons/objects/7498.webp){ width="32" } [Space Marauder Pants 3 (LOT 7498)](../items/7498.md) | 30 | 180 | — |
+| Legs | ![](../../assets/icons/objects/12961.webp){ width="32" } [Space Marauder Pants 3 (LOT 12961)](../items/12961.md) (color variant) | 30 | 180 | — |
+| Main hand | ![](../../assets/icons/objects/7522.webp){ width="32" } [Space Marauder Blaster 3 (LOT 7522)](../items/7522.md) | 30 | 180 | [Blaster Master 3](../skills/646.md) |
+| Main hand | ![](../../assets/icons/objects/12987.webp){ width="32" } [Space Marauder Blaster 3 (LOT 12987)](../items/12987.md) (color variant) | 30 | 180 | [Blaster Master 3](../skills/646.md) |
+| Main hand | ![](../../assets/icons/objects/12809.webp){ width="32" } [The Wormholer (LOT 12809)](../items/12809.md) (valiant) | 35 | 500 | [Valiant Attack](../skills/1032.md) (1 s) |
+| Off hand | ![](../../assets/icons/objects/7550.webp){ width="32" } [Space Marauder Launcher 3 (LOT 7550)](../items/7550.md) | 30 | 180 | [Maelstrom Rocket 2](../skills/647.md) (7 IP, 5 s) |
+| Off hand | ![](../../assets/icons/objects/12988.webp){ width="32" } [Space Marauder Launcher 3 (LOT 12988)](../items/12988.md) (color variant) | 30 | 180 | [Maelstrom Rocket 2.0](../skills/1439.md) (7 IP, 5 s) |
+| Neck/back | ![](../../assets/icons/objects/7540.webp){ width="32" } [Space Marauder Shoulderpads 3 (LOT 7540)](../items/7540.md) | 30 | 180 | [Cluster Strike](../skills/606.md) (12 IP, 30 s) |
+| Neck/back | ![](../../assets/icons/objects/12991.webp){ width="32" } [Space Marauder Shoulderpads 3 (LOT 12991)](../items/12991.md) (color variant) | 30 | 180 | [Cluster Strike](../skills/606.md) (12 IP, 30 s) |
+| Neck/back | ![](../../assets/icons/objects/16188.webp){ width="32" } [Valiant Space Marauder's Cape (LOT 16188)](../items/16188.md) (valiant) | 40 | 250 | [Cluster Strike](../skills/606.md) (12 IP, 30 s) |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 

@@ -123,6 +123,8 @@ def clean_description(text):
             continue
         if key == "DamageCombo":
             parts.append(f"Damage: {value}.")
+        elif key == "AltCombo":
+            parts.append(f"Damage vs. Skeletons: {value}.")
         elif key == "ChargeUp":
             parts.append(f"Charge attack: {value.rstrip('.')}.")
         else:
@@ -280,7 +282,14 @@ class Data:
         }
 
     def item_link(self, info):
-        return self.lot_link(info["lot"])
+        return self.icon("objects", info["lot"]) + self.lot_link(info["lot"])
+
+    @staticmethod
+    def icon(kind, ident, width=32):
+        """Inline icon from assets/ (written by scripts/build_media.py), if it exists."""
+        if (ROOT / "assets" / "icons" / kind / f"{ident}.webp").exists():
+            return f'![](../../assets/icons/{kind}/{ident}.webp){{ width="{width}" }} '
+        return ""
 
 
 def load_classes(data):
@@ -403,7 +412,7 @@ def class_page(cls, classes, data):
                 slot = SLOT_NAMES.get(info["slot"], info["slot"])
                 if info["valiant"]:
                     slot += " (valiant)"
-                out.append(f"| {rank} | {slot} | {data.skill_ref(skill)} | {escape(desc) or '—'} "
+                out.append(f"| {rank} | {slot} | {data.icon('skills', skill, 24)}{data.skill_ref(skill)} | {escape(desc) or '—'} "
                            f"| {cost or '—'} | {f'{cooldown:g} s' if cooldown else '—'} |")
     out.append("")
 

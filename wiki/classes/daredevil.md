@@ -14,14 +14,14 @@ tooltips.
 
 | Rank | Slot | Ability | Effect | IP cost | Cooldown |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Head | [Super Jump 1](../skills/445.md) | Damage: 4. Makes you leap on enemies, doing 4 damage. | 5 | 6 s |
-| 1 | Main hand | [Flare Guns 1](../skills/604.md) | Damage: 1+2+2+3. Charge attack: Fires a 3 damage projectile. | — | — |
-| 2 | Head | [Super Jump 2](../skills/449.md) | Damage: 6. Makes you leap on enemies, doing 6 damage. | 6 | 6 s |
-| 2 | Main hand | [Flare Guns 2](../skills/639.md) | Damage: 2+2+3+3. Charge attack: Fires a 4 damage projectile. | — | — |
-| 3 | Head | [Super Jump 3](../skills/450.md) | Damage: 8. Makes you leap on enemies, doing 8 damage. | 7 | 6 s |
-| 3 | Main hand | [Flare Guns 3](../skills/640.md) | Damage: 2+2+3+4. Charge attack: Fires a 5 damage projectile. | — | — |
-| 3 | Main hand (valiant) | [Valiant Attack](../skills/1022.md) | Damage: 3+3+4. Charge attack: Spins you around, doing 10 damage to enemies. | — | — |
-| 3 | Neck/back | [Fire Extinguisher 3](../skills/599.md) | Damage: 14. Freezes enemies solid. | 10 | 20 s |
+| 1 | Head | ![](../../assets/icons/skills/445.webp){ width="24" } [Super Jump 1](../skills/445.md) | Damage: 4. Makes you leap on enemies, doing 4 damage. | 5 | 6 s |
+| 1 | Main hand | ![](../../assets/icons/skills/604.webp){ width="24" } [Flare Guns 1](../skills/604.md) | Damage: 1+2+2+3. Charge attack: Fires a 3 damage projectile. | — | — |
+| 2 | Head | ![](../../assets/icons/skills/449.webp){ width="24" } [Super Jump 2](../skills/449.md) | Damage: 6. Makes you leap on enemies, doing 6 damage. | 6 | 6 s |
+| 2 | Main hand | ![](../../assets/icons/skills/639.webp){ width="24" } [Flare Guns 2](../skills/639.md) | Damage: 2+2+3+3. Charge attack: Fires a 4 damage projectile. | — | — |
+| 3 | Head | ![](../../assets/icons/skills/450.webp){ width="24" } [Super Jump 3](../skills/450.md) | Damage: 8. Makes you leap on enemies, doing 8 damage. | 7 | 6 s |
+| 3 | Main hand | ![](../../assets/icons/skills/640.webp){ width="24" } [Flare Guns 3](../skills/640.md) | Damage: 2+2+3+4. Charge attack: Fires a 5 damage projectile. | — | — |
+| 3 | Main hand (valiant) | ![](../../assets/icons/skills/1022.webp){ width="24" } [Valiant Attack](../skills/1022.md) | Damage: 3+3+4. Charge attack: Spins you around, doing 10 damage to enemies. | — | — |
+| 3 | Neck/back | ![](../../assets/icons/skills/599.webp){ width="24" } [Fire Extinguisher 3](../skills/599.md) | Damage: 14. Freezes enemies solid. | 10 | 20 s |
 
 ## Unlocking the class
 
@@ -48,10 +48,10 @@ variants, and valiant gear at [Billy Ganges - Venture League Vendor (LOT 13384)]
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | [Daredevil Helmet 1 (LOT 7463)](../items/7463.md) | 5 | 25 | [Super Jump 1](../skills/445.md) (5 IP, 6 s) |
-| Chest | [Daredevil Jacket 1 (LOT 7487)](../items/7487.md) | 5 | 25 | — |
-| Legs | [Daredevil Pants 1 (LOT 7511)](../items/7511.md) | 5 | 25 | — |
-| Main hand | [Daredevil Flareguns 1 (LOT 7535)](../items/7535.md) | 5 | 50 | [Flare Guns 1](../skills/604.md) |
+| Head | ![](../../assets/icons/objects/7463.webp){ width="32" } [Daredevil Helmet 1 (LOT 7463)](../items/7463.md) | 5 | 25 | [Super Jump 1](../skills/445.md) (5 IP, 6 s) |
+| Chest | ![](../../assets/icons/objects/7487.webp){ width="32" } [Daredevil Jacket 1 (LOT 7487)](../items/7487.md) | 5 | 25 | — |
+| Legs | ![](../../assets/icons/objects/7511.webp){ width="32" } [Daredevil Pants 1 (LOT 7511)](../items/7511.md) | 5 | 25 | — |
+| Main hand | ![](../../assets/icons/objects/7535.webp){ width="32" } [Daredevil Flareguns 1 (LOT 7535)](../items/7535.md) | 5 | 50 | [Flare Guns 1](../skills/604.md) |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
@@ -61,11 +61,11 @@ variants, and valiant gear at [Billy Ganges - Venture League Vendor (LOT 13384)]
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | [Daredevil Helmet 2 (LOT 7464)](../items/7464.md) | 15 | 60 | [Super Jump 2](../skills/449.md) (6 IP, 6 s) |
-| Chest | [Daredevil Jacket 2 (LOT 7488)](../items/7488.md) | 15 | 60 | — |
-| Legs | [Daredevil Pants 2 (LOT 7512)](../items/7512.md) | 15 | 60 | — |
-| Main hand | [Daredevil Flareguns 2 (LOT 7536)](../items/7536.md) | 15 | 120 | [Flare Guns 2](../skills/639.md) |
-| Neck/back | [Daredevil Shoulderpads 2 (LOT 8466)](../items/8466.md) | 15 | 60 | — |
+| Head | ![](../../assets/icons/objects/7464.webp){ width="32" } [Daredevil Helmet 2 (LOT 7464)](../items/7464.md) | 15 | 60 | [Super Jump 2](../skills/449.md) (6 IP, 6 s) |
+| Chest | ![](../../assets/icons/objects/7488.webp){ width="32" } [Daredevil Jacket 2 (LOT 7488)](../items/7488.md) | 15 | 60 | — |
+| Legs | ![](../../assets/icons/objects/7512.webp){ width="32" } [Daredevil Pants 2 (LOT 7512)](../items/7512.md) | 15 | 60 | — |
+| Main hand | ![](../../assets/icons/objects/7536.webp){ width="32" } [Daredevil Flareguns 2 (LOT 7536)](../items/7536.md) | 15 | 120 | [Flare Guns 2](../skills/639.md) |
+| Neck/back | ![](../../assets/icons/objects/8466.webp){ width="32" } [Daredevil Shoulderpads 2 (LOT 8466)](../items/8466.md) | 15 | 60 | — |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
@@ -76,18 +76,18 @@ variants, and valiant gear at [Billy Ganges - Venture League Vendor (LOT 13384)]
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | [Daredevil Helmet 3 (LOT 7465)](../items/7465.md) | 30 | 180 | [Super Jump 3](../skills/450.md) (7 IP, 6 s) |
-| Head | [Daredevil Helmet 3 (LOT 12993)](../items/12993.md) (color variant) | 30 | 180 | [Super Jump 3](../skills/450.md) (7 IP, 6 s) |
-| Chest | [Daredevil Jacket 3 (LOT 7489)](../items/7489.md) | 30 | 180 | — |
-| Chest | [Daredevil Jacket 3 (LOT 12956)](../items/12956.md) (color variant) | 30 | 180 | — |
-| Legs | [Daredevil Pants 3 (LOT 7513)](../items/7513.md) | 30 | 180 | — |
-| Legs | [Daredevil Pants 3 (LOT 12957)](../items/12957.md) (color variant) | 30 | 180 | — |
-| Main hand | [Daredevil Flareguns 3 (LOT 7537)](../items/7537.md) | 30 | 360 | [Flare Guns 3](../skills/640.md) |
-| Main hand | [Daredevil Flareguns 3 (LOT 12994)](../items/12994.md) (color variant) | 30 | 360 | [Flare Guns 3](../skills/640.md) |
-| Main hand | [The Rutcarver (LOT 12647)](../items/12647.md) (valiant) | 35 | 500 | [Valiant Attack](../skills/1022.md) |
-| Neck/back | [Daredevil Shoulderpads 3 (LOT 7543)](../items/7543.md) | 30 | 180 | [Fire Extinguisher 3](../skills/599.md) (10 IP, 20 s) |
-| Neck/back | [Daredevil Shoulderpads 3 (LOT 12995)](../items/12995.md) (color variant) | 30 | 180 | [Fire Extinguisher 3](../skills/599.md) (10 IP, 20 s) |
-| Neck/back | [Valiant Daredevil's Cape (LOT 16185)](../items/16185.md) (valiant) | 40 | 250 | [Fire Extinguisher 3](../skills/599.md) (10 IP, 20 s) |
+| Head | ![](../../assets/icons/objects/7465.webp){ width="32" } [Daredevil Helmet 3 (LOT 7465)](../items/7465.md) | 30 | 180 | [Super Jump 3](../skills/450.md) (7 IP, 6 s) |
+| Head | ![](../../assets/icons/objects/12993.webp){ width="32" } [Daredevil Helmet 3 (LOT 12993)](../items/12993.md) (color variant) | 30 | 180 | [Super Jump 3](../skills/450.md) (7 IP, 6 s) |
+| Chest | ![](../../assets/icons/objects/7489.webp){ width="32" } [Daredevil Jacket 3 (LOT 7489)](../items/7489.md) | 30 | 180 | — |
+| Chest | ![](../../assets/icons/objects/12956.webp){ width="32" } [Daredevil Jacket 3 (LOT 12956)](../items/12956.md) (color variant) | 30 | 180 | — |
+| Legs | ![](../../assets/icons/objects/7513.webp){ width="32" } [Daredevil Pants 3 (LOT 7513)](../items/7513.md) | 30 | 180 | — |
+| Legs | ![](../../assets/icons/objects/12957.webp){ width="32" } [Daredevil Pants 3 (LOT 12957)](../items/12957.md) (color variant) | 30 | 180 | — |
+| Main hand | ![](../../assets/icons/objects/7537.webp){ width="32" } [Daredevil Flareguns 3 (LOT 7537)](../items/7537.md) | 30 | 360 | [Flare Guns 3](../skills/640.md) |
+| Main hand | ![](../../assets/icons/objects/12994.webp){ width="32" } [Daredevil Flareguns 3 (LOT 12994)](../items/12994.md) (color variant) | 30 | 360 | [Flare Guns 3](../skills/640.md) |
+| Main hand | ![](../../assets/icons/objects/12647.webp){ width="32" } [The Rutcarver (LOT 12647)](../items/12647.md) (valiant) | 35 | 500 | [Valiant Attack](../skills/1022.md) |
+| Neck/back | ![](../../assets/icons/objects/7543.webp){ width="32" } [Daredevil Shoulderpads 3 (LOT 7543)](../items/7543.md) | 30 | 180 | [Fire Extinguisher 3](../skills/599.md) (10 IP, 20 s) |
+| Neck/back | ![](../../assets/icons/objects/12995.webp){ width="32" } [Daredevil Shoulderpads 3 (LOT 12995)](../items/12995.md) (color variant) | 30 | 180 | [Fire Extinguisher 3](../skills/599.md) (10 IP, 20 s) |
+| Neck/back | ![](../../assets/icons/objects/16185.webp){ width="32" } [Valiant Daredevil's Cape (LOT 16185)](../items/16185.md) (valiant) | 40 | 250 | [Fire Extinguisher 3](../skills/599.md) (10 IP, 20 s) |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 

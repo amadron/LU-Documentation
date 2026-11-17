@@ -17,15 +17,15 @@ tooltips.
 
 | Rank | Slot | Ability | Effect | IP cost | Cooldown |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Head | [Gravity Well 1](../skills/1088.md) | Tosses a gadget that pulls enemies to it and stuns them. | 4 | 8 s |
-| 1 | Main hand | [Ripple Gun 1](../skills/1094.md) | Damage: 1+1+2. Charge attack: Blocks 4 attacks while charged. | — | — |
-| 2 | Head | [Gravity Well 2](../skills/1089.md) | Tosses a gadget that pulls enemies to it and stuns them. | 5 | 8 s |
-| 2 | Main hand | [Ripple Gun 2](../skills/1099.md) | Damage: 2+2+2. Charge attack: Blocks 6 attacks while charged. | — | — |
-| 2 | Off hand | [Orbital Strike 1](../skills/1091.md) | Damage: 4. Calls an orbital laser that does 4 damage to enemies and briefly stuns them. | 5 | 8 s |
-| 3 | Head | [Gravity Well 3](../skills/1090.md) | Tosses a gadget that pulls enemies to it and stuns them. | 6 | 8 s |
-| 3 | Main hand | [Ripple Gun 3](../skills/1100.md) | Damage: 2+3+3. Charge attack: Blocks 8 attacks while charged. | — | — |
-| 3 | Off hand | [Orbital Strike 2](../skills/1092.md) | Damage: 8. Calls an orbital laser that does 8 damage to enemies and briefly stuns them. | 7 | 8 s |
-| 3 | Neck/back | [Sentinel Blast](../skills/1093.md) | Damage: 14. Releases stored energy that does 14 damage to enemies. | 10 | 12 s |
+| 1 | Head | ![](../../assets/icons/skills/1088.webp){ width="24" } [Gravity Well 1](../skills/1088.md) | Tosses a gadget that pulls enemies to it and stuns them. | 4 | 8 s |
+| 1 | Main hand | ![](../../assets/icons/skills/1094.webp){ width="24" } [Ripple Gun 1](../skills/1094.md) | Damage: 1+1+2. Charge attack: Blocks 4 attacks while charged. | — | — |
+| 2 | Head | ![](../../assets/icons/skills/1089.webp){ width="24" } [Gravity Well 2](../skills/1089.md) | Tosses a gadget that pulls enemies to it and stuns them. | 5 | 8 s |
+| 2 | Main hand | ![](../../assets/icons/skills/1099.webp){ width="24" } [Ripple Gun 2](../skills/1099.md) | Damage: 2+2+2. Charge attack: Blocks 6 attacks while charged. | — | — |
+| 2 | Off hand | ![](../../assets/icons/skills/1091.webp){ width="24" } [Orbital Strike 1](../skills/1091.md) | Damage: 4. Calls an orbital laser that does 4 damage to enemies and briefly stuns them. | 5 | 8 s |
+| 3 | Head | ![](../../assets/icons/skills/1090.webp){ width="24" } [Gravity Well 3](../skills/1090.md) | Tosses a gadget that pulls enemies to it and stuns them. | 6 | 8 s |
+| 3 | Main hand | ![](../../assets/icons/skills/1100.webp){ width="24" } [Ripple Gun 3](../skills/1100.md) | Damage: 2+3+3. Charge attack: Blocks 8 attacks while charged. | — | — |
+| 3 | Off hand | ![](../../assets/icons/skills/1092.webp){ width="24" } [Orbital Strike 2](../skills/1092.md) | Damage: 8. Calls an orbital laser that does 8 damage to enemies and briefly stuns them. | 7 | 8 s |
+| 3 | Neck/back | ![](../../assets/icons/skills/1093.webp){ width="24" } [Sentinel Blast](../skills/1093.md) | Damage: 14. Releases stored energy that does 14 damage to enemies. | 10 | 12 s |
 
 ## Unlocking the class
 
@@ -52,10 +52,10 @@ variants, and valiant gear at [Nikolai Gammapulse - Sentinel Vendor (LOT 13376)]
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | [Space Ranger Helmet 1 (LOT 7442)](../items/7442.md) | 5 | 25 | [Gravity Well 1](../skills/1088.md) (4 IP, 8 s) |
-| Chest | [Space Ranger Armor 1 (LOT 7466)](../items/7466.md) | 5 | 25 | — |
-| Legs | [Space Ranger Pants 1 (LOT 7490)](../items/7490.md) | 5 | 25 | — |
-| Main hand | [Space Ranger Zipgun 1 (LOT 7514)](../items/7514.md) | 5 | 25 | [Ripple Gun 1](../skills/1094.md) |
+| Head | ![](../../assets/icons/objects/7442.webp){ width="32" } [Space Ranger Helmet 1 (LOT 7442)](../items/7442.md) | 5 | 25 | [Gravity Well 1](../skills/1088.md) (4 IP, 8 s) |
+| Chest | ![](../../assets/icons/objects/7466.webp){ width="32" } [Space Ranger Armor 1 (LOT 7466)](../items/7466.md) | 5 | 25 | — |
+| Legs | ![](../../assets/icons/objects/7490.webp){ width="32" } [Space Ranger Pants 1 (LOT 7490)](../items/7490.md) | 5 | 25 | — |
+| Main hand | ![](../../assets/icons/objects/7514.webp){ width="32" } [Space Ranger Zipgun 1 (LOT 7514)](../items/7514.md) | 5 | 25 | [Ripple Gun 1](../skills/1094.md) |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
@@ -65,12 +65,12 @@ variants, and valiant gear at [Nikolai Gammapulse - Sentinel Vendor (LOT 13376)]
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | [Space Ranger Helmet 2 (LOT 7443)](../items/7443.md) | 15 | 60 | [Gravity Well 2](../skills/1089.md) (5 IP, 8 s) |
-| Chest | [Space Ranger Armor 2 (LOT 7467)](../items/7467.md) | 15 | 60 | — |
-| Legs | [Space Ranger Pants 2 (LOT 7491)](../items/7491.md) | 15 | 60 | — |
-| Main hand | [Space Ranger Zipgun 2 (LOT 7515)](../items/7515.md) | 15 | 60 | [Ripple Gun 2](../skills/1099.md) |
-| Off hand | [Space Ranger Launcher 2 (LOT 7544)](../items/7544.md) | 15 | 60 | [Orbital Strike 1](../skills/1091.md) (5 IP, 8 s) |
-| Neck/back | [Space Ranger Pack 2 (LOT 8457)](../items/8457.md) | 15 | 60 | — |
+| Head | ![](../../assets/icons/objects/7443.webp){ width="32" } [Space Ranger Helmet 2 (LOT 7443)](../items/7443.md) | 15 | 60 | [Gravity Well 2](../skills/1089.md) (5 IP, 8 s) |
+| Chest | ![](../../assets/icons/objects/7467.webp){ width="32" } [Space Ranger Armor 2 (LOT 7467)](../items/7467.md) | 15 | 60 | — |
+| Legs | ![](../../assets/icons/objects/7491.webp){ width="32" } [Space Ranger Pants 2 (LOT 7491)](../items/7491.md) | 15 | 60 | — |
+| Main hand | ![](../../assets/icons/objects/7515.webp){ width="32" } [Space Ranger Zipgun 2 (LOT 7515)](../items/7515.md) | 15 | 60 | [Ripple Gun 2](../skills/1099.md) |
+| Off hand | ![](../../assets/icons/objects/7544.webp){ width="32" } [Space Ranger Launcher 2 (LOT 7544)](../items/7544.md) | 15 | 60 | [Orbital Strike 1](../skills/1091.md) (5 IP, 8 s) |
+| Neck/back | ![](../../assets/icons/objects/8457.webp){ width="32" } [Space Ranger Pack 2 (LOT 8457)](../items/8457.md) | 15 | 60 | — |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
@@ -82,13 +82,13 @@ variants, and valiant gear at [Nikolai Gammapulse - Sentinel Vendor (LOT 13376)]
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | [Space Ranger Helmet 3 (LOT 7444)](../items/7444.md) | 30 | 180 | [Gravity Well 3](../skills/1090.md) (6 IP, 8 s) |
-| Chest | [Space Ranger Armor 3 (LOT 7468)](../items/7468.md) | 30 | 180 | — |
-| Legs | [Space Ranger Pants 3 (LOT 7492)](../items/7492.md) | 30 | 180 | — |
-| Main hand | [Space Ranger Zipgun 3 (LOT 7516)](../items/7516.md) | 30 | 180 | [Ripple Gun 3](../skills/1100.md) |
-| Off hand | [Space Ranger Launcher 3 (LOT 7545)](../items/7545.md) | 30 | 180 | [Orbital Strike 2](../skills/1092.md) (7 IP, 8 s) |
-| Neck/back | [Space Ranger Pack 3 (LOT 7538)](../items/7538.md) | 30 | 180 | [Sentinel Blast](../skills/1093.md) (10 IP, 12 s) |
-| Neck/back | [Valiant Space Ranger's Cape (LOT 16181)](../items/16181.md) (valiant) | 40 | 250 | [Sentinel Blast](../skills/1093.md) (10 IP, 12 s) |
+| Head | ![](../../assets/icons/objects/7444.webp){ width="32" } [Space Ranger Helmet 3 (LOT 7444)](../items/7444.md) | 30 | 180 | [Gravity Well 3](../skills/1090.md) (6 IP, 8 s) |
+| Chest | ![](../../assets/icons/objects/7468.webp){ width="32" } [Space Ranger Armor 3 (LOT 7468)](../items/7468.md) | 30 | 180 | — |
+| Legs | ![](../../assets/icons/objects/7492.webp){ width="32" } [Space Ranger Pants 3 (LOT 7492)](../items/7492.md) | 30 | 180 | — |
+| Main hand | ![](../../assets/icons/objects/7516.webp){ width="32" } [Space Ranger Zipgun 3 (LOT 7516)](../items/7516.md) | 30 | 180 | [Ripple Gun 3](../skills/1100.md) |
+| Off hand | ![](../../assets/icons/objects/7545.webp){ width="32" } [Space Ranger Launcher 3 (LOT 7545)](../items/7545.md) | 30 | 180 | [Orbital Strike 2](../skills/1092.md) (7 IP, 8 s) |
+| Neck/back | ![](../../assets/icons/objects/7538.webp){ width="32" } [Space Ranger Pack 3 (LOT 7538)](../items/7538.md) | 30 | 180 | [Sentinel Blast](../skills/1093.md) (10 IP, 12 s) |
+| Neck/back | ![](../../assets/icons/objects/16181.webp){ width="32" } [Valiant Space Ranger's Cape (LOT 16181)](../items/16181.md) (valiant) | 40 | 250 | [Sentinel Blast](../skills/1093.md) (10 IP, 12 s) |
 
 Listed in `ItemSets` without an object definition in this database (likely an unreleased valiant weapon): LOT 13277.
 

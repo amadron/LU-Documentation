@@ -17,13 +17,13 @@ tooltips.
 
 | Rank | Slot | Ability | Effect | IP cost | Cooldown |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Head | [Summon Make-Shift Buddy 1](../skills/1055.md) | Damage: 2. Creates a slow firing Invention that assists you in battle. | 4 | 45 s |
-| 1 | Main hand | [Improvised Launcher 1](../skills/1043.md) | Damage: 1+1+2. Charge attack: Restores up to 2 Armor to nearby characters. | — | — |
-| 2 | Head | [Summon Make-Shift Buddy 2](../skills/1056.md) | Damage: 2. Creates a medium fast firing Invention that assists you in battle. | 6 | 45 s |
-| 2 | Main hand | [Improvised Launcher 2](../skills/1042.md) | Damage: 2+2+3. Charge attack: Restores up to 6 Armor to nearby characters - charge longer for more Armor. | — | — |
-| 3 | Head | [Summon Make-Shift Buddy 3](../skills/1057.md) | Damage: 2. Creates a faster firing Invention that assists you in battle. | 8 | 45 s |
-| 3 | Main hand | [Improvised Launcher 3](../skills/1038.md) | Damage: 2+3+3. Charge attack: Restores up to 12 Armor to nearby characters - charge longer for more Armor. | — | — |
-| 3 | Neck/back | [Gadgets Extreme](../skills/1058.md) | Does 3 ongoing damage to enemies. | 10 | 60 s |
+| 1 | Head | ![](../../assets/icons/skills/1055.webp){ width="24" } [Summon Make-Shift Buddy 1](../skills/1055.md) | Damage: 2. Creates a slow firing Invention that assists you in battle. | 4 | 45 s |
+| 1 | Main hand | ![](../../assets/icons/skills/1043.webp){ width="24" } [Improvised Launcher 1](../skills/1043.md) | Damage: 1+1+2. Charge attack: Restores up to 2 Armor to nearby characters. | — | — |
+| 2 | Head | ![](../../assets/icons/skills/1056.webp){ width="24" } [Summon Make-Shift Buddy 2](../skills/1056.md) | Damage: 2. Creates a medium fast firing Invention that assists you in battle. | 6 | 45 s |
+| 2 | Main hand | ![](../../assets/icons/skills/1042.webp){ width="24" } [Improvised Launcher 2](../skills/1042.md) | Damage: 2+2+3. Charge attack: Restores up to 6 Armor to nearby characters - charge longer for more Armor. | — | — |
+| 3 | Head | ![](../../assets/icons/skills/1057.webp){ width="24" } [Summon Make-Shift Buddy 3](../skills/1057.md) | Damage: 2. Creates a faster firing Invention that assists you in battle. | 8 | 45 s |
+| 3 | Main hand | ![](../../assets/icons/skills/1038.webp){ width="24" } [Improvised Launcher 3](../skills/1038.md) | Damage: 2+3+3. Charge attack: Restores up to 12 Armor to nearby characters - charge longer for more Armor. | — | — |
+| 3 | Neck/back | ![](../../assets/icons/skills/1058.webp){ width="24" } [Gadgets Extreme](../skills/1058.md) | Does 3 ongoing damage to enemies. | 10 | 60 s |
 
 ## Unlocking the class
 
@@ -50,10 +50,10 @@ variants, and valiant gear at [Torbert Oscillator - Assembly Vendor (LOT 13380)]
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | [Inventor Goggles 1 (LOT 7454)](../items/7454.md) | 5 | 25 | [Summon Make-Shift Buddy 1](../skills/1055.md) (4 IP, 45 s) |
-| Chest | [Inventor Armor 1 (LOT 7478)](../items/7478.md) | 5 | 25 | — |
-| Legs | [Inventor Pants 1 (LOT 7502)](../items/7502.md) | 5 | 25 | — |
-| Main hand | [Inventor Improved Launcher 1 (LOT 7526)](../items/7526.md) | 5 | 25 | [Improvised Launcher 1](../skills/1043.md) |
+| Head | ![](../../assets/icons/objects/7454.webp){ width="32" } [Inventor Goggles 1 (LOT 7454)](../items/7454.md) | 5 | 25 | [Summon Make-Shift Buddy 1](../skills/1055.md) (4 IP, 45 s) |
+| Chest | ![](../../assets/icons/objects/7478.webp){ width="32" } [Inventor Armor 1 (LOT 7478)](../items/7478.md) | 5 | 25 | — |
+| Legs | ![](../../assets/icons/objects/7502.webp){ width="32" } [Inventor Pants 1 (LOT 7502)](../items/7502.md) | 5 | 25 | — |
+| Main hand | ![](../../assets/icons/objects/7526.webp){ width="32" } [Inventor Improved Launcher 1 (LOT 7526)](../items/7526.md) | 5 | 25 | [Improvised Launcher 1](../skills/1043.md) |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
@@ -63,11 +63,11 @@ variants, and valiant gear at [Torbert Oscillator - Assembly Vendor (LOT 13380)]
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | [Inventor Goggles 2 (LOT 7455)](../items/7455.md) | 15 | 60 | [Summon Make-Shift Buddy 2](../skills/1056.md) (6 IP, 45 s) |
-| Chest | [Inventor Armor 2 (LOT 7479)](../items/7479.md) | 15 | 60 | — |
-| Legs | [Inventor Pants 2 (LOT 7503)](../items/7503.md) | 15 | 60 | — |
-| Main hand | [Inventor Improved Launcher 2 (LOT 7527)](../items/7527.md) | 15 | 120 | [Improvised Launcher 2](../skills/1042.md) |
-| Neck/back | [Inventor Shoulderpads 2 (LOT 8463)](../items/8463.md) | 15 | 60 | — |
+| Head | ![](../../assets/icons/objects/7455.webp){ width="32" } [Inventor Goggles 2 (LOT 7455)](../items/7455.md) | 15 | 60 | [Summon Make-Shift Buddy 2](../skills/1056.md) (6 IP, 45 s) |
+| Chest | ![](../../assets/icons/objects/7479.webp){ width="32" } [Inventor Armor 2 (LOT 7479)](../items/7479.md) | 15 | 60 | — |
+| Legs | ![](../../assets/icons/objects/7503.webp){ width="32" } [Inventor Pants 2 (LOT 7503)](../items/7503.md) | 15 | 60 | — |
+| Main hand | ![](../../assets/icons/objects/7527.webp){ width="32" } [Inventor Improved Launcher 2 (LOT 7527)](../items/7527.md) | 15 | 120 | [Improvised Launcher 2](../skills/1042.md) |
+| Neck/back | ![](../../assets/icons/objects/8463.webp){ width="32" } [Inventor Shoulderpads 2 (LOT 8463)](../items/8463.md) | 15 | 60 | — |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
@@ -79,12 +79,12 @@ variants, and valiant gear at [Torbert Oscillator - Assembly Vendor (LOT 13380)]
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | [Inventor Goggles 3 (LOT 7456)](../items/7456.md) | 30 | 180 | [Summon Make-Shift Buddy 3](../skills/1057.md) (8 IP, 45 s) |
-| Chest | [Inventor Armor 3 (LOT 7480)](../items/7480.md) | 30 | 180 | — |
-| Legs | [Inventor Pants 3 (LOT 7504)](../items/7504.md) | 30 | 180 | — |
-| Main hand | [Inventor Improved Launcher 3 (LOT 7528)](../items/7528.md) | 30 | 360 | [Improvised Launcher 3](../skills/1038.md) |
-| Neck/back | [Inventor Shoulderpads 3 (LOT 7542)](../items/7542.md) | 30 | 180 | [Gadgets Extreme](../skills/1058.md) (10 IP, 60 s) |
-| Neck/back | [Valiant Inventor's Cape (LOT 16184)](../items/16184.md) (valiant) | 40 | 250 | [Gadgets Extreme](../skills/1058.md) (10 IP, 60 s) |
+| Head | ![](../../assets/icons/objects/7456.webp){ width="32" } [Inventor Goggles 3 (LOT 7456)](../items/7456.md) | 30 | 180 | [Summon Make-Shift Buddy 3](../skills/1057.md) (8 IP, 45 s) |
+| Chest | ![](../../assets/icons/objects/7480.webp){ width="32" } [Inventor Armor 3 (LOT 7480)](../items/7480.md) | 30 | 180 | — |
+| Legs | ![](../../assets/icons/objects/7504.webp){ width="32" } [Inventor Pants 3 (LOT 7504)](../items/7504.md) | 30 | 180 | — |
+| Main hand | ![](../../assets/icons/objects/7528.webp){ width="32" } [Inventor Improved Launcher 3 (LOT 7528)](../items/7528.md) | 30 | 360 | [Improvised Launcher 3](../skills/1038.md) |
+| Neck/back | ![](../../assets/icons/objects/7542.webp){ width="32" } [Inventor Shoulderpads 3 (LOT 7542)](../items/7542.md) | 30 | 180 | [Gadgets Extreme](../skills/1058.md) (10 IP, 60 s) |
+| Neck/back | ![](../../assets/icons/objects/16184.webp){ width="32" } [Valiant Inventor's Cape (LOT 16184)](../items/16184.md) (valiant) | 40 | 250 | [Gadgets Extreme](../skills/1058.md) (10 IP, 60 s) |
 
 Listed in `ItemSets` without an object definition in this database (likely an unreleased valiant weapon): LOT 13278.
 

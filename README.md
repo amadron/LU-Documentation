@@ -48,3 +48,14 @@ catalogs; it publishes their schema or relevant guide links instead. Adjacent
 local `res` assets are not copied, and their links are identified as local
 references. DarkflameServer source-code links point to the reviewed public
 GitHub revision.
+
+## Legal notice
+
+LEGO®, the LEGO logo, and LEGO Universe are trademarks of the LEGO Group. This
+documentation is a non-commercial fan project and is not sponsored, authorized,
+or endorsed by the LEGO Group. Game names, texts, icons, and minimaps shown here
+are taken from the game client for identification and reference only and remain
+the property of the LEGO Group. No game files are distributed.
+
+If you are a rights holder and want content removed, please open an issue in
+this documentation's repository.

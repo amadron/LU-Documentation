@@ -39,3 +39,14 @@ remain available on the pages.
 Content availability varies by DarkflameServer deployment. A database record
 describes data in the supplied files; it does not guarantee that the related
 activity, item, pet, or character is enabled in a particular game.
+
+## Legal notice
+
+LEGO®, the LEGO logo, and LEGO Universe are trademarks of the LEGO Group. This
+documentation is a non-commercial fan project and is not sponsored, authorized,
+or endorsed by the LEGO Group. Game names, texts, icons, and minimaps shown here
+are taken from the game client for identification and reference only and remain
+the property of the LEGO Group. No game files are distributed.
+
+If you are a rights holder and want content removed, please open an issue in
+this documentation's repository.

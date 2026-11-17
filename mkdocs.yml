@@ -2,6 +2,10 @@ site_name: LEGO Universe Documentation
 site_description: Player guides, game data references, and DarkflameServer documentation
 docs_dir: site-src
 site_dir: site
+copyright: >-
+  LEGO, the LEGO logo, and LEGO Universe are trademarks of the LEGO Group.
+  This is a non-commercial fan project; it is not sponsored, authorized, or
+  endorsed by the LEGO Group. Game names, texts, icons, and maps are © the LEGO Group.
 use_directory_urls: true
 
 theme:
@@ -14,6 +18,9 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
+
+extra_css:
+  - assets/stylesheets/extra.css
 
 hooks:
   - hooks/site_links.py
