@@ -290,7 +290,7 @@ class Data:
     def icon(kind, ident, width=32):
         """Inline icon from assets/ (written by scripts/build_media.py), if it exists."""
         if (ROOT / "assets" / "icons" / kind / f"{ident}.webp").exists():
-            return f'![](../../assets/icons/{kind}/{ident}.webp){{ width="{width}" }} '
+            return f'![](../../assets/icons/{kind}/{ident}.webp){{ .lu-ci width="{width}" }} '
         return ""
 
 

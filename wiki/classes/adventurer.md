@@ -17,15 +17,15 @@ tooltips.
 
 | Rank | Slot | Ability | Effect | IP cost | Cooldown |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Head | ![](../../assets/icons/skills/1070.webp){ width="24" } [Path Cutter 1](../skills/1070.md) | Gives a speed boost to nearby characters for 300 seconds. | 3 | 15 s |
-| 1 | Main hand | ![](../../assets/icons/skills/1059.webp){ width="24" } [Adventurer Crossbow 1](../skills/1059.md) | Damage: 1+2+2. Charge attack: Fires a spread of bolts that do 2 damage each. | — | — |
-| 2 | Head | ![](../../assets/icons/skills/1071.webp){ width="24" } [Path Cutter 2](../skills/1071.md) | Gives a speed boost to nearby characters for 300 seconds. | 4 | 15 s |
-| 2 | Main hand | ![](../../assets/icons/skills/1060.webp){ width="24" } [Adventurer Crossbow 2](../skills/1060.md) | Damage: 2+2+3. Charge attack: Fires a spread of bolts that do 3 damage each. | — | — |
-| 2 | Off hand | ![](../../assets/icons/skills/1068.webp){ width="24" } [Whip Snap 1](../skills/1068.md) | Damage: 5. Stuns enemies. | 5 | 9 s |
-| 3 | Head | ![](../../assets/icons/skills/1072.webp){ width="24" } [Path Cutter 3](../skills/1072.md) | Gives a speed boost to nearby characters for 300 seconds. | 6 | 15 s |
-| 3 | Main hand | ![](../../assets/icons/skills/1061.webp){ width="24" } [Adventurer Crossbow 3](../skills/1061.md) | Damage: 3+3+3. Charge attack: Fires a spread of bolts that do 4 damage each. | — | — |
-| 3 | Off hand | ![](../../assets/icons/skills/1069.webp){ width="24" } [Whip Snap 2](../skills/1069.md) | Damage: 8. Stuns enemies. | 8 | 9 s |
-| 3 | Neck/back | ![](../../assets/icons/skills/1073.webp){ width="24" } [Rations](../skills/1073.md) | Restores 10 Life to nearby characters. | 8 | 10 s |
+| 1 | Head | ![](../../assets/icons/skills/1070.webp){ .lu-ci width="24" } [Path Cutter 1](../skills/1070.md) | Gives a speed boost to nearby characters for 300 seconds. | 3 | 15 s |
+| 1 | Main hand | ![](../../assets/icons/skills/1059.webp){ .lu-ci width="24" } [Adventurer Crossbow 1](../skills/1059.md) | Damage: 1+2+2. Charge attack: Fires a spread of bolts that do 2 damage each. | — | — |
+| 2 | Head | ![](../../assets/icons/skills/1071.webp){ .lu-ci width="24" } [Path Cutter 2](../skills/1071.md) | Gives a speed boost to nearby characters for 300 seconds. | 4 | 15 s |
+| 2 | Main hand | ![](../../assets/icons/skills/1060.webp){ .lu-ci width="24" } [Adventurer Crossbow 2](../skills/1060.md) | Damage: 2+2+3. Charge attack: Fires a spread of bolts that do 3 damage each. | — | — |
+| 2 | Off hand | ![](../../assets/icons/skills/1068.webp){ .lu-ci width="24" } [Whip Snap 1](../skills/1068.md) | Damage: 5. Stuns enemies. | 5 | 9 s |
+| 3 | Head | ![](../../assets/icons/skills/1072.webp){ .lu-ci width="24" } [Path Cutter 3](../skills/1072.md) | Gives a speed boost to nearby characters for 300 seconds. | 6 | 15 s |
+| 3 | Main hand | ![](../../assets/icons/skills/1061.webp){ .lu-ci width="24" } [Adventurer Crossbow 3](../skills/1061.md) | Damage: 3+3+3. Charge attack: Fires a spread of bolts that do 4 damage each. | — | — |
+| 3 | Off hand | ![](../../assets/icons/skills/1069.webp){ .lu-ci width="24" } [Whip Snap 2](../skills/1069.md) | Damage: 8. Stuns enemies. | 8 | 9 s |
+| 3 | Neck/back | ![](../../assets/icons/skills/1073.webp){ .lu-ci width="24" } [Rations](../skills/1073.md) | Restores 10 Life to nearby characters. | 8 | 10 s |
 
 ## Unlocking the class
 
@@ -52,10 +52,10 @@ variants, and valiant gear at [Billy Ganges - Venture League Vendor (LOT 13384)]
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | ![](../../assets/icons/objects/7460.webp){ width="32" } [Adventurer Hat 1 (LOT 7460)](../items/7460.md) | 5 | 25 | [Path Cutter 1](../skills/1070.md) (3 IP, 15 s) |
-| Chest | ![](../../assets/icons/objects/7484.webp){ width="32" } [Adventurer Coat 1 (LOT 7484)](../items/7484.md) | 5 | 25 | — |
-| Legs | ![](../../assets/icons/objects/7508.webp){ width="32" } [Adventurer Pants 1 (LOT 7508)](../items/7508.md) | 5 | 25 | — |
-| Main hand | ![](../../assets/icons/objects/7532.webp){ width="32" } [Adventurer Crossbow 1 (LOT 7532)](../items/7532.md) | 5 | 50 | [Adventurer Crossbow 1](../skills/1059.md) |
+| Head | ![](../../assets/icons/objects/7460.webp){ .lu-ci width="32" } [Adventurer Hat 1 (LOT 7460)](../items/7460.md) | 5 | 25 | [Path Cutter 1](../skills/1070.md) (3 IP, 15 s) |
+| Chest | ![](../../assets/icons/objects/7484.webp){ .lu-ci width="32" } [Adventurer Coat 1 (LOT 7484)](../items/7484.md) | 5 | 25 | — |
+| Legs | ![](../../assets/icons/objects/7508.webp){ .lu-ci width="32" } [Adventurer Pants 1 (LOT 7508)](../items/7508.md) | 5 | 25 | — |
+| Main hand | ![](../../assets/icons/objects/7532.webp){ .lu-ci width="32" } [Adventurer Crossbow 1 (LOT 7532)](../items/7532.md) | 5 | 50 | [Adventurer Crossbow 1](../skills/1059.md) |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
@@ -65,12 +65,12 @@ variants, and valiant gear at [Billy Ganges - Venture League Vendor (LOT 13384)]
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | ![](../../assets/icons/objects/7461.webp){ width="32" } [Adventurer Hat 2 (LOT 7461)](../items/7461.md) | 15 | 60 | [Path Cutter 2](../skills/1071.md) (4 IP, 15 s) |
-| Chest | ![](../../assets/icons/objects/7485.webp){ width="32" } [Adventurer Coat 2 (LOT 7485)](../items/7485.md) | 15 | 60 | — |
-| Legs | ![](../../assets/icons/objects/7509.webp){ width="32" } [Adventurer Pants 2 (LOT 7509)](../items/7509.md) | 15 | 60 | — |
-| Main hand | ![](../../assets/icons/objects/7533.webp){ width="32" } [Adventurer Crossbow 2 (LOT 7533)](../items/7533.md) | 15 | 60 | [Adventurer Crossbow 2](../skills/1060.md) |
-| Off hand | ![](../../assets/icons/objects/11458.webp){ width="32" } [Adventurer Whip 2 (LOT 11458)](../items/11458.md) | 15 | 60 | [Whip Snap 1](../skills/1068.md) (5 IP, 9 s) |
-| Neck/back | ![](../../assets/icons/objects/8465.webp){ width="32" } [Adventurer Backpack 2 (LOT 8465)](../items/8465.md) | 15 | 60 | — |
+| Head | ![](../../assets/icons/objects/7461.webp){ .lu-ci width="32" } [Adventurer Hat 2 (LOT 7461)](../items/7461.md) | 15 | 60 | [Path Cutter 2](../skills/1071.md) (4 IP, 15 s) |
+| Chest | ![](../../assets/icons/objects/7485.webp){ .lu-ci width="32" } [Adventurer Coat 2 (LOT 7485)](../items/7485.md) | 15 | 60 | — |
+| Legs | ![](../../assets/icons/objects/7509.webp){ .lu-ci width="32" } [Adventurer Pants 2 (LOT 7509)](../items/7509.md) | 15 | 60 | — |
+| Main hand | ![](../../assets/icons/objects/7533.webp){ .lu-ci width="32" } [Adventurer Crossbow 2 (LOT 7533)](../items/7533.md) | 15 | 60 | [Adventurer Crossbow 2](../skills/1060.md) |
+| Off hand | ![](../../assets/icons/objects/11458.webp){ .lu-ci width="32" } [Adventurer Whip 2 (LOT 11458)](../items/11458.md) | 15 | 60 | [Whip Snap 1](../skills/1068.md) (5 IP, 9 s) |
+| Neck/back | ![](../../assets/icons/objects/8465.webp){ .lu-ci width="32" } [Adventurer Backpack 2 (LOT 8465)](../items/8465.md) | 15 | 60 | — |
 
 Listed in `ItemSets` without an object definition in this database (likely an unreleased valiant weapon): LOT 13276.
 
@@ -84,13 +84,13 @@ Listed in `ItemSets` without an object definition in this database (likely an un
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | ![](../../assets/icons/objects/7462.webp){ width="32" } [Adventurer Hat 3 (LOT 7462)](../items/7462.md) | 30 | 180 | [Path Cutter 3](../skills/1072.md) (6 IP, 15 s) |
-| Chest | ![](../../assets/icons/objects/7486.webp){ width="32" } [Adventurer Coat 3 (LOT 7486)](../items/7486.md) | 30 | 180 | — |
-| Legs | ![](../../assets/icons/objects/7510.webp){ width="32" } [Adventurer Pants 3 (LOT 7510)](../items/7510.md) | 30 | 180 | — |
-| Main hand | ![](../../assets/icons/objects/7534.webp){ width="32" } [Adventurer Crossbow 3 (LOT 7534)](../items/7534.md) | 30 | 180 | [Adventurer Crossbow 3](../skills/1061.md) |
-| Off hand | ![](../../assets/icons/objects/11459.webp){ width="32" } [Adventurer Whip 3 (LOT 11459)](../items/11459.md) | 30 | 180 | [Whip Snap 2](../skills/1069.md) (8 IP, 9 s) |
-| Neck/back | ![](../../assets/icons/objects/7558.webp){ width="32" } [Adventurer Backpack 3 (LOT 7558)](../items/7558.md) | 30 | 180 | [Rations](../skills/1073.md) (8 IP, 10 s) |
-| Neck/back | ![](../../assets/icons/objects/16187.webp){ width="32" } [Valiant Adventurer's Cape (LOT 16187)](../items/16187.md) (valiant) | 40 | 250 | [Rations](../skills/1073.md) (8 IP, 10 s) |
+| Head | ![](../../assets/icons/objects/7462.webp){ .lu-ci width="32" } [Adventurer Hat 3 (LOT 7462)](../items/7462.md) | 30 | 180 | [Path Cutter 3](../skills/1072.md) (6 IP, 15 s) |
+| Chest | ![](../../assets/icons/objects/7486.webp){ .lu-ci width="32" } [Adventurer Coat 3 (LOT 7486)](../items/7486.md) | 30 | 180 | — |
+| Legs | ![](../../assets/icons/objects/7510.webp){ .lu-ci width="32" } [Adventurer Pants 3 (LOT 7510)](../items/7510.md) | 30 | 180 | — |
+| Main hand | ![](../../assets/icons/objects/7534.webp){ .lu-ci width="32" } [Adventurer Crossbow 3 (LOT 7534)](../items/7534.md) | 30 | 180 | [Adventurer Crossbow 3](../skills/1061.md) |
+| Off hand | ![](../../assets/icons/objects/11459.webp){ .lu-ci width="32" } [Adventurer Whip 3 (LOT 11459)](../items/11459.md) | 30 | 180 | [Whip Snap 2](../skills/1069.md) (8 IP, 9 s) |
+| Neck/back | ![](../../assets/icons/objects/7558.webp){ .lu-ci width="32" } [Adventurer Backpack 3 (LOT 7558)](../items/7558.md) | 30 | 180 | [Rations](../skills/1073.md) (8 IP, 10 s) |
+| Neck/back | ![](../../assets/icons/objects/16187.webp){ .lu-ci width="32" } [Valiant Adventurer's Cape (LOT 16187)](../items/16187.md) (valiant) | 40 | 250 | [Rations](../skills/1073.md) (8 IP, 10 s) |
 
 Listed in `ItemSets` without an object definition in this database (likely an unreleased valiant weapon): LOT 13276.
 

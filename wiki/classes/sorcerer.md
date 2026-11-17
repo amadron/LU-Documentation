@@ -14,16 +14,16 @@ tooltips.
 
 | Rank | Slot | Ability | Effect | IP cost | Cooldown |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Head | ![](../../assets/icons/skills/346.webp){ width="24" } [Maelstrom Breath 1](../skills/346.md) | Damage: 8. Breath a cone of Maelstrom energy that does up to 8 damage to enemies over time. | 6 | 6 s |
-| 1 | Main hand | ![](../../assets/icons/skills/355.webp){ width="24" } [Wand Mastery 1](../skills/355.md) | Damage: 1+2+2. Charge attack: Restores 2 Imagination for nearby characters. | — | — |
-| 2 | Head | ![](../../assets/icons/skills/575.webp){ width="24" } [Maelstrom Breath 2](../skills/575.md) | Damage: 12. Breath a cone of Maelstrom energy that does up to 12 damage to enemies over time. | 8 | 6 s |
-| 2 | Main hand | ![](../../assets/icons/skills/433.webp){ width="24" } [Wand Mastery 2](../skills/433.md) | Damage: 2+2+2. Charge attack: Restores up to 5 Imagination for nearby characters - charge longer for more Imagination. | — | — |
-| 2 | Off hand | ![](../../assets/icons/skills/345.webp){ width="24" } [Dark Thunder 1](../skills/345.md) | Damage: 8. Knocks back enemies. | 7 | 6 s |
-| 3 | Head | ![](../../assets/icons/skills/576.webp){ width="24" } [Maelstrom Breath 3](../skills/576.md) | Damage: 16. Breath a cone of Maelstrom energy that does up to 16 damage to enemies over time. | 10 | 6 s |
-| 3 | Main hand | ![](../../assets/icons/skills/434.webp){ width="24" } [Wand Mastery 3](../skills/434.md) | Damage: 2+3+3. Charge attack: Restores up to 11 Imagination for nearby characters - charge longer for more Imagination. | — | — |
-| 3 | Main hand (valiant) | ![](../../assets/icons/skills/1036.webp){ width="24" } [Valiant Attack](../skills/1036.md) | Damage: 3+3+4. Charge attack: Spins you around, doing 8 damage to nearby enemies. | — | — |
-| 3 | Off hand | ![](../../assets/icons/skills/577.webp){ width="24" } [Dark Thunder 2](../skills/577.md) | Damage: 10. Knocks back enemies. | 8 | 6 s |
-| 3 | Neck/back | ![](../../assets/icons/skills/655.webp){ width="24" } [Last Blast](../skills/655.md) | Damage: 13. Releases a blast that does 13 damage and restores 30 Imagination to nearby characters. | 14 | 30 s |
+| 1 | Head | ![](../../assets/icons/skills/346.webp){ .lu-ci width="24" } [Maelstrom Breath 1](../skills/346.md) | Damage: 8. Breath a cone of Maelstrom energy that does up to 8 damage to enemies over time. | 6 | 6 s |
+| 1 | Main hand | ![](../../assets/icons/skills/355.webp){ .lu-ci width="24" } [Wand Mastery 1](../skills/355.md) | Damage: 1+2+2. Charge attack: Restores 2 Imagination for nearby characters. | — | — |
+| 2 | Head | ![](../../assets/icons/skills/575.webp){ .lu-ci width="24" } [Maelstrom Breath 2](../skills/575.md) | Damage: 12. Breath a cone of Maelstrom energy that does up to 12 damage to enemies over time. | 8 | 6 s |
+| 2 | Main hand | ![](../../assets/icons/skills/433.webp){ .lu-ci width="24" } [Wand Mastery 2](../skills/433.md) | Damage: 2+2+2. Charge attack: Restores up to 5 Imagination for nearby characters - charge longer for more Imagination. | — | — |
+| 2 | Off hand | ![](../../assets/icons/skills/345.webp){ .lu-ci width="24" } [Dark Thunder 1](../skills/345.md) | Damage: 8. Knocks back enemies. | 7 | 6 s |
+| 3 | Head | ![](../../assets/icons/skills/576.webp){ .lu-ci width="24" } [Maelstrom Breath 3](../skills/576.md) | Damage: 16. Breath a cone of Maelstrom energy that does up to 16 damage to enemies over time. | 10 | 6 s |
+| 3 | Main hand | ![](../../assets/icons/skills/434.webp){ .lu-ci width="24" } [Wand Mastery 3](../skills/434.md) | Damage: 2+3+3. Charge attack: Restores up to 11 Imagination for nearby characters - charge longer for more Imagination. | — | — |
+| 3 | Main hand (valiant) | ![](../../assets/icons/skills/1036.webp){ .lu-ci width="24" } [Valiant Attack](../skills/1036.md) | Damage: 3+3+4. Charge attack: Spins you around, doing 8 damage to nearby enemies. | — | — |
+| 3 | Off hand | ![](../../assets/icons/skills/577.webp){ .lu-ci width="24" } [Dark Thunder 2](../skills/577.md) | Damage: 10. Knocks back enemies. | 8 | 6 s |
+| 3 | Neck/back | ![](../../assets/icons/skills/655.webp){ .lu-ci width="24" } [Last Blast](../skills/655.md) | Damage: 13. Releases a blast that does 13 damage and restores 30 Imagination to nearby characters. | 14 | 30 s |
 
 ## Unlocking the class
 
@@ -50,10 +50,10 @@ variants, and valiant gear at [Sutoro Hatto - Paradox Vendor (LOT 13378)](../ite
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | ![](../../assets/icons/objects/7357.webp){ width="32" } [Sorcerer Hat 1 (LOT 7357)](../items/7357.md) | 5 | 25 | [Maelstrom Breath 1](../skills/346.md) (6 IP, 6 s) |
-| Chest | ![](../../assets/icons/objects/7373.webp){ width="32" } [Sorcerer Breastplate 1 (LOT 7373)](../items/7373.md) | 5 | 25 | — |
-| Legs | ![](../../assets/icons/objects/7385.webp){ width="32" } [Sorcerer Pants 1 (LOT 7385)](../items/7385.md) | 5 | 25 | — |
-| Main hand | ![](../../assets/icons/objects/7397.webp){ width="32" } [Sorcerer Wand 1 (LOT 7397)](../items/7397.md) | 5 | 25 | [Wand Mastery 1](../skills/355.md) |
+| Head | ![](../../assets/icons/objects/7357.webp){ .lu-ci width="32" } [Sorcerer Hat 1 (LOT 7357)](../items/7357.md) | 5 | 25 | [Maelstrom Breath 1](../skills/346.md) (6 IP, 6 s) |
+| Chest | ![](../../assets/icons/objects/7373.webp){ .lu-ci width="32" } [Sorcerer Breastplate 1 (LOT 7373)](../items/7373.md) | 5 | 25 | — |
+| Legs | ![](../../assets/icons/objects/7385.webp){ .lu-ci width="32" } [Sorcerer Pants 1 (LOT 7385)](../items/7385.md) | 5 | 25 | — |
+| Main hand | ![](../../assets/icons/objects/7397.webp){ .lu-ci width="32" } [Sorcerer Wand 1 (LOT 7397)](../items/7397.md) | 5 | 25 | [Wand Mastery 1](../skills/355.md) |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
@@ -63,12 +63,12 @@ variants, and valiant gear at [Sutoro Hatto - Paradox Vendor (LOT 13378)](../ite
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | ![](../../assets/icons/objects/7361.webp){ width="32" } [Sorcerer Hat 2 (LOT 7361)](../items/7361.md) | 15 | 60 | [Maelstrom Breath 2](../skills/575.md) (8 IP, 6 s) |
-| Chest | ![](../../assets/icons/objects/7374.webp){ width="32" } [Sorcerer Breastplate 2 (LOT 7374)](../items/7374.md) | 15 | 60 | — |
-| Legs | ![](../../assets/icons/objects/7386.webp){ width="32" } [Sorcerer Pants 2 (LOT 7386)](../items/7386.md) | 15 | 60 | — |
-| Main hand | ![](../../assets/icons/objects/7398.webp){ width="32" } [Sorcerer Wand 2 (LOT 7398)](../items/7398.md) | 15 | 60 | [Wand Mastery 2](../skills/433.md) |
-| Off hand | ![](../../assets/icons/objects/7407.webp){ width="32" } [Sorcerer Orb 2 (LOT 7407)](../items/7407.md) | 15 | 60 | [Dark Thunder 1](../skills/345.md) (7 IP, 6 s) |
-| Neck/back | ![](../../assets/icons/objects/8459.webp){ width="32" } [Sorcerer Shoulderpads 2 (LOT 8459)](../items/8459.md) | 15 | 60 | — |
+| Head | ![](../../assets/icons/objects/7361.webp){ .lu-ci width="32" } [Sorcerer Hat 2 (LOT 7361)](../items/7361.md) | 15 | 60 | [Maelstrom Breath 2](../skills/575.md) (8 IP, 6 s) |
+| Chest | ![](../../assets/icons/objects/7374.webp){ .lu-ci width="32" } [Sorcerer Breastplate 2 (LOT 7374)](../items/7374.md) | 15 | 60 | — |
+| Legs | ![](../../assets/icons/objects/7386.webp){ .lu-ci width="32" } [Sorcerer Pants 2 (LOT 7386)](../items/7386.md) | 15 | 60 | — |
+| Main hand | ![](../../assets/icons/objects/7398.webp){ .lu-ci width="32" } [Sorcerer Wand 2 (LOT 7398)](../items/7398.md) | 15 | 60 | [Wand Mastery 2](../skills/433.md) |
+| Off hand | ![](../../assets/icons/objects/7407.webp){ .lu-ci width="32" } [Sorcerer Orb 2 (LOT 7407)](../items/7407.md) | 15 | 60 | [Dark Thunder 1](../skills/345.md) (7 IP, 6 s) |
+| Neck/back | ![](../../assets/icons/objects/8459.webp){ .lu-ci width="32" } [Sorcerer Shoulderpads 2 (LOT 8459)](../items/8459.md) | 15 | 60 | — |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
@@ -80,20 +80,20 @@ variants, and valiant gear at [Sutoro Hatto - Paradox Vendor (LOT 13378)](../ite
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | ![](../../assets/icons/objects/7362.webp){ width="32" } [Sorcerer Hat 3 (LOT 7362)](../items/7362.md) | 30 | 180 | [Maelstrom Breath 3](../skills/576.md) (10 IP, 6 s) |
-| Head | ![](../../assets/icons/objects/12983.webp){ width="32" } [Sorcerer Hat 3 (LOT 12983)](../items/12983.md) (color variant) | 30 | 180 | [Maelstrom Breath 3](../skills/576.md) (10 IP, 6 s) |
-| Chest | ![](../../assets/icons/objects/7375.webp){ width="32" } [Sorcerer Breastplate 3 (LOT 7375)](../items/7375.md) | 30 | 180 | — |
-| Chest | ![](../../assets/icons/objects/12958.webp){ width="32" } [Sorcerer Breastplate 3 (LOT 12958)](../items/12958.md) (color variant) | 30 | 180 | — |
-| Legs | ![](../../assets/icons/objects/7387.webp){ width="32" } [Sorcerer Pants 3 (LOT 7387)](../items/7387.md) | 30 | 180 | — |
-| Legs | ![](../../assets/icons/objects/12959.webp){ width="32" } [Sorcerer Pants 3 (LOT 12959)](../items/12959.md) (color variant) | 30 | 180 | — |
-| Main hand | ![](../../assets/icons/objects/7399.webp){ width="32" } [Sorcerer Wand 3 (LOT 7399)](../items/7399.md) | 30 | 180 | [Wand Mastery 3](../skills/434.md) |
-| Main hand | ![](../../assets/icons/objects/12984.webp){ width="32" } [Sorcerer Wand 3 (LOT 12984)](../items/12984.md) (color variant) | 30 | 180 | [Wand Mastery 3](../skills/434.md) |
-| Main hand | ![](../../assets/icons/objects/12816.webp){ width="32" } [The Doomslicer (LOT 12816)](../items/12816.md) (valiant) | 35 | 500 | [Valiant Attack](../skills/1036.md) |
-| Off hand | ![](../../assets/icons/objects/7408.webp){ width="32" } [Sorcerer Orb 3 (LOT 7408)](../items/7408.md) | 30 | 180 | [Dark Thunder 2](../skills/577.md) (8 IP, 6 s) |
-| Off hand | ![](../../assets/icons/objects/12985.webp){ width="32" } [Sorcerer Orb 3 (LOT 12985)](../items/12985.md) (color variant) | 30 | 180 | [Dark Thunder 2](../skills/577.md) (8 IP, 6 s) |
-| Neck/back | ![](../../assets/icons/objects/7415.webp){ width="32" } [Sorcerer Shoulderpads 3 (LOT 7415)](../items/7415.md) | 30 | 180 | [Last Blast](../skills/655.md) (14 IP, 30 s) |
-| Neck/back | ![](../../assets/icons/objects/12989.webp){ width="32" } [Sorcerer Shoulderpads 3 (LOT 12989)](../items/12989.md) (color variant) | 30 | 180 | [Last Blast](../skills/655.md) (14 IP, 30 s) |
-| Neck/back | ![](../../assets/icons/objects/16189.webp){ width="32" } [Valiant Sorcerer's Cape (LOT 16189)](../items/16189.md) (valiant) | 40 | 250 | [Last Blast](../skills/655.md) (14 IP, 30 s) |
+| Head | ![](../../assets/icons/objects/7362.webp){ .lu-ci width="32" } [Sorcerer Hat 3 (LOT 7362)](../items/7362.md) | 30 | 180 | [Maelstrom Breath 3](../skills/576.md) (10 IP, 6 s) |
+| Head | ![](../../assets/icons/objects/12983.webp){ .lu-ci width="32" } [Sorcerer Hat 3 (LOT 12983)](../items/12983.md) (color variant) | 30 | 180 | [Maelstrom Breath 3](../skills/576.md) (10 IP, 6 s) |
+| Chest | ![](../../assets/icons/objects/7375.webp){ .lu-ci width="32" } [Sorcerer Breastplate 3 (LOT 7375)](../items/7375.md) | 30 | 180 | — |
+| Chest | ![](../../assets/icons/objects/12958.webp){ .lu-ci width="32" } [Sorcerer Breastplate 3 (LOT 12958)](../items/12958.md) (color variant) | 30 | 180 | — |
+| Legs | ![](../../assets/icons/objects/7387.webp){ .lu-ci width="32" } [Sorcerer Pants 3 (LOT 7387)](../items/7387.md) | 30 | 180 | — |
+| Legs | ![](../../assets/icons/objects/12959.webp){ .lu-ci width="32" } [Sorcerer Pants 3 (LOT 12959)](../items/12959.md) (color variant) | 30 | 180 | — |
+| Main hand | ![](../../assets/icons/objects/7399.webp){ .lu-ci width="32" } [Sorcerer Wand 3 (LOT 7399)](../items/7399.md) | 30 | 180 | [Wand Mastery 3](../skills/434.md) |
+| Main hand | ![](../../assets/icons/objects/12984.webp){ .lu-ci width="32" } [Sorcerer Wand 3 (LOT 12984)](../items/12984.md) (color variant) | 30 | 180 | [Wand Mastery 3](../skills/434.md) |
+| Main hand | ![](../../assets/icons/objects/12816.webp){ .lu-ci width="32" } [The Doomslicer (LOT 12816)](../items/12816.md) (valiant) | 35 | 500 | [Valiant Attack](../skills/1036.md) |
+| Off hand | ![](../../assets/icons/objects/7408.webp){ .lu-ci width="32" } [Sorcerer Orb 3 (LOT 7408)](../items/7408.md) | 30 | 180 | [Dark Thunder 2](../skills/577.md) (8 IP, 6 s) |
+| Off hand | ![](../../assets/icons/objects/12985.webp){ .lu-ci width="32" } [Sorcerer Orb 3 (LOT 12985)](../items/12985.md) (color variant) | 30 | 180 | [Dark Thunder 2](../skills/577.md) (8 IP, 6 s) |
+| Neck/back | ![](../../assets/icons/objects/7415.webp){ .lu-ci width="32" } [Sorcerer Shoulderpads 3 (LOT 7415)](../items/7415.md) | 30 | 180 | [Last Blast](../skills/655.md) (14 IP, 30 s) |
+| Neck/back | ![](../../assets/icons/objects/12989.webp){ .lu-ci width="32" } [Sorcerer Shoulderpads 3 (LOT 12989)](../items/12989.md) (color variant) | 30 | 180 | [Last Blast](../skills/655.md) (14 IP, 30 s) |
+| Neck/back | ![](../../assets/icons/objects/16189.webp){ .lu-ci width="32" } [Valiant Sorcerer's Cape (LOT 16189)](../items/16189.md) (valiant) | 40 | 250 | [Last Blast](../skills/655.md) (14 IP, 30 s) |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 

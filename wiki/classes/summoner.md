@@ -14,16 +14,16 @@ tooltips.
 
 | Rank | Slot | Ability | Effect | IP cost | Cooldown |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Head | ![](../../assets/icons/skills/631.webp){ width="24" } [Summon Bulper 1](../skills/631.md) | Creates a Bulper that assists you in battle. | 6 | 45 s |
-| 1 | Main hand | ![](../../assets/icons/skills/601.webp){ width="24" } [Gnarled Staff 1](../skills/601.md) | Damage: 1+2+2. Charge attack: Restores up to 2 Armor to nearby characters. | — | — |
-| 2 | Head | ![](../../assets/icons/skills/632.webp){ width="24" } [Summon Bulper 2](../skills/632.md) | Creates a Bulper that assists you in battle. | 7 | 45 s |
-| 2 | Main hand | ![](../../assets/icons/skills/602.webp){ width="24" } [Gnarled Staff 2](../skills/602.md) | Damage: 2+2+3. Charge attack: Restores up to 6 Armor to nearby characters - charge longer for more Armor. | — | — |
-| 2 | Off hand | ![](../../assets/icons/skills/689.webp){ width="24" } [Summon Thwok 1](../skills/689.md) | Creates a Thwok that assists you in battle. | 4 | 45 s |
-| 3 | Head | ![](../../assets/icons/skills/633.webp){ width="24" } [Summon Bulper 3](../skills/633.md) | Creates a Bulper that assists you in battle. | 8 | 45 s |
-| 3 | Main hand | ![](../../assets/icons/skills/603.webp){ width="24" } [Gnarled Staff 3](../skills/603.md) | Damage: 2+3+3. Charge attack: Restores up to 12 Armor to nearby characters - charge longer for more Armor. | — | — |
-| 3 | Main hand (valiant) | ![](../../assets/icons/skills/1037.webp){ width="24" } [Valiant Attack](../skills/1037.md) | Damage: 3+3+4. Charge attack: Does 5 damage and knocks back enemies. | — | — |
-| 3 | Off hand | ![](../../assets/icons/skills/690.webp){ width="24" } [Summon Thwok 2](../skills/690.md) | Creates a Thwok that assists you in battle. | 6 | 45 s |
-| 3 | Neck/back | ![](../../assets/icons/skills/673.webp){ width="24" } [Summon Scratch](../skills/673.md) | Damage: 2x8. Creates Scratch, a creature who assists you in battle. | 10 | 30 s |
+| 1 | Head | ![](../../assets/icons/skills/631.webp){ .lu-ci width="24" } [Summon Bulper 1](../skills/631.md) | Creates a Bulper that assists you in battle. | 6 | 45 s |
+| 1 | Main hand | ![](../../assets/icons/skills/601.webp){ .lu-ci width="24" } [Gnarled Staff 1](../skills/601.md) | Damage: 1+2+2. Charge attack: Restores up to 2 Armor to nearby characters. | — | — |
+| 2 | Head | ![](../../assets/icons/skills/632.webp){ .lu-ci width="24" } [Summon Bulper 2](../skills/632.md) | Creates a Bulper that assists you in battle. | 7 | 45 s |
+| 2 | Main hand | ![](../../assets/icons/skills/602.webp){ .lu-ci width="24" } [Gnarled Staff 2](../skills/602.md) | Damage: 2+2+3. Charge attack: Restores up to 6 Armor to nearby characters - charge longer for more Armor. | — | — |
+| 2 | Off hand | ![](../../assets/icons/skills/689.webp){ .lu-ci width="24" } [Summon Thwok 1](../skills/689.md) | Creates a Thwok that assists you in battle. | 4 | 45 s |
+| 3 | Head | ![](../../assets/icons/skills/633.webp){ .lu-ci width="24" } [Summon Bulper 3](../skills/633.md) | Creates a Bulper that assists you in battle. | 8 | 45 s |
+| 3 | Main hand | ![](../../assets/icons/skills/603.webp){ .lu-ci width="24" } [Gnarled Staff 3](../skills/603.md) | Damage: 2+3+3. Charge attack: Restores up to 12 Armor to nearby characters - charge longer for more Armor. | — | — |
+| 3 | Main hand (valiant) | ![](../../assets/icons/skills/1037.webp){ .lu-ci width="24" } [Valiant Attack](../skills/1037.md) | Damage: 3+3+4. Charge attack: Does 5 damage and knocks back enemies. | — | — |
+| 3 | Off hand | ![](../../assets/icons/skills/690.webp){ .lu-ci width="24" } [Summon Thwok 2](../skills/690.md) | Creates a Thwok that assists you in battle. | 6 | 45 s |
+| 3 | Neck/back | ![](../../assets/icons/skills/673.webp){ .lu-ci width="24" } [Summon Scratch](../skills/673.md) | Damage: 2x8. Creates Scratch, a creature who assists you in battle. | 10 | 30 s |
 
 ## Unlocking the class
 
@@ -50,10 +50,10 @@ variants, and valiant gear at [Torbert Oscillator - Assembly Vendor (LOT 13380)]
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | ![](../../assets/icons/objects/7457.webp){ width="32" } [Summoner Hat 1 (LOT 7457)](../items/7457.md) | 5 | 25 | [Summon Bulper 1](../skills/631.md) (6 IP, 45 s) |
-| Chest | ![](../../assets/icons/objects/7481.webp){ width="32" } [Summoner Robe 1 (LOT 7481)](../items/7481.md) | 5 | 25 | — |
-| Legs | ![](../../assets/icons/objects/7505.webp){ width="32" } [Summoner Pants 1 (LOT 7505)](../items/7505.md) | 5 | 25 | — |
-| Main hand | ![](../../assets/icons/objects/7529.webp){ width="32" } [Summoner Staff 1 (LOT 7529)](../items/7529.md) | 5 | 25 | [Gnarled Staff 1](../skills/601.md) |
+| Head | ![](../../assets/icons/objects/7457.webp){ .lu-ci width="32" } [Summoner Hat 1 (LOT 7457)](../items/7457.md) | 5 | 25 | [Summon Bulper 1](../skills/631.md) (6 IP, 45 s) |
+| Chest | ![](../../assets/icons/objects/7481.webp){ .lu-ci width="32" } [Summoner Robe 1 (LOT 7481)](../items/7481.md) | 5 | 25 | — |
+| Legs | ![](../../assets/icons/objects/7505.webp){ .lu-ci width="32" } [Summoner Pants 1 (LOT 7505)](../items/7505.md) | 5 | 25 | — |
+| Main hand | ![](../../assets/icons/objects/7529.webp){ .lu-ci width="32" } [Summoner Staff 1 (LOT 7529)](../items/7529.md) | 5 | 25 | [Gnarled Staff 1](../skills/601.md) |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
@@ -63,12 +63,12 @@ variants, and valiant gear at [Torbert Oscillator - Assembly Vendor (LOT 13380)]
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | ![](../../assets/icons/objects/7458.webp){ width="32" } [Summoner Hat 2 (LOT 7458)](../items/7458.md) | 15 | 60 | [Summon Bulper 2](../skills/632.md) (7 IP, 45 s) |
-| Chest | ![](../../assets/icons/objects/7482.webp){ width="32" } [Summoner Robe 2 (LOT 7482)](../items/7482.md) | 15 | 60 | — |
-| Legs | ![](../../assets/icons/objects/7506.webp){ width="32" } [Summoner Pants 2 (LOT 7506)](../items/7506.md) | 15 | 60 | — |
-| Main hand | ![](../../assets/icons/objects/7530.webp){ width="32" } [Summoner Staff 2 (LOT 7530)](../items/7530.md) | 15 | 60 | [Gnarled Staff 2](../skills/602.md) |
-| Off hand | ![](../../assets/icons/objects/7556.webp){ width="32" } [Summoner Orb 2 (LOT 7556)](../items/7556.md) | 15 | 60 | [Summon Thwok 1](../skills/689.md) (4 IP, 45 s) |
-| Neck/back | ![](../../assets/icons/objects/8464.webp){ width="32" } [Summoner Shoulderpads 2 (LOT 8464)](../items/8464.md) | 15 | 60 | — |
+| Head | ![](../../assets/icons/objects/7458.webp){ .lu-ci width="32" } [Summoner Hat 2 (LOT 7458)](../items/7458.md) | 15 | 60 | [Summon Bulper 2](../skills/632.md) (7 IP, 45 s) |
+| Chest | ![](../../assets/icons/objects/7482.webp){ .lu-ci width="32" } [Summoner Robe 2 (LOT 7482)](../items/7482.md) | 15 | 60 | — |
+| Legs | ![](../../assets/icons/objects/7506.webp){ .lu-ci width="32" } [Summoner Pants 2 (LOT 7506)](../items/7506.md) | 15 | 60 | — |
+| Main hand | ![](../../assets/icons/objects/7530.webp){ .lu-ci width="32" } [Summoner Staff 2 (LOT 7530)](../items/7530.md) | 15 | 60 | [Gnarled Staff 2](../skills/602.md) |
+| Off hand | ![](../../assets/icons/objects/7556.webp){ .lu-ci width="32" } [Summoner Orb 2 (LOT 7556)](../items/7556.md) | 15 | 60 | [Summon Thwok 1](../skills/689.md) (4 IP, 45 s) |
+| Neck/back | ![](../../assets/icons/objects/8464.webp){ .lu-ci width="32" } [Summoner Shoulderpads 2 (LOT 8464)](../items/8464.md) | 15 | 60 | — |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
@@ -80,20 +80,20 @@ variants, and valiant gear at [Torbert Oscillator - Assembly Vendor (LOT 13380)]
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | ![](../../assets/icons/objects/7459.webp){ width="32" } [Summoner Hat 3 (LOT 7459)](../items/7459.md) | 30 | 180 | [Summon Bulper 3](../skills/633.md) (8 IP, 45 s) |
-| Head | ![](../../assets/icons/objects/12924.webp){ width="32" } [Summoner Hat 3 (LOT 12924)](../items/12924.md) (color variant) | 30 | 180 | [Summon Bulper 3](../skills/633.md) (8 IP, 45 s) |
-| Chest | ![](../../assets/icons/objects/7483.webp){ width="32" } [Summoner Robe 3 (LOT 7483)](../items/7483.md) | 30 | 180 | — |
-| Chest | ![](../../assets/icons/objects/12945.webp){ width="32" } [Summoner Robe 3 (LOT 12945)](../items/12945.md) (color variant) | 30 | 180 | — |
-| Legs | ![](../../assets/icons/objects/7507.webp){ width="32" } [Summoner Pants 3 (LOT 7507)](../items/7507.md) | 30 | 180 | — |
-| Legs | ![](../../assets/icons/objects/12946.webp){ width="32" } [Summoner Pants 3 (LOT 12946)](../items/12946.md) (color variant) | 30 | 180 | — |
-| Main hand | ![](../../assets/icons/objects/7531.webp){ width="32" } [Summoner Staff 3 (LOT 7531)](../items/7531.md) | 30 | 180 | [Gnarled Staff 3](../skills/603.md) |
-| Main hand | ![](../../assets/icons/objects/12921.webp){ width="32" } [Summoner Staff 3 (LOT 12921)](../items/12921.md) (color variant) | 30 | 180 | [Gnarled Staff 3](../skills/603.md) |
-| Main hand | ![](../../assets/icons/objects/12817.webp){ width="32" } [The Wingreaper (LOT 12817)](../items/12817.md) (valiant) | 35 | 500 | [Valiant Attack](../skills/1037.md) |
-| Off hand | ![](../../assets/icons/objects/7557.webp){ width="32" } [Summoner Orb 3 (LOT 7557)](../items/7557.md) | 30 | 180 | [Summon Thwok 2](../skills/690.md) (6 IP, 45 s) |
-| Off hand | ![](../../assets/icons/objects/12922.webp){ width="32" } [Summoner Orb 3 (LOT 12922)](../items/12922.md) (color variant) | 30 | 180 | [Summon Thwok 2](../skills/690.md) (6 IP, 45 s) |
-| Neck/back | ![](../../assets/icons/objects/7555.webp){ width="32" } [Summoner Shoulderpads 3 (LOT 7555)](../items/7555.md) | 30 | 180 | [Summon Scratch](../skills/673.md) (10 IP, 30 s) |
-| Neck/back | ![](../../assets/icons/objects/12923.webp){ width="32" } [Summoner Shoulderpads 3 (LOT 12923)](../items/12923.md) (color variant) | 30 | 180 | [Summon Scratch](../skills/673.md) (10 IP, 30 s) |
-| Neck/back | ![](../../assets/icons/objects/16183.webp){ width="32" } [Valiant Summoner's Cape (LOT 16183)](../items/16183.md) (valiant) | 40 | 250 | [Summon Scratch](../skills/673.md) (10 IP, 30 s) |
+| Head | ![](../../assets/icons/objects/7459.webp){ .lu-ci width="32" } [Summoner Hat 3 (LOT 7459)](../items/7459.md) | 30 | 180 | [Summon Bulper 3](../skills/633.md) (8 IP, 45 s) |
+| Head | ![](../../assets/icons/objects/12924.webp){ .lu-ci width="32" } [Summoner Hat 3 (LOT 12924)](../items/12924.md) (color variant) | 30 | 180 | [Summon Bulper 3](../skills/633.md) (8 IP, 45 s) |
+| Chest | ![](../../assets/icons/objects/7483.webp){ .lu-ci width="32" } [Summoner Robe 3 (LOT 7483)](../items/7483.md) | 30 | 180 | — |
+| Chest | ![](../../assets/icons/objects/12945.webp){ .lu-ci width="32" } [Summoner Robe 3 (LOT 12945)](../items/12945.md) (color variant) | 30 | 180 | — |
+| Legs | ![](../../assets/icons/objects/7507.webp){ .lu-ci width="32" } [Summoner Pants 3 (LOT 7507)](../items/7507.md) | 30 | 180 | — |
+| Legs | ![](../../assets/icons/objects/12946.webp){ .lu-ci width="32" } [Summoner Pants 3 (LOT 12946)](../items/12946.md) (color variant) | 30 | 180 | — |
+| Main hand | ![](../../assets/icons/objects/7531.webp){ .lu-ci width="32" } [Summoner Staff 3 (LOT 7531)](../items/7531.md) | 30 | 180 | [Gnarled Staff 3](../skills/603.md) |
+| Main hand | ![](../../assets/icons/objects/12921.webp){ .lu-ci width="32" } [Summoner Staff 3 (LOT 12921)](../items/12921.md) (color variant) | 30 | 180 | [Gnarled Staff 3](../skills/603.md) |
+| Main hand | ![](../../assets/icons/objects/12817.webp){ .lu-ci width="32" } [The Wingreaper (LOT 12817)](../items/12817.md) (valiant) | 35 | 500 | [Valiant Attack](../skills/1037.md) |
+| Off hand | ![](../../assets/icons/objects/7557.webp){ .lu-ci width="32" } [Summoner Orb 3 (LOT 7557)](../items/7557.md) | 30 | 180 | [Summon Thwok 2](../skills/690.md) (6 IP, 45 s) |
+| Off hand | ![](../../assets/icons/objects/12922.webp){ .lu-ci width="32" } [Summoner Orb 3 (LOT 12922)](../items/12922.md) (color variant) | 30 | 180 | [Summon Thwok 2](../skills/690.md) (6 IP, 45 s) |
+| Neck/back | ![](../../assets/icons/objects/7555.webp){ .lu-ci width="32" } [Summoner Shoulderpads 3 (LOT 7555)](../items/7555.md) | 30 | 180 | [Summon Scratch](../skills/673.md) (10 IP, 30 s) |
+| Neck/back | ![](../../assets/icons/objects/12923.webp){ .lu-ci width="32" } [Summoner Shoulderpads 3 (LOT 12923)](../items/12923.md) (color variant) | 30 | 180 | [Summon Scratch](../skills/673.md) (10 IP, 30 s) |
+| Neck/back | ![](../../assets/icons/objects/16183.webp){ .lu-ci width="32" } [Valiant Summoner's Cape (LOT 16183)](../items/16183.md) (valiant) | 40 | 250 | [Summon Scratch](../skills/673.md) (10 IP, 30 s) |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 

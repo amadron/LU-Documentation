@@ -181,15 +181,15 @@ def main():
     object_icons, icon_table = object_icon_paths(db)
     stats = {}
 
-    def embed(kind, folder, ids, source_for, asset_dir, alt_for, width):
+    def embed(kind, folder, ids, source_for, asset_dir, alt_for, width, prefix=""):
         done = changed = 0
         for page_id in ids:
-            page = folder / f"{page_id}.md"
+            page = folder / f"{prefix}{page_id}.md"
             source = None if page_id in EXCLUDED_LOTS else source_for(page_id)
             target = ASSETS / asset_dir / f"{page_id}.webp"
             if source and convert_icon(source, target, args.force):
                 rel = os.path.relpath(target, folder).replace(os.sep, "/")
-                line = f'![{alt_for(page_id)}]({rel}){{ width="{width}" loading="lazy" }}'
+                line = f'![{alt_for(page_id)}]({rel}){{ .lu-icon width="{width}" loading="lazy" }}'
                 changed += set_block(page, [line])
                 done += 1
             else:
@@ -206,7 +206,7 @@ def main():
               lambda lot: resolve(args.client, object_icons.get(lot)),
               "icons/objects",
               lambda lot, f=folder: f"{first_heading(f / f'{lot}.md')} icon",
-              64)
+              128)
 
     # Skills: SkillBehavior.skillIcon -> Icons.
     skill_icons = dict(db.execute("select skillID, skillIcon from SkillBehavior"))
@@ -215,7 +215,26 @@ def main():
           lambda skill: resolve(args.client, icon_table.get(skill_icons.get(skill))),
           "icons/skills",
           lambda skill: f"{first_heading(skills / f'{skill}.md')} icon",
-          48)
+          128)
+
+    # Quests and achievements: Missions.missionIconID -> Icons.
+    mission_icons = dict(db.execute("select id, missionIconID from Missions"))
+    quests = ROOT / "wiki" / "quests"
+    embed("quests", quests, page_ids(quests),
+          lambda mission: resolve(args.client, icon_table.get(mission_icons.get(mission))),
+          "icons/missions",
+          lambda mission: f"{first_heading(quests / f'{mission}.md')} icon",
+          128)
+
+    # Source objects (NPCs, vendors, enemies, crates, packages) on the item and quest source pages.
+    for kind, folder in (("item sources", ROOT / "wiki" / "items" / "sources"),
+                         ("quest sources", ROOT / "wiki" / "quests" / "sources")):
+        ids = sorted(int(p.stem[7:]) for p in folder.glob("object-*.md") if p.stem[7:].isdigit())
+        embed(kind, folder, ids,
+              lambda lot: resolve(args.client, object_icons.get(lot)),
+              "icons/objects",
+              lambda lot, f=folder: f"{first_heading(f / f'object-{lot}.md')} icon",
+              128, prefix="object-")
 
     # Zones: minimap tiles under maps/minimaps/<luz name>/.
     zones = ROOT / "wiki" / "zones"
@@ -257,7 +276,7 @@ def write_table_icon_manifest():
     Also removes table icons that older versions of this script wrote into the pages."""
     manifest = {
         kind: sorted(int(p.stem) for p in (ASSETS / "icons" / kind).glob("*.webp") if p.stem.isdigit())
-        for kind in ("objects", "skills")
+        for kind in ("objects", "skills", "missions")
     }
     target = ASSETS / "icons" / "index.json"
     target.write_text(json.dumps(manifest, separators=(",", ":")), encoding="utf-8")

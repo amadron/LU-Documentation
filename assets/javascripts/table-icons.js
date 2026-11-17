@@ -1,10 +1,13 @@
-// Adds small item, pet, and skill icons in front of table links at view time.
+// Adds small item, pet, skill, quest, and NPC icons in front of links in tables and lists.
 // The icon list (assets/icons/index.json) is written by scripts/build_media.py; doing this in the
 // browser keeps ~100,000 image tags out of the Markdown sources and the site build.
 (function () {
   "use strict";
 
-  var PATTERN = /\/wiki\/(items|pets|skills)\/(\d+)(?:\/|\/index\.html|\.html)?$/;
+  // /wiki/items/123/, /wiki/pets/123/, /wiki/skills/123/, /wiki/quests/123/,
+  // /wiki/items/sources/object-123/, /wiki/quests/sources/object-123/
+  var PATTERN = /\/wiki\/(items|pets|skills|quests)\/(?:(sources)\/object-)?(\d+)(?:\/|\/index\.html|\.html)?$/;
+  var KIND = { items: "objects", pets: "objects", skills: "skills", quests: "missions" };
   var manifest = null;
 
   function siteBase() {
@@ -21,7 +24,7 @@
   function decorate(root) {
     if (!manifest) return;
     var base = siteBase();
-    var rows = root.querySelectorAll("article table tr");
+    var rows = root.querySelectorAll("article table tr, article li");
     for (var r = 0; r < rows.length; r++) {
       var seen = {};
       var links = rows[r].querySelectorAll("a[href]");
@@ -35,11 +38,11 @@
           match = null;
         }
         if (!match) continue;
-        var kind = match[1] === "skills" ? "skills" : "objects";
-        var id = match[2];
+        var kind = match[2] ? "objects" : KIND[match[1]];
+        var id = match[3];
         var key = kind + "/" + id;
         link.dataset.luIcon = "1";
-        if (seen[key] || !manifest[kind][id]) continue;
+        if (seen[key] || !manifest[kind] || !manifest[kind][id]) continue;
         seen[key] = true;
         var img = document.createElement("img");
         img.className = "lu-ti";
@@ -62,9 +65,11 @@
       .then(function (response) { return response.ok ? response.json() : null; })
       .then(function (data) {
         if (!data) return;
-        manifest = { objects: {}, skills: {} };
-        data.objects.forEach(function (id) { manifest.objects[id] = true; });
-        data.skills.forEach(function (id) { manifest.skills[id] = true; });
+        manifest = {};
+        Object.keys(data).forEach(function (kind) {
+          manifest[kind] = {};
+          data[kind].forEach(function (id) { manifest[kind][id] = true; });
+        });
         decorate(document);
       })
       .catch(function () { /* icons are optional */ });

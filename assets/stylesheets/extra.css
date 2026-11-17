@@ -6,7 +6,24 @@ img[src*="assets/minimaps/"] {
 }
 
 /* Small icons in front of table links (scripts/build_media.py). */
-img.lu-ti {
+img.lu-ti,
+img.lu-ci {
   vertical-align: middle;
-  margin-right: 0.2em;
+  margin-right: 0.3em;
+  padding: 2px;
+}
+
+/* Client icons are drawn for the game's dark inventory slots; white icons vanish on a light
+   page, so every icon gets a dark slot-like backdrop in both themes. */
+img.lu-ti,
+img.lu-ci,
+img.lu-icon {
+  background: #2b3340;
+  border-radius: 6px;
+  box-sizing: content-box;
+}
+
+img.lu-icon {
+  padding: 8px;
+  border-radius: 12px;
 }
