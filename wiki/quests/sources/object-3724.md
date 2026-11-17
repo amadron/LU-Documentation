@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1881 &#91;1881&#93;](../1881.md).
+Associated quest/achievement definitions: [Bring Back the Booty &#91;1881&#93;](../1881.md).
 
 ## Candidate placements / spawner waypoints
 

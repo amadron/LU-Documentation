@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 386 &#91;386&#93;](../386.md); [Quest 701 &#91;701&#93;](../701.md).
+Associated quest/achievement definitions: [Feed Ninja Hashi &#91;386&#93;](../386.md); [Free Ninja Hashi! &#91;701&#93;](../701.md).
 
 ## Candidate placements / spawner waypoints
 

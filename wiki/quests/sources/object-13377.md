@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Luxuriant Purple &#91;1190&#93;](../1190.md); [Quest 1394 &#91;1394&#93;](../1394.md); [Quest 1396 &#91;1396&#93;](../1396.md); [Paging Dr. Overbuild &#91;1398&#93;](../1398.md); [Quest 1399 &#91;1399&#93;](../1399.md); [Quest 1458 &#91;1458&#93;](../1458.md); [Quest 1459 &#91;1459&#93;](../1459.md).
+Associated quest/achievement definitions: [Luxuriant Purple &#91;1190&#93;](../1190.md); [Apologies to Olivia &#91;1394&#93;](../1394.md); [Hexed and Vexed &#91;1396&#93;](../1396.md); [Paging Dr. Overbuild &#91;1398&#93;](../1398.md); [Imagination is the Cure &#91;1399&#93;](../1399.md); [Hair Beyond Compare &#91;1458&#93;](../1458.md); [Sharing Ideas &#91;1459&#93;](../1459.md).
 
 ## Candidate placements / spawner waypoints
 

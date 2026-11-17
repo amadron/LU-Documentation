@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 220 &#91;220&#93;](../220.md); [Prove Yarrr Self &#91;301&#93;](../301.md); [Quest 380 &#91;380&#93;](../380.md).
+Associated quest/achievement definitions: [Bridge Out! &#91;220&#93;](../220.md); [Prove Yarrr Self &#91;301&#93;](../301.md); [Find Renee Tombcrusher &#91;380&#93;](../380.md).
 
 ## Candidate placements / spawner waypoints
 

@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 777 &#91;777&#93;](../777.md).
+Associated quest/achievement definitions: [Krista Loves Thunder &#91;777&#93;](../777.md).
 
 ## Candidate placements / spawner waypoints
 

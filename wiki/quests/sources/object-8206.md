@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Find Swifty McGurk &#91;629&#93;](../629.md); [Quest 630 &#91;630&#93;](../630.md); [Quest 631 &#91;631&#93;](../631.md); [Quest 632 &#91;632&#93;](../632.md); [Quest 635 &#91;635&#93;](../635.md); [Quest 636 &#91;636&#93;](../636.md); [That Venture Lass &#91;637&#93;](../637.md).
+Associated quest/achievement definitions: [Find Swifty McGurk &#91;629&#93;](../629.md); [No Wreckin' &#91;630&#93;](../630.md); [Keelhaul Canyon Top 3 &#91;631&#93;](../631.md); [Swifty's Best Lap &#91;632&#93;](../632.md); [Swifty's Best Time &#91;635&#93;](../635.md); [Keelhaul Canyon Victory &#91;636&#93;](../636.md); [That Velocity Lass &#91;637&#93;](../637.md).
 
 ## Candidate placements / spawner waypoints
 

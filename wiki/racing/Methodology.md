@@ -19,6 +19,18 @@ Additional activities are included only when source evidence identifies them: ge
 - Existing quest data is linked by actual typed objective rows (task type 23 or activity objective 23) and separately by the Quest Summary's Racing source category. Mission and achievement pages are reused, not duplicated. Source category alone is not proof of a playable race.
 - Public Fandom data is supplemental historical evidence, revision-pinned in [Community Sources](./Community%20Sources.md). Similar names never establish a local ID join.
 
+## English client names
+
+The pages were first generated without the client locale. They have since been enriched by `scripts/enrich_pets_racing.py` in the documentation repository, which reads the English (en_US) strings of the client's `locale.xml` together with `CDServer.sqlite`:
+
+- quest and achievement names from `Missions_<id>_name`, replacing “Quest N”/“Achievement N” placeholders and three earlier community-name guesses (637, 663, 1884);
+- mission-ID objective targets (Racemaster, Go Outside and Play) listed by client name, with long target lists shortened to the first eight names plus a count;
+- track names from `ZoneTable_<id>_DisplayDescription` and `Activities_<id>_ActivityName`; world 1261 has no ZoneTable row, so it is labeled with the activity name “Space Blizzard Racetrack (1261)”;
+- NPC and object names from `Objects_<lot>_name` (for example “Natso Fast - Foot Race Host”), with the Objects template name kept in parentheses; foot-race activity names from `Activities_<id>_ActivityName`;
+- links to map files outside the documentation tree were replaced by plain `client/res/maps/...` paths.
+
+The script is idempotent and only edits `wiki/pets/` and `wiki/racing/`. Objects without a client string (for example the Race Activator templates 10413, 11178 and 11418) keep their template names.
+
 ## Track setup and racing-task semantics
 
 The four controller scripts configure `MainPath`, vehicle object 7703, three laps, 2–6 one-player teams, 60,000 ms wait, 3,000 ms start delay, and place scoring values. Static Activities rows list optional cost LOT 3039 ×1 for the four activity IDs. Cost presence is reported as stored configuration, not proof it is always charged.

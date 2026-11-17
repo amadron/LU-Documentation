@@ -4,7 +4,7 @@
 
 The four full car-racing tracks use modular player-built vehicles; the local track controllers specify vehicle template LOT 7703 for the racing instance, while public historical documentation describes building a car from a chassis plus module families. That test-named runtime vehicle LOT is not interchangeable with an inventory chassis or a recommendation about which vehicle to build.
 
-- [Car Module - Chassis (LOT 8129)](../../items/8129.md) and other inventory components belong to the existing all-items database.
+- [Car Chassis (LOT 8129)](../../items/8129.md) and other inventory components belong to the existing all-items database.
 - [Green Imaginite (LOT 3039)](../../items/3039.md) is recorded as the optional cost on the four local track Activity rows. The activity setup field does not alone guarantee a deduction in every client/server flow.
 - Race activity matrix results include candidate car parts/helmets and token proxies. Each item source is rating/matrix-dependent; see each track page and its exact [item pages](../../items/README.md).
 

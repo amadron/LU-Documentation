@@ -1,6 +1,6 @@
 # Exploration key NS&#95;POI&#95;1
 
-[Achievement 685 &#91;685&#93;](../685.md) | [Methodology](../Methodology.md)
+[Front Row Seats &#91;685&#93;](../685.md) | [Methodology](../Methodology.md)
 
 These coordinates identify configured trigger-object positions, not exact collision-volume boundaries or a guaranteed route. The evidence joins LUZ scene ID, LVL trigger_id, the scene’s .lutriggers file, and updateMission exploretask argument 5. Disabled triggers and event conditions remain explicit.
 

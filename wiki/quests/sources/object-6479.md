@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 774 &#91;774&#93;](../774.md); [Quest 775 &#91;775&#93;](../775.md); [Quest 776 &#91;776&#93;](../776.md); [Quest 777 &#91;777&#93;](../777.md).
+Associated quest/achievement definitions: [Sofie Loves Thunder &#91;774&#93;](../774.md); [DeeDee Loves Thunder &#91;775&#93;](../775.md); [Brockley Loves Thunder &#91;776&#93;](../776.md); [Krista Loves Thunder &#91;777&#93;](../777.md).
 
 ## Candidate placements / spawner waypoints
 

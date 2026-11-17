@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Rung Way &#91;1791&#93;](../1791.md); [Ninja of Earth &#91;1795&#93;](../1795.md); [Student of Earth &#91;1796&#93;](../1796.md); [Danger Below! &#91;1797&#93;](../1797.md); [Rest in Pieces &#91;1805&#93;](../1805.md); [Cole Fear &#91;1818&#93;](../1818.md); [Quest 1835 &#91;1835&#93;](../1835.md); [Quest 1836 &#91;1836&#93;](../1836.md); [Quest 1924 &#91;1924&#93;](../1924.md); [The Power of Earth &#91;1946&#93;](../1946.md); [Cool Guy &#91;1958&#93;](../1958.md); [Lanterns of Spinjitzu &#91;2072&#93;](../2072.md); [Man the Walls! &#91;2074&#93;](../2074.md); [Report to Cole &#91;2075&#93;](../2075.md).
+Associated quest/achievement definitions: [Rung Way &#91;1791&#93;](../1791.md); [Ninja of Earth &#91;1795&#93;](../1795.md); [Student of Earth &#91;1796&#93;](../1796.md); [Danger Below! &#91;1797&#93;](../1797.md); [Rest in Pieces &#91;1805&#93;](../1805.md); [Cole Fear &#91;1818&#93;](../1818.md); [Treats for the Beast &#91;1835&#93;](../1835.md); [Beast of Earth &#91;1836&#93;](../1836.md); [Climb Like Cole &#91;1924&#93;](../1924.md); [The Power of Earth &#91;1946&#93;](../1946.md); [Cool Guy &#91;1958&#93;](../1958.md); [Lanterns of Spinjitzu &#91;2072&#93;](../2072.md); [Man the Walls! &#91;2074&#93;](../2074.md); [Report to Cole &#91;2075&#93;](../2075.md).
 
 ## Candidate placements / spawner waypoints
 

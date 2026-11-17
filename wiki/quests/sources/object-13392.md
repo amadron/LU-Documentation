@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1394 &#91;1394&#93;](../1394.md); [Quest 1396 &#91;1396&#93;](../1396.md); [Quest 1449 &#91;1449&#93;](../1449.md); [Quest 1450 &#91;1450&#93;](../1450.md).
+Associated quest/achievement definitions: [Apologies to Olivia &#91;1394&#93;](../1394.md); [Hexed and Vexed &#91;1396&#93;](../1396.md); [Meyer's Cap Collection &#91;1449&#93;](../1449.md); [Witches' Brew &#91;1450&#93;](../1450.md).
 
 ## Candidate placements / spawner waypoints
 

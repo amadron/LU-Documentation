@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 874 &#91;874&#93;](../874.md).
+Associated quest/achievement definitions: [Clear Raven Bluff! &#91;874&#93;](../874.md).
 
 ## Candidate placements / spawner waypoints
 

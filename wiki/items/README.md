@@ -69,6 +69,8 @@ Each index contains at most 200 items so it remains practical to read in GitLab.
 | --- | ---: |
 | Individual item pages | 6832 |
 | Items with a client object description | 2628 |
+| Items with an official English client name (`locale.xml`, `en_US`) | 5499 |
+| Items with an official English tooltip (`locale.xml`, `en_US`) | 1963 |
 | Items without an Objects row | 357 |
 | Items with a qualifying static matrix/vendor association | 4609 |
 | Items with a mission/achievement/mail/code reward association | 696 |

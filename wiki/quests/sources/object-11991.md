@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [The Battle of Crux Prime &#91;964&#93;](../964.md); [The Mysterious Ninja &#91;965&#93;](../965.md); [Dropship Down! &#91;977&#93;](../977.md); [Quest 987 &#91;987&#93;](../987.md); [Tea Time &#91;991&#93;](../991.md).
+Associated quest/achievement definitions: [The Battle of Crux Prime &#91;964&#93;](../964.md); [The Mysterious Ninja &#91;965&#93;](../965.md); [Dropship Down! &#91;977&#93;](../977.md); [Shield Zones &#91;987&#93;](../987.md); [Tea Time &#91;991&#93;](../991.md).
 
 ## Candidate placements / spawner waypoints
 

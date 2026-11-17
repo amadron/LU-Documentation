@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 230 &#91;230&#93;](../230.md); [Quest 771 &#91;771&#93;](../771.md).
+Associated quest/achievement definitions: [Collect Cannonballs &#91;230&#93;](../230.md); [Loose Cannonballs &#91;771&#93;](../771.md).
 
 ## Candidate placements / spawner waypoints
 

@@ -8,7 +8,7 @@ The Avant Gardens obstacle course is a separate scripted on-foot activity, not o
 
 - **Starter object:** LOT 3004 — AG - Obstacle Course Starter.
 - **Activity mechanism:** scripted activity component and client object messages; the NPC script uses start/exit, timer, cancel, finish, and leaderboard behavior. This is separate from the generic `BaseFootRaceManager`.
-- **Mission hooks:** the NPC script calls `ForceProgressTaskType(1884, 1, 1, false)` and reports elapsed time via `PERFORM_ACTIVITY`. Consult [Mission 1884](../../quests/1884.md) for the actual objective interpretation and reward/prerequisites.
+- **Mission hooks:** the NPC script calls `ForceProgressTaskType(1884, 1, 1, false)` and reports elapsed time via `PERFORM_ACTIVITY`. Consult [Mission 1884 — Faster and More Furious](../../quests/1884.md) for the actual objective interpretation and reward/prerequisites.
 - **Finish/cancel:** the NPC handles `course_finish` and `course_cancel` events. The Monument Race goal/cancel triggers use a `race_manager` group and are separate scripts; this page does not claim they use LOT 3004.
 - **Starter placement in Avant Gardens:**
 

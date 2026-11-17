@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 738 &#91;738&#93;](../738.md); [Quest 739 &#91;739&#93;](../739.md); [Quest 763 &#91;763&#93;](../763.md).
+Associated quest/achievement definitions: [Leading the Herd &#91;738&#93;](../738.md); [Power Pack &#91;739&#93;](../739.md); [Vapor Where? &#91;763&#93;](../763.md).
 
 ## Candidate placements / spawner waypoints
 

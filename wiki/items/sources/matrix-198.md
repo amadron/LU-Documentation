@@ -25,7 +25,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 | [Exceptional Axe (LOT 8480)](../8480.md) | 2.20987654%; mean 0.022222222 | Not associated with a vendor |
 | [Worthy Wrench (LOT 8481)](../8481.md) | 17.87109375%; mean 0.1875 | Not associated with a vendor |
 | [Exceptional Pipe Wrench (LOT 8482)](../8482.md) | 2.20987654%; mean 0.022222222 | Not associated with a vendor |
-| [Exceptional  Ladle (LOT 8483)](../8483.md) | 2.20987654%; mean 0.022222222 | Not associated with a vendor |
+| [Exceptional Ladle (LOT 8483)](../8483.md) | 2.20987654%; mean 0.022222222 | Not associated with a vendor |
 | [Worthy Butterfly Net (LOT 8484)](../8484.md) | 17.87109375%; mean 0.1875 | Not associated with a vendor |
 | [Superior Huge Axe (LOT 8485)](../8485.md) | 4.23979592%; mean 0.042857143 | Not associated with a vendor |
 | [Exceptional Spear (LOT 8487)](../8487.md) | 2.20987654%; mean 0.022222222 | Not associated with a vendor |

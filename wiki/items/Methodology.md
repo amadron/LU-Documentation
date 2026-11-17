@@ -6,7 +6,7 @@ Generated: **2026-11-17T09:32:48.349Z**. Server source revision: `8b7d1b946b5e7d
 
 ## Scope and trust levels
 
-1. **Template metadata:** 6832 ITEM component registrations (type 11), with Objects and ItemComponent metadata. Missing object rows and descriptions are retained explicitly. Raw client descriptions may be technical; no missing lore was generated. Localized tooltips/mission titles were not available in a locale.xml file.
+1. **Template metadata:** 6832 ITEM component registrations (type 11), with Objects and ItemComponent metadata. Missing object rows and descriptions are retained explicitly. Raw client descriptions may be technical; no missing lore was generated. Item names, player tooltips, and mission/achievement titles come from the English client locale (`client/locale/locale.xml`, `en_US`: `Objects_<LOT>_name`, `Objects_<LOT>_description`, `Missions_<id>_name`), applied by `scripts/enrich_items.py`. Client markup (font tags, `%(...)` tokens, line breaks) is stripped. Fallbacks: without a localized name the page keeps the database display name (or internal name); without a localized tooltip the raw `Objects.description` is shown and labeled as raw client text; when a localized tooltip exists and the raw description differs, the raw text is kept as "Internal description". Missions without a localized title are shown by ID only.
 2. **Static acquisition associations:** LootMatrix → LootTable → item LOT, linked to destructibles, packages, vendors, ActivityRewards, mission/achievement rewards, MissionEmail, and RewardCodes. A definition is a candidate route, not a claim of live availability.
 3. **Map evidence:** exact normalized ZoneTable zoneName asset paths, parsed LUZ scene references, LVL object placements, LOT 176 spawntemplate settings, and LUZ spawner waypoints. Embedded world IDs are not used to invent zone matches. Source pages preserve XYZ, origin, feature gates, inactive-on-load spawners, and vendorInvOverride. Client-only placements are excluded. Not every waypoint spawns an independent entity; never interpret record counts as population or simultaneous spawn counts.
 4. **Community facts:** separately labeled historical acquisition methods and named references, linked to fixed public wiki revisions. They do not override the local static snapshot.
@@ -52,7 +52,7 @@ These are modeled **pre-filter default-stock probabilities per refresh**, not tr
 - Package component 53 links package LOTs to matrices. Follow the package's own item page to investigate how to obtain the containing package; its contents are not necessarily world drops.
 - Vendor component 16 links sellers to default stock. Scene inventory overrides are extracted separately.
 - ActivityRewards.objectTemplate is treated as an **activity ID**, not automatically as a source object LOT. A reward applies only when its rating threshold is the highest eligible one. SCRIPTED_ACTIVITY (39) registrations provide candidate object links where available; Activities.instanceMapID is recorded where present. Script-created activities and custom loot calls may not have such a static link.
-- Mission rewards distinguish first completion, repeats, and choice rewards. A zero stored reward count is displayed as one according to the reward handler. Conditions, repeatability, preconditions, and feature gates can still prevent a reward. IDs and type/subtype are shown because localized quest titles are unavailable.
+- Mission rewards distinguish first completion, repeats, and choice rewards. A zero stored reward count is displayed as one according to the reward handler. Conditions, repeatability, preconditions, and feature gates can still prevent a reward. IDs, localized mission/achievement titles (where `locale.xml` has one), and type/subtype are shown.
 - MissionNPC component 73 and mission offer/target LOTs supply associated quest NPC candidates, not guaranteed active quest markers. Mission mail requires its actual mail trigger. A RewardCodes definition does not establish that a historical promotion remains redeemable.
 
 ## Public community research
@@ -112,6 +112,7 @@ The database deliberately preserves unknown descriptions, unresolved consumers, 
 
 ## Validation performed
 
+- Localized client strings applied: 5499 item names, 1963 tooltips, 876 distinct mission/achievement titles (1847 references).
 - Verified all 6,832 LOT pages against the source item catalog, without
   duplicates or omissions.
 - Compared all 2,628 populated client descriptions with the source data.

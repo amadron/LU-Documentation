@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 741 &#91;741&#93;](../741.md).
+Associated quest/achievement definitions: [Ninja Disguise &#91;741&#93;](../741.md).
 
 ## Candidate placements / spawner waypoints
 

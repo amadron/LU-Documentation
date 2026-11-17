@@ -19,8 +19,8 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 | [Space Fort Bunk Model (LOT 11822)](../11822.md) | Undefined for generic loot: reversed count range | 100% |
 | [Space Fort Computer Model (LOT 11823)](../11823.md) | Undefined for generic loot: reversed count range | 100% |
 | [Space Fort Crate Stack Model (LOT 11824)](../11824.md) | Undefined for generic loot: reversed count range | 100% |
-| [Space Fort Footlocker  Model (LOT 11825)](../11825.md) | Undefined for generic loot: reversed count range | 100% |
-| [Space Fort Generator  Model (LOT 11826)](../11826.md) | Undefined for generic loot: reversed count range | 100% |
+| [Space Fort Footlocker Model (LOT 11825)](../11825.md) | Undefined for generic loot: reversed count range | 100% |
+| [Space Fort Generator Model (LOT 11826)](../11826.md) | Undefined for generic loot: reversed count range | 100% |
 | [Space Fort Gun Rack Model 1 (LOT 11827)](../11827.md) | Undefined for generic loot: reversed count range | 100% |
 | [Space Fort Gun Rack Model 2 (LOT 11828)](../11828.md) | Undefined for generic loot: reversed count range | 100% |
 | [Space Fort Locker Model 1 (LOT 11829)](../11829.md) | Undefined for generic loot: reversed count range | 100% |

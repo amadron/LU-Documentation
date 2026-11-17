@@ -1,6 +1,6 @@
 # Exploration key AG&#95;Mon&#95;1
 
-[Achievement 346 &#91;346&#93;](../346.md) | [Methodology](../Methodology.md)
+[Discover the Green Path &#91;346&#93;](../346.md) | [Methodology](../Methodology.md)
 
 These coordinates identify configured trigger-object positions, not exact collision-volume boundaries or a guaranteed route. The evidence joins LUZ scene ID, LVL trigger_id, the scene’s .lutriggers file, and updateMission exploretask argument 5. Disabled triggers and event conditions remain explicit.
 

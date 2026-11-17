@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Lost Tags &#91;842&#93;](../842.md); [Can you Dig It? &#91;843&#93;](../843.md).
+Associated quest/achievement definitions: [Lost Tags &#91;842&#93;](../842.md); [Can you dig it? &#91;843&#93;](../843.md).
 
 ## Candidate placements / spawner waypoints
 

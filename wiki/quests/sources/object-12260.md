@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [The Battle of Crux Prime &#91;964&#93;](../964.md); [Quest 1377 &#91;1377&#93;](../1377.md); [Quest 1614 &#91;1614&#93;](../1614.md); [Quest 1618 &#91;1618&#93;](../1618.md); [Quest 1619 &#91;1619&#93;](../1619.md); [Quest 1621 &#91;1621&#93;](../1621.md); [Quest 1622 &#91;1622&#93;](../1622.md); [Quest 1623 &#91;1623&#93;](../1623.md); [Quest 1624 &#91;1624&#93;](../1624.md); [Quest 1625 &#91;1625&#93;](../1625.md); [Quest 1626 &#91;1626&#93;](../1626.md); [Quest 1627 &#91;1627&#93;](../1627.md).
+Associated quest/achievement definitions: [The Battle of Crux Prime &#91;964&#93;](../964.md); [Find the Sentinels &#91;1377&#93;](../1377.md); [Quest 1614 &#91;1614&#93;](../1614.md); [Epic Survivor &#91;1618&#93;](../1618.md); [Maelstrom Scourge &#91;1619&#93;](../1619.md); [Smack in Time &#91;1621&#93;](../1621.md); [Forbidden Valiance &#91;1622&#93;](../1622.md); [Forbidden Vandal &#91;1623&#93;](../1623.md); [Keelhaul Canyon Pro &#91;1624&#93;](../1624.md); [Vertigo Loop Pro &#91;1625&#93;](../1625.md); [Dragonmaw Chasm Pro &#91;1626&#93;](../1626.md); [Explosive Personality &#91;1627&#93;](../1627.md).
 
 ## Candidate placements / spawner waypoints
 

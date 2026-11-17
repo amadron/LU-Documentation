@@ -14,11 +14,11 @@ Related activity references: [Racing Database](../racing/README.md) |
 activity-specific mechanics and source/location evidence.
 
 **682 quests and 745 achievements have individual reference pages.** Each
-page gives an available description, character associations, possible
+page gives the official client texts where available, character associations, possible
 locations, prerequisites, objectives, and rewards.
 
 This is a lookup collection, not a live-server journal. Some entries are
-legacy, test, or otherwise unavailable. Where original story text or steps
+legacy, test, or otherwise unavailable. Where client story text or steps
 are missing, the pages say so rather than guessing.
 
 ## Browse all definitions
@@ -30,7 +30,7 @@ are missing, the pages say so rather than guessing.
 - [Full quest summary CSV](./Quest%20Summary.csv) for name/ID search and filtering.
 - [Objective reference CSV](./Objective%20Reference.csv) for all 1800 attached objective rows, with typed target namespaces.
 
-If you know the ID, open `<ID>.md` in this directory. Names taken from community evidence are explicitly marked as candidate historical titles; numeric IDs remain stable lookup keys.
+If you know the ID, open `<ID>.md` in this directory. Titles are the official English client names from locale.xml; definitions without a client name keep a marked community candidate title or a numeric placeholder. Numeric IDs remain stable lookup keys.
 
 ## Browse by passport category / region
 
@@ -77,11 +77,14 @@ and interpretation, see [methodology](./Methodology.md).
 | Attached objective rows | 1800 |
 | Unattached objective rows (no Missions definition) | 4 |
 | Definitions with conservative community associations | 409 |
+| Definitions with an official client name (locale.xml) | 1353 |
+| Definitions with official client description/offer texts | 1369 |
+| Objective rows with client task text | 1717 |
 | Public wiki pages researched | 757 |
 | Definitions with a mapped candidate giver | 681 |
 | Definitions with any mapped/typed location evidence | 1022 |
 | Parsed referenced level files | 536 |
 
-Evidence counts overlap. A reconstructed description is not original quest dialogue; a checklist is not proof of strict objective order. Static XYZ coordinates identify candidate map placements, not guaranteed active NPCs. Reward choices, repeats, and player eligibility remain important.
+Evidence counts overlap. A data-derived objective summary is not original quest dialogue; a checklist is not proof of strict objective order. Static XYZ coordinates identify candidate map placements, not guaranteed active NPCs. Reward choices, repeats, and player eligibility remain important.
 
 [Methodology and limitations](./Methodology.md) | [Community sources](./Community%20Sources.md) | [Machine-readable coverage](./Coverage.json)

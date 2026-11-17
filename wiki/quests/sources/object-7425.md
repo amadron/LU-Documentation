@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 497 &#91;497&#93;](../497.md); [Quest 498 &#91;498&#93;](../498.md).
+Associated quest/achievement definitions: [The Cursed Cavalry &#91;497&#93;](../497.md); [Pwnin' the Ronin &#91;498&#93;](../498.md).
 
 ## Candidate placements / spawner waypoints
 

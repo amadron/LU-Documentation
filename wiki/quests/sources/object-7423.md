@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Stop the Horsemen! &#91;594&#93;](../594.md); [Quest 705 &#91;705&#93;](../705.md); [Quest 786 &#91;786&#93;](../786.md); [Hatching a Plan &#91;914&#93;](../914.md).
+Associated quest/achievement definitions: [Stop the Horsemen! &#91;594&#93;](../594.md); [Behind Enemy Lines &#91;705&#93;](../705.md); [The Way of the Panda &#91;786&#93;](../786.md); [Hatching a Plan &#91;914&#93;](../914.md).
 
 ## Candidate placements / spawner waypoints
 

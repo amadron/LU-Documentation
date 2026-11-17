@@ -6,18 +6,21 @@
 
 Activity 42 is the Nimbus Station racetrack instance. A local Nimbus map placement of LOT 10413 has LDF activityID 42 and transferZoneID 1203, so its entry coordinate is supported by the map configuration even though the reusable LOT registration has a different default activity ID.
 
+**Which object is the Nimbus Station entrance:** the Race Activator at the Nimbus Station Race Place is the placed copy of LOT 10413. Its template name “GF - Race Activator” only reflects that the same template is reused from Gnarled Forest (where it keeps its default activity 39). The Nimbus copy overrides it in the map data with activityID 42, transferZoneID 1203 and the client script `L_NS_RACE_JOIN_CLIENT.lua` (the Gnarled Forest copy uses `L_GF_RACE_JOIN_CLIENT.lua`). LOT 8561 “Modular Car Race Activator” is **not** the entrance: a scan of all 661 local LVL files finds no placement or spawner of LOT 8561, and its own activity registration points to activity 5 (client name “Avant Gardens Survival”) with an Avant Gardens waves client script, so it is an unused or legacy template. Neither 10413 nor 8561 has an English client name in locale.xml; mission text calls the object the “Race Activator”.
+
 - **World / activity instance:** Nimbus Station (world 1200); instance 1203
 - **Server activity:** 42; activity table location 1203
 - **Local ZoneTable asset:** `01_Live_Maps/Nimbus_Station/Racetrack/nd_nimbus_station_racetrack.luz`
 - **Map parse:** embedded world 1203; 1 scene(s); 130 spawner waypoint(s)
 - **Scene names:** `Global Scene`
 - **Historical track name:** Vertigo Loop Racetrack (see revision-pinned [community source](../Community%20Sources.md#vertigo-loop))
+- **Client name (locale.xml):** Vertigo Loop Racetrack (`Activities_42_ActivityName` and `ZoneTable_1203_DisplayDescription`)
 
 ### Entry point and coordinates
 
 | Object LOT / name | Zone asset | Scene / level | XYZ (map units) | Evidence |
 | --- | --- | --- | --- | --- |
-| 10413 — GF - Race Activator | 1200 (ZoneTable 1200) | Global Scene — nd_nimbus_station.lvl | 270.41, 289.19, 188.12 | [nd_nimbus_station.lvl](../../../../res/res/maps/01_Live_Maps/Nimbus_Station/nd_nimbus_station.lvl); LDF activityID 42; transferZoneID 1203; server script L_GF_RACE_INSTANCER.lua |
+| 10413 — GF - Race Activator | 1200 (ZoneTable 1200) | Global Scene — nd_nimbus_station.lvl | 270.41, 289.19, 188.12 | `client/res/maps/01_Live_Maps/Nimbus_Station/nd_nimbus_station.lvl`; LDF activityID 42; transferZoneID 1203; server script L_GF_RACE_INSTANCER.lua |
 
 Coordinates are static LVL object origins in the authored map asset, not a live NPC/player position, path trigger, or guarantee that the activity is enabled. Where local component registration does not prove which object launches this track, it is not labeled as an entrance.
 
@@ -91,47 +94,47 @@ Per-item percentages above are **modeled chance of at least one LOT per matrix i
 
 | Existing quest/achievement page | Racing-linked objective(s) |
 | --- | --- |
-| [Quest 624](../../quests/624.md) — Quest 624 | UID 940: Finish/participate in 1 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack. |
-| [Quest 625](../../quests/625.md) — Speed Boost! | UID 941: Collect racing Imagination pickups until the counter reaches 9 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Quest 626](../../quests/626.md) — Quest 626 | UID 942: Finish at position 3 or better on an allowed track: Vertigo Loop Racetrack. Placement credit also depends on the racing server's solo/player-count rules. |
-| [Quest 627](../../quests/627.md) — Quest 627 | UID 943: Finish a lap in at most 70 seconds (70000 ms) on an allowed track: Vertigo Loop Racetrack. |
-| [Quest 628](../../quests/628.md) — Quest 628 | UID 944: Finish at position 1 or better on an allowed track: Vertigo Loop Racetrack. Placement credit also depends on the racing server's solo/player-count rules. |
-| [Achievement 638](../../quests/638.md) — Achievement 638 | UID 954: Finish at position 3 or better on an allowed track: Vertigo Loop Racetrack. Placement credit also depends on the racing server's solo/player-count rules. |
-| [Achievement 639](../../quests/639.md) — Achievement 639 | UID 955: Finish at position 1 or better on an allowed track: Vertigo Loop Racetrack. Placement credit also depends on the racing server's solo/player-count rules. |
+| [Quest 624](../../quests/624.md) — Enter a Race | UID 940: Finish/participate in 1 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack. |
+| [Quest 625](../../quests/625.md) — Speed Boost! | UID 941: Collect racing Imagination pickups until the counter reaches 9 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Quest 626](../../quests/626.md) — Vertigo Loop Top 3 | UID 942: Finish at position 3 or better on an allowed track: Vertigo Loop Racetrack. Placement credit also depends on the racing server's solo/player-count rules. |
+| [Quest 627](../../quests/627.md) — Max Velocity | UID 943: Finish a lap in at most 70 seconds (70000 ms) on an allowed track: Vertigo Loop Racetrack. |
+| [Quest 628](../../quests/628.md) — Vertigo Loop Victory | UID 944: Finish at position 1 or better on an allowed track: Vertigo Loop Racetrack. Placement credit also depends on the racing server's solo/player-count rules. |
+| [Achievement 638](../../quests/638.md) — Vertigo Loop Winners' Circle | UID 954: Finish at position 3 or better on an allowed track: Vertigo Loop Racetrack. Placement credit also depends on the racing server's solo/player-count rules. |
+| [Achievement 639](../../quests/639.md) — Vertigo Loop Champion | UID 955: Finish at position 1 or better on an allowed track: Vertigo Loop Racetrack. Placement credit also depends on the racing server's solo/player-count rules. |
 | [Achievement 642](../../quests/642.md) — Vertigo Loop Pacesetter | UID 958: Finish a lap in at most 65 seconds (65000 ms) on an allowed track: Vertigo Loop Racetrack. |
-| [Achievement 643](../../quests/643.md) — Achievement 643 | UID 959: Finish the race in at most 190 seconds (190000 ms) on an allowed track: Vertigo Loop Racetrack. |
-| [Achievement 646](../../quests/646.md) — Achievement 646 | UID 962: Finish 1 matching race(s) without being smashed: Vertigo Loop Racetrack. |
-| [Achievement 648](../../quests/648.md) — Achievement 648 | UID 964: Finish 10 matching race(s) without being smashed: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 649](../../quests/649.md) — Achievement 649 | UID 965: Finish 25 matching race(s) without being smashed: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 650](../../quests/650.md) — Achievement 650 | UID 966: Finish 50 matching race(s) without being smashed: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 651](../../quests/651.md) — Achievement 651 | UID 967: Smash racing smashables until the counter reaches 100 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 652](../../quests/652.md) — Achievement 652 | UID 968: Smash racing smashables until the counter reaches 250 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 653](../../quests/653.md) — Achievement 653 | UID 969: Smash racing smashables until the counter reaches 500 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 654](../../quests/654.md) — Achievement 654 | UID 970: Collect racing Imagination pickups until the counter reaches 100 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 655](../../quests/655.md) — Achievement 655 | UID 971: Collect racing Imagination pickups until the counter reaches 500 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 656](../../quests/656.md) — Achievement 656 | UID 972: Collect racing Imagination pickups until the counter reaches 1000 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 657](../../quests/657.md) — Achievement 657 | UID 973: Finish/participate in 25 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 658](../../quests/658.md) — Achievement 658 | UID 974: Finish/participate in 25 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 659](../../quests/659.md) — Racing Fanatic 3 | UID 975: Finish/participate in 50 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 661](../../quests/661.md) — Achievement 661 | UID 977: Win 5 credited race(s) in allowed worlds: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 662](../../quests/662.md) — Achievement 662 | UID 978: Win 10 credited race(s) in allowed worlds: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 663](../../quests/663.md) — Fifty-Time Champion 1 | UID 979: Win 20 credited race(s) in allowed worlds: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 665](../../quests/665.md) — Achievement 665 | UID 981: Win 10 credited race(s) in allowed worlds: Vertigo Loop Racetrack. |
-| [Achievement 667](../../quests/667.md) — Achievement 667 | UID 983: Finish last in 10 credited race(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Quest 668](../../quests/668.md) — Quest 668 | UID 984: Win first place on both Nimbus Station (1203) and Gnarled Forest (1303). The server completes this task when both track bits are set (mask 3), despite stored targetValue 1. |
-| [Quest 1408](../../quests/1408.md) — Quest 1408 | UID 1940: Finish/participate in 5 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Quest 1506](../../quests/1506.md) — Quest 1506 | UID 2078: Finish/participate in 5 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Quest 1543](../../quests/1543.md) — Quest 1543 | UID 2140: Finish/participate in 5 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Quest 1580](../../quests/1580.md) — Quest 1580 | UID 2202: Finish/participate in 5 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Quest 1625](../../quests/1625.md) — Quest 1625 | UID 2277: Finish at position 1 or better on an allowed track: Vertigo Loop Racetrack. Placement credit also depends on the racing server's solo/player-count rules. |
-| [Quest 1635](../../quests/1635.md) — Quest 1635 | UID 2287: Finish at position 1 or better on an allowed track: Vertigo Loop Racetrack. Placement credit also depends on the racing server's solo/player-count rules. |
-| [Quest 1645](../../quests/1645.md) — Quest 1645 | UID 2297: Finish at position 1 or better on an allowed track: Vertigo Loop Racetrack. Placement credit also depends on the racing server's solo/player-count rules. |
-| [Quest 1655](../../quests/1655.md) — Quest 1655 | UID 2307: Finish at position 1 or better on an allowed track: Vertigo Loop Racetrack. Placement credit also depends on the racing server's solo/player-count rules. |
-| [Achievement 1772](../../quests/1772.md) — Achievement 1772 | UID 2533: Finish 100 matching race(s) without being smashed: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 1773](../../quests/1773.md) — Achievement 1773 | UID 2534: Finish/participate in 100 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 1774](../../quests/1774.md) — Achievement 1774 | UID 2535: Win 50 credited race(s) in allowed worlds: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 1775](../../quests/1775.md) — Achievement 1775 | UID 2536: Smash racing smashables until the counter reaches 1000 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
-| [Achievement 1776](../../quests/1776.md) — Achievement 1776 | UID 2537: Collect racing Imagination pickups until the counter reaches 1500 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Zone 1261. |
+| [Achievement 643](../../quests/643.md) — Vertigo Loop Speed Demon | UID 959: Finish the race in at most 190 seconds (190000 ms) on an allowed track: Vertigo Loop Racetrack. |
+| [Achievement 646](../../quests/646.md) — Vertigo Loop Safe Driver | UID 962: Finish 1 matching race(s) without being smashed: Vertigo Loop Racetrack. |
+| [Achievement 648](../../quests/648.md) — Low Deductible 1 | UID 964: Finish 10 matching race(s) without being smashed: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 649](../../quests/649.md) — Low Deductible 2 | UID 965: Finish 25 matching race(s) without being smashed: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 650](../../quests/650.md) — Low Deductible 3 | UID 966: Finish 50 matching race(s) without being smashed: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 651](../../quests/651.md) — Street Sweeper 1 | UID 967: Smash racing smashables until the counter reaches 100 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 652](../../quests/652.md) — Street Sweeper 2 | UID 968: Smash racing smashables until the counter reaches 250 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 653](../../quests/653.md) — Street Sweeper 3 | UID 969: Smash racing smashables until the counter reaches 500 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 654](../../quests/654.md) — Drive-Thru Dreamer 1 | UID 970: Collect racing Imagination pickups until the counter reaches 100 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 655](../../quests/655.md) — Drive-Thru Dreamer 2 | UID 971: Collect racing Imagination pickups until the counter reaches 500 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 656](../../quests/656.md) — Drive-Thru Dreamer 3 | UID 972: Collect racing Imagination pickups until the counter reaches 1000 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 657](../../quests/657.md) — Racing Fanatic 1 | UID 973: Finish/participate in 25 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 658](../../quests/658.md) — Racing Fanatic 2 | UID 974: Finish/participate in 25 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 659](../../quests/659.md) — Racing Fanatic 3 | UID 975: Finish/participate in 50 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 661](../../quests/661.md) — Five-Time Champion | UID 977: Win 5 credited race(s) in allowed worlds: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 662](../../quests/662.md) — Ten-Time Champion | UID 978: Win 10 credited race(s) in allowed worlds: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 663](../../quests/663.md) — Twenty-Time Champion | UID 979: Win 20 credited race(s) in allowed worlds: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 665](../../quests/665.md) — Vertigo Loop Super Champ | UID 981: Win 10 credited race(s) in allowed worlds: Vertigo Loop Racetrack. |
+| [Achievement 667](../../quests/667.md) — Try, Try Again | UID 983: Finish last in 10 credited race(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Quest 668](../../quests/668.md) — Race Series 1 | UID 984: Win first place on both Nimbus Station (1203) and Gnarled Forest (1303). The server completes this task when both track bits are set (mask 3), despite stored targetValue 1. |
+| [Quest 1408](../../quests/1408.md) — Drive Five | UID 1940: Finish/participate in 5 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Quest 1506](../../quests/1506.md) — Drive Five | UID 2078: Finish/participate in 5 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Quest 1543](../../quests/1543.md) — Drive Five | UID 2140: Finish/participate in 5 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Quest 1580](../../quests/1580.md) — Drive Five | UID 2202: Finish/participate in 5 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Quest 1625](../../quests/1625.md) — Vertigo Loop Pro | UID 2277: Finish at position 1 or better on an allowed track: Vertigo Loop Racetrack. Placement credit also depends on the racing server's solo/player-count rules. |
+| [Quest 1635](../../quests/1635.md) — Vertigo Loop Pro | UID 2287: Finish at position 1 or better on an allowed track: Vertigo Loop Racetrack. Placement credit also depends on the racing server's solo/player-count rules. |
+| [Quest 1645](../../quests/1645.md) — Vertigo Loop Pro | UID 2297: Finish at position 1 or better on an allowed track: Vertigo Loop Racetrack. Placement credit also depends on the racing server's solo/player-count rules. |
+| [Quest 1655](../../quests/1655.md) — Vertigo Loop Pro | UID 2307: Finish at position 1 or better on an allowed track: Vertigo Loop Racetrack. Placement credit also depends on the racing server's solo/player-count rules. |
+| [Achievement 1772](../../quests/1772.md) — Low Deductible | UID 2533: Finish 100 matching race(s) without being smashed: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 1773](../../quests/1773.md) — Racing Fanatic | UID 2534: Finish/participate in 100 credited race completion(s) on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 1774](../../quests/1774.md) — Fifty-Time Champion | UID 2535: Win 50 credited race(s) in allowed worlds: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 1775](../../quests/1775.md) — Street Sweeper | UID 2536: Smash racing smashables until the counter reaches 1000 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
+| [Achievement 1776](../../quests/1776.md) — Drive-Thru Dreamer | UID 2537: Collect racing Imagination pickups until the counter reaches 1500 on allowed tracks: Vertigo Loop Racetrack / Keelhaul Canyon Racetrack / Dragonmaw Chasm Racetrack / Space Blizzard Racetrack (1261). |
 
 Rewards for missions/achievements are documented on their existing quest pages; they are not substituted for the activity-result matrix above.
 

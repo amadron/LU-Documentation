@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 770 &#91;770&#93;](../770.md); [Quest 1197 &#91;1197&#93;](../1197.md).
+Associated quest/achievement definitions: [Arrr is for Rocket! &#91;770&#93;](../770.md); [Chantey Shanty Visitor &#91;1197&#93;](../1197.md).
 
 ## Candidate placements / spawner waypoints
 

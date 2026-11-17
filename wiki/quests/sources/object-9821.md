@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Get Ready to Race! &#91;622&#93;](../622.md); [Build Your Ride! &#91;623&#93;](../623.md); [Quest 624 &#91;624&#93;](../624.md); [Speed Boost! &#91;625&#93;](../625.md); [Quest 626 &#91;626&#93;](../626.md); [Quest 627 &#91;627&#93;](../627.md); [Quest 628 &#91;628&#93;](../628.md); [Find Swifty McGurk &#91;629&#93;](../629.md); [That Venture Lass &#91;637&#93;](../637.md); [Quest 668 &#91;668&#93;](../668.md).
+Associated quest/achievement definitions: [Get Ready to Race! &#91;622&#93;](../622.md); [Build Your Ride! &#91;623&#93;](../623.md); [Enter a Race &#91;624&#93;](../624.md); [Speed Boost! &#91;625&#93;](../625.md); [Vertigo Loop Top 3 &#91;626&#93;](../626.md); [Max Velocity &#91;627&#93;](../627.md); [Vertigo Loop Victory &#91;628&#93;](../628.md); [Find Swifty McGurk &#91;629&#93;](../629.md); [That Velocity Lass &#91;637&#93;](../637.md); [Race Series 1 &#91;668&#93;](../668.md).
 
 ## Candidate placements / spawner waypoints
 

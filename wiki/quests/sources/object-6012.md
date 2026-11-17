@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [A Monumental View &#91;318&#93;](../318.md); [Finish Line &#91;319&#93;](../319.md); [Infested! &#91;633&#93;](../633.md); [A View to a Monument &#91;1877&#93;](../1877.md); [Monument Race (Mission) &#91;1884&#93;](../1884.md).
+Associated quest/achievement definitions: [A Monumental View &#91;318&#93;](../318.md); [Finish Line &#91;319&#93;](../319.md); [Infested! &#91;633&#93;](../633.md); [A View to a Monument &#91;1877&#93;](../1877.md); [Faster and More Furious &#91;1884&#93;](../1884.md).
 
 ## Candidate placements / spawner waypoints
 

@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1799 &#91;1799&#93;](../1799.md); [Quest 1801 &#91;1801&#93;](../1801.md); [Quest 1802 &#91;1802&#93;](../1802.md); [Quest 1955 &#91;1955&#93;](../1955.md).
+Associated quest/achievement definitions: [Bozu's Hiding Spot &#91;1799&#93;](../1799.md); [Trapped! &#91;1801&#93;](../1801.md); [Altars of Imagination &#91;1802&#93;](../1802.md); [Secrets of the Skull-a-Tons &#91;1955&#93;](../1955.md).
 
 ## Candidate placements / spawner waypoints
 

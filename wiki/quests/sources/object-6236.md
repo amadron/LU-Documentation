@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 380 &#91;380&#93;](../380.md); [Quest 382 &#91;382&#93;](../382.md); [Quest 541 &#91;541&#93;](../541.md); [Quest 772 &#91;772&#93;](../772.md).
+Associated quest/achievement definitions: [Find Renee Tombcrusher &#91;380&#93;](../380.md); [Lily-Livered &#91;382&#93;](../382.md); [Just Stunning &#91;541&#93;](../541.md); [Name Dropper &#91;772&#93;](../772.md).
 
 ## Candidate placements / spawner waypoints
 

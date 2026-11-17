@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Ravencloud Gate (Mission) &#91;493&#93;](../493.md); [Fearless Guards &#91;737&#93;](../737.md); [Quest 1198 &#91;1198&#93;](../1198.md).
+Associated quest/achievement definitions: [Ravencloud Gate &#91;493&#93;](../493.md); [Fearless Guards &#91;737&#93;](../737.md); [Raven Bluff Visitor &#91;1198&#93;](../1198.md).
 
 ## Candidate placements / spawner waypoints
 

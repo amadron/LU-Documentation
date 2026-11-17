@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 229 &#91;229&#93;](../229.md); [Quest 745 &#91;745&#93;](../745.md); [Quest 746 &#91;746&#93;](../746.md); [Lock Step &#91;1174&#93;](../1174.md).
+Associated quest/achievement definitions: [Monarch of the Sea &#91;229&#93;](../229.md); [X Marks the Spot &#91;745&#93;](../745.md); [Jack Knife's Treasure &#91;746&#93;](../746.md); [Lock Step &#91;1174&#93;](../1174.md).
 
 ## Candidate placements / spawner waypoints
 

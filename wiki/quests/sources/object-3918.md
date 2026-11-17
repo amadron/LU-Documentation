@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1897 &#91;1897&#93;](../1897.md).
+Associated quest/achievement definitions: [Gonna Need a Bigger Boat &#91;1897&#93;](../1897.md).
 
 ## Candidate placements / spawner waypoints
 

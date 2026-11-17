@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Avant Gardens Air Strike &#91;322&#93;](../322.md); [Quest 1152 &#91;1152&#93;](../1152.md); [Quest 1864 &#91;1864&#93;](../1864.md).
+Associated quest/achievement definitions: [Avant Gardens Air Strike &#91;322&#93;](../322.md); [Smash and Awe &#91;1152&#93;](../1152.md); [Smashdown &#91;1864&#93;](../1864.md).
 
 ## Candidate placements / spawner waypoints
 

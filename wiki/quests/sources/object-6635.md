@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Yay for Spray! &#91;236&#93;](../236.md); [Back to Nexus Jay &#91;475&#93;](../475.md); [Find Mardolf the Orange &#91;476&#93;](../476.md); [Rocket Builder &#91;809&#93;](../809.md); [Make a Stink &#91;834&#93;](../834.md); [Bone Deep &#91;993&#93;](../993.md); [Quest 994 &#91;994&#93;](../994.md); [Quest 1177 &#91;1177&#93;](../1177.md); [Quest 1300 &#91;1300&#93;](../1300.md).
+Associated quest/achievement definitions: [Yay for Spray! &#91;236&#93;](../236.md); [Back to Nexus Jay &#91;475&#93;](../475.md); [Find Mardolf the Orange &#91;476&#93;](../476.md); [Rocket Builder &#91;809&#93;](../809.md); [Make a Stink &#91;834&#93;](../834.md); [Bone Deep &#91;993&#93;](../993.md); [Mardolf Knows &#91;994&#93;](../994.md); [Assembling It All &#91;1177&#93;](../1177.md); [The Bone Builder &#91;1300&#93;](../1300.md).
 
 ## Candidate placements / spawner waypoints
 

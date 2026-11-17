@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Check In with Sky Lane &#91;320&#93;](../320.md); [Back-up Bulwark! &#91;377&#93;](../377.md); [Arachnophobia &#91;768&#93;](../768.md); [Quest 870 &#91;870&#93;](../870.md); [Quest 871 &#91;871&#93;](../871.md); [Model Movers &#91;891&#93;](../891.md); [One Size Fits All &#91;1950&#93;](../1950.md).
+Associated quest/achievement definitions: [Check In with Sky Lane &#91;320&#93;](../320.md); [Back-up Bulwark! &#91;377&#93;](../377.md); [Arachnophobia &#91;768&#93;](../768.md); [Stake a Claim &#91;870&#93;](../870.md); [Model Mania &#91;871&#93;](../871.md); [Model Movers &#91;891&#93;](../891.md); [One Size Fits All &#91;1950&#93;](../1950.md).
 
 ## Candidate placements / spawner waypoints
 

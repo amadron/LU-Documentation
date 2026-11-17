@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 388 &#91;388&#93;](../388.md); [Quest 703 &#91;703&#93;](../703.md).
+Associated quest/achievement definitions: [Feed Ninja Steve &#91;388&#93;](../388.md); [Free Ninja Steve! &#91;703&#93;](../703.md).
 
 ## Candidate placements / spawner waypoints
 

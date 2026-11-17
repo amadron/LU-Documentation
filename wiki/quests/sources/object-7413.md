@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 490 &#91;490&#93;](../490.md); [Ravencloud Gate (Mission) &#91;493&#93;](../493.md); [Quest 1159 &#91;1159&#93;](../1159.md).
+Associated quest/achievement definitions: [Yes Sensei! &#91;490&#93;](../490.md); [Ravencloud Gate &#91;493&#93;](../493.md); [The Golden Treasures &#91;1159&#93;](../1159.md).
 
 ## Candidate placements / spawner waypoints
 

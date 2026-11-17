@@ -16,7 +16,7 @@ journal and the [Quest Guide](../Quest%20Guide.md).
 - [Keelhaul Canyon Raceway](./tracks/keelhaul-canyon.md) — activity 39, instance 1303.
 - [Vertigo Loop](./tracks/vertigo-loop.md) — activity 42, instance 1203.
 - [Dragonmaw Chasm](./tracks/dragonmaw-chasm.md) — activity 54, instance 1403.
-- [Space Blizzard](./tracks/space-blizzard.md) — activity 60, instance 1261.
+- [Space Blizzard](./tracks/space-blizzard.md) — activity 60, instance 1261 (no ZoneTable row; the only related row is zone 556 “Winter Racetrack”, locStatus 0).
 - [Foot races and timed courses](./tracks/foot-races.md) — local generic foot-race templates and separately registered activity records.
 - [Avant Gardens timed obstacle course](./tracks/ag-obstacle-course.md) — distinct from Monument Race.
 - [Monument Race](./tracks/monument-race.md) — Avant Gardens on-foot timed course.
@@ -37,5 +37,7 @@ journal and the [Quest Guide](../Quest%20Guide.md).
 | AG obstacle course | Separate scripted on-foot activity; its mission hook and static object placements are documented on its own page. |
 | Map evidence | 39 parsed local LUZ assets; 34 have one or more exact ZoneTable path matches. |
 | Static race-related object names | 247 records matching race/track naming; not all are playable content. |
+
+Track, quest, achievement, NPC and activity names are the English client names from locale.xml where the client has one; template names from the Objects table are kept next to them.
 
 [Methodology and limitations](./Methodology.md) | [Revision-pinned community sources](./Community%20Sources.md) | [Machine-readable coverage](./Coverage.json)

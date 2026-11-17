@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 776 &#91;776&#93;](../776.md).
+Associated quest/achievement definitions: [Brockley Loves Thunder &#91;776&#93;](../776.md).
 
 ## Candidate placements / spawner waypoints
 

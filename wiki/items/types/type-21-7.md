@@ -46,9 +46,9 @@ Pages: [1](type-21-1.md) | [2](type-21-2.md) | [3](type-21-3.md) | [4](type-21-4
 | 11823 | [Space Fort Computer Model (LOT 11823)](../11823.md) | 2 | A model for your property! | 1 matrices; 0 rewards; 0 community references |
 | 11824 | [Space Fort Crate Stack Model (LOT 11824)](../11824.md) | 1 | A model for your property! | 1 matrices; 0 rewards; 0 community references |
 | 11841 | [Space Fort Flak Model (LOT 11841)](../11841.md) | 3 | A model for your property! | 1 matrices; 0 rewards; 0 community references |
-| 11825 | [Space Fort Footlocker  Model (LOT 11825)](../11825.md) | 1 | A model for your property! | 1 matrices; 0 rewards; 0 community references |
+| 11825 | [Space Fort Footlocker Model (LOT 11825)](../11825.md) | 1 | A model for your property! | 1 matrices; 0 rewards; 0 community references |
 | 11837 | [Space Fort Forcefield Door Model (LOT 11837)](../11837.md) | 2 | A model for your property! | 1 matrices; 0 rewards; 0 community references |
-| 11826 | [Space Fort Generator  Model (LOT 11826)](../11826.md) | 4 | A model for your property! | 1 matrices; 0 rewards; 0 community references |
+| 11826 | [Space Fort Generator Model (LOT 11826)](../11826.md) | 4 | A model for your property! | 1 matrices; 0 rewards; 0 community references |
 | 11827 | [Space Fort Gun Rack Model 1 (LOT 11827)](../11827.md) | 3 | A model for your property! | 1 matrices; 0 rewards; 0 community references |
 | 11828 | [Space Fort Gun Rack Model 2 (LOT 11828)](../11828.md) | 2 | A model for your property! | 1 matrices; 0 rewards; 0 community references |
 | 11845 | [Space Fort Invader Model (LOT 11845)](../11845.md) | 3 | A model for your property! | 1 matrices; 0 rewards; 0 community references |
@@ -92,7 +92,7 @@ Pages: [1](type-21-1.md) | [2](type-21-2.md) | [3](type-21-3.md) | [4](type-21-4
 | 10836 | [Tan Chair Model (LOT 10836)](../10836.md) | 1 | A model for your property! | 3 matrices; 0 rewards; 0 community references |
 | 7825 | [Tank Pallet Model (LOT 7825)](../7825.md) | 2 | A model for your Property! | 29 matrices; 0 rewards; 0 community references |
 | 9488 | [Television Model (LOT 9488)](../9488.md) | 2 | A model for your Property! | 26 matrices; 0 rewards; 0 community references |
-| 9550 | [Temple Model 1 (LOT 9550)](../9550.md) | 3 | A model for your Property! | 23 matrices; 0 rewards; 0 community references |
+| 9550 | [Temple Model 1 (LOT 9550)](../9550.md) | 3 | A model for your Property! | 23 matrices; 0 rewards; 0 community references |
 | 9551 | [Temple Model 2 (LOT 9551)](../9551.md) | 3 | A model for your Property! | 22 matrices; 0 rewards; 0 community references |
 | 6036 | [Tent Model (LOT 6036)](../6036.md) | 3 | A model for your Property! | 47 matrices; 0 rewards; 0 community references |
 | 10457 | [Terrier Property Pet (LOT 10457)](../10457.md) | 1 | TEST Property Terrier | 0 matrices; 0 rewards; 0 community references |

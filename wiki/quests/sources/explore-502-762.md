@@ -1,6 +1,6 @@
 # Exploration key PR&#95;POI&#95;2
 
-[Achievement 502 &#91;502&#93;](../502.md) | [Methodology](../Methodology.md)
+[Pet Cove Explorer &#91;502&#93;](../502.md) | [Methodology](../Methodology.md)
 
 These coordinates identify configured trigger-object positions, not exact collision-volume boundaries or a guaranteed route. The evidence joins LUZ scene ID, LVL trigger_id, the scene’s .lutriggers file, and updateMission exploretask argument 5. Disabled triggers and event conditions remain explicit.
 

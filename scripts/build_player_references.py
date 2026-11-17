@@ -1,12 +1,33 @@
+"""Build the player skill (wiki/skills/) and zone (wiki/zones/) reference pages.
+
+Usage (from the documentation root, with the table exports in db/*.csv):
+    py -3 scripts/build_player_references.py [locale.xml]
+
+Skill names and tooltips come from the English (en_US) client locale; the default
+path is ../client/locale/locale.xml next to the documentation root.
+"""
+
 import csv
 import html
 import json
 import re
+import sys
+import xml.etree.ElementTree as ET
 from collections import defaultdict
 from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_LOCALE = ROOT.parent / "client" / "locale" / "locale.xml"
+SKILL_KEY = re.compile(r"SkillBehavior_(\d+)_(name|descriptionUI)$")
+# Labels for the tokens in client tooltips such as "%(DamageCombo) 1+2+3 %(ChargeUp)...".
+# AltCombo values appear on Ninjago-era equipment and Spinjitzu skills; the client rollover labels that line
+# "Skeletons Combo" (UI_ITEM_ROLLOVER_SKELETON_COMBO).
+TOOLTIP_LABELS = {
+    "DamageCombo": "Damage",
+    "AltCombo": "Damage vs. Skeletons",
+    "ChargeUp": "Charge attack",
+}
 SLOTS = {"special_r", "special_l", "hair", "clavicle"}
 NON_PLAYER_NAME = re.compile(r"\b(?:test|unused|debug|proxy|gm|developer)\b", re.I)
 ZONES = (
@@ -26,6 +47,7 @@ ZONES = (
     (1261, "Space Blizzard Racetrack", "Seasonal racetrack"),
     (1300, "Gnarled Forest", "World"),
     (1301, "Gnarled Forest Survival", "Activity"),
+    (1302, "Cannon Cove Shooting Gallery", "Activity"),
     (1303, "Keelhaul Canyon Racetrack", "Racetrack"),
     (1350, "Chantey Shanty", "Property"),
     (1400, "Forbidden Valley", "World"),
@@ -34,11 +56,15 @@ ZONES = (
     (1403, "Dragonmaw Chasm Racetrack", "Racetrack"),
     (1450, "Raven Bluff", "Property"),
     (1600, "Starbase 3001", "World"),
+    (1601, "DeepFreeze", "World Builder Planet"),
+    (1602, "Robot City", "World Builder Planet"),
+    (1603, "MoonBase", "World Builder Planet"),
+    (1604, "Portabello", "World Builder Planet"),
     (1700, "LEGO Club", "Historical destination"),
     (1800, "Crux Prime", "World"),
     (1900, "Nexus Tower", "World"),
     (2000, "Ninjago Monastery", "World"),
-    (2001, "Battle Against Frakjaw", "Activity"),
+    (2001, "Battle Against Frakjaw!", "Activity"),
 )
 TRACKS = {
     1203: "vertigo-loop",
@@ -56,6 +82,149 @@ def load_table(database, name):
 def escape(value):
     text = html.escape(str(value), quote=False).replace("\r", " ").replace("\n", " ")
     return re.sub(r"[\\|`*_\[\]~]", lambda match: f"&#{ord(match.group())};", text)
+
+
+def escape_block(value):
+    """Escape text that starts a Markdown line so it cannot become a list, heading, or quote."""
+    text = escape(value)
+    if re.match(r"[-+#](?:\s|$)|\d+[.)](?:\s|$)", text):
+        text = f"&#{ord(text[0])};{text[1:]}"
+    return text
+
+
+def load_skill_locale(path, language="en_US"):
+    """Return {skill_id: {"name": ..., "description": ...}} from the client locale.xml."""
+    result = defaultdict(dict)
+    for _, element in ET.iterparse(path):
+        if element.tag != "phrase":
+            continue
+        match = SKILL_KEY.match(element.get("id", ""))
+        if match:
+            for translation in element.findall("translation"):
+                if translation.get("locale") == language and (translation.text or "").strip():
+                    field = "name" if match.group(2) == "name" else "description"
+                    result[match.group(1)][field] = translation.text.strip()
+        element.clear()
+    return dict(result)
+
+
+def _sentence(text):
+    return text if text.endswith((".", "!", "?")) else f"{text}."
+
+
+def render_tooltip(text):
+    """Turn '%(DamageCombo) 1+2+3 %(ChargeUp)Blocks attacks' into 'Damage: 1+2+3. Charge attack: Blocks attacks.'"""
+    text = " ".join((text or "").split())
+    if not text:
+        return ""
+    parts = []
+    lead = re.split(r"%\(\w+\)", text, maxsplit=1)[0].strip()
+    if lead:
+        parts.append(_sentence(lead))
+    for key, value in re.findall(r"%\((\w+)\)([^%]*)", text):
+        value = value.strip()
+        if value:
+            label = TOOLTIP_LABELS.get(key)
+            parts.append(f"{label}: {_sentence(value)}" if label else _sentence(value))
+    return " ".join(parts)
+
+
+def official_skill(locale, skill):
+    entry = (locale or {}).get(skill, {})
+    return entry.get("name", ""), render_tooltip(entry.get("description", ""))
+
+
+def skill_header(skill, official, description, candidate, source, item):
+    """Lines from the page title up to (not including) '## Recorded settings'.
+
+    official/description: client locale name and rendered tooltip ("" if absent).
+    candidate/source/item: community-name evidence, its source entry, and the
+    rendered link to the matched item (None when there is no evidence).
+    """
+    community = escape(candidate["name"]) if candidate else ""
+    title = escape(official) if official else community or f"Skill {skill}"
+    lines = [f"# {title}", "", "[Player skills](./README.md) | [Methodology](./Methodology.md)", ""]
+    evidence = ""
+    if candidate:
+        evidence = (
+            f"[{escape(source['label'])}]({source['url']}) associates this name with "
+            f"{escape(candidate['community_item'])}; the local data associates {item} "
+            f"with skill {skill}."
+        )
+    if official:
+        lines += [f"**Skill ID:** {skill}", "", "## Description", ""]
+        lines.append(escape_block(description) if description else "The client locale has no English tooltip for this skill.")
+        lines += ["", "Name and tooltip: official English client text (`locale.xml`, `en_US`).", ""]
+        if candidate and candidate["name"].strip().casefold() != official.strip().casefold():
+            lines += [
+                f"**Historical community name:** {community}. {evidence} "
+                "This indirect equipment match differs from the official client "
+                "name, which takes precedence.", "",
+            ]
+    elif candidate:
+        lines += [
+            f"**Skill ID:** {skill}", "",
+            f"**Community name candidate:** {community}. {evidence} This indirect "
+            "match is not a verified localized client name and could refer to "
+            "another action of the item.", "",
+        ]
+    else:
+        lines += [
+            "This is a candidate player skill linked to equipment or a set bonus. "
+            "The client locale has no English name or tooltip for this skill ID, "
+            "and its complete effect is not established by this index.", "",
+        ]
+    return lines
+
+
+def skill_index_label(skill, official, candidate):
+    if official:
+        return f"[{escape(official)}](./{skill}.md)"
+    if candidate:
+        return f"[{escape(candidate['name'])}](./{skill}.md) (community candidate)"
+    return "Name unknown"
+
+
+def skill_index_intro(total, official, historical, candidates):
+    lines = [
+        "# Player Skill Database", "",
+        "[Game Guide](../README.md) | [Items](../items/README.md) | "
+        "[Faction guide](../Faction%20Guide.md) | [Methodology](./Methodology.md)", "",
+        "Browse skill IDs connected to equipment slots or equipment-set bonuses. "
+        "Names and descriptions are the official English client text from "
+        "`locale.xml`; skills without a localized name are listed by ID. These "
+        "are candidates, not a complete list of every player ability or proof "
+        "that an item works on your server.", "",
+        f"Official client names and tooltips: **{official} of {total} skills**. "
+        f"Unnamed: **{total - official - candidates}**.",
+    ]
+    if candidates:
+        lines[-1] += f" Community-name candidates without a client name: **{candidates}**."
+    if historical:
+        lines[-1] += (f" {historical} pages also keep a differing historical "
+                      "community name with its source.")
+    lines += [
+        "",
+        "Equipment and set references are static associations, not instructions "
+        "for obtaining or unlocking an ability. Item pages provide acquisition evidence.", "",
+        "| Skill ID | Name | Equipment examples | Set associations |",
+        "| --- | --- | --- | --- |",
+    ]
+    return lines
+
+
+def skill_name_counts(skills, locale, names):
+    official = historical = candidates = 0
+    for skill in skills:
+        name = official_skill(locale, skill)[0]
+        candidate = names.get(skill)
+        if name:
+            official += 1
+            if candidate and candidate["name"].strip().casefold() != name.strip().casefold():
+                historical += 1
+        elif candidate:
+            candidates += 1
+    return official, historical, candidates
 
 
 def name_of(row):
@@ -130,7 +299,8 @@ def validate_skill_names(evidence, skills):
     return results
 
 
-def build_skills(root, tables, evidence):
+def build_skills(root, tables, evidence, locale=None):
+    """Write wiki/skills/. locale is the result of load_skill_locale() (None = no client names)."""
     output = root / "wiki" / "skills"
     output.mkdir(parents=True, exist_ok=True)
     item_pages = {path.stem for path in (root / "wiki" / "items").glob("*.md")}
@@ -138,54 +308,21 @@ def build_skills(root, tables, evidence):
     check_stale_pages(output, skills)
     names = validate_skill_names(evidence, skills)
     definitions = {row["skillID"]: row for row in tables["SkillBehavior"]}
-    index = [
-        "# Player Skill Database", "",
-        "[Game Guide](../README.md) | [Items](../items/README.md) | "
-        "[Faction guide](../Faction%20Guide.md) | [Methodology](./Methodology.md)", "",
-        "Browse skill IDs connected to equipment slots or equipment-set bonuses. "
-        "Some entries have a **community name candidate** based on an equipment "
-        "cross-reference, not a verified localized client name. Others remain "
-        "unnamed. These are candidates, not a complete list of every player "
-        "ability or proof that an item works on your server.", "",
-        f"Community-name candidates: **{len(names)} of {len(skills)} skills**. "
-        "See each named page for the source and item match.", "",
-        "Equipment and set references are static associations, not instructions "
-        "for obtaining or unlocking an ability. Item pages provide acquisition evidence.", "",
-        "| Skill ID | Name | Equipment examples | Set associations |",
-        "| --- | --- | --- | --- |",
-    ]
+    index = skill_index_intro(len(skills), *skill_name_counts(skills, locale, names))
     for skill in sorted(skills, key=int):
         data = skills[skill]
         candidate = names.get(skill)
-        name = escape(candidate["name"]) if candidate else ""
+        official, description = official_skill(locale, skill)
         items = sorted(data["items"], key=int)
         examples = ", ".join(item_link(lot, objects, item_pages) for lot in items[:3])
         if len(items) > 3:
             examples += f" and {len(items) - 3} more"
-        label = f"[{name}](./{skill}.md) (candidate)" if candidate else "Name unknown"
+        label = skill_index_label(skill, official, candidate)
         index.append(f"| [{skill}](./{skill}.md) | {label} | {examples or 'None recorded'} | {len(data['sets'])} |")
         definition = definitions.get(skill)
-        lines = [
-            f"# {name}" if candidate else f"# Skill {skill}", "",
-            "[Player skills](./README.md) | [Methodology](./Methodology.md)", "",
-        ]
-        if candidate:
-            source = evidence["sources"][candidate["source"]]
-            item = item_link(candidate["item"], objects, item_pages)
-            lines += [
-                f"**Skill ID:** {skill}", "",
-                f"**Community name candidate:** {name}. "
-                f"[{escape(source['label'])}]({source['url']}) associates this "
-                f"name with {escape(candidate['community_item'])}; the local data "
-                f"associates {item} with skill {skill}. This indirect match is "
-                "not a verified localized client name and could refer to another "
-                "action of the item.", "",
-            ]
-        else:
-            lines += [
-                "This is a candidate player skill linked to equipment or a set bonus. "
-                "Its localized name and complete effect are not established by this index.", "",
-            ]
+        source = evidence["sources"][candidate["source"]] if candidate else None
+        item = item_link(candidate["item"], objects, item_pages) if candidate else None
+        lines = skill_header(skill, official, description, candidate, source, item)
         lines += ["## Recorded settings", ""]
         if definition:
             lines += [
@@ -283,13 +420,26 @@ def build_zones(root, tables):
     return len(ZONES)
 
 
+def load_evidence():
+    return json.loads(Path(__file__).with_name("skill_name_evidence.json").read_text(encoding="utf-8"))
+
+
 def main():
     database = ROOT / "db"
+    locale_path = Path(sys.argv[1]) if len(sys.argv) > 1 else DEFAULT_LOCALE
+    if not locale_path.is_file():
+        raise SystemExit(f"Client locale not found: {locale_path} (pass the locale.xml path as an argument)")
     names = ("Objects", "ItemComponent", "ComponentsRegistry", "ObjectSkills",
              "ItemSetSkills", "ItemSets", "SkillBehavior", "ZoneTable")
     tables = {name: load_table(database, name) for name in names}
-    evidence = json.loads(Path(__file__).with_name("skill_name_evidence.json").read_text(encoding="utf-8"))
-    print(f"Built {build_skills(ROOT, tables, evidence)} skill pages and {build_zones(ROOT, tables)} zone pages.")
+    locale = load_skill_locale(locale_path)
+    print(f"Built {build_skills(ROOT, tables, load_evidence(), locale)} skill pages and {build_zones(ROOT, tables)} zone pages.")
+    # build_zones writes plain pages; enrich_zones adds the official client text, release status,
+    # and loading tips on top (it reads locale.xml and the CDServer database).
+    import enrich_zones
+    strings = enrich_zones.load_locale(locale_path)
+    zones, tips, activities = enrich_zones.load_db(enrich_zones.DEFAULT_DB)
+    print(f"Enriched {enrich_zones.build(ROOT, strings, zones, tips, activities)} zone pages.")
 
 
 if __name__ == "__main__":

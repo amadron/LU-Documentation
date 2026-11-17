@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Nexus Tower (Mission) &#91;1381&#93;](../1381.md).
+Associated quest/achievement definitions: [Nexus Tower &#91;1381&#93;](../1381.md).
 
 ## Candidate placements / spawner waypoints
 

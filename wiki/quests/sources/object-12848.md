@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1665 &#91;1665&#93;](../1665.md).
+Associated quest/achievement definitions: [Scrubby Bubbles &#91;1665&#93;](../1665.md).
 
 Item acquisition: [Starskull Rocket Nose Cone (LOT 12848)](../../items/12848.md).
 

@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [A Real Hole in the Wall &#91;325&#93;](../325.md); [Brick Collection &#91;470&#93;](../470.md); [Quest 1869 &#91;1869&#93;](../1869.md); [Quest 1870 &#91;1870&#93;](../1870.md).
+Associated quest/achievement definitions: [A Real Hole in the Wall &#91;325&#93;](../325.md); [Brick Collection &#91;470&#93;](../470.md); [Brick Patrol &#91;1869&#93;](../1869.md); [Spackle Fixes Everything &#91;1870&#93;](../1870.md).
 
 ## Candidate placements / spawner waypoints
 

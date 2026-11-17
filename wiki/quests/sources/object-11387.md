@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 946 &#91;946&#93;](../946.md).
+Associated quest/achievement definitions: [Hidden Flies &#91;946&#93;](../946.md).
 
 ## Candidate placements / spawner waypoints
 

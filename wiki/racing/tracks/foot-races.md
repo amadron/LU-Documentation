@@ -12,29 +12,45 @@ The following seven object templates are registered to the local generic foot-ra
 
 | LOT / local template name | Activity / leaderboard | Client course script / map LDF evidence |
 | --- | --- | --- |
-| 8663 — FV Ninja Foot Race Starter | 46 (leaderboard type 3) | scripts/client/ai/FV/L_FV_NPC_FOOT_RACE_CLIENT.lua |
-| 9714 — Paradox Foot Race Man | 47 (leaderboard type 3) | scripts/client/ai/FV/L_FV_NPC_FOOT_RACE_CLIENT_2.lua |
+| 8663 — Natso Fast - Foot Race Host (template “FV Ninja Foot Race Starter”) | 46 (leaderboard type 3) | scripts/client/ai/FV/L_FV_NPC_FOOT_RACE_CLIENT.lua |
+| 9714 — Boris Toobsox - Foot Race Host (template “Paradox Foot Race Man”) | 47 (leaderboard type 3) | scripts/client/ai/FV/L_FV_NPC_FOOT_RACE_CLIENT_2.lua |
 | 9732 — FV - Panda Block | 48 (leaderboard type 3) | scripts/client/ai/FV/L_FV_NPC_FOOT_RACE_CLIENT_3.lua |
 | 9777 — FV Ninja Foot Race Starter DUPE | 48 (leaderboard type 3) | scripts/client/ai/FV/L_FV_NPC_FOOT_RACE_CLIENT_3.lua |
-| 9983 — Nimbus Racer | 49 (leaderboard type 3) | scripts/client/ai/NS/L_NS_NPC_FOOT_RACE_CLIENT_1.lua |
+| 9983 — Leland Hammertoe - Foot Race Host (template “Nimbus Racer”) | 49 (leaderboard type 3) | scripts/client/ai/NS/L_NS_NPC_FOOT_RACE_CLIENT_1.lua |
 | 12055 — Melty Puddles | 104 (leaderboard type 3) | scripts\client\ai\NS\WH\L_WH_NPC_FOOT_RACE_CLIENT.lua |
 | 12347 — Venture Explorer Foot Race Console | 108 (leaderboard type 3) | scripts\client\ai\AG\L_AG_SHIP_NPC_FOOT_RACE_CLIENT.lua |
-| 10046 — AG Foot Race Strongman | 53 (leaderboard type 3) | Map LDF: L_ACT_BASE_FOOT_RACE.lua; not a ComponentsRegistry script row |
+| 10046 — Oliver Sudden - Foot Race Host (template “AG Foot Race Strongman”) | 53 (leaderboard type 3) | Map LDF: L_ACT_BASE_FOOT_RACE.lua; not a ComponentsRegistry script row |
 | 12916 — Parrot Blue Mission Giver | 49 (map LDF activity registration; exact historical role uncertain) | Map LDF: L_ACT_BASE_FOOT_RACE.lua; object name is Mission Giver |
 
 ### Static placements
 
 | Object LOT / name | Zone asset | Scene / level | XYZ (map units) | Evidence |
 | --- | --- | --- | --- | --- |
-| 8663 — FV Ninja Foot Race Starter | 1400 (ZoneTable 1400) | Temple1Tree — nd_forbidden_valley_4_temple1tree.lvl | 193.87, 350.74, 152.12 | [nd_forbidden_valley_4_temple1tree.lvl](../../../../res/res/maps/01_Live_Maps/Forbidden_Valley/nd_forbidden_valley_4_temple1tree.lvl); LDF activityID 46; transferZoneID — |
-| 9714 — Paradox Foot Race Man | 1400 (ZoneTable 1400) | Paradox — nd_forbidden_valley_10_paradox.lvl | -604.5, -20.66, -274.53 | [nd_forbidden_valley_10_paradox.lvl](../../../../res/res/maps/01_Live_Maps/Forbidden_Valley/nd_forbidden_valley_10_paradox.lvl); LDF activityID 47; transferZoneID — |
-| 9732 — FV - Panda Block | 1400 (ZoneTable 1400) | Tree — nd_forbidden_valley_2_tree.lvl | -77.42, 387.65, -152.7 | [nd_forbidden_valley_2_tree.lvl](../../../../res/res/maps/01_Live_Maps/Forbidden_Valley/nd_forbidden_valley_2_tree.lvl); LDF activityID 48; transferZoneID —; groupID PandaRaceObject |
-| 9983 — Nimbus Racer | 1200 (ZoneTable 1200) | Race Place — nd_nimbus_station_15_race_place.lvl | 175.38, 294.93, 186.77 | [nd_nimbus_station_15_race_place.lvl](../../../../res/res/maps/01_Live_Maps/Nimbus_Station/nd_nimbus_station_15_race_place.lvl); LDF activityID 49; transferZoneID — |
-| 12055 — Melty Puddles | 1260 (asset-only world ID) | Global Scene — ns_property_large_winter.lvl | -432.96, 534.38, 353.63 | [ns_property_large_winter.lvl](../../../../res/res/maps/seasonal_live%20maps/december/winter_celebrity_property/ns_property_large_winter.lvl); LDF activityID 104; transferZoneID — |
-| 10046 — AG Foot Race Strongman | 1100 (ZoneTable 1100) | Launch — nd_avant_gardens_4_launch.lvl | 514.74, 406.09, 145.22 | [nd_avant_gardens_4_launch.lvl](../../../../res/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens_4_launch.lvl); LDF activityID 53; transferZoneID —; server script L_ACT_BASE_FOOT_RACE.lua |
-| 12916 — Parrot Blue Mission Giver | 1900 (ZoneTable 1900) | Subscene 15 — nd_nexus_tower_15_subscene_15.lvl | 39.09, 1148.7, -83.26 | [nd_nexus_tower_15_subscene_15.lvl](../../../../res/res/maps/nexustower/nd_nexus_tower_15_subscene_15.lvl); LDF activityID 49; transferZoneID —; server script L_ACT_BASE_FOOT_RACE.lua |
+| 8663 — Natso Fast - Foot Race Host (template “FV Ninja Foot Race Starter”) | 1400 (ZoneTable 1400) | Temple1Tree — nd_forbidden_valley_4_temple1tree.lvl | 193.87, 350.74, 152.12 | `client/res/maps/01_Live_Maps/Forbidden_Valley/nd_forbidden_valley_4_temple1tree.lvl`; LDF activityID 46; transferZoneID — |
+| 9714 — Boris Toobsox - Foot Race Host (template “Paradox Foot Race Man”) | 1400 (ZoneTable 1400) | Paradox — nd_forbidden_valley_10_paradox.lvl | -604.5, -20.66, -274.53 | `client/res/maps/01_Live_Maps/Forbidden_Valley/nd_forbidden_valley_10_paradox.lvl`; LDF activityID 47; transferZoneID — |
+| 9732 — FV - Panda Block | 1400 (ZoneTable 1400) | Tree — nd_forbidden_valley_2_tree.lvl | -77.42, 387.65, -152.7 | `client/res/maps/01_Live_Maps/Forbidden_Valley/nd_forbidden_valley_2_tree.lvl`; LDF activityID 48; transferZoneID —; groupID PandaRaceObject |
+| 9983 — Leland Hammertoe - Foot Race Host (template “Nimbus Racer”) | 1200 (ZoneTable 1200) | Race Place — nd_nimbus_station_15_race_place.lvl | 175.38, 294.93, 186.77 | `client/res/maps/01_Live_Maps/Nimbus_Station/nd_nimbus_station_15_race_place.lvl`; LDF activityID 49; transferZoneID — |
+| 12055 — Melty Puddles | 1260 (asset-only world ID) | Global Scene — ns_property_large_winter.lvl | -432.96, 534.38, 353.63 | `client/res/maps/seasonal_live maps/december/winter_celebrity_property/ns_property_large_winter.lvl`; LDF activityID 104; transferZoneID — |
+| 10046 — Oliver Sudden - Foot Race Host (template “AG Foot Race Strongman”) | 1100 (ZoneTable 1100) | Launch — nd_avant_gardens_4_launch.lvl | 514.74, 406.09, 145.22 | `client/res/maps/01_Live_Maps/Avant_Gardens/nd_avant_gardens_4_launch.lvl`; LDF activityID 53; transferZoneID —; server script L_ACT_BASE_FOOT_RACE.lua |
+| 12916 — Parrot Blue Mission Giver | 1900 (ZoneTable 1900) | Subscene 15 — nd_nexus_tower_15_subscene_15.lvl | 39.09, 1148.7, -83.26 | `client/res/maps/nexustower/nd_nexus_tower_15_subscene_15.lvl`; LDF activityID 49; transferZoneID —; server script L_ACT_BASE_FOOT_RACE.lua |
 
 The code confirms only that the registered templates share a generic manager; the local data does not label every course with a polished historical name. The **client course names** are hints, not proof of a playable route. The Nexus Tower Parrot placement and Activity 49 script configuration support a local foot-race association, but do not by themselves prove the historical course's complete activation path. Community sources identify other hosts such as Leland Hammertoe, Natso Fast, Oliver Sudden, Brickmaster Clang, and Boris Toobsox; no unverified LOT/coordinates are assigned to those names.
+
+### Client activity names (locale.xml)
+
+The client's English activity names for the foot-race activity IDs (`Activities_<id>_ActivityName`), next to the stored ActivityRewards description. The names in parentheses are the NPCs that host each race. Activities 44 and 1901 have a client name and award row but no starter in the registration table above.
+
+| Activity ID | Client activity name | Stored award description |
+| --- | --- | --- |
+| 44 | Foot Race – Nimbus Station (Leland Hammertoe) | Foot Race |
+| 46 | Foot Race – Forbidden Valley (Natso Fast) | FV Foot Race |
+| 47 | Foot Race – Forbidden Valley (Boris Toobsox) | FV Foot Race 2 |
+| 48 | Foot Race – Forbidden Valley (Panda) | FV Foot Race 3 |
+| 49 | Foot Race – Nimbus Station (Leland Hammertoe) | NS Foot Race |
+| 53 | Foot Race – Avant Gardens (Oliver Sudden) | AG Foot Race |
+| 104 | Foot Race – Frostburgh (Melty Puddles) | FB Foot Race |
+| 108 | Venture Explorer Foot Race | VE Instance Foot Race |
+| 1901 | Foot Race – Nexus Tower (Blue Parrot) | NT Foot Race |
 
 ## Start, finish, and progress
 

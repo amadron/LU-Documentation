@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1293 &#91;1293&#93;](../1293.md).
+Associated quest/achievement definitions: [Clear Avant Grove! &#91;1293&#93;](../1293.md).
 
 ## Candidate placements / spawner waypoints
 

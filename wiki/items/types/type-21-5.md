@@ -97,7 +97,7 @@ Pages: [1](type-21-1.md) | [2](type-21-2.md) | [3](type-21-3.md) | [4](type-21-4
 | 16519 | [Monastery Drum Model (LOT 16519)](../16519.md) | 1 | A model for your Property! | 34 matrices; 0 rewards; 0 community references |
 | 16523 | [Monastery Flag Banner Model (LOT 16523)](../16523.md) | 1 | A model for your Property! | 1 matrices; 0 rewards; 0 community references |
 | 16542 | [Monastery Inside Wall Corner Model (LOT 16542)](../16542.md) | 3 | A model for your Property! | 35 matrices; 0 rewards; 0 community references |
-| 16525 | [Monastery Large Gate  Model (LOT 16525)](../16525.md) | 2 | A model for your Property! | 34 matrices; 0 rewards; 0 community references |
+| 16525 | [Monastery Large Gate Model (LOT 16525)](../16525.md) | 2 | A model for your Property! | 34 matrices; 0 rewards; 0 community references |
 | 16520 | [Monastery Left Entrance Model (LOT 16520)](../16520.md) | 3 | A model for your Property! | 35 matrices; 0 rewards; 0 community references |
 | 16528 | [Monastery Mountain Shrine Model (LOT 16528)](../16528.md) | 2 | A model for your Property! | 34 matrices; 0 rewards; 0 community references |
 | 16543 | [Monastery Outside Wall Corner Model 1 (LOT 16543)](../16543.md) | 3 | A model for your Property! | 35 matrices; 0 rewards; 0 community references |

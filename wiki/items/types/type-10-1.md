@@ -39,7 +39,7 @@ Pages: [1](type-10-1.md)
 | 10491 | [Damage Behavior (LOT 10491)](../10491.md) | 1 | Drains the Life of a player every second while touching the model. | 0 matrices; 1 rewards; 0 community references |
 | 13626 | [Damage Behavior (LOT 13626)](../13626.md) | 1 | A behavior that makes a model damage a player on touch. | 0 matrices; 0 rewards; 0 community references |
 | 10048 | [Drop Power-Ups Behavior (LOT 10048)](../10048.md) | 1 | When attacked, drop power-ups | 0 matrices; 0 rewards; 0 community references |
-| 10452 | [Dynamite Behavior (LOT 10452)](../10452.md) | 1 | This Behavior will cause the model to smash when the chat word "detonate" is sent.  Use with the Remote Detonator Behavior. | 0 matrices; 0 rewards; 0 community references |
+| 10452 | [Dynamite Behavior (LOT 10452)](../10452.md) | 1 | This Behavior will cause the model to smash when the chat word "detonate" is sent. Use with the Remote Detonator Behavior. | 0 matrices; 0 rewards; 0 community references |
 | 13613 | [Dynamite Behavior (LOT 13613)](../13613.md) | 1 | A behavior that makes a model explode by various means.  This behavior can be used in conjunction with the Dynamite Plunger Behavior or the Brittle Behavior. | 0 matrices; 0 rewards; 0 community references |
 | 13611 | [Dynamite Pluger Behavior (LOT 13611)](../13611.md) | 1 | A behavior that makes a model communicate to a model with the Dynamite Behavior to explode. | 0 matrices; 0 rewards; 0 community references |
 | 10050 | [Elevator Behavior (LOT 10050)](../10050.md) | 1 | Floats up and down | 0 matrices; 0 rewards; 0 community references |
@@ -49,12 +49,12 @@ Pages: [1](type-10-1.md)
 | 13608 | [Food Behavior (LOT 13608)](../13608.md) | 1 | A behavior that makes a model give power-ups and smash when interacted with. | 0 matrices; 0 rewards; 0 community references |
 | 11032 | [Fragile Model Behavior (LOT 11032)](../11032.md) | 1 | Model will smash when any object touches it, or it encounters a loud noise from an explosive smash. Object rebuilds through various methods. | 0 matrices; 1 rewards; 0 community references |
 | 10061 | [Greeter Behavior (LOT 10061)](../10061.md) | 1 | A friendly greeter | 0 matrices; 0 rewards; 0 community references |
-| 10453 | [Greeter Behavior (LOT 10453)](../10453.md) | 1 | Turns your model into a friendly greeter for your property with many ways to interact with it.  Your model will even patrol for you if you ask it to. | 0 matrices; 0 rewards; 0 community references |
+| 10453 | [Greeter Behavior (LOT 10453)](../10453.md) | 1 | Turns your model into a friendly greeter for your property with many ways to interact with it. Your model will even patrol for you if you ask it to. | 0 matrices; 0 rewards; 0 community references |
 | 13419 | [Hotair Balloon Behavior (LOT 13419)](../13419.md) | 1 | A hot air balloon that moves up, floats, and moves down. | 0 matrices; 0 rewards; 0 community references |
-| 10489 | [Imagination Dispenser Behavior (LOT 10489)](../10489.md) | 1 | Dispenses imagination when interacted with.  Recharges every 10 seconds. | 0 matrices; 1 rewards; 0 community references |
+| 10489 | [Imagination Dispenser Behavior (LOT 10489)](../10489.md) | 1 | Dispenses imagination when interacted with. Recharges every 10 seconds. | 0 matrices; 1 rewards; 0 community references |
 | 13439 | [Imagination Fountain Behavior (LOT 13439)](../13439.md) | 1 | A behavior that releases imagination when the model is interacted with. | 0 matrices; 0 rewards; 0 community references |
 | 10064 | [Juke Box Behavior (LOT 10064)](../10064.md) | 1 | Plays music | 0 matrices; 0 rewards; 0 community references |
-| 10996 | [Manipulate Model Behavior (LOT 10996)](../10996.md) | 1 | Allows a player to slide and rotate a model around.  Interacting pushes the model forward and attacking causes it to spin. | 0 matrices; 1 rewards; 0 community references |
+| 10996 | [Manipulate Model Behavior (LOT 10996)](../10996.md) | 1 | Allows a player to slide and rotate a model around. Interacting pushes the model forward and attacking causes it to spin. | 0 matrices; 1 rewards; 0 community references |
 | 13495 | [Micro Spider Behavior (LOT 13495)](../13495.md) | 1 | A behavior that causes a model to leap down upon passing players. | 0 matrices; 0 rewards; 0 community references |
 | 11163 | [Mouse Behavior (LOT 11163)](../11163.md) | 1 | Basic critter behavior | 0 matrices; 0 rewards; 0 community references |
 | 10058 | [Move Around Behavior (LOT 10058)](../10058.md) | 1 | Moves model around | 0 matrices; 0 rewards; 0 community references |
@@ -83,8 +83,8 @@ Pages: [1](type-10-1.md)
 | 8173 | [TEST behavior object (LOT 8173)](../8173.md) | 1 | test | 0 matrices; 0 rewards; 0 community references |
 | 8185 | [Test Behavior object 4 (LOT 8185)](../8185.md) | 1 | No client description | 0 matrices; 0 rewards; 0 community references |
 | 8186 | [Test Behavior object 5 (LOT 8186)](../8186.md) | 1 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 10997 | [Touch Sensitive Platform Behavior (LOT 10997)](../10997.md) | 1 | Model moves up and down when touched.  The model also gives instructions when approached. | 0 matrices; 1 rewards; 0 community references |
-| 10422 | [Toy Robot Behavior (LOT 10422)](../10422.md) | 1 | Turn robot on and off.  Robot will move forward until it encounters an obstacle. | 0 matrices; 1 rewards; 0 community references |
+| 10997 | [Touch Sensitive Platform Behavior (LOT 10997)](../10997.md) | 1 | Model moves up and down when touched. The model also gives instructions when approached. | 0 matrices; 1 rewards; 0 community references |
+| 10422 | [Toy Robot Behavior (LOT 10422)](../10422.md) | 1 | Turn robot on and off. Robot will move forward until it encounters an obstacle. | 0 matrices; 1 rewards; 0 community references |
 | 13431 | [Trophy Behavior (LOT 13431)](../13431.md) | 1 | A behavior that makes a trophy congratulate and reward the player when the model is touched. | 0 matrices; 0 rewards; 0 community references |
 | 13473 | [Turtle Behavior (LOT 13473)](../13473.md) | 1 | A behavior that causes a model to wander back and forth and follow a player. | 0 matrices; 0 rewards; 0 community references |
 | 10492 | [Unleash Power-Ups Behavior (LOT 10492)](../10492.md) | 1 | Model drops Hearts, Imagination, and Armor when attacked. | 0 matrices; 1 rewards; 0 community references |

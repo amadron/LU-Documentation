@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1793 &#91;1793&#93;](../1793.md); [Target Practice &#91;1794&#93;](../1794.md); [Quest 1806 &#91;1806&#93;](../1806.md); [The Power of Fire &#91;1949&#93;](../1949.md); [Ninja of Fire &#91;1961&#93;](../1961.md); [Student of Fire &#91;1962&#93;](../1962.md); [Burning for Wu &#91;1963&#93;](../1963.md).
+Associated quest/achievement definitions: [A Sharp Idea &#91;1793&#93;](../1793.md); [Target Practice &#91;1794&#93;](../1794.md); [Down They Fall &#91;1806&#93;](../1806.md); [The Power of Fire &#91;1949&#93;](../1949.md); [Ninja of Fire &#91;1961&#93;](../1961.md); [Student of Fire &#91;1962&#93;](../1962.md); [Burning for Wu &#91;1963&#93;](../1963.md).
 
 ## Candidate placements / spawner waypoints
 

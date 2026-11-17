@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1799 &#91;1799&#93;](../1799.md); [Quest 2030 &#91;2030&#93;](../2030.md); [Quest 2031 &#91;2031&#93;](../2031.md); [Quest 2035 &#91;2035&#93;](../2035.md); [Quest 2036 &#91;2036&#93;](../2036.md); [Quest 2038 &#91;2038&#93;](../2038.md); [Quest 2039 &#91;2039&#93;](../2039.md); [Quest 2063 &#91;2063&#93;](../2063.md).
+Associated quest/achievement definitions: [Bozu's Hiding Spot &#91;1799&#93;](../1799.md); [Clear Out the Caves 1 &#91;2030&#93;](../2030.md); [Clear Out the Caves 2 &#91;2031&#93;](../2031.md); [Smash Some Scents 2 &#91;2035&#93;](../2035.md); [Smash Some Scents 1 &#91;2036&#93;](../2036.md); [Acquired Tastes &#91;2038&#93;](../2038.md); [Trapped! Again! &#91;2039&#93;](../2039.md); [Quest 2063 &#91;2063&#93;](../2063.md).
 
 ## Candidate placements / spawner waypoints
 

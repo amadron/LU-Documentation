@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [The Way of the Dragon &#91;513&#93;](../513.md); [Quest 689 &#91;689&#93;](../689.md); [Quest 735 &#91;735&#93;](../735.md); [Quest 899 &#91;899&#93;](../899.md); [Secrets are Safe &#91;1175&#93;](../1175.md).
+Associated quest/achievement definitions: [The Way of the Dragon &#91;513&#93;](../513.md); [Talk to Numb Chuck &#91;689&#93;](../689.md); [Return the Stolen Treasure &#91;735&#93;](../735.md); [Slayer of Dragons &#91;899&#93;](../899.md); [Secrets are Safe &#91;1175&#93;](../1175.md).
 
 ## Candidate placements / spawner waypoints
 

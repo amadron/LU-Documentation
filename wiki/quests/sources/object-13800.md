@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1827 &#91;1827&#93;](../1827.md); [Quest 1866 &#91;1866&#93;](../1866.md); [Quest 1867 &#91;1867&#93;](../1867.md); [Quest 1868 &#91;1868&#93;](../1868.md); [Quest 1871 &#91;1871&#93;](../1871.md); [Quest 1872 &#91;1872&#93;](../1872.md); [Quest 1876 &#91;1876&#93;](../1876.md).
+Associated quest/achievement definitions: [Cooking Lessons &#91;1827&#93;](../1827.md); [Oil and Vinegar, No Mayo &#91;1866&#93;](../1866.md); [Disgusting Delicacy &#91;1867&#93;](../1867.md); [Jeet Yet? &#91;1868&#93;](../1868.md); [Munchy Crunchy &#91;1871&#93;](../1871.md); [Icy and Spicy &#91;1872&#93;](../1872.md); [Rock Candy &#91;1876&#93;](../1876.md).
 
 ## Candidate placements / spawner waypoints
 

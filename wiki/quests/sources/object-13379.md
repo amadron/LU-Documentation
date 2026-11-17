@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1450 &#91;1450&#93;](../1450.md); [Quest 1465 &#91;1465&#93;](../1465.md).
+Associated quest/achievement definitions: [Witches' Brew &#91;1450&#93;](../1450.md); [Smoke and Mirrors &#91;1465&#93;](../1465.md).
 
 ## Candidate placements / spawner waypoints
 

@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Report In! &#91;314&#93;](../314.md); [Quest 315 &#91;315&#93;](../315.md); [Fortify The Front &#91;316&#93;](../316.md); [Impress the Sentinel Faction &#91;479&#93;](../479.md); [Sentinel Shine &#91;733&#93;](../733.md); [Quest 939 &#91;939&#93;](../939.md); [Your Action Bar &#91;940&#93;](../940.md); [Quest 957 &#91;957&#93;](../957.md); [Quest 1151 &#91;1151&#93;](../1151.md); [Quest 1153 &#91;1153&#93;](../1153.md); [Safe as Houses &#91;1173&#93;](../1173.md); [Seal of Approval &#91;1847&#93;](../1847.md); [Recon Report &#91;1853&#93;](../1853.md); [Quest 1865 &#91;1865&#93;](../1865.md); [Hall Pass &#91;1936&#93;](../1936.md).
+Associated quest/achievement definitions: [Report In! &#91;314&#93;](../314.md); [Respect My Authority &#91;315&#93;](../315.md); [Fortify The Front &#91;316&#93;](../316.md); [Impress the Sentinel Faction &#91;479&#93;](../479.md); [Sentinel Shine &#91;733&#93;](../733.md); [The Sentinel Shield &#91;939&#93;](../939.md); [Your Action Bar &#91;940&#93;](../940.md); [Pay to Play &#91;957&#93;](../957.md); [Slot Five &#91;1151&#93;](../1151.md); [Whatever It Takes &#91;1153&#93;](../1153.md); [Safe as Houses &#91;1173&#93;](../1173.md); [Seal of Approval &#91;1847&#93;](../1847.md); [Recon Report &#91;1853&#93;](../1853.md); [Test Your Metal &#91;1865&#93;](../1865.md); [Hall Pass &#91;1936&#93;](../1936.md).
 
 ## Candidate placements / spawner waypoints
 

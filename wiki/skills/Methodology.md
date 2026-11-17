@@ -3,9 +3,9 @@
 [Player skills](./README.md) | [Item database](../items/README.md)
 
 This is a **candidate** catalog, not all skill definitions or a list of
-verified playable abilities. The supplied snapshot has no localized skill
-names or descriptions. We use skill IDs and linked equipment and identify
-some historical community-name candidates as described below.
+verified playable abilities. Skill names and descriptions are the official
+English client text from `locale.xml` (`en_US`), as described below; skills
+without a localized name are listed by ID.
 
 ## Inclusion
 
@@ -32,15 +32,33 @@ uses the recorded imagination cost after a successful player cast. That does
 not prove how every item-set or other skill path uses the field. Cooldown is
 reported as a stored client value, not as measured game behavior.
 
-## Community name candidates
+## Names and descriptions
 
-The wiki articles below name certain historical abilities in connection with
-particular equipment. We match that equipment to a local item LOT and then to
-its cast-on-type `0` skill association. This is an **indirect candidate**, not
-a verified `locale.xml` name or proof that the named ability is the exact
-action represented by that skill ID. Some gear has multiple actions; historical
-wiki text can contain errors or describe a different version. Entries without
-adequate evidence retain an unknown name.
+Names come from the client locale key `SkillBehavior_<ID>_name` and the
+**Description** section from `SkillBehavior_<ID>_descriptionUI` (the in-game
+tooltip), both in the `en_US` locale of the client's `locale/locale.xml`.
+339 of the 356 listed skills have both; the other 17 (IDs 1160–1193, all
+set bonuses) have no localized text and keep the title "Skill &lt;ID&gt;".
+
+Tooltips contain layout tokens that the client replaces with labels. They
+are rendered as readable text: `%(DamageCombo)` becomes "Damage:" (the
+client's "Damage Combo" line), `%(ChargeUp)` becomes "Charge attack:" (the
+"Charge-Up" line), `%(Description)` is shown as plain text, and
+`%(AltCombo)` becomes "Damage vs. Skeletons:". The last label is an
+inference: the client's rollover label for that line is "Skeletons Combo",
+and the token appears only on Ninjago-era equipment and Spinjitzu skills.
+Tooltip wording, including spelling, is reproduced as stored. A tooltip
+describes the intended effect; the server's actual behavior can differ.
+
+## Historical community names
+
+Before client names were used, some pages carried a community name
+candidate taken from the wiki articles below, which name certain historical
+abilities in connection with particular equipment. We matched that equipment
+to a local item LOT and then to its cast-on-type `0` skill association. Where
+that indirect candidate differs from the official client name, the skill
+page keeps it as a **historical community name** with its source; the
+official name takes precedence. Matching candidates are not repeated.
 
 The short name candidates and item-to-ID crosswalk are recorded in
 `scripts/skill_name_evidence.json`; article prose and images are not copied.
@@ -58,6 +76,7 @@ client localization, ownership, prerequisites, and implemented behavior may
 differ. Follow linked item pages for acquisition evidence; the presence of a
 skill or item does not establish current availability.
 
-The pages were generated from local table exports using
-`scripts/build_player_references.py`; the raw exports are not included in the
-public website.
+The pages were generated from local table exports and the client locale
+using `scripts/build_player_references.py`; names and tooltips were added to
+the existing pages with `scripts/enrich_skills.py`. The raw exports are not
+included in the public website.

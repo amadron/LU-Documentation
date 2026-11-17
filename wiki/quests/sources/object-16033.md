@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Cringe Lo the Brave &#91;1824&#93;](../1824.md); [Woofs are Scary &#91;1825&#93;](../1825.md); [Quest 1826 &#91;1826&#93;](../1826.md).
+Associated quest/achievement definitions: [Cringe Lo the Brave &#91;1824&#93;](../1824.md); [Woofs are Scary &#91;1825&#93;](../1825.md); [Lo Down &#91;1826&#93;](../1826.md).
 
 ## Candidate placements / spawner waypoints
 

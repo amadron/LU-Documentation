@@ -1,6 +1,6 @@
 # Exploration key GF&#95;POI&#95;CROC
 
-[Achievement 417 &#91;417&#93;](../417.md) | [Methodology](../Methodology.md)
+[Tick-Tock &#91;417&#93;](../417.md) | [Methodology](../Methodology.md)
 
 These coordinates identify configured trigger-object positions, not exact collision-volume boundaries or a guaranteed route. The evidence joins LUZ scene ID, LVL trigger_id, the scene’s .lutriggers file, and updateMission exploretask argument 5. Disabled triggers and event conditions remain explicit.
 

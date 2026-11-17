@@ -126,7 +126,7 @@ Pages: [1](type-6-1.md) | [2](type-6-2.md) | [3](type-6-3.md)
 | 7395 | [Engineer Wrench 2 (LOT 7395)](../7395.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
 | 7396 | [Engineer Wrench 3 (LOT 7396)](../7396.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
 | 12964 | [Engineer Wrench 3 (LOT 12964)](../12964.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 8483 | [Exceptional  Ladle (LOT 8483)](../8483.md) | 3 | No client description | 13 matrices; 0 rewards; 1 community references |
+| 8483 | [Exceptional Ladle (LOT 8483)](../8483.md) | 3 | No client description | 13 matrices; 0 rewards; 1 community references |
 | 8480 | [Exceptional Axe (LOT 8480)](../8480.md) | 3 | No client description | 13 matrices; 0 rewards; 1 community references |
 | 8494 | [Exceptional Dagger (LOT 8494)](../8494.md) | 3 | No client description | 13 matrices; 0 rewards; 1 community references |
 | 2990 | [Exceptional Flintlock Pistol (LOT 2990)](../2990.md) | 3 | Requires Imagination to fire. | 1 matrices; 1 rewards; 1 community references |

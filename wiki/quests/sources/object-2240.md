@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 382 &#91;382&#93;](../382.md); [Siren Song &#91;383&#93;](../383.md); [What's the Commotion? &#91;384&#93;](../384.md).
+Associated quest/achievement definitions: [Lily-Livered &#91;382&#93;](../382.md); [Siren Song &#91;383&#93;](../383.md); [What's the Commotion? &#91;384&#93;](../384.md).
 
 ## Candidate placements / spawner waypoints
 

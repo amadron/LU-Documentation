@@ -111,7 +111,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 | [Yellow Ninja Fence Model (LOT 9547)](../9547.md) | 10.33618805%; mean 0.10714286 | Not associated with a vendor |
 | [Blue Ninja Fence Model (LOT 9548)](../9548.md) | 10.33618805%; mean 0.10714286 | Not associated with a vendor |
 | [Ninja Platform Model (LOT 9549)](../9549.md) | 0.49916713%; mean 0.005 | Not associated with a vendor |
-| [Temple Model 1 (LOT 9550)](../9550.md) | 3.9469037%; mean 0.04 | Not associated with a vendor |
+| [Temple Model 1 (LOT 9550)](../9550.md) | 3.9469037%; mean 0.04 | Not associated with a vendor |
 | [Temple Model 2 (LOT 9551)](../9551.md) | 3.9469037%; mean 0.04 | Not associated with a vendor |
 | [Zen Bamboo Large Model (LOT 9552)](../9552.md) | 10.33618805%; mean 0.10714286 | Not associated with a vendor |
 | [Zen Bamboo Medium Model (LOT 9553)](../9553.md) | 10.33618805%; mean 0.10714286 | Not associated with a vendor |

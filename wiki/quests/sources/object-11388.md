@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 947 &#91;947&#93;](../947.md).
+Associated quest/achievement definitions: [Key to the Stars &#91;947&#93;](../947.md).
 
 ## Candidate placements / spawner waypoints
 

@@ -42,7 +42,16 @@ There are 35 PetComponent definition rows; 31 component IDs are referenced by PE
 | [MissionTasks](../../db/MissionTasks.md) and [Missions](../../db/Missions.md) | Tasks whose enum is PET_TAMING and direct mission reward associations. |
 | [ZoneTable](../../db/ZoneTable.md), parsed LUZ/LVL assets | Exact asset-path joins, static pet placements and spawner waypoints. |
 
-Quest and achievement associations link to existing [individual quest pages](../quests/README.md); pet pages preserve the raw task target/group and definition metadata. No localized mission title is supplied by these CSV exports. A direct reward field is not the same thing as taming or unlocking a pet.
+Quest and achievement associations link to existing [individual quest pages](../quests/README.md); pet pages preserve the raw task target/group and definition metadata. A direct reward field is not the same thing as taming or unlocking a pet.
+
+## English client strings
+
+The pages were first generated without the client locale. They have since been enriched by `scripts/enrich_pets_racing.py` in the documentation repository, which reads the English (en_US) strings of the client's `locale.xml` together with `CDServer.sqlite`:
+
+- Species names and page titles come from `Objects_<lot>_name` without the trailing “Pet” (so LOT 5642 is the **Mantis**, as the client calls it, not “Praying Mantis”). Every LOT page shows the client name and description next to the Objects table values, or says that no client string exists.
+- Quest and achievement names come from `Missions_<id>_name`; the task tables add the client task text (`MissionTasks_<uid>_description`, falling back to the mission description).
+- Tasks whose target group lists several pets are marked as shared. Achievements 521 “Speed Tamer 1” and 522 “Speed Tamer” name 19 pet templates (one target plus 18 in the group), so they appear on every listed pet's page but are general speed-taming achievements, not pet-specific ones.
+- locale.xml describes exactly 26 objects as “Tamable Pet”, which matches the 26 confirmed templates, so no tamable pet is missing. LOT 5638 (a puzzle row only) and LOT 16479 (PET component and a puzzle that copies the Bunny's carrot puzzle) have no Objects row, no client name, no map placement and no mission of their own; their pages explain this.
 
 ## Map locations and conditions
 

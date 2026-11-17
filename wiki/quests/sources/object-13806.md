@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 963 &#91;963&#93;](../963.md).
+Associated quest/achievement definitions: [Old Made New &#91;963&#93;](../963.md).
 
 ## Candidate placements / spawner waypoints
 

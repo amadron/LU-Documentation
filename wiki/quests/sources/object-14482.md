@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1730 &#91;1730&#93;](../1730.md).
+Associated quest/achievement definitions: [TEST - Gather tasks (fixification) &#91;1730&#93;](../1730.md).
 
 ## Candidate placements / spawner waypoints
 

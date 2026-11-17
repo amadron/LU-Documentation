@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 490 &#91;490&#93;](../490.md); [The Ninja Masters &#91;496&#93;](../496.md); [Quest 689 &#91;689&#93;](../689.md); [Quest 734 &#91;734&#93;](../734.md); [Study the Maelstrom &#91;736&#93;](../736.md).
+Associated quest/achievement definitions: [Yes Sensei! &#91;490&#93;](../490.md); [The Ninja Masters &#91;496&#93;](../496.md); [Talk to Numb Chuck &#91;689&#93;](../689.md); [Something in the Maelstrom &#91;734&#93;](../734.md); [Study the Maelstrom &#91;736&#93;](../736.md).
 
 ## Candidate placements / spawner waypoints
 

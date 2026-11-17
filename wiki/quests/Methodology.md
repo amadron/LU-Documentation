@@ -13,11 +13,36 @@ All **1800 attached MissionTasks rows** are included, preserving
 target, targetGroup, targetValue, taskParam1, UID, and task type. Nothing is
 filtered out merely because it looks old, internal, hidden, or unfinished.
 
-[MissionText](../../db/MissionText.md) contains presentation/animation references,
-not the complete localized offer/description/turn-in prose. A locale.xml file
-was not supplied. Descriptions and checklists here are **original reconstructions
-from local objective data**, not recovered dialogue or fully hand-verified
-puzzle walkthroughs. Unsupported script-specific actions remain unknown.
+
+<!-- locale-enrichment:start -->
+## Client names and texts (locale.xml)
+
+Titles and story texts come from the client **locale.xml** (en&#95;US
+translations), applied by `scripts/enrich_quests.py`:
+
+- `Missions_<id>_name` supplies the page title for **1353** of
+  1427 definitions. The remaining **74** have no
+  client name and keep their previous title: a candidate historical community
+  title where one was associated (0), otherwise the
+  numeric placeholder (74). Community associations
+  that differ from the client name are kept as a "Historical community name" note.
+- `MissionText_<id>_description`, `_offer`, `_offer_repeatable`,
+  `_accept_chat_bubble`, `_in_progress`, `_completion_succeed_tip`, and
+  `_ready_to_complete` are shown as labelled client texts on
+  **1369** pages. NPC idle chat bubbles (`_chat_state_*`) are
+  not reproduced.
+- `MissionTasks_<uid>_description` supplies the client wording of
+  **1717** of 1800 attached objective rows; the
+  data-derived summary is kept alongside it because it names exact targets.
+- `MissionEmail_<row>_senderName/subjectText/bodyText` adds the mail text for
+  completion mails.
+
+Client highlight markup (`<font>`) is rendered as bold, and Markdown-sensitive
+characters are escaped. The [MissionText](../../db/MissionText.md) table itself
+only holds presentation/animation references. Walkthrough steps remain
+**original reconstructions from local objective data**, not hand-verified
+puzzle walkthroughs; unsupported script-specific actions remain unknown.
+<!-- locale-enrichment:end -->
 
 ## Mission lifecycle, order, and prerequisites
 
@@ -188,7 +213,8 @@ associations. **93 infoboxes** matched multiple local
 definitions and were not used to assign a title. Conflicting candidate names
 are shown as references rather than silently selecting one title.
 
-This is conservative corroboration, **not verification that the historical
+Community associations are now secondary to the client names above. This is
+conservative corroboration, **not verification that the historical
 quest title belongs to a particular localized ID**. Local numeric IDs,
 objectives, and rewards remain separately traceable. Community factual method,
 location, target, and reward references are kept separate from local evidence.
@@ -236,7 +262,7 @@ none.
 This is not an exhaustive audit of every quest-specific C++/Lua script,
 client cinematic, puzzle route, dialogue option, event setting, or live
 character state. It does not guarantee reachability, deployment availability,
-exact localized story text, or player eligibility. Static definitions and
+that client texts match a particular server build, or player eligibility. Static definitions and
 historical community facts are not combined into invented instructions.
 Where a script/event remains unknown, the page explicitly says so.
 

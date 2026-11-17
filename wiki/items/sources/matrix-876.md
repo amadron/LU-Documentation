@@ -107,7 +107,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 | [Monastery Left Entrance Model (LOT 16520)](../16520.md) | 1.42205015%; mean 0.014285714 | Not associated with a vendor |
 | [Monastery Right Entrance Model (LOT 16521)](../16521.md) | 1.42205015%; mean 0.014285714 | Not associated with a vendor |
 | [Monastery Single Flag Model (LOT 16524)](../16524.md) | 9.55986204%; mean 0.098684211 | Not associated with a vendor |
-| [Monastery Large Gate  Model (LOT 16525)](../16525.md) | 3.37202761%; mean 0.034090909 | Not associated with a vendor |
+| [Monastery Large Gate Model (LOT 16525)](../16525.md) | 3.37202761%; mean 0.034090909 | Not associated with a vendor |
 | [Monastery Wall with Gate Model (LOT 16526)](../16526.md) | 1.42205015%; mean 0.014285714 | Not associated with a vendor |
 | [Monastery Small Gate Model (LOT 16527)](../16527.md) | 9.55986204%; mean 0.098684211 | Not associated with a vendor |
 | [Monastery Mountain Shrine Model (LOT 16528)](../16528.md) | 3.37202761%; mean 0.034090909 | Not associated with a vendor |

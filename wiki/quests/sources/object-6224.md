@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Trigger Happy &#91;329&#93;](../329.md); [What's the Commotion? &#91;384&#93;](../384.md); [Quest 460 &#91;460&#93;](../460.md); [Quest 461 &#91;461&#93;](../461.md).
+Associated quest/achievement definitions: [Trigger Happy &#91;329&#93;](../329.md); [What's the Commotion? &#91;384&#93;](../384.md); [Fight the Admirals &#91;460&#93;](../460.md); [Block the Maelstrom &#91;461&#93;](../461.md).
 
 ## Candidate placements / spawner waypoints
 

@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 333 &#91;333&#93;](../333.md).
+Associated quest/achievement definitions: [Working for Peanuts &#91;333&#93;](../333.md).
 
 ## Candidate placements / spawner waypoints
 

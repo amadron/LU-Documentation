@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1196 &#91;1196&#93;](../1196.md).
+Associated quest/achievement definitions: [Nimbus Station Property Visitor &#91;1196&#93;](../1196.md).
 
 ## Candidate placements / spawner waypoints
 

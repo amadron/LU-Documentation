@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 509 &#91;509&#93;](../509.md); [Quest 696 &#91;696&#93;](../696.md); [Hatching a Plan &#91;914&#93;](../914.md).
+Associated quest/achievement definitions: [Bell Buster &#91;509&#93;](../509.md); [Sixteen Bricks &#91;696&#93;](../696.md); [Hatching a Plan &#91;914&#93;](../914.md).
 
 ## Candidate placements / spawner waypoints
 

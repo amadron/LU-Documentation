@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 763 &#91;763&#93;](../763.md); [Quest 764 &#91;764&#93;](../764.md).
+Associated quest/achievement definitions: [Vapor Where? &#91;763&#93;](../763.md); [Challenge of the Ronin &#91;764&#93;](../764.md).
 
 ## Candidate placements / spawner waypoints
 

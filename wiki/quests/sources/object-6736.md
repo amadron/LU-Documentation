@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 390 &#91;390&#93;](../390.md); [Quest 704 &#91;704&#93;](../704.md).
+Associated quest/achievement definitions: [Feed Ninja Zashi &#91;390&#93;](../390.md); [Free Ninja Zashi! &#91;704&#93;](../704.md).
 
 ## Candidate placements / spawner waypoints
 

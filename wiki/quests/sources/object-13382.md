@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1458 &#91;1458&#93;](../1458.md); [Quest 1465 &#91;1465&#93;](../1465.md).
+Associated quest/achievement definitions: [Hair Beyond Compare &#91;1458&#93;](../1458.md); [Smoke and Mirrors &#91;1465&#93;](../1465.md).
 
 ## Candidate placements / spawner waypoints
 

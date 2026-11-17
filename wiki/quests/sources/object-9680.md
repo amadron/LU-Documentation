@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Hazmat Cleanup &#91;516&#93;](../516.md); [Quest 734 &#91;734&#93;](../734.md); [Quest 769 &#91;769&#93;](../769.md); [Quest 1301 &#91;1301&#93;](../1301.md); [Quest 1302 &#91;1302&#93;](../1302.md); [Quest 1303 &#91;1303&#93;](../1303.md); [Pure Chaos &#91;1925&#93;](../1925.md); [Chaos Cleaner &#91;1926&#93;](../1926.md); [Purify DIY &#91;1927&#93;](../1927.md).
+Associated quest/achievement definitions: [Hazmat Cleanup &#91;516&#93;](../516.md); [Something in the Maelstrom &#91;734&#93;](../734.md); [The System is Down &#91;769&#93;](../769.md); [Dark Science &#91;1301&#93;](../1301.md); [Secret of the Skeletons &#91;1302&#93;](../1302.md); [Skeleton Secret &#91;1303&#93;](../1303.md); [Pure Chaos &#91;1925&#93;](../1925.md); [Chaos Cleaner &#91;1926&#93;](../1926.md); [Purify DIY &#91;1927&#93;](../1927.md).
 
 ## Candidate placements / spawner waypoints
 

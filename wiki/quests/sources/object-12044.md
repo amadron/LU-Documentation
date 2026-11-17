@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1160 &#91;1160&#93;](../1160.md); [Quest 1161 &#91;1161&#93;](../1161.md); [Quest 1162 &#91;1162&#93;](../1162.md); [Quest 1163 &#91;1163&#93;](../1163.md); [Nerves of Steel &#91;1165&#93;](../1165.md); [Dragonscourge &#91;1181&#93;](../1181.md).
+Associated quest/achievement definitions: [Faster! Faster! &#91;1160&#93;](../1160.md); [Quick as a Lash &#91;1161&#93;](../1161.md); [Dragonmaw Chasm Victory &#91;1162&#93;](../1162.md); [Dragonmaw Top 3 &#91;1163&#93;](../1163.md); [Nerves of Steel &#91;1165&#93;](../1165.md); [Dragonscourge &#91;1181&#93;](../1181.md).
 
 ## Candidate placements / spawner waypoints
 

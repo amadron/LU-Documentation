@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Get Help! &#91;311&#93;](../311.md); [Know Thy Enemy &#91;324&#93;](../324.md); [Secrets of the Maelstrom &#91;477&#93;](../477.md); [Hazmat Cleanup &#91;516&#93;](../516.md); [Study the Maelstrom &#91;736&#93;](../736.md); [Quest 1151 &#91;1151&#93;](../1151.md); [Escape the Venture Explorer &#91;1732&#93;](../1732.md); [The Perils of Paradox &#91;1848&#93;](../1848.md); [Following the Trail &#91;1849&#93;](../1849.md); [Lightning Strikes Twice &#91;1850&#93;](../1850.md); [Paradox Approval &#91;1851&#93;](../1851.md); [Quest 1883 &#91;1883&#93;](../1883.md).
+Associated quest/achievement definitions: [Get Help! &#91;311&#93;](../311.md); [Know Thy Enemy &#91;324&#93;](../324.md); [Secrets of the Maelstrom &#91;477&#93;](../477.md); [Hazmat Cleanup &#91;516&#93;](../516.md); [Study the Maelstrom &#91;736&#93;](../736.md); [Slot Five &#91;1151&#93;](../1151.md); [Escape the Venture Explorer &#91;1732&#93;](../1732.md); [The Perils of Paradox &#91;1848&#93;](../1848.md); [Following the Trail &#91;1849&#93;](../1849.md); [Lightning Strikes Twice &#91;1850&#93;](../1850.md); [Paradox Approval &#91;1851&#93;](../1851.md); [Sample for Science &#91;1883&#93;](../1883.md).
 
 ## Candidate placements / spawner waypoints
 

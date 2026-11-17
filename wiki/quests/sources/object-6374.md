@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Back-up Bulwark! &#91;377&#93;](../377.md); [Infested! &#91;633&#93;](../633.md); [Quest 1194 &#91;1194&#93;](../1194.md).
+Associated quest/achievement definitions: [Back-up Bulwark! &#91;377&#93;](../377.md); [Infested! &#91;633&#93;](../633.md); [Avant Gardens Property Visitor &#91;1194&#93;](../1194.md).
 
 ## Candidate placements / spawner waypoints
 

@@ -25,7 +25,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 | [Yellow Ninja Fence Model (LOT 9547)](../9547.md) | Undefined for generic loot: reversed count range | 100% |
 | [Blue Ninja Fence Model (LOT 9548)](../9548.md) | Undefined for generic loot: reversed count range | 100% |
 | [Ninja Platform Model (LOT 9549)](../9549.md) | Undefined for generic loot: reversed count range | 100% |
-| [Temple Model 1 (LOT 9550)](../9550.md) | Undefined for generic loot: reversed count range | 100% |
+| [Temple Model 1 (LOT 9550)](../9550.md) | Undefined for generic loot: reversed count range | 100% |
 | [Temple Model 2 (LOT 9551)](../9551.md) | Undefined for generic loot: reversed count range | 100% |
 | [Zen Bamboo Large Model (LOT 9552)](../9552.md) | Undefined for generic loot: reversed count range | 100% |
 | [Zen Bamboo Medium Model (LOT 9553)](../9553.md) | Undefined for generic loot: reversed count range | 100% |

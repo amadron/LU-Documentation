@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Scare the Skeletons! &#91;1785&#93;](../1785.md); [Zany Zane &#91;1816&#93;](../1816.md); [Quest 1817 &#91;1817&#93;](../1817.md); [Cole Fear &#91;1818&#93;](../1818.md); [The Power of Ice &#91;1947&#93;](../1947.md); [Ninja of Ice &#91;1956&#93;](../1956.md); [Cool Guy &#91;1958&#93;](../1958.md); [Quest 1959 &#91;1959&#93;](../1959.md); [Master is Waiting &#91;1960&#93;](../1960.md).
+Associated quest/achievement definitions: [Scare the Skeletons! &#91;1785&#93;](../1785.md); [Zany Zane &#91;1816&#93;](../1816.md); [Face of the Dragon &#91;1817&#93;](../1817.md); [Cole Fear &#91;1818&#93;](../1818.md); [The Power of Ice &#91;1947&#93;](../1947.md); [Ninja of Ice &#91;1956&#93;](../1956.md); [Cool Guy &#91;1958&#93;](../1958.md); [Student of Ice &#91;1959&#93;](../1959.md); [Master is Waiting &#91;1960&#93;](../1960.md).
 
 ## Candidate placements / spawner waypoints
 

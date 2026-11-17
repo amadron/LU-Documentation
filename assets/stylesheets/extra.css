@@ -1,0 +1,6 @@
+/* Client minimaps are light, glowing outlines; give them a dark backdrop in both themes. */
+img[src*="assets/minimaps/"] {
+  background: #1f2430;
+  border-radius: 8px;
+  padding: 8px;
+}

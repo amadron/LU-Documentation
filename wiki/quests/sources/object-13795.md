@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Cowardly Cringe Lo &#91;1819&#93;](../1819.md); [Cringe Lo in Love &#91;1820&#93;](../1820.md); [Dear Nya &#91;1821&#93;](../1821.md); [Cringe No &#91;1822&#93;](../1822.md); [Cringe Lo Quits &#91;1823&#93;](../1823.md); [Quest 1826 &#91;1826&#93;](../1826.md).
+Associated quest/achievement definitions: [Cowardly Cringe Lo &#91;1819&#93;](../1819.md); [Cringe Lo in Love &#91;1820&#93;](../1820.md); [Dear Nya &#91;1821&#93;](../1821.md); [Cringe No &#91;1822&#93;](../1822.md); [Cringe Lo Quits &#91;1823&#93;](../1823.md); [Lo Down &#91;1826&#93;](../1826.md).
 
 ## Candidate placements / spawner waypoints
 

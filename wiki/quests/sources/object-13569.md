@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1665 &#91;1665&#93;](../1665.md); [Quest 1718 &#91;1718&#93;](../1718.md).
+Associated quest/achievement definitions: [Scrubby Bubbles &#91;1665&#93;](../1665.md); [Fizzy Busy &#91;1718&#93;](../1718.md).
 
 ## Candidate placements / spawner waypoints
 

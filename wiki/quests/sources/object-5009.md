@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1880 &#91;1880&#93;](../1880.md).
+Associated quest/achievement definitions: [Six Shooter &#91;1880&#93;](../1880.md).
 
 ## Candidate placements / spawner waypoints
 

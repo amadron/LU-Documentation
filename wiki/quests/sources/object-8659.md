@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 742 &#91;742&#93;](../742.md).
+Associated quest/achievement definitions: [Pajama Parrrty &#91;742&#93;](../742.md).
 
 ## Candidate placements / spawner waypoints
 

@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 774 &#91;774&#93;](../774.md).
+Associated quest/achievement definitions: [Sofie Loves Thunder &#91;774&#93;](../774.md).
 
 ## Candidate placements / spawner waypoints
 

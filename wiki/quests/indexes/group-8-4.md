@@ -4,7 +4,7 @@
 
 Pages: [1](group-8-1.md) | [2](group-8-2.md) | [3](group-8-3.md) | [4](group-8-4.md)
 
-| ID | Definition / candidate title | Kind | Category | Reconstructed objective summary |
+| ID | Definition / title | Kind | Category | Reconstructed objective summary |
 | --- | --- | --- | --- | --- |
 | 2063 | [Quest 2063 &#91;2063&#93;](../2063.md) | Quest | Hidden / Hidden | Smash matching targets until the combined counter reaches 1: Spoiler with Framework and 2 Pins. |
 | 2064 | [Achievement 2064 &#91;2064&#93;](../2064.md) | Achievement | Hidden / Hidden | Collect 1 distinct collectible(s) matching Dragon Relic of Earth. Collection identity includes the collectible ID and zone; repeated collection of the same identity does not add credit. |

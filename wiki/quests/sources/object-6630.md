@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 474 &#91;474&#93;](../474.md); [Quest 478 &#91;478&#93;](../478.md); [A Thunderous Collection &#91;482&#93;](../482.md); [Heartthrob &#91;773&#93;](../773.md); [Quest 857 &#91;857&#93;](../857.md); [Quest 858 &#91;858&#93;](../858.md); [Quest 859 &#91;859&#93;](../859.md); [Quest 860 &#91;860&#93;](../860.md); [Quest 889 &#91;889&#93;](../889.md); [Crux Prime Treasure Hunter &#91;961&#93;](../961.md); [Quest 1324 &#91;1324&#93;](../1324.md); [Quest 1465 &#91;1465&#93;](../1465.md); [Quest 1837 &#91;1837&#93;](../1837.md).
+Associated quest/achievement definitions: [Choose a Faction &#91;474&#93;](../474.md); [Find Johnny Thunder &#91;478&#93;](../478.md); [A Thunderous Collection &#91;482&#93;](../482.md); [Heartthrob &#91;773&#93;](../773.md); [Avant Gardens Treasure Hunter &#91;857&#93;](../857.md); [Gnarled Forest Treasure Hunter &#91;858&#93;](../858.md); [Pet Cove Treasure Hunter &#91;859&#93;](../859.md); [Forbidden Valley Treasure Hunter &#91;860&#93;](../860.md); [Starbase 3001 Treasure Hunter &#91;889&#93;](../889.md); [Crux Prime Treasure Hunter &#91;961&#93;](../961.md); [Nexus Tower Treasure Hunter &#91;1324&#93;](../1324.md); [Smoke and Mirrors &#91;1465&#93;](../1465.md); [Ninjago Treasure Hunter &#91;1837&#93;](../1837.md).
 
 ## Candidate placements / spawner waypoints
 

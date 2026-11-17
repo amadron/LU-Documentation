@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Bust a Move &#91;175&#93;](../175.md).
+Associated quest/achievement definitions: [Bust a move &#91;175&#93;](../175.md).
 
 ## Candidate placements / spawner waypoints
 

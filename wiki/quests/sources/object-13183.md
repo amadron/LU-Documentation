@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1322 &#91;1322&#93;](../1322.md).
+Associated quest/achievement definitions: [Clear Nimbus Isle! &#91;1322&#93;](../1322.md).
 
 ## Candidate placements / spawner waypoints
 

@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1449 &#91;1449&#93;](../1449.md); [Quest 1450 &#91;1450&#93;](../1450.md); [Quest 1457 &#91;1457&#93;](../1457.md).
+Associated quest/achievement definitions: [Meyer's Cap Collection &#91;1449&#93;](../1449.md); [Witches' Brew &#91;1450&#93;](../1450.md); [High Score &#91;1457&#93;](../1457.md).
 
 ## Candidate placements / spawner waypoints
 

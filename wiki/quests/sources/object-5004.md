@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1879 &#91;1879&#93;](../1879.md).
+Associated quest/achievement definitions: [Spare Parts &#91;1879&#93;](../1879.md).
 
 ## Candidate placements / spawner waypoints
 

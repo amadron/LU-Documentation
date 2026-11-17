@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 1882 &#91;1882&#93;](../1882.md).
+Associated quest/achievement definitions: [Help Wanted! &#91;1882&#93;](../1882.md).
 
 ## Candidate placements / spawner waypoints
 

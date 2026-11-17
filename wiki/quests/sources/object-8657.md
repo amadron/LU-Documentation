@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 740 &#91;740&#93;](../740.md).
+Associated quest/achievement definitions: [Where Arrr We? &#91;740&#93;](../740.md).
 
 ## Candidate placements / spawner waypoints
 

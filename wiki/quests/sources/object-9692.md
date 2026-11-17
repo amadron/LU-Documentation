@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [Quest 775 &#91;775&#93;](../775.md).
+Associated quest/achievement definitions: [DeeDee Loves Thunder &#91;775&#93;](../775.md).
 
 ## Candidate placements / spawner waypoints
 

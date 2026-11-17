@@ -2,7 +2,7 @@
 
 [Quest database](../README.md) | [Methodology](../Methodology.md)
 
-Associated quest/achievement definitions: [The Silicone Express &#91;911&#93;](../911.md); [I love the smell of Imaginatium in the morning &#91;913&#93;](../913.md); [It's Them or Us &#91;915&#93;](../915.md).
+Associated quest/achievement definitions: [The Silicone Express &#91;911&#93;](../911.md); [I love the smell of Imaginatium in the morning &#91;913&#93;](../913.md); [It's them or us! &#91;915&#93;](../915.md).
 
 ## Candidate placements / spawner waypoints
 
