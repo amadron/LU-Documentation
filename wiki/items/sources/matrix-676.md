@@ -17,7 +17,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Blue Imaginite (LOT 3038)](../3038.md) | 100%; mean 5 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/3038.webp){ .lu-ti width="24" loading="lazy" } [Blue Imaginite (LOT 3038)](../3038.md) | 100%; mean 5 | Not associated with a vendor |
 
 ## Raw matrix entries
 

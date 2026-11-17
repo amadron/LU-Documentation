@@ -14,7 +14,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Crocodile Egg (LOT 16898)](../16898.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
+| ![](../../../assets/icons/objects/16898.webp){ .lu-ti width="24" loading="lazy" } [Crocodile Egg (LOT 16898)](../16898.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
 
 ## Raw matrix entries
 

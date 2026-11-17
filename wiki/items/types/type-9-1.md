@@ -6,4 +6,4 @@ Pages: [1](type-9-1.md)
 
 | LOT | Item | Rarity | Description | Source evidence |
 | --- | --- | --- | --- | --- |
-| 6877 | [Unnamed LOT 6877 (LOT 6877)](../6877.md) | 1 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 6877 | ![](../../../assets/icons/objects/6877.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 6877 (LOT 6877)](../6877.md) | 1 | No client description | 0 matrices; 0 rewards; 0 community references |

@@ -14,12 +14,12 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Barricade Model (LOT 8073)](../8073.md) | 100%; mean 2 | Not associated with a vendor |
-| [Tile 1x2 with Console (LOT 8789)](../8789.md) | 100%; mean 2 | Not associated with a vendor |
-| [Danger Cone Model (LOT 9575)](../9575.md) | 100%; mean 10 | Not associated with a vendor |
-| [Radar Truck Model (LOT 9604)](../9604.md) | 100%; mean 1 | Not associated with a vendor |
-| [Rover Model 1 (LOT 9646)](../9646.md) | 100%; mean 1 | Not associated with a vendor |
-| [Rover Model 2 (LOT 9647)](../9647.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/8073.webp){ .lu-ti width="24" loading="lazy" } [Barricade Model (LOT 8073)](../8073.md) | 100%; mean 2 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/8789.webp){ .lu-ti width="24" loading="lazy" } [Tile 1x2 with Console (LOT 8789)](../8789.md) | 100%; mean 2 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9575.webp){ .lu-ti width="24" loading="lazy" } [Danger Cone Model (LOT 9575)](../9575.md) | 100%; mean 10 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9604.webp){ .lu-ti width="24" loading="lazy" } [Radar Truck Model (LOT 9604)](../9604.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9646.webp){ .lu-ti width="24" loading="lazy" } [Rover Model 1 (LOT 9646)](../9646.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9647.webp){ .lu-ti width="24" loading="lazy" } [Rover Model 2 (LOT 9647)](../9647.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

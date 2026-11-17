@@ -14,8 +14,8 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Water Sprayer Module 1 (LOT 3290)](../3290.md) | 10%; mean 0.1 | 100% |
-| [Test Item with Precondition for Vendor (LOT 12219)](../12219.md) | 100%; mean 1 | 100% |
+| ![](../../../assets/icons/objects/3290.webp){ .lu-ti width="24" loading="lazy" } [Water Sprayer Module 1 (LOT 3290)](../3290.md) | 10%; mean 0.1 | 100% |
+| ![](../../../assets/icons/objects/12219.webp){ .lu-ti width="24" loading="lazy" } [Test Item with Precondition for Vendor (LOT 12219)](../12219.md) | 100%; mean 1 | 100% |
 
 ## Raw matrix entries
 

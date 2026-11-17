@@ -14,8 +14,8 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Sun Headdress (LOT 7789)](../7789.md) | 100%; mean 1 | Not associated with a vendor |
-| [Beehive Model (LOT 9576)](../9576.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/7789.webp){ .lu-ti width="24" loading="lazy" } [Sun Headdress (LOT 7789)](../7789.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9576.webp){ .lu-ti width="24" loading="lazy" } [Beehive Model (LOT 9576)](../9576.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

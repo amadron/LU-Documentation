@@ -14,10 +14,10 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Skeleton T-Wall Model (LOT 12499)](../12499.md) | 100%; mean 1 | Not associated with a vendor |
-| [Skeleton Skull Tower Model (LOT 12500)](../12500.md) | 100%; mean 1 | Not associated with a vendor |
-| [Skeleton Short Wall Model (LOT 12501)](../12501.md) | 100%; mean 1 | Not associated with a vendor |
-| [Skeleton Ribcage Bridge Model (LOT 12502)](../12502.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12499.webp){ .lu-ti width="24" loading="lazy" } [Skeleton T-Wall Model (LOT 12499)](../12499.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12500.webp){ .lu-ti width="24" loading="lazy" } [Skeleton Skull Tower Model (LOT 12500)](../12500.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12501.webp){ .lu-ti width="24" loading="lazy" } [Skeleton Short Wall Model (LOT 12501)](../12501.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12502.webp){ .lu-ti width="24" loading="lazy" } [Skeleton Ribcage Bridge Model (LOT 12502)](../12502.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

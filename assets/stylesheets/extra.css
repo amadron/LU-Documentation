@@ -4,3 +4,9 @@ img[src*="assets/minimaps/"] {
   border-radius: 8px;
   padding: 8px;
 }
+
+/* Small icons in front of table links (scripts/build_media.py). */
+img.lu-ti {
+  vertical-align: middle;
+  margin-right: 0.2em;
+}

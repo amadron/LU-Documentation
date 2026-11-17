@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Rank 1 Space Marauder Book (LOT 125)](../125.md) | 100%; mean 1 | Not associated with a vendor |
-| [Space Marauder Helm 1 (LOT 7448)](../7448.md) | 100%; mean 1 | Not associated with a vendor |
-| [Space Marauder Jacket 1 (LOT 7472)](../7472.md) | 100%; mean 1 | Not associated with a vendor |
-| [Space Marauder Pants 1 (LOT 7496)](../7496.md) | 100%; mean 1 | Not associated with a vendor |
-| [Space Marauder Blaster 1 (LOT 7520)](../7520.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/125.webp){ .lu-ti width="24" loading="lazy" } [Rank 1 Space Marauder Book (LOT 125)](../125.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/7448.webp){ .lu-ti width="24" loading="lazy" } [Space Marauder Helm 1 (LOT 7448)](../7448.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/7472.webp){ .lu-ti width="24" loading="lazy" } [Space Marauder Jacket 1 (LOT 7472)](../7472.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/7496.webp){ .lu-ti width="24" loading="lazy" } [Space Marauder Pants 1 (LOT 7496)](../7496.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/7520.webp){ .lu-ti width="24" loading="lazy" } [Space Marauder Blaster 1 (LOT 7520)](../7520.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

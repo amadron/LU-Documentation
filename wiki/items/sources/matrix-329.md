@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Vertigo Blur Front Bumper (LOT 9437)](../9437.md) | 100%; mean 1 | Not associated with a vendor |
-| [Vertigo Blur Engine Panel (LOT 9440)](../9440.md) | 100%; mean 1 | Not associated with a vendor |
-| [Vertigo Blur Side Panels (LOT 9443)](../9443.md) | 100%; mean 1 | Not associated with a vendor |
-| [Vertigo Blur Rear Panel (LOT 9446)](../9446.md) | 100%; mean 1 | Not associated with a vendor |
-| [Vertigo Blur Rear Bumper (LOT 9449)](../9449.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9437.webp){ .lu-ti width="24" loading="lazy" } [Vertigo Blur Front Bumper (LOT 9437)](../9437.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9440.webp){ .lu-ti width="24" loading="lazy" } [Vertigo Blur Engine Panel (LOT 9440)](../9440.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9443.webp){ .lu-ti width="24" loading="lazy" } [Vertigo Blur Side Panels (LOT 9443)](../9443.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9446.webp){ .lu-ti width="24" loading="lazy" } [Vertigo Blur Rear Panel (LOT 9446)](../9446.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9449.webp){ .lu-ti width="24" loading="lazy" } [Vertigo Blur Rear Bumper (LOT 9449)](../9449.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

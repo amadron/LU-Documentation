@@ -16,9 +16,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 | --- | --- | --- |
 | Life Powerup 1 point (LOT 177; not an item registration) | 10%; mean 0.1 | Not associated with a vendor |
 | Imagination Powerup 1 point (LOT 935; not an item registration) | 10%; mean 0.1 | Not associated with a vendor |
-| [Blue Imaginite (LOT 3038)](../3038.md) | 8.66666667%; mean 0.086666667 | Not associated with a vendor |
-| [Green Imaginite (LOT 3039)](../3039.md) | 75.66666667%; mean 0.75666667 | Not associated with a vendor |
-| [Red Imaginite (LOT 3040)](../3040.md) | 15.66666667%; mean 0.15666667 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/3038.webp){ .lu-ti width="24" loading="lazy" } [Blue Imaginite (LOT 3038)](../3038.md) | 8.66666667%; mean 0.086666667 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/3039.webp){ .lu-ti width="24" loading="lazy" } [Green Imaginite (LOT 3039)](../3039.md) | 75.66666667%; mean 0.75666667 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/3040.webp){ .lu-ti width="24" loading="lazy" } [Red Imaginite (LOT 3040)](../3040.md) | 15.66666667%; mean 0.15666667 | Not associated with a vendor |
 
 ## Raw matrix entries
 

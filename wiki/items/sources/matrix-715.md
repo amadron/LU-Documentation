@@ -17,7 +17,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
 | Imagination Powerup 3 points (LOT 11910; not an item registration) | 100%; mean 3 | Not associated with a vendor |
-| [Bottled Water (LOT 13587)](../13587.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/13587.webp){ .lu-ti width="24" loading="lazy" } [Bottled Water (LOT 13587)](../13587.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

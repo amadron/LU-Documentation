@@ -14,13 +14,13 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Radar Truck Model (LOT 9604)](../9604.md) | 25%; mean 0.25 | Not associated with a vendor |
-| [Mini Car Model (LOT 9605)](../9605.md) | 25%; mean 0.25 | Not associated with a vendor |
-| [Tractor Model (LOT 9606)](../9606.md) | 25%; mean 0.25 | Not associated with a vendor |
-| [Jet Ski Model (LOT 9607)](../9607.md) | 0% in the generic loot model | Not associated with a vendor |
-| [Life Guard Tower Model (LOT 9608)](../9608.md) | 0% in the generic loot model | Not associated with a vendor |
-| [Rover Model 1 (LOT 9646)](../9646.md) | 0% in the generic loot model | Not associated with a vendor |
-| [Rover Model 2 (LOT 9647)](../9647.md) | 25%; mean 0.25 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9604.webp){ .lu-ti width="24" loading="lazy" } [Radar Truck Model (LOT 9604)](../9604.md) | 25%; mean 0.25 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9605.webp){ .lu-ti width="24" loading="lazy" } [Mini Car Model (LOT 9605)](../9605.md) | 25%; mean 0.25 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9606.webp){ .lu-ti width="24" loading="lazy" } [Tractor Model (LOT 9606)](../9606.md) | 25%; mean 0.25 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9607.webp){ .lu-ti width="24" loading="lazy" } [Jet Ski Model (LOT 9607)](../9607.md) | 0% in the generic loot model | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9608.webp){ .lu-ti width="24" loading="lazy" } [Life Guard Tower Model (LOT 9608)](../9608.md) | 0% in the generic loot model | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9646.webp){ .lu-ti width="24" loading="lazy" } [Rover Model 1 (LOT 9646)](../9646.md) | 0% in the generic loot model | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9647.webp){ .lu-ti width="24" loading="lazy" } [Rover Model 2 (LOT 9647)](../9647.md) | 25%; mean 0.25 | Not associated with a vendor |
 
 ## Raw matrix entries
 

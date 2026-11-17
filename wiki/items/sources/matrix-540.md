@@ -14,7 +14,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Candy Cane (LOT 12237)](../12237.md) | 100%; mean 10 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12237.webp){ .lu-ti width="24" loading="lazy" } [Candy Cane (LOT 12237)](../12237.md) | 100%; mean 10 | Not associated with a vendor |
 
 ## Raw matrix entries
 

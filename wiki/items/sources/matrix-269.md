@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Inventor Goggles 1 (LOT 7454)](../7454.md) | 100%; mean 1 | Not associated with a vendor |
-| [Inventor Armor 1 (LOT 7478)](../7478.md) | 100%; mean 1 | Not associated with a vendor |
-| [Inventor Pants 1 (LOT 7502)](../7502.md) | 100%; mean 1 | Not associated with a vendor |
-| [Inventor Improved Launcher 1 (LOT 7526)](../7526.md) | 100%; mean 1 | Not associated with a vendor |
-| [Rank 1 Inventor Book (LOT 11925)](../11925.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/7454.webp){ .lu-ti width="24" loading="lazy" } [Inventor Goggles 1 (LOT 7454)](../7454.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/7478.webp){ .lu-ti width="24" loading="lazy" } [Inventor Armor 1 (LOT 7478)](../7478.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/7502.webp){ .lu-ti width="24" loading="lazy" } [Inventor Pants 1 (LOT 7502)](../7502.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/7526.webp){ .lu-ti width="24" loading="lazy" } [Inventor Improved Launcher 1 (LOT 7526)](../7526.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11925.webp){ .lu-ti width="24" loading="lazy" } [Rank 1 Inventor Book (LOT 11925)](../11925.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

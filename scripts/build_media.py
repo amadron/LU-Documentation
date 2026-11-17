@@ -67,6 +67,35 @@ def convert_icon(source, target, force, size=128):
     return True
 
 
+def grid_columns(images):
+    """Column count of a row-major tile grid. Square grids are the norm; for other counts pick
+    the factorisation whose neighbouring tile edges match best (smallest alpha seam)."""
+    count = len(images)
+    side = math.isqrt(count)
+    if side * side == count:
+        return side
+    alphas = [image.getchannel("A") for image in images]
+    width, height = images[0].size
+
+    def column(alpha, x):
+        return alpha.crop((x, 0, x + 1, height)).tobytes()
+
+    def row(alpha, y):
+        return alpha.crop((0, y, width, y + 1)).tobytes()
+
+    def seam(cols):
+        total = 0
+        for index in range(count):
+            if index % cols < cols - 1 and index + 1 < count:
+                total += sum(abs(a - b) for a, b in zip(column(alphas[index], width - 1), column(alphas[index + 1], 0)))
+            if index + cols < count:
+                total += sum(abs(a - b) for a, b in zip(row(alphas[index], height - 1), row(alphas[index + cols], 0)))
+        return total
+
+    candidates = [c for c in range(2, count) if count % c == 0]
+    return min(candidates, key=seam) if candidates else count
+
+
 def stitch_minimap(folder, target, force):
     if target.exists() and not force:
         return True
@@ -74,15 +103,15 @@ def stitch_minimap(folder, target, force):
     if not zoom.is_dir():
         zoom = folder / "zoom_0"
     tiles = sorted(p for p in zoom.iterdir() if p.suffix.lower() == ".dds")
-    side = math.isqrt(len(tiles))
-    if not tiles or side * side != len(tiles):
-        print(f"skip minimap {folder}: {len(tiles)} tiles is not a square grid")
+    if not tiles:
         return False
-    first = Image.open(tiles[0])
-    tile_w, tile_h = first.size
-    canvas = Image.new("RGBA", (tile_w * side, tile_h * side), (0, 0, 0, 0))
-    for index, tile in enumerate(tiles):  # tiles are stored row by row
-        canvas.alpha_composite(Image.open(tile).convert("RGBA"), ((index % side) * tile_w, (index // side) * tile_h))
+    images = [Image.open(tile).convert("RGBA") for tile in tiles]
+    cols = grid_columns(images)
+    rows = len(images) // cols
+    tile_w, tile_h = images[0].size
+    canvas = Image.new("RGBA", (tile_w * cols, tile_h * rows), (0, 0, 0, 0))
+    for index, image in enumerate(images):  # tiles are stored row by row
+        canvas.alpha_composite(image, ((index % cols) * tile_w, (index // cols) * tile_h))
     if max(canvas.size) > MINIMAP_MAX:
         canvas.thumbnail((MINIMAP_MAX, MINIMAP_MAX), Image.LANCZOS)
     save_webp(canvas, target, force=True)
@@ -211,6 +240,59 @@ def main():
 
     for kind, (done, total, changed) in stats.items():
         print(f"{kind}: {done} of {total} pages have an image; {changed} pages updated")
+
+    pages, icons = add_table_icons()
+    print(f"tables: {icons} icons in {pages} updated pages")
+
+
+TABLE_ICON = re.compile(r'!\[\]\([^)\s]*assets/icons/[^)\s]*\)\{ \.lu-ti[^}]*\} ')
+LINK = re.compile(r'(?<!!)\[[^\]\n]*\]\(([^)\s#]+\.md)(?:#[^)\s]*)?\)')
+TABLE_SKIP = {"classes"}  # class pages get their icons from scripts/build_classes.py
+
+
+def add_table_icons():
+    """Put a small icon before every table link that points to an item, pet, or skill page."""
+    wiki = ROOT / "wiki"
+    targets = {"items": "objects", "pets": "objects", "skills": "icons_skills"}
+    changed_pages = icon_count = 0
+    for page in wiki.rglob("*.md"):
+        if page.relative_to(wiki).parts[0] in TABLE_SKIP:
+            continue
+        text = page.read_text(encoding="utf-8")
+        lines = text.split("\n")
+        updated = False
+        for index, line in enumerate(lines):
+            if not line.lstrip().startswith("|"):
+                continue
+            clean = TABLE_ICON.sub("", line)
+            seen = set()  # one icon per target and row (ID and name columns often link the same page)
+
+            def add_icon(match):
+                nonlocal icon_count
+                target = (page.parent / match.group(1)).resolve()
+                try:
+                    folder, name = target.relative_to(wiki).parts
+                except ValueError:
+                    return match.group(0)
+                if folder not in targets or not name[:-3].isdigit():
+                    return match.group(0)
+                kind = "skills" if folder == "skills" else "objects"
+                icon = ASSETS / "icons" / kind / f"{name[:-3]}.webp"
+                if not icon.exists() or icon in seen:
+                    return match.group(0)
+                seen.add(icon)
+                rel = os.path.relpath(icon, page.parent).replace(os.sep, "/")
+                icon_count += 1
+                return f'![]({rel}){{ .lu-ti width="24" loading="lazy" }} ' + match.group(0)
+
+            new = LINK.sub(add_icon, clean)
+            if new != line:
+                lines[index] = new
+                updated = True
+        if updated:
+            page.write_text("\n".join(lines), encoding="utf-8", newline="")
+            changed_pages += 1
+    return changed_pages, icon_count
 
 
 if __name__ == "__main__":

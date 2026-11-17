@@ -14,10 +14,10 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [House Closed Door Model 3 (LOT 10334)](../10334.md) | 100%; mean 1 | Not associated with a vendor |
-| [House Open Door Model 3 (LOT 10335)](../10335.md) | 100%; mean 1 | Not associated with a vendor |
-| [House Wall Blank Model 2 (LOT 10354)](../10354.md) | 100%; mean 2 | Not associated with a vendor |
-| [House Wall Corner Model 1 (LOT 10356)](../10356.md) | 100%; mean 2 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/10334.webp){ .lu-ti width="24" loading="lazy" } [House Closed Door Model 3 (LOT 10334)](../10334.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/10335.webp){ .lu-ti width="24" loading="lazy" } [House Open Door Model 3 (LOT 10335)](../10335.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/10354.webp){ .lu-ti width="24" loading="lazy" } [House Wall Blank Model 2 (LOT 10354)](../10354.md) | 100%; mean 2 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/10356.webp){ .lu-ti width="24" loading="lazy" } [House Wall Corner Model 1 (LOT 10356)](../10356.md) | 100%; mean 2 | Not associated with a vendor |
 
 ## Raw matrix entries
 

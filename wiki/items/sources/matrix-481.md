@@ -12,8 +12,8 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Brig Model (LOT 6045)](../6045.md) | 100%; mean 1 | Not associated with a vendor |
-| [Old Skool Shirt (LOT 8600)](../8600.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/6045.webp){ .lu-ti width="24" loading="lazy" } [Brig Model (LOT 6045)](../6045.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/8600.webp){ .lu-ti width="24" loading="lazy" } [Old Skool Shirt (LOT 8600)](../8600.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

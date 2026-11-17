@@ -15,12 +15,12 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Swamp Tree Model (LOT 9597)](../9597.md) | 100%; mean 1 | Not associated with a vendor |
-| [Small Red Tree Model 1 (LOT 9910)](../9910.md) | 100%; mean 1 | Not associated with a vendor |
-| [Small Yellow Tree Model 1 (LOT 9911)](../9911.md) | 100%; mean 1 | Not associated with a vendor |
-| [Small Red Tree Model 2 (LOT 9912)](../9912.md) | 100%; mean 1 | Not associated with a vendor |
-| [Small Yellow Tree Model 2 (LOT 9913)](../9913.md) | 100%; mean 1 | Not associated with a vendor |
-| [Palm Tree Model 2 (LOT 10072)](../10072.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9597.webp){ .lu-ti width="24" loading="lazy" } [Swamp Tree Model (LOT 9597)](../9597.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9910.webp){ .lu-ti width="24" loading="lazy" } [Small Red Tree Model 1 (LOT 9910)](../9910.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9911.webp){ .lu-ti width="24" loading="lazy" } [Small Yellow Tree Model 1 (LOT 9911)](../9911.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9912.webp){ .lu-ti width="24" loading="lazy" } [Small Red Tree Model 2 (LOT 9912)](../9912.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9913.webp){ .lu-ti width="24" loading="lazy" } [Small Yellow Tree Model 2 (LOT 9913)](../9913.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/10072.webp){ .lu-ti width="24" loading="lazy" } [Palm Tree Model 2 (LOT 10072)](../10072.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

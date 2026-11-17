@@ -14,8 +14,8 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Pod 2 Model (LOT 9578)](../9578.md) | 100%; mean 1 | Not associated with a vendor |
-| [Pod 2 Captain Shirt (LOT 10169)](../10169.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9578.webp){ .lu-ti width="24" loading="lazy" } [Pod 2 Model (LOT 9578)](../9578.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/10169.webp){ .lu-ti width="24" loading="lazy" } [Pod 2 Captain Shirt (LOT 10169)](../10169.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

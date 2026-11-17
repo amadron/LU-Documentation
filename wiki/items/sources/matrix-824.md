@@ -16,34 +16,34 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Lantern Model (LOT 8049)](../8049.md) | Undefined for generic loot: reversed count range | 100% |
-| [Small Shrine Model (LOT 8050)](../8050.md) | Undefined for generic loot: reversed count range | 100% |
-| [Pagoda Model (LOT 9535)](../9535.md) | Undefined for generic loot: reversed count range | 100% |
-| [Small Arch Model (LOT 9538)](../9538.md) | Undefined for generic loot: reversed count range | 100% |
-| [Fish Statue Model (LOT 9545)](../9545.md) | Undefined for generic loot: reversed count range | 100% |
-| [Red Ninja Fence Model (LOT 9546)](../9546.md) | Undefined for generic loot: reversed count range | 100% |
-| [Yellow Ninja Fence Model (LOT 9547)](../9547.md) | Undefined for generic loot: reversed count range | 100% |
-| [Blue Ninja Fence Model (LOT 9548)](../9548.md) | Undefined for generic loot: reversed count range | 100% |
-| [Temple Model 1 (LOT 9550)](../9550.md) | Undefined for generic loot: reversed count range | 100% |
-| [Zen Bamboo Medium Model (LOT 9553)](../9553.md) | Undefined for generic loot: reversed count range | 100% |
-| [Zen Bamboo Small Model (LOT 9554)](../9554.md) | Undefined for generic loot: reversed count range | 100% |
-| [Big Door Model (LOT 9555)](../9555.md) | Undefined for generic loot: reversed count range | 100% |
-| [Pipestack Model (LOT 9567)](../9567.md) | Undefined for generic loot: reversed count range | 100% |
-| [Anvil Model (LOT 9590)](../9590.md) | Undefined for generic loot: reversed count range | 100% |
-| [Fortress Cart Model (LOT 10753)](../10753.md) | Undefined for generic loot: reversed count range | 100% |
-| [Fortress Elevator Model (LOT 10757)](../10757.md) | Undefined for generic loot: reversed count range | 100% |
-| [Fortress Gong Model (LOT 10758)](../10758.md) | Undefined for generic loot: reversed count range | 100% |
-| [Fortress Inside Corner Model (LOT 10759)](../10759.md) | Undefined for generic loot: reversed count range | 100% |
-| [Fortress Lantern Model (LOT 10760)](../10760.md) | Undefined for generic loot: reversed count range | 100% |
-| [Fortress Large Outside Corner Model (LOT 10761)](../10761.md) | Undefined for generic loot: reversed count range | 100% |
-| [Fortress Large Wall Model (LOT 10762)](../10762.md) | Undefined for generic loot: reversed count range | 100% |
-| [Fortress Pond Model (LOT 10764)](../10764.md) | Undefined for generic loot: reversed count range | 100% |
-| [Fortress Ramp Model (LOT 10765)](../10765.md) | Undefined for generic loot: reversed count range | 100% |
-| [Fortress Small Outside Corner Model (LOT 10766)](../10766.md) | Undefined for generic loot: reversed count range | 100% |
-| [Fortress Small Wall Model (LOT 10767)](../10767.md) | Undefined for generic loot: reversed count range | 100% |
-| [Fortress Wall Gate Model (LOT 10769)](../10769.md) | Undefined for generic loot: reversed count range | 100% |
-| [Fortress Wall Gate Sliding Door Model (LOT 10770)](../10770.md) | Undefined for generic loot: reversed count range | 100% |
-| [Fortress Watch Tower Model (LOT 10771)](../10771.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/8049.webp){ .lu-ti width="24" loading="lazy" } [Lantern Model (LOT 8049)](../8049.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/8050.webp){ .lu-ti width="24" loading="lazy" } [Small Shrine Model (LOT 8050)](../8050.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/9535.webp){ .lu-ti width="24" loading="lazy" } [Pagoda Model (LOT 9535)](../9535.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/9538.webp){ .lu-ti width="24" loading="lazy" } [Small Arch Model (LOT 9538)](../9538.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/9545.webp){ .lu-ti width="24" loading="lazy" } [Fish Statue Model (LOT 9545)](../9545.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/9546.webp){ .lu-ti width="24" loading="lazy" } [Red Ninja Fence Model (LOT 9546)](../9546.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/9547.webp){ .lu-ti width="24" loading="lazy" } [Yellow Ninja Fence Model (LOT 9547)](../9547.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/9548.webp){ .lu-ti width="24" loading="lazy" } [Blue Ninja Fence Model (LOT 9548)](../9548.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/9550.webp){ .lu-ti width="24" loading="lazy" } [Temple Model 1 (LOT 9550)](../9550.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/9553.webp){ .lu-ti width="24" loading="lazy" } [Zen Bamboo Medium Model (LOT 9553)](../9553.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/9554.webp){ .lu-ti width="24" loading="lazy" } [Zen Bamboo Small Model (LOT 9554)](../9554.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/9555.webp){ .lu-ti width="24" loading="lazy" } [Big Door Model (LOT 9555)](../9555.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/9567.webp){ .lu-ti width="24" loading="lazy" } [Pipestack Model (LOT 9567)](../9567.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/9590.webp){ .lu-ti width="24" loading="lazy" } [Anvil Model (LOT 9590)](../9590.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/10753.webp){ .lu-ti width="24" loading="lazy" } [Fortress Cart Model (LOT 10753)](../10753.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/10757.webp){ .lu-ti width="24" loading="lazy" } [Fortress Elevator Model (LOT 10757)](../10757.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/10758.webp){ .lu-ti width="24" loading="lazy" } [Fortress Gong Model (LOT 10758)](../10758.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/10759.webp){ .lu-ti width="24" loading="lazy" } [Fortress Inside Corner Model (LOT 10759)](../10759.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/10760.webp){ .lu-ti width="24" loading="lazy" } [Fortress Lantern Model (LOT 10760)](../10760.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/10761.webp){ .lu-ti width="24" loading="lazy" } [Fortress Large Outside Corner Model (LOT 10761)](../10761.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/10762.webp){ .lu-ti width="24" loading="lazy" } [Fortress Large Wall Model (LOT 10762)](../10762.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/10764.webp){ .lu-ti width="24" loading="lazy" } [Fortress Pond Model (LOT 10764)](../10764.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/10765.webp){ .lu-ti width="24" loading="lazy" } [Fortress Ramp Model (LOT 10765)](../10765.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/10766.webp){ .lu-ti width="24" loading="lazy" } [Fortress Small Outside Corner Model (LOT 10766)](../10766.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/10767.webp){ .lu-ti width="24" loading="lazy" } [Fortress Small Wall Model (LOT 10767)](../10767.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/10769.webp){ .lu-ti width="24" loading="lazy" } [Fortress Wall Gate Model (LOT 10769)](../10769.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/10770.webp){ .lu-ti width="24" loading="lazy" } [Fortress Wall Gate Sliding Door Model (LOT 10770)](../10770.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/10771.webp){ .lu-ti width="24" loading="lazy" } [Fortress Watch Tower Model (LOT 10771)](../10771.md) | Undefined for generic loot: reversed count range | 100% |
 
 ## Raw matrix entries
 

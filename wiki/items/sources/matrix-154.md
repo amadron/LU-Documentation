@@ -16,10 +16,10 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Classic Rocket Cockpit (LOT 4714)](../4714.md) | 25%; mean 0.25 | Not associated with a vendor |
-| [Classic Blue Rocket Cockpit (LOT 14445)](../14445.md) | 25%; mean 0.25 | Not associated with a vendor |
-| [Classic Pink Rocket Cockpit (LOT 14452)](../14452.md) | 25%; mean 0.25 | Not associated with a vendor |
-| [Classic Yellow Rocket Cockpit (LOT 14455)](../14455.md) | 25%; mean 0.25 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/4714.webp){ .lu-ti width="24" loading="lazy" } [Classic Rocket Cockpit (LOT 4714)](../4714.md) | 25%; mean 0.25 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/14445.webp){ .lu-ti width="24" loading="lazy" } [Classic Blue Rocket Cockpit (LOT 14445)](../14445.md) | 25%; mean 0.25 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/14452.webp){ .lu-ti width="24" loading="lazy" } [Classic Pink Rocket Cockpit (LOT 14452)](../14452.md) | 25%; mean 0.25 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/14455.webp){ .lu-ti width="24" loading="lazy" } [Classic Yellow Rocket Cockpit (LOT 14455)](../14455.md) | 25%; mean 0.25 | Not associated with a vendor |
 
 ## Raw matrix entries
 

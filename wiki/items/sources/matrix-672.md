@@ -14,12 +14,12 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Amber Gem (LOT 3100)](../3100.md) | 81.19373968%; mean 1.4291667 | Not associated with a vendor |
-| [Dark Red Gem (LOT 6862)](../6862.md) | 1.5%; mean 0.015 | Not associated with a vendor |
-| [Yellow Gem (LOT 6863)](../6863.md) | 1.5%; mean 0.015 | Not associated with a vendor |
-| [Green Gem (LOT 6864)](../6864.md) | 17%; mean 0.17 | Not associated with a vendor |
-| [Light Blue Gem (LOT 6865)](../6865.md) | 49.5075968%; mean 0.64166667 | Not associated with a vendor |
-| [Pink Gem (LOT 6866)](../6866.md) | 81.19373968%; mean 1.4291667 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/3100.webp){ .lu-ti width="24" loading="lazy" } [Amber Gem (LOT 3100)](../3100.md) | 81.19373968%; mean 1.4291667 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/6862.webp){ .lu-ti width="24" loading="lazy" } [Dark Red Gem (LOT 6862)](../6862.md) | 1.5%; mean 0.015 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/6863.webp){ .lu-ti width="24" loading="lazy" } [Yellow Gem (LOT 6863)](../6863.md) | 1.5%; mean 0.015 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/6864.webp){ .lu-ti width="24" loading="lazy" } [Green Gem (LOT 6864)](../6864.md) | 17%; mean 0.17 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/6865.webp){ .lu-ti width="24" loading="lazy" } [Light Blue Gem (LOT 6865)](../6865.md) | 49.5075968%; mean 0.64166667 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/6866.webp){ .lu-ti width="24" loading="lazy" } [Pink Gem (LOT 6866)](../6866.md) | 81.19373968%; mean 1.4291667 | Not associated with a vendor |
 
 ## Raw matrix entries
 

@@ -14,13 +14,13 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Micro City Block 3 Model (LOT 11734)](../11734.md) | 100%; mean 1 | Not associated with a vendor |
-| [Micro City Block 4 Model (LOT 11735)](../11735.md) | 100%; mean 1 | Not associated with a vendor |
-| [Micro City Block Corner 4 Model (LOT 11739)](../11739.md) | 100%; mean 1 | Not associated with a vendor |
-| [Micro City Gas Station 1 Model (LOT 11740)](../11740.md) | 100%; mean 1 | Not associated with a vendor |
-| [Micro City Trees Model (LOT 11752)](../11752.md) | 100%; mean 1 | Not associated with a vendor |
-| [Micro City Crawler Crane Model (LOT 11759)](../11759.md) | 100%; mean 1 | Not associated with a vendor |
-| [Micro City Van 3 Model (LOT 11776)](../11776.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11734.webp){ .lu-ti width="24" loading="lazy" } [Micro City Block 3 Model (LOT 11734)](../11734.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11735.webp){ .lu-ti width="24" loading="lazy" } [Micro City Block 4 Model (LOT 11735)](../11735.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11739.webp){ .lu-ti width="24" loading="lazy" } [Micro City Block Corner 4 Model (LOT 11739)](../11739.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11740.webp){ .lu-ti width="24" loading="lazy" } [Micro City Gas Station 1 Model (LOT 11740)](../11740.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11752.webp){ .lu-ti width="24" loading="lazy" } [Micro City Trees Model (LOT 11752)](../11752.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11759.webp){ .lu-ti width="24" loading="lazy" } [Micro City Crawler Crane Model (LOT 11759)](../11759.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11776.webp){ .lu-ti width="24" loading="lazy" } [Micro City Van 3 Model (LOT 11776)](../11776.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

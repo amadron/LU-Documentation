@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Mach Lava Front Bumper (LOT 12030)](../12030.md) | 100%; mean 1 | Not associated with a vendor |
-| [Mach Lava Engine Panel (LOT 12032)](../12032.md) | 100%; mean 1 | Not associated with a vendor |
-| [Mach Lava Rear Bumper (LOT 12034)](../12034.md) | 100%; mean 1 | Not associated with a vendor |
-| [Mach Lava Rear Panel (LOT 12036)](../12036.md) | 100%; mean 1 | Not associated with a vendor |
-| [Mach Lava Side Panels (LOT 12038)](../12038.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12030.webp){ .lu-ti width="24" loading="lazy" } [Mach Lava Front Bumper (LOT 12030)](../12030.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12032.webp){ .lu-ti width="24" loading="lazy" } [Mach Lava Engine Panel (LOT 12032)](../12032.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12034.webp){ .lu-ti width="24" loading="lazy" } [Mach Lava Rear Bumper (LOT 12034)](../12034.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12036.webp){ .lu-ti width="24" loading="lazy" } [Mach Lava Rear Panel (LOT 12036)](../12036.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12038.webp){ .lu-ti width="24" loading="lazy" } [Mach Lava Side Panels (LOT 12038)](../12038.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

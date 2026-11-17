@@ -14,7 +14,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Broken Pirate Rocket Cockpit (LOT 9641)](../9641.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9641.webp){ .lu-ti width="24" loading="lazy" } [Broken Pirate Rocket Cockpit (LOT 9641)](../9641.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

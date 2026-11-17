@@ -14,20 +14,20 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Notion Potion (LOT 2198)](../2198.md) | 0.39375%; mean 0.0039375 | Not associated with a vendor |
-| [Healing Cherry (LOT 2994)](../2994.md) | 0.39375%; mean 0.0039375 | Not associated with a vendor |
-| [Healing Apple (LOT 2995)](../2995.md) | 0.39375%; mean 0.0039375 | Not associated with a vendor |
-| [Armor Shine (LOT 2996)](../2996.md) | 0.39375%; mean 0.0039375 | Not associated with a vendor |
-| [Armor Gleam (LOT 2997)](../2997.md) | 0.39375%; mean 0.0039375 | Not associated with a vendor |
-| [Strong Notion Potion (LOT 2998)](../2998.md) | 0.39375%; mean 0.0039375 | Not associated with a vendor |
-| [Super Notion Potion (LOT 2999)](../2999.md) | 0.39375%; mean 0.0039375 | Not associated with a vendor |
-| [Nexus Force Healing Kit (LOT 6207)](../6207.md) | 0.39375%; mean 0.0039375 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/2198.webp){ .lu-ti width="24" loading="lazy" } [Notion Potion (LOT 2198)](../2198.md) | 0.39375%; mean 0.0039375 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/2994.webp){ .lu-ti width="24" loading="lazy" } [Healing Cherry (LOT 2994)](../2994.md) | 0.39375%; mean 0.0039375 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/2995.webp){ .lu-ti width="24" loading="lazy" } [Healing Apple (LOT 2995)](../2995.md) | 0.39375%; mean 0.0039375 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/2996.webp){ .lu-ti width="24" loading="lazy" } [Armor Shine (LOT 2996)](../2996.md) | 0.39375%; mean 0.0039375 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/2997.webp){ .lu-ti width="24" loading="lazy" } [Armor Gleam (LOT 2997)](../2997.md) | 0.39375%; mean 0.0039375 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/2998.webp){ .lu-ti width="24" loading="lazy" } [Strong Notion Potion (LOT 2998)](../2998.md) | 0.39375%; mean 0.0039375 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/2999.webp){ .lu-ti width="24" loading="lazy" } [Super Notion Potion (LOT 2999)](../2999.md) | 0.39375%; mean 0.0039375 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/6207.webp){ .lu-ti width="24" loading="lazy" } [Nexus Force Healing Kit (LOT 6207)](../6207.md) | 0.39375%; mean 0.0039375 | Not associated with a vendor |
 | Imagination Powerup 3 points (LOT 11910; not an item registration) | 100%; mean 2.5 | Not associated with a vendor |
 | Armor Powerup 3 points (LOT 11913; not an item registration) | 100%; mean 1.5 | Not associated with a vendor |
 | Life Powerup 3 points (LOT 11916; not an item registration) | 75%; mean 0.75 | Not associated with a vendor |
-| [Faction Token Proxy (LOT 13763)](../13763.md) | 2%; mean 0.02 | Not associated with a vendor |
-| [Med Pack (LOT 14679)](../14679.md) | 0.175%; mean 0.00175 | Not associated with a vendor |
-| [Armor Repair Kit (LOT 14680)](../14680.md) | 0.175%; mean 0.00175 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/13763.webp){ .lu-ti width="24" loading="lazy" } [Faction Token Proxy (LOT 13763)](../13763.md) | 2%; mean 0.02 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/14679.webp){ .lu-ti width="24" loading="lazy" } [Med Pack (LOT 14679)](../14679.md) | 0.175%; mean 0.00175 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/14680.webp){ .lu-ti width="24" loading="lazy" } [Armor Repair Kit (LOT 14680)](../14680.md) | 0.175%; mean 0.00175 | Not associated with a vendor |
 
 ## Raw matrix entries
 

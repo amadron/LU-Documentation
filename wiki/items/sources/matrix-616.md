@@ -14,8 +14,8 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Skeleton Gate Model (LOT 12507)](../12507.md) | 100%; mean 1 | Not associated with a vendor |
-| [Skeleton Elevator Model (LOT 12508)](../12508.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12507.webp){ .lu-ti width="24" loading="lazy" } [Skeleton Gate Model (LOT 12507)](../12507.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12508.webp){ .lu-ti width="24" loading="lazy" } [Skeleton Elevator Model (LOT 12508)](../12508.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

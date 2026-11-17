@@ -14,9 +14,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Morbid Orbit Rocket Nose Cone (LOT 12838)](../12838.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
-| [Starskull Rocket Nose Cone (LOT 12848)](../12848.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
-| [Terror Comet Rocket Nose Cone (LOT 12851)](../12851.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12838.webp){ .lu-ti width="24" loading="lazy" } [Morbid Orbit Rocket Nose Cone (LOT 12838)](../12838.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12848.webp){ .lu-ti width="24" loading="lazy" } [Starskull Rocket Nose Cone (LOT 12848)](../12848.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12851.webp){ .lu-ti width="24" loading="lazy" } [Terror Comet Rocket Nose Cone (LOT 12851)](../12851.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
 
 ## Raw matrix entries
 

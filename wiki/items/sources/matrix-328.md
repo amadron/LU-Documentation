@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Paragon Warp Front Bumper 3 (LOT 9408)](../9408.md) | 100%; mean 1 | Not associated with a vendor |
-| [Paragon Warp Engine Panel 3 (LOT 9415)](../9415.md) | 100%; mean 1 | Not associated with a vendor |
-| [Paragon Warp Side Panels 3 (LOT 9421)](../9421.md) | 100%; mean 1 | Not associated with a vendor |
-| [Paragon Warp Rear Panel 3 (LOT 9429)](../9429.md) | 100%; mean 1 | Not associated with a vendor |
-| [Paragon Warp Rear Bumper 3 (LOT 9434)](../9434.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9408.webp){ .lu-ti width="24" loading="lazy" } [Paragon Warp Front Bumper 3 (LOT 9408)](../9408.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9415.webp){ .lu-ti width="24" loading="lazy" } [Paragon Warp Engine Panel 3 (LOT 9415)](../9415.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9421.webp){ .lu-ti width="24" loading="lazy" } [Paragon Warp Side Panels 3 (LOT 9421)](../9421.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9429.webp){ .lu-ti width="24" loading="lazy" } [Paragon Warp Rear Panel 3 (LOT 9429)](../9429.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9434.webp){ .lu-ti width="24" loading="lazy" } [Paragon Warp Rear Bumper 3 (LOT 9434)](../9434.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

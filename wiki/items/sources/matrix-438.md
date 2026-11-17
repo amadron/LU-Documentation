@@ -16,7 +16,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
 | Imagination Powerup 3 points (LOT 11910; not an item registration) | 100%; mean 1 | Not associated with a vendor |
-| [Faction Token Proxy (LOT 13763)](../13763.md) | 3%; mean 0.03 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/13763.webp){ .lu-ti width="24" loading="lazy" } [Faction Token Proxy (LOT 13763)](../13763.md) | 3%; mean 0.03 | Not associated with a vendor |
 
 ## Raw matrix entries
 

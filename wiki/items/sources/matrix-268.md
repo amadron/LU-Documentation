@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Shinobi Hood 1 (LOT 7451)](../7451.md) | 100%; mean 1 | Not associated with a vendor |
-| [Shinobi Gi 1 (LOT 7475)](../7475.md) | 100%; mean 1 | Not associated with a vendor |
-| [Shinobi Leggings 1 (LOT 7499)](../7499.md) | 100%; mean 1 | Not associated with a vendor |
-| [Shinobi Katana 1 (LOT 7523)](../7523.md) | 100%; mean 1 | Not associated with a vendor |
-| [Rank 1 Shinobi Book (LOT 11922)](../11922.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/7451.webp){ .lu-ti width="24" loading="lazy" } [Shinobi Hood 1 (LOT 7451)](../7451.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/7475.webp){ .lu-ti width="24" loading="lazy" } [Shinobi Gi 1 (LOT 7475)](../7475.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/7499.webp){ .lu-ti width="24" loading="lazy" } [Shinobi Leggings 1 (LOT 7499)](../7499.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/7523.webp){ .lu-ti width="24" loading="lazy" } [Shinobi Katana 1 (LOT 7523)](../7523.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11922.webp){ .lu-ti width="24" loading="lazy" } [Rank 1 Shinobi Book (LOT 11922)](../11922.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

@@ -14,10 +14,10 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Brick 2x4 (LOT 29)](../29.md) | 100%; mean 1 | Not associated with a vendor |
-| [Brick 2x2 (LOT 31)](../31.md) | 100%; mean 2 | Not associated with a vendor |
-| [Brick 1x2 (LOT 32)](../32.md) | 100%; mean 1 | Not associated with a vendor |
-| [Plate 2x3 (LOT 40)](../40.md) | 100%; mean 2 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/29.webp){ .lu-ti width="24" loading="lazy" } [Brick 2x4 (LOT 29)](../29.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/31.webp){ .lu-ti width="24" loading="lazy" } [Brick 2x2 (LOT 31)](../31.md) | 100%; mean 2 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/32.webp){ .lu-ti width="24" loading="lazy" } [Brick 1x2 (LOT 32)](../32.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/40.webp){ .lu-ti width="24" loading="lazy" } [Plate 2x3 (LOT 40)](../40.md) | 100%; mean 2 | Not associated with a vendor |
 
 ## Raw matrix entries
 

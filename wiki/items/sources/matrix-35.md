@@ -18,7 +18,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 | --- | --- | --- |
 | Life Powerup 1 point (LOT 177; not an item registration) | 75%; mean 0.75 | Not associated with a vendor |
 | Imagination Powerup 1 point (LOT 935; not an item registration) | 100%; mean 1 | Not associated with a vendor |
-| [Banana (LOT 2160)](../2160.md) | 100%; mean 2 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/2160.webp){ .lu-ti width="24" loading="lazy" } [Banana (LOT 2160)](../2160.md) | 100%; mean 2 | Not associated with a vendor |
 | Armor Powerup 1 point (LOT 6431; not an item registration) | 50%; mean 0.5 | Not associated with a vendor |
 
 ## Raw matrix entries

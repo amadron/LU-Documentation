@@ -14,9 +14,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Armor Polish (LOT 2993)](../2993.md) | 55.55555556%; mean 0.66666667 | Not associated with a vendor |
-| [Armor Shine (LOT 2996)](../2996.md) | 55.55555556%; mean 0.66666667 | Not associated with a vendor |
-| [Buff Out Armor Brush (LOT 12767)](../12767.md) | 55.55555556%; mean 0.66666667 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/2993.webp){ .lu-ti width="24" loading="lazy" } [Armor Polish (LOT 2993)](../2993.md) | 55.55555556%; mean 0.66666667 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/2996.webp){ .lu-ti width="24" loading="lazy" } [Armor Shine (LOT 2996)](../2996.md) | 55.55555556%; mean 0.66666667 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12767.webp){ .lu-ti width="24" loading="lazy" } [Buff Out Armor Brush (LOT 12767)](../12767.md) | 55.55555556%; mean 0.66666667 | Not associated with a vendor |
 
 ## Raw matrix entries
 

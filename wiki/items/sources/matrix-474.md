@@ -14,8 +14,8 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Ninja Vendor Hut Model (LOT 9557)](../9557.md) | 100%; mean 1 | Not associated with a vendor |
-| [Splendid Pants (LOT 10164)](../10164.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9557.webp){ .lu-ti width="24" loading="lazy" } [Ninja Vendor Hut Model (LOT 9557)](../9557.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/10164.webp){ .lu-ti width="24" loading="lazy" } [Splendid Pants (LOT 10164)](../10164.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

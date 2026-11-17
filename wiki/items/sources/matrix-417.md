@@ -14,9 +14,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [House Wall Blank Model 3 (LOT 10355)](../10355.md) | 100%; mean 2 | Not associated with a vendor |
-| [House Wall Corner Model 1 (LOT 10356)](../10356.md) | 100%; mean 2 | Not associated with a vendor |
-| [House Window Model 6 (LOT 10365)](../10365.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/10355.webp){ .lu-ti width="24" loading="lazy" } [House Wall Blank Model 3 (LOT 10355)](../10355.md) | 100%; mean 2 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/10356.webp){ .lu-ti width="24" loading="lazy" } [House Wall Corner Model 1 (LOT 10356)](../10356.md) | 100%; mean 2 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/10365.webp){ .lu-ti width="24" loading="lazy" } [House Window Model 6 (LOT 10365)](../10365.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

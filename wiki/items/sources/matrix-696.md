@@ -16,25 +16,25 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Nexus Force Cape (LOT 9856)](../9856.md) | Undefined for generic loot: reversed count range | 100% |
-| [Baseball Jersey 1 (LOT 12682)](../12682.md) | Undefined for generic loot: reversed count range | 100% |
-| [Cool Car Muscle Shirt (LOT 12688)](../12688.md) | Undefined for generic loot: reversed count range | 100% |
-| [Flaming Tire Shirt (LOT 12691)](../12691.md) | Undefined for generic loot: reversed count range | 100% |
-| [Pit Stop Racing Shirt (LOT 12695)](../12695.md) | Undefined for generic loot: reversed count range | 100% |
-| [Wedding Dress (LOT 12702)](../12702.md) | Undefined for generic loot: reversed count range | 100% |
-| [Cool Car Euro Shirt (LOT 12705)](../12705.md) | Undefined for generic loot: reversed count range | 100% |
-| [Cool Car Import Shirt (LOT 12706)](../12706.md) | Undefined for generic loot: reversed count range | 100% |
-| [Tire Tracks shirt (LOT 12709)](../12709.md) | Undefined for generic loot: reversed count range | 100% |
-| [Biking Jersey (LOT 12712)](../12712.md) | Undefined for generic loot: reversed count range | 100% |
-| [Body Armor (LOT 12747)](../12747.md) | Undefined for generic loot: reversed count range | 100% |
-| [Comfy Jeans (LOT 12788)](../12788.md) | Undefined for generic loot: reversed count range | 100% |
-| [Pinstripe Pant Legs (LOT 12796)](../12796.md) | Undefined for generic loot: reversed count range | 100% |
-| [Racing Legs (LOT 12797)](../12797.md) | Undefined for generic loot: reversed count range | 100% |
-| [Red Cape (LOT 14805)](../14805.md) | Undefined for generic loot: reversed count range | 100% |
-| [Blue Cape (LOT 14806)](../14806.md) | Undefined for generic loot: reversed count range | 100% |
-| [Pink Cape (LOT 14809)](../14809.md) | Undefined for generic loot: reversed count range | 100% |
-| [Green Cape (LOT 14810)](../14810.md) | Undefined for generic loot: reversed count range | 100% |
-| [Purple Cape (LOT 14814)](../14814.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/9856.webp){ .lu-ti width="24" loading="lazy" } [Nexus Force Cape (LOT 9856)](../9856.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/12682.webp){ .lu-ti width="24" loading="lazy" } [Baseball Jersey 1 (LOT 12682)](../12682.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/12688.webp){ .lu-ti width="24" loading="lazy" } [Cool Car Muscle Shirt (LOT 12688)](../12688.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/12691.webp){ .lu-ti width="24" loading="lazy" } [Flaming Tire Shirt (LOT 12691)](../12691.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/12695.webp){ .lu-ti width="24" loading="lazy" } [Pit Stop Racing Shirt (LOT 12695)](../12695.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/12702.webp){ .lu-ti width="24" loading="lazy" } [Wedding Dress (LOT 12702)](../12702.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/12705.webp){ .lu-ti width="24" loading="lazy" } [Cool Car Euro Shirt (LOT 12705)](../12705.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/12706.webp){ .lu-ti width="24" loading="lazy" } [Cool Car Import Shirt (LOT 12706)](../12706.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/12709.webp){ .lu-ti width="24" loading="lazy" } [Tire Tracks shirt (LOT 12709)](../12709.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/12712.webp){ .lu-ti width="24" loading="lazy" } [Biking Jersey (LOT 12712)](../12712.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/12747.webp){ .lu-ti width="24" loading="lazy" } [Body Armor (LOT 12747)](../12747.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/12788.webp){ .lu-ti width="24" loading="lazy" } [Comfy Jeans (LOT 12788)](../12788.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/12796.webp){ .lu-ti width="24" loading="lazy" } [Pinstripe Pant Legs (LOT 12796)](../12796.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/12797.webp){ .lu-ti width="24" loading="lazy" } [Racing Legs (LOT 12797)](../12797.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/14805.webp){ .lu-ti width="24" loading="lazy" } [Red Cape (LOT 14805)](../14805.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/14806.webp){ .lu-ti width="24" loading="lazy" } [Blue Cape (LOT 14806)](../14806.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/14809.webp){ .lu-ti width="24" loading="lazy" } [Pink Cape (LOT 14809)](../14809.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/14810.webp){ .lu-ti width="24" loading="lazy" } [Green Cape (LOT 14810)](../14810.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/14814.webp){ .lu-ti width="24" loading="lazy" } [Purple Cape (LOT 14814)](../14814.md) | Undefined for generic loot: reversed count range | 100% |
 
 ## Raw matrix entries
 

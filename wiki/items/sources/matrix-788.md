@@ -16,22 +16,22 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Monastery Left Entrance Model (LOT 16520)](../16520.md) | Undefined for generic loot: reversed count range | 100% |
-| [Monastery Right Entrance Model (LOT 16521)](../16521.md) | Undefined for generic loot: reversed count range | 100% |
-| [Monastery Flag Banner Model (LOT 16523)](../16523.md) | Undefined for generic loot: reversed count range | 100% |
-| [Monastery Small Gate Model (LOT 16527)](../16527.md) | Undefined for generic loot: reversed count range | 100% |
-| [Monastery Railing Model (LOT 16529)](../16529.md) | Undefined for generic loot: reversed count range | 100% |
-| [Monastery Rock Chunk Model (LOT 16530)](../16530.md) | Undefined for generic loot: reversed count range | 100% |
-| [Monastery Thin Wall Model 1 (LOT 16534)](../16534.md) | Undefined for generic loot: reversed count range | 100% |
-| [Monastery Thin Wall Model 2 (LOT 16535)](../16535.md) | Undefined for generic loot: reversed count range | 100% |
-| [Monastery Thin Wall Corner Model (LOT 16536)](../16536.md) | Undefined for generic loot: reversed count range | 100% |
-| [Monastery Wall Model 1 (LOT 16537)](../16537.md) | Undefined for generic loot: reversed count range | 100% |
-| [Monastery Wall Model 2 (LOT 16538)](../16538.md) | Undefined for generic loot: reversed count range | 100% |
-| [Monastery Wall Model 3 (LOT 16539)](../16539.md) | Undefined for generic loot: reversed count range | 100% |
-| [Monastery Wall Model 4 (LOT 16540)](../16540.md) | Undefined for generic loot: reversed count range | 100% |
-| [Monastery Inside Wall Corner Model (LOT 16542)](../16542.md) | Undefined for generic loot: reversed count range | 100% |
-| [Monastery Outside Wall Corner Model 1 (LOT 16543)](../16543.md) | Undefined for generic loot: reversed count range | 100% |
-| [Monastery Outside Wall Corner Model 2 (LOT 16544)](../16544.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/16520.webp){ .lu-ti width="24" loading="lazy" } [Monastery Left Entrance Model (LOT 16520)](../16520.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/16521.webp){ .lu-ti width="24" loading="lazy" } [Monastery Right Entrance Model (LOT 16521)](../16521.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/16523.webp){ .lu-ti width="24" loading="lazy" } [Monastery Flag Banner Model (LOT 16523)](../16523.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/16527.webp){ .lu-ti width="24" loading="lazy" } [Monastery Small Gate Model (LOT 16527)](../16527.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/16529.webp){ .lu-ti width="24" loading="lazy" } [Monastery Railing Model (LOT 16529)](../16529.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/16530.webp){ .lu-ti width="24" loading="lazy" } [Monastery Rock Chunk Model (LOT 16530)](../16530.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/16534.webp){ .lu-ti width="24" loading="lazy" } [Monastery Thin Wall Model 1 (LOT 16534)](../16534.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/16535.webp){ .lu-ti width="24" loading="lazy" } [Monastery Thin Wall Model 2 (LOT 16535)](../16535.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/16536.webp){ .lu-ti width="24" loading="lazy" } [Monastery Thin Wall Corner Model (LOT 16536)](../16536.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/16537.webp){ .lu-ti width="24" loading="lazy" } [Monastery Wall Model 1 (LOT 16537)](../16537.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/16538.webp){ .lu-ti width="24" loading="lazy" } [Monastery Wall Model 2 (LOT 16538)](../16538.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/16539.webp){ .lu-ti width="24" loading="lazy" } [Monastery Wall Model 3 (LOT 16539)](../16539.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/16540.webp){ .lu-ti width="24" loading="lazy" } [Monastery Wall Model 4 (LOT 16540)](../16540.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/16542.webp){ .lu-ti width="24" loading="lazy" } [Monastery Inside Wall Corner Model (LOT 16542)](../16542.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/16543.webp){ .lu-ti width="24" loading="lazy" } [Monastery Outside Wall Corner Model 1 (LOT 16543)](../16543.md) | Undefined for generic loot: reversed count range | 100% |
+| ![](../../../assets/icons/objects/16544.webp){ .lu-ti width="24" loading="lazy" } [Monastery Outside Wall Corner Model 2 (LOT 16544)](../16544.md) | Undefined for generic loot: reversed count range | 100% |
 
 ## Raw matrix entries
 

@@ -6,203 +6,203 @@ Pages: [1](type-4-1.md) | [2](type-4-2.md)
 
 | LOT | Item | Rarity | Description | Source evidence |
 | --- | --- | --- | --- | --- |
-| 9865 | [Unnamed LOT 9865 (LOT 9865)](../9865.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 9866 | [Unnamed LOT 9866 (LOT 9866)](../9866.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 9867 | [Unnamed LOT 9867 (LOT 9867)](../9867.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 9868 | [Unnamed LOT 9868 (LOT 9868)](../9868.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 12097 | [Unnamed LOT 12097 (LOT 12097)](../12097.md) | 1 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 12099 | [Unnamed LOT 12099 (LOT 12099)](../12099.md) | 3 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 12100 | [Unnamed LOT 12100 (LOT 12100)](../12100.md) | 2 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 13740 | [Unnamed LOT 13740 (LOT 13740)](../13740.md) | 2 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 13742 | [Unnamed LOT 13742 (LOT 13742)](../13742.md) | 2 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 14135 | [Unnamed LOT 14135 (LOT 14135)](../14135.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 15962 | [Unnamed LOT 15962 (LOT 15962)](../15962.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 9865 | ![](../../../assets/icons/objects/9865.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 9865 (LOT 9865)](../9865.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 9866 | ![](../../../assets/icons/objects/9866.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 9866 (LOT 9866)](../9866.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 9867 | ![](../../../assets/icons/objects/9867.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 9867 (LOT 9867)](../9867.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 9868 | ![](../../../assets/icons/objects/9868.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 9868 (LOT 9868)](../9868.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 12097 | ![](../../../assets/icons/objects/12097.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 12097 (LOT 12097)](../12097.md) | 1 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 12099 | ![](../../../assets/icons/objects/12099.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 12099 (LOT 12099)](../12099.md) | 3 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 12100 | ![](../../../assets/icons/objects/12100.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 12100 (LOT 12100)](../12100.md) | 2 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 13740 | ![](../../../assets/icons/objects/13740.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 13740 (LOT 13740)](../13740.md) | 2 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 13742 | ![](../../../assets/icons/objects/13742.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 13742 (LOT 13742)](../13742.md) | 2 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 14135 | ![](../../../assets/icons/objects/14135.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 14135 (LOT 14135)](../14135.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 15962 | ![](../../../assets/icons/objects/15962.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 15962 (LOT 15962)](../15962.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
 | 15963 | [Unnamed LOT 15963 (LOT 15963)](../15963.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
 | 15965 | [Unnamed LOT 15965 (LOT 15965)](../15965.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 15966 | [Unnamed LOT 15966 (LOT 15966)](../15966.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 15968 | [Unnamed LOT 15968 (LOT 15968)](../15968.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 15966 | ![](../../../assets/icons/objects/15966.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 15966 (LOT 15966)](../15966.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 15968 | ![](../../../assets/icons/objects/15968.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 15968 (LOT 15968)](../15968.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
 | 15969 | [Unnamed LOT 15969 (LOT 15969)](../15969.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 15971 | [Unnamed LOT 15971 (LOT 15971)](../15971.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 15971 | ![](../../../assets/icons/objects/15971.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 15971 (LOT 15971)](../15971.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
 | 15972 | [Unnamed LOT 15972 (LOT 15972)](../15972.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
 | 15984 | [Unnamed LOT 15984 (LOT 15984)](../15984.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
 | 15985 | [Unnamed LOT 15985 (LOT 15985)](../15985.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 15987 | [Unnamed LOT 15987 (LOT 15987)](../15987.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 15987 | ![](../../../assets/icons/objects/15987.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 15987 (LOT 15987)](../15987.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
 | 15988 | [Unnamed LOT 15988 (LOT 15988)](../15988.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 15996 | [Unnamed LOT 15996 (LOT 15996)](../15996.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 15997 | [Unnamed LOT 15997 (LOT 15997)](../15997.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 15998 | [Unnamed LOT 15998 (LOT 15998)](../15998.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 15999 | [Unnamed LOT 15999 (LOT 15999)](../15999.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 16000 | [Unnamed LOT 16000 (LOT 16000)](../16000.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 16001 | [Unnamed LOT 16001 (LOT 16001)](../16001.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 16002 | [Unnamed LOT 16002 (LOT 16002)](../16002.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 16003 | [Unnamed LOT 16003 (LOT 16003)](../16003.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 16004 | [Unnamed LOT 16004 (LOT 16004)](../16004.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 16005 | [Unnamed LOT 16005 (LOT 16005)](../16005.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 16007 | [Unnamed LOT 16007 (LOT 16007)](../16007.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 16008 | [Unnamed LOT 16008 (LOT 16008)](../16008.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 16009 | [Unnamed LOT 16009 (LOT 16009)](../16009.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 16010 | [Unnamed LOT 16010 (LOT 16010)](../16010.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 16011 | [Unnamed LOT 16011 (LOT 16011)](../16011.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 16051 | [Unnamed LOT 16051 (LOT 16051)](../16051.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 16200 | [Unnamed LOT 16200 (LOT 16200)](../16200.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 8465 | [Adventurer Backpack 2 (LOT 8465)](../8465.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 7558 | [Adventurer Backpack 3 (LOT 7558)](../7558.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 13891 | [Assembly Box Disguise (LOT 13891)](../13891.md) | 2 | No client description | 1 matrices; 0 rewards; 0 community references |
-| 14358 | [Assembly Gear - Summoner - shoulder  proxy (LOT 14358)](../14358.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 14808 | [Black Cape (LOT 14808)](../14808.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
-| 10296 | [Black Cat Backpack (LOT 10296)](../10296.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 5682 | [Black Neck Scarf (LOT 5682)](../5682.md) | 2 | No client description | 3 matrices; 0 rewards; 1 community references |
-| 14818 | [Black Shoulder Owl (LOT 14818)](../14818.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 14806 | [Blue Cape (LOT 14806)](../14806.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
-| 15991 | [Blue O-Yoroi (LOT 15991)](../15991.md) | 3 | No client description | 0 matrices; 1 rewards; 1 community references |
-| 6792 | [Blue Shoulder Parrot (LOT 6792)](../6792.md) | 3 | No client description | 0 matrices; 1 rewards; 1 community references |
-| 14737 | [Bone Axe Proxy (LOT 14737)](../14737.md) | 4 | Bone Axe Proxy | 0 matrices; 0 rewards; 0 community references |
-| 6921 | [Breastplate of Armor 1 (LOT 6921)](../6921.md) | 2 | No client description | 1 matrices; 1 rewards; 1 community references |
-| 8637 | [Breastplate of Armored Inspiration (LOT 8637)](../8637.md) | 4 | No client description | 0 matrices; 1 rewards; 1 community references |
-| 14811 | [Brown Cape (LOT 14811)](../14811.md) | 2 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 10313 | [Brown Owl Backpack (LOT 10313)](../10313.md) | 4 | No client description | 1 matrices; 0 rewards; 0 community references |
-| 14816 | [Brown Shoulder Owl (LOT 14816)](../14816.md) | 2 | No client description | 0 matrices; 0 rewards; 1 community references |
-| 8467 | [Buccaneer Bandolier 2 (LOT 8467)](../8467.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 7416 | [Buccaneer Bandolier 3 (LOT 7416)](../7416.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 12990 | [Buccaneer Bandolier 3 (LOT 12990)](../12990.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 10702 | [Clug Lego Back/Neck Proxy (LOT 10702)](../10702.md) | 5 | Backneck object created dynamically for Club Lego Shirt: 9875 | 0 matrices; 0 rewards; 0 community references |
+| 15996 | ![](../../../assets/icons/objects/15996.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 15996 (LOT 15996)](../15996.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 15997 | ![](../../../assets/icons/objects/15997.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 15997 (LOT 15997)](../15997.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 15998 | ![](../../../assets/icons/objects/15998.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 15998 (LOT 15998)](../15998.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 15999 | ![](../../../assets/icons/objects/15999.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 15999 (LOT 15999)](../15999.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 16000 | ![](../../../assets/icons/objects/16000.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 16000 (LOT 16000)](../16000.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 16001 | ![](../../../assets/icons/objects/16001.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 16001 (LOT 16001)](../16001.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 16002 | ![](../../../assets/icons/objects/16002.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 16002 (LOT 16002)](../16002.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 16003 | ![](../../../assets/icons/objects/16003.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 16003 (LOT 16003)](../16003.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 16004 | ![](../../../assets/icons/objects/16004.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 16004 (LOT 16004)](../16004.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 16005 | ![](../../../assets/icons/objects/16005.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 16005 (LOT 16005)](../16005.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 16007 | ![](../../../assets/icons/objects/16007.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 16007 (LOT 16007)](../16007.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 16008 | ![](../../../assets/icons/objects/16008.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 16008 (LOT 16008)](../16008.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 16009 | ![](../../../assets/icons/objects/16009.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 16009 (LOT 16009)](../16009.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 16010 | ![](../../../assets/icons/objects/16010.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 16010 (LOT 16010)](../16010.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 16011 | ![](../../../assets/icons/objects/16011.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 16011 (LOT 16011)](../16011.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 16051 | ![](../../../assets/icons/objects/16051.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 16051 (LOT 16051)](../16051.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 16200 | ![](../../../assets/icons/objects/16200.webp){ .lu-ti width="24" loading="lazy" } [Unnamed LOT 16200 (LOT 16200)](../16200.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 8465 | ![](../../../assets/icons/objects/8465.webp){ .lu-ti width="24" loading="lazy" } [Adventurer Backpack 2 (LOT 8465)](../8465.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 7558 | ![](../../../assets/icons/objects/7558.webp){ .lu-ti width="24" loading="lazy" } [Adventurer Backpack 3 (LOT 7558)](../7558.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 13891 | ![](../../../assets/icons/objects/13891.webp){ .lu-ti width="24" loading="lazy" } [Assembly Box Disguise (LOT 13891)](../13891.md) | 2 | No client description | 1 matrices; 0 rewards; 0 community references |
+| 14358 | ![](../../../assets/icons/objects/14358.webp){ .lu-ti width="24" loading="lazy" } [Assembly Gear - Summoner - shoulder  proxy (LOT 14358)](../14358.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 14808 | ![](../../../assets/icons/objects/14808.webp){ .lu-ti width="24" loading="lazy" } [Black Cape (LOT 14808)](../14808.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
+| 10296 | ![](../../../assets/icons/objects/10296.webp){ .lu-ti width="24" loading="lazy" } [Black Cat Backpack (LOT 10296)](../10296.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 5682 | ![](../../../assets/icons/objects/5682.webp){ .lu-ti width="24" loading="lazy" } [Black Neck Scarf (LOT 5682)](../5682.md) | 2 | No client description | 3 matrices; 0 rewards; 1 community references |
+| 14818 | ![](../../../assets/icons/objects/14818.webp){ .lu-ti width="24" loading="lazy" } [Black Shoulder Owl (LOT 14818)](../14818.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 14806 | ![](../../../assets/icons/objects/14806.webp){ .lu-ti width="24" loading="lazy" } [Blue Cape (LOT 14806)](../14806.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
+| 15991 | ![](../../../assets/icons/objects/15991.webp){ .lu-ti width="24" loading="lazy" } [Blue O-Yoroi (LOT 15991)](../15991.md) | 3 | No client description | 0 matrices; 1 rewards; 1 community references |
+| 6792 | ![](../../../assets/icons/objects/6792.webp){ .lu-ti width="24" loading="lazy" } [Blue Shoulder Parrot (LOT 6792)](../6792.md) | 3 | No client description | 0 matrices; 1 rewards; 1 community references |
+| 14737 | ![](../../../assets/icons/objects/14737.webp){ .lu-ti width="24" loading="lazy" } [Bone Axe Proxy (LOT 14737)](../14737.md) | 4 | Bone Axe Proxy | 0 matrices; 0 rewards; 0 community references |
+| 6921 | ![](../../../assets/icons/objects/6921.webp){ .lu-ti width="24" loading="lazy" } [Breastplate of Armor 1 (LOT 6921)](../6921.md) | 2 | No client description | 1 matrices; 1 rewards; 1 community references |
+| 8637 | ![](../../../assets/icons/objects/8637.webp){ .lu-ti width="24" loading="lazy" } [Breastplate of Armored Inspiration (LOT 8637)](../8637.md) | 4 | No client description | 0 matrices; 1 rewards; 1 community references |
+| 14811 | ![](../../../assets/icons/objects/14811.webp){ .lu-ti width="24" loading="lazy" } [Brown Cape (LOT 14811)](../14811.md) | 2 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 10313 | ![](../../../assets/icons/objects/10313.webp){ .lu-ti width="24" loading="lazy" } [Brown Owl Backpack (LOT 10313)](../10313.md) | 4 | No client description | 1 matrices; 0 rewards; 0 community references |
+| 14816 | ![](../../../assets/icons/objects/14816.webp){ .lu-ti width="24" loading="lazy" } [Brown Shoulder Owl (LOT 14816)](../14816.md) | 2 | No client description | 0 matrices; 0 rewards; 1 community references |
+| 8467 | ![](../../../assets/icons/objects/8467.webp){ .lu-ti width="24" loading="lazy" } [Buccaneer Bandolier 2 (LOT 8467)](../8467.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 7416 | ![](../../../assets/icons/objects/7416.webp){ .lu-ti width="24" loading="lazy" } [Buccaneer Bandolier 3 (LOT 7416)](../7416.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 12990 | ![](../../../assets/icons/objects/12990.webp){ .lu-ti width="24" loading="lazy" } [Buccaneer Bandolier 3 (LOT 12990)](../12990.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 10702 | ![](../../../assets/icons/objects/10702.webp){ .lu-ti width="24" loading="lazy" } [Clug Lego Back/Neck Proxy (LOT 10702)](../10702.md) | 5 | Backneck object created dynamically for Club Lego Shirt: 9875 | 0 matrices; 0 rewards; 0 community references |
 | 13839 | [Crate Disguise Back/Neck Proxy (LOT 13839)](../13839.md) | 1 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 15990 | [Crimson Guard (LOT 15990)](../15990.md) | 2 | No client description | 1 matrices; 1 rewards; 1 community references |
-| 12095 | [Crux Prime Armor (LOT 12095)](../12095.md) | 4 | No client description | 40 matrices; 0 rewards; 1 community references |
-| 8466 | [Daredevil Shoulderpads 2 (LOT 8466)](../8466.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 7543 | [Daredevil Shoulderpads 3 (LOT 7543)](../7543.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 12995 | [Daredevil Shoulderpads 3 (LOT 12995)](../12995.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 15992 | [Dark Defense (LOT 15992)](../15992.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
-| 11286 | [Dino-Pack (LOT 11286)](../11286.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
-| 8536 | [Dox Shoulderpads (LOT 8536)](../8536.md) | 2 | No client description | 19 matrices; 0 rewards; 1 community references |
-| 13741 | [Dragon Disguise (LOT 13741)](../13741.md) | 2 | &#91;TEMP&#93;Dress up like a dragon | 0 matrices; 0 rewards; 0 community references |
-| 8462 | [Engineer Vest 2 (LOT 8462)](../8462.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 7417 | [Engineer Vest 3 (LOT 7417)](../7417.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 12963 | [Engineer Vest 3 (LOT 12963)](../12963.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 8683 | [Epaulets of Authority (LOT 8683)](../8683.md) | 4 | No client description | 9 matrices; 0 rewards; 1 community references |
-| 8684 | [Epaulets of Extravagance (LOT 8684)](../8684.md) | 2 | No client description | 1 matrices; 0 rewards; 1 community references |
-| 8535 | [Explorer Air Tank (LOT 8535)](../8535.md) | 2 | No client description | 1 matrices; 0 rewards; 1 community references |
-| 1727 | [GM Only - JetPack (LOT 1727)](../1727.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 3735 | [GM Only - Large Jetpack (LOT 3735)](../3735.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 14810 | [Green Cape (LOT 14810)](../14810.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
-| 6854 | [Green Shoulder Parrot (LOT 6854)](../6854.md) | 3 | No client description | 8 matrices; 0 rewards; 1 community references |
-| 11287 | [Grey T-Rex Backpack (LOT 11287)](../11287.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 9943 | [Grunt Armor (LOT 9943)](../9943.md) | 1 | NPC Grunt Armor Orange | 0 matrices; 0 rewards; 0 community references |
-| 9944 | [Grunt Armor (LOT 9944)](../9944.md) | 1 | NPC Grunt Armor Purple | 0 matrices; 0 rewards; 0 community references |
-| 9945 | [Grunt Armor (LOT 9945)](../9945.md) | 1 | NPC Grunt Armor Green | 0 matrices; 0 rewards; 0 community references |
-| 9946 | [Grunt Armor (LOT 9946)](../9946.md) | 1 | NPC Grunt Armor Blue | 0 matrices; 0 rewards; 0 community references |
-| 13544 | [Imagination Backpack (LOT 13544)](../13544.md) | 1 | No client description | 0 matrices; 1 rewards; 1 community references |
-| 8530 | [Imagination Tanks (LOT 8530)](../8530.md) | 4 | No client description | 1 matrices; 1 rewards; 1 community references |
-| 15975 | [Imaginite Pack (LOT 15975)](../15975.md) | 4 | No client description | 3 matrices; 0 rewards; 1 community references |
-| 8463 | [Inventor Shoulderpads 2 (LOT 8463)](../8463.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 7542 | [Inventor Shoulderpads 3 (LOT 7542)](../7542.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 15990 | ![](../../../assets/icons/objects/15990.webp){ .lu-ti width="24" loading="lazy" } [Crimson Guard (LOT 15990)](../15990.md) | 2 | No client description | 1 matrices; 1 rewards; 1 community references |
+| 12095 | ![](../../../assets/icons/objects/12095.webp){ .lu-ti width="24" loading="lazy" } [Crux Prime Armor (LOT 12095)](../12095.md) | 4 | No client description | 40 matrices; 0 rewards; 1 community references |
+| 8466 | ![](../../../assets/icons/objects/8466.webp){ .lu-ti width="24" loading="lazy" } [Daredevil Shoulderpads 2 (LOT 8466)](../8466.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 7543 | ![](../../../assets/icons/objects/7543.webp){ .lu-ti width="24" loading="lazy" } [Daredevil Shoulderpads 3 (LOT 7543)](../7543.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 12995 | ![](../../../assets/icons/objects/12995.webp){ .lu-ti width="24" loading="lazy" } [Daredevil Shoulderpads 3 (LOT 12995)](../12995.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 15992 | ![](../../../assets/icons/objects/15992.webp){ .lu-ti width="24" loading="lazy" } [Dark Defense (LOT 15992)](../15992.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
+| 11286 | ![](../../../assets/icons/objects/11286.webp){ .lu-ti width="24" loading="lazy" } [Dino-Pack (LOT 11286)](../11286.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
+| 8536 | ![](../../../assets/icons/objects/8536.webp){ .lu-ti width="24" loading="lazy" } [Dox Shoulderpads (LOT 8536)](../8536.md) | 2 | No client description | 19 matrices; 0 rewards; 1 community references |
+| 13741 | ![](../../../assets/icons/objects/13741.webp){ .lu-ti width="24" loading="lazy" } [Dragon Disguise (LOT 13741)](../13741.md) | 2 | &#91;TEMP&#93;Dress up like a dragon | 0 matrices; 0 rewards; 0 community references |
+| 8462 | ![](../../../assets/icons/objects/8462.webp){ .lu-ti width="24" loading="lazy" } [Engineer Vest 2 (LOT 8462)](../8462.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 7417 | ![](../../../assets/icons/objects/7417.webp){ .lu-ti width="24" loading="lazy" } [Engineer Vest 3 (LOT 7417)](../7417.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 12963 | ![](../../../assets/icons/objects/12963.webp){ .lu-ti width="24" loading="lazy" } [Engineer Vest 3 (LOT 12963)](../12963.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 8683 | ![](../../../assets/icons/objects/8683.webp){ .lu-ti width="24" loading="lazy" } [Epaulets of Authority (LOT 8683)](../8683.md) | 4 | No client description | 9 matrices; 0 rewards; 1 community references |
+| 8684 | ![](../../../assets/icons/objects/8684.webp){ .lu-ti width="24" loading="lazy" } [Epaulets of Extravagance (LOT 8684)](../8684.md) | 2 | No client description | 1 matrices; 0 rewards; 1 community references |
+| 8535 | ![](../../../assets/icons/objects/8535.webp){ .lu-ti width="24" loading="lazy" } [Explorer Air Tank (LOT 8535)](../8535.md) | 2 | No client description | 1 matrices; 0 rewards; 1 community references |
+| 1727 | ![](../../../assets/icons/objects/1727.webp){ .lu-ti width="24" loading="lazy" } [GM Only - JetPack (LOT 1727)](../1727.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 3735 | ![](../../../assets/icons/objects/3735.webp){ .lu-ti width="24" loading="lazy" } [GM Only - Large Jetpack (LOT 3735)](../3735.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 14810 | ![](../../../assets/icons/objects/14810.webp){ .lu-ti width="24" loading="lazy" } [Green Cape (LOT 14810)](../14810.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
+| 6854 | ![](../../../assets/icons/objects/6854.webp){ .lu-ti width="24" loading="lazy" } [Green Shoulder Parrot (LOT 6854)](../6854.md) | 3 | No client description | 8 matrices; 0 rewards; 1 community references |
+| 11287 | ![](../../../assets/icons/objects/11287.webp){ .lu-ti width="24" loading="lazy" } [Grey T-Rex Backpack (LOT 11287)](../11287.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 9943 | ![](../../../assets/icons/objects/9943.webp){ .lu-ti width="24" loading="lazy" } [Grunt Armor (LOT 9943)](../9943.md) | 1 | NPC Grunt Armor Orange | 0 matrices; 0 rewards; 0 community references |
+| 9944 | ![](../../../assets/icons/objects/9944.webp){ .lu-ti width="24" loading="lazy" } [Grunt Armor (LOT 9944)](../9944.md) | 1 | NPC Grunt Armor Purple | 0 matrices; 0 rewards; 0 community references |
+| 9945 | ![](../../../assets/icons/objects/9945.webp){ .lu-ti width="24" loading="lazy" } [Grunt Armor (LOT 9945)](../9945.md) | 1 | NPC Grunt Armor Green | 0 matrices; 0 rewards; 0 community references |
+| 9946 | ![](../../../assets/icons/objects/9946.webp){ .lu-ti width="24" loading="lazy" } [Grunt Armor (LOT 9946)](../9946.md) | 1 | NPC Grunt Armor Blue | 0 matrices; 0 rewards; 0 community references |
+| 13544 | ![](../../../assets/icons/objects/13544.webp){ .lu-ti width="24" loading="lazy" } [Imagination Backpack (LOT 13544)](../13544.md) | 1 | No client description | 0 matrices; 1 rewards; 1 community references |
+| 8530 | ![](../../../assets/icons/objects/8530.webp){ .lu-ti width="24" loading="lazy" } [Imagination Tanks (LOT 8530)](../8530.md) | 4 | No client description | 1 matrices; 1 rewards; 1 community references |
+| 15975 | ![](../../../assets/icons/objects/15975.webp){ .lu-ti width="24" loading="lazy" } [Imaginite Pack (LOT 15975)](../15975.md) | 4 | No client description | 3 matrices; 0 rewards; 1 community references |
+| 8463 | ![](../../../assets/icons/objects/8463.webp){ .lu-ti width="24" loading="lazy" } [Inventor Shoulderpads 2 (LOT 8463)](../8463.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 7542 | ![](../../../assets/icons/objects/7542.webp){ .lu-ti width="24" loading="lazy" } [Inventor Shoulderpads 3 (LOT 7542)](../7542.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
 | 13838 | [Janitor Costume Back/Neck Proxy (LOT 13838)](../13838.md) | 2 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 12284 | [Jolly Beard Back/Neck Proxy (LOT 12284)](../12284.md) | 3 | Automatically equiped when Jolly Beard is worn | 0 matrices; 0 rewards; 0 community references |
-| 15946 | [Katana Proxy Ninjago (LOT 15946)](../15946.md) | 4 | Katana Proxy Ninjago | 0 matrices; 0 rewards; 0 community references |
-| 9883 | [Kitty Cat Backpack (LOT 9883)](../9883.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 8682 | [Knapsack (LOT 8682)](../8682.md) | 3 | No client description | 0 matrices; 1 rewards; 0 community references |
-| 8456 | [Knight Shoulderpads 2 (LOT 8456)](../8456.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 7409 | [Knight Shoulderpads 3 (LOT 7409)](../7409.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 12967 | [Knight Shoulderpads 3 (LOT 12967)](../12967.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 11303 | [Login Red Car Equippable (LOT 11303)](../11303.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 11304 | [Login Yellow Car Equippable (LOT 11304)](../11304.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 10991 | [m62408 (LOT 10991)](../10991.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 7784 | [Mega Chest Armor (LOT 7784)](../7784.md) | 4 | No client description | 0 matrices; 1 rewards; 1 community references |
-| 8539 | [Messenger Bag (LOT 8539)](../8539.md) | 3 | No client description | 11 matrices; 0 rewards; 1 community references |
-| 12101 | [Mosaic Shoulderpads (LOT 12101)](../12101.md) | 2 | No client description | 0 matrices; 1 rewards; 1 community references |
-| 12098 | [Nexus Airtanks (LOT 12098)](../12098.md) | 1 | No client description | 40 matrices; 0 rewards; 1 community references |
-| 9856 | [Nexus Force Cape (LOT 9856)](../9856.md) | 3 | No client description | 1 matrices; 0 rewards; 1 community references |
+| 12284 | ![](../../../assets/icons/objects/12284.webp){ .lu-ti width="24" loading="lazy" } [Jolly Beard Back/Neck Proxy (LOT 12284)](../12284.md) | 3 | Automatically equiped when Jolly Beard is worn | 0 matrices; 0 rewards; 0 community references |
+| 15946 | ![](../../../assets/icons/objects/15946.webp){ .lu-ti width="24" loading="lazy" } [Katana Proxy Ninjago (LOT 15946)](../15946.md) | 4 | Katana Proxy Ninjago | 0 matrices; 0 rewards; 0 community references |
+| 9883 | ![](../../../assets/icons/objects/9883.webp){ .lu-ti width="24" loading="lazy" } [Kitty Cat Backpack (LOT 9883)](../9883.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 8682 | ![](../../../assets/icons/objects/8682.webp){ .lu-ti width="24" loading="lazy" } [Knapsack (LOT 8682)](../8682.md) | 3 | No client description | 0 matrices; 1 rewards; 0 community references |
+| 8456 | ![](../../../assets/icons/objects/8456.webp){ .lu-ti width="24" loading="lazy" } [Knight Shoulderpads 2 (LOT 8456)](../8456.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 7409 | ![](../../../assets/icons/objects/7409.webp){ .lu-ti width="24" loading="lazy" } [Knight Shoulderpads 3 (LOT 7409)](../7409.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 12967 | ![](../../../assets/icons/objects/12967.webp){ .lu-ti width="24" loading="lazy" } [Knight Shoulderpads 3 (LOT 12967)](../12967.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 11303 | ![](../../../assets/icons/objects/11303.webp){ .lu-ti width="24" loading="lazy" } [Login Red Car Equippable (LOT 11303)](../11303.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 11304 | ![](../../../assets/icons/objects/11304.webp){ .lu-ti width="24" loading="lazy" } [Login Yellow Car Equippable (LOT 11304)](../11304.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 10991 | ![](../../../assets/icons/objects/10991.webp){ .lu-ti width="24" loading="lazy" } [m62408 (LOT 10991)](../10991.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 7784 | ![](../../../assets/icons/objects/7784.webp){ .lu-ti width="24" loading="lazy" } [Mega Chest Armor (LOT 7784)](../7784.md) | 4 | No client description | 0 matrices; 1 rewards; 1 community references |
+| 8539 | ![](../../../assets/icons/objects/8539.webp){ .lu-ti width="24" loading="lazy" } [Messenger Bag (LOT 8539)](../8539.md) | 3 | No client description | 11 matrices; 0 rewards; 1 community references |
+| 12101 | ![](../../../assets/icons/objects/12101.webp){ .lu-ti width="24" loading="lazy" } [Mosaic Shoulderpads (LOT 12101)](../12101.md) | 2 | No client description | 0 matrices; 1 rewards; 1 community references |
+| 12098 | ![](../../../assets/icons/objects/12098.webp){ .lu-ti width="24" loading="lazy" } [Nexus Airtanks (LOT 12098)](../12098.md) | 1 | No client description | 40 matrices; 0 rewards; 1 community references |
+| 9856 | ![](../../../assets/icons/objects/9856.webp){ .lu-ti width="24" loading="lazy" } [Nexus Force Cape (LOT 9856)](../9856.md) | 3 | No client description | 1 matrices; 0 rewards; 1 community references |
 | 13471 | [NJ-Mon&#95;Ice&#95;Transition&#95;01 (LOT 13471)](../13471.md) | 1 | No client description | 0 matrices; 0 rewards; 0 community references |
 | 13472 | [NJ-Mon&#95;Ice&#95;Transition&#95;02 (LOT 13472)](../13472.md) | 1 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 12565 | [NPC Assembly Scout Armor (LOT 12565)](../12565.md) | 5 | Assembly Scout Armor | 0 matrices; 0 rewards; 0 community references |
-| 5676 | [NPC Backpack (LOT 5676)](../5676.md) | 5 | Venture style backpack | 0 matrices; 0 rewards; 0 community references |
-| 7115 | [NPC Beck Breastplate (LOT 7115)](../7115.md) | 5 | NPC Chest piece | 0 matrices; 0 rewards; 0 community references |
-| 16620 | [NPC Black Samurai Armor (LOT 16620)](../16620.md) | 5 | NPC Red Samurai Armor | 0 matrices; 0 rewards; 0 community references |
-| 16622 | [NPC Blue Samurai Armor (LOT 16622)](../16622.md) | 5 | NPC Red Samurai Armor | 0 matrices; 0 rewards; 0 community references |
-| 11283 | [NPC Brick Fury HoloHUD1 (LOT 11283)](../11283.md) | 5 | NPC Brick Fury HoloHUD1 | 0 matrices; 0 rewards; 0 community references |
-| 8523 | [NPC Coalessa Skirt (LOT 8523)](../8523.md) | 5 | NPC Coalessa Skirt | 0 matrices; 0 rewards; 0 community references |
-| 13312 | [NPC Doc Overbuild Armor (LOT 13312)](../13312.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 10156 | [NPC Duke Exetor Armor (LOT 10156)](../10156.md) | 1 | NPC Grunt Armor Green | 0 matrices; 0 rewards; 0 community references |
-| 5694 | [NPC Dwarf Beard 01 (LOT 5694)](../5694.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 11293 | [NPC Grunt Armor Red (LOT 11293)](../11293.md) | 1 | NPC Grunt Armor Red | 0 matrices; 0 rewards; 0 community references |
-| 13304 | [NPC Hael Storm Armor (LOT 13304)](../13304.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 10053 | [NPC Hael Storm Epaulets (LOT 10053)](../10053.md) | 1 | NPC Hael Storm Epaulets | 0 matrices; 0 rewards; 0 community references |
+| 12565 | ![](../../../assets/icons/objects/12565.webp){ .lu-ti width="24" loading="lazy" } [NPC Assembly Scout Armor (LOT 12565)](../12565.md) | 5 | Assembly Scout Armor | 0 matrices; 0 rewards; 0 community references |
+| 5676 | ![](../../../assets/icons/objects/5676.webp){ .lu-ti width="24" loading="lazy" } [NPC Backpack (LOT 5676)](../5676.md) | 5 | Venture style backpack | 0 matrices; 0 rewards; 0 community references |
+| 7115 | ![](../../../assets/icons/objects/7115.webp){ .lu-ti width="24" loading="lazy" } [NPC Beck Breastplate (LOT 7115)](../7115.md) | 5 | NPC Chest piece | 0 matrices; 0 rewards; 0 community references |
+| 16620 | ![](../../../assets/icons/objects/16620.webp){ .lu-ti width="24" loading="lazy" } [NPC Black Samurai Armor (LOT 16620)](../16620.md) | 5 | NPC Red Samurai Armor | 0 matrices; 0 rewards; 0 community references |
+| 16622 | ![](../../../assets/icons/objects/16622.webp){ .lu-ti width="24" loading="lazy" } [NPC Blue Samurai Armor (LOT 16622)](../16622.md) | 5 | NPC Red Samurai Armor | 0 matrices; 0 rewards; 0 community references |
+| 11283 | ![](../../../assets/icons/objects/11283.webp){ .lu-ti width="24" loading="lazy" } [NPC Brick Fury HoloHUD1 (LOT 11283)](../11283.md) | 5 | NPC Brick Fury HoloHUD1 | 0 matrices; 0 rewards; 0 community references |
+| 8523 | ![](../../../assets/icons/objects/8523.webp){ .lu-ti width="24" loading="lazy" } [NPC Coalessa Skirt (LOT 8523)](../8523.md) | 5 | NPC Coalessa Skirt | 0 matrices; 0 rewards; 0 community references |
+| 13312 | ![](../../../assets/icons/objects/13312.webp){ .lu-ti width="24" loading="lazy" } [NPC Doc Overbuild Armor (LOT 13312)](../13312.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 10156 | ![](../../../assets/icons/objects/10156.webp){ .lu-ti width="24" loading="lazy" } [NPC Duke Exetor Armor (LOT 10156)](../10156.md) | 1 | NPC Grunt Armor Green | 0 matrices; 0 rewards; 0 community references |
+| 5694 | ![](../../../assets/icons/objects/5694.webp){ .lu-ti width="24" loading="lazy" } [NPC Dwarf Beard 01 (LOT 5694)](../5694.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 11293 | ![](../../../assets/icons/objects/11293.webp){ .lu-ti width="24" loading="lazy" } [NPC Grunt Armor Red (LOT 11293)](../11293.md) | 1 | NPC Grunt Armor Red | 0 matrices; 0 rewards; 0 community references |
+| 13304 | ![](../../../assets/icons/objects/13304.webp){ .lu-ti width="24" loading="lazy" } [NPC Hael Storm Armor (LOT 13304)](../13304.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 10053 | ![](../../../assets/icons/objects/10053.webp){ .lu-ti width="24" loading="lazy" } [NPC Hael Storm Epaulets (LOT 10053)](../10053.md) | 1 | NPC Hael Storm Epaulets | 0 matrices; 0 rewards; 0 community references |
 | 3849 | [NPC Hazmat Backpack (LOT 3849)](../3849.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 5674 | [NPC Hi Tech Armor (LOT 5674)](../5674.md) | 5 | Hi tech looking breastplate | 0 matrices; 0 rewards; 0 community references |
-| 8518 | [NPC Johnny Thunder Bag (LOT 8518)](../8518.md) | 5 | NPC Johnny Thunder Bag | 0 matrices; 0 rewards; 0 community references |
-| 14112 | [NPC Maelstrom Armor for NJ Skeleton (LOT 14112)](../14112.md) | 5 | Maelstrom Armor for NJ Skeleton | 0 matrices; 0 rewards; 0 community references |
-| 12607 | [NPC Paradox Scout Armor (LOT 12607)](../12607.md) | 5 | Paradox Scout Armor | 0 matrices; 0 rewards; 0 community references |
-| 14834 | [NPC Red Samurai Armor (LOT 14834)](../14834.md) | 5 | NPC Red Samurai Armor | 0 matrices; 0 rewards; 0 community references |
-| 7116 | [NPC Renee Belt Breastplate (LOT 7116)](../7116.md) | 5 | NPC Belt piece | 0 matrices; 0 rewards; 0 community references |
-| 8286 | [NPC Rusty Steele Belt (LOT 8286)](../8286.md) | 5 | NPC Rusty Steele Belt | 0 matrices; 0 rewards; 0 community references |
-| 13333 | [NPC Scuba Tank Vendor (LOT 13333)](../13333.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 1725 | [NPC Sentinel Breastplate of Armor (LOT 1725)](../1725.md) | 5 | No client description | 1 matrices; 0 rewards; 0 community references |
-| 12649 | [NPC Sentinel Scout Armor (LOT 12649)](../12649.md) | 5 | NPC Sentinel Scout Armor | 0 matrices; 0 rewards; 0 community references |
-| 16621 | [NPC Silver Samurai Armor (LOT 16621)](../16621.md) | 5 | NPC Red Samurai Armor | 0 matrices; 0 rewards; 0 community references |
-| 12303 | [NPC Skeleton Armor 1 (LOT 12303)](../12303.md) | 5 | Armor for NJ Skeleton | 0 matrices; 0 rewards; 0 community references |
-| 12305 | [NPC Skeleton Big 1 (LOT 12305)](../12305.md) | 5 | Big Head for NJ Skeleton | 0 matrices; 0 rewards; 0 community references |
-| 16055 | [NPC Skeleton Head Bonezai (LOT 16055)](../16055.md) | 5 | NPC Skeleton Head Bonezai | 0 matrices; 0 rewards; 0 community references |
-| 16052 | [NPC Skeleton Head Chopov (LOT 16052)](../16052.md) | 5 | NPC Skeleton Head Chopov | 0 matrices; 0 rewards; 0 community references |
-| 16053 | [NPC Skeleton Head Frakjaw (LOT 16053)](../16053.md) | 5 | NPC Skeleton Head Frakjaw | 0 matrices; 0 rewards; 0 community references |
-| 16054 | [NPC Skeleton Head Krazi (LOT 16054)](../16054.md) | 5 | NPC Skeleton Head Krazi | 0 matrices; 0 rewards; 0 community references |
-| 14022 | [NPC Skeleton Head Maelstrom helm on Big 1 (LOT 14022)](../14022.md) | 5 | Big Head with mealstrom helm for NJ Skeleton | 0 matrices; 0 rewards; 0 community references |
-| 14020 | [NPC Skeleton Maelstrom Armor 1 (LOT 14020)](../14020.md) | 5 | Maelstrom Armor for NJ Skeleton | 0 matrices; 0 rewards; 0 community references |
-| 6502 | [NPC Skylane Shoulders (LOT 6502)](../6502.md) | 5 | NPC Skylane shoulder pieces | 0 matrices; 0 rewards; 0 community references |
-| 6339 | [NPC Space chestpiece (LOT 6339)](../6339.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 10476 | [NPC Strombie Backpack (LOT 10476)](../10476.md) | 1 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 5687 | [NPC Sword - Back Slung (LOT 5687)](../5687.md) | 5 | Large sword worn on the Minifigure's back | 0 matrices; 0 rewards; 0 community references |
-| 12129 | [NPC Toy Assember Back Crank (LOT 12129)](../12129.md) | 5 | NPC Toy Assember Back Crank | 0 matrices; 0 rewards; 0 community references |
-| 13115 | [NPC Vendor Backpack (LOT 13115)](../13115.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 7111 | [NPC Venture Grunt Breastplate (LOT 7111)](../7111.md) | 5 | NPC Chest piece | 0 matrices; 0 rewards; 0 community references |
-| 12623 | [NPC Venture Scout Armor (LOT 12623)](../12623.md) | 5 | Venture Scout Armor | 0 matrices; 0 rewards; 0 community references |
-| 12130 | [NPC Wen Whatzit Clock Armor (LOT 12130)](../12130.md) | 5 | NPC Wen Whatzit Clock Armor | 0 matrices; 0 rewards; 0 community references |
-| 8287 | [NPC Wisp Lee Scarf (LOT 8287)](../8287.md) | 1 | NPC Wisp Lee Scarf | 0 matrices; 0 rewards; 0 community references |
-| 8639 | [Obsidian Armor (LOT 8639)](../8639.md) | 2 | No client description | 1 matrices; 0 rewards; 1 community references |
-| 14088 | [Obsolete NJ SJ Whirlwind Earth equiped (LOT 14088)](../14088.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 12470 | [Obsolete NJ SJ Whirlwind Imagination (LOT 12470)](../12470.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 14813 | [Orange Cape (LOT 14813)](../14813.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
-| 9805 | [Orange Oxygen Bottles (LOT 9805)](../9805.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 6856 | [Orange Shoulder Parrot (LOT 6856)](../6856.md) | 3 | No client description | 8 matrices; 0 rewards; 1 community references |
-| 14326 | [Paradox Gear - Space Marauder - shoulder proxy (LOT 14326)](../14326.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 14809 | [Pink Cape (LOT 14809)](../14809.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
-| 8638 | [Powered Armor (LOT 8638)](../8638.md) | 3 | No client description | 11 matrices; 0 rewards; 1 community references |
+| 5674 | ![](../../../assets/icons/objects/5674.webp){ .lu-ti width="24" loading="lazy" } [NPC Hi Tech Armor (LOT 5674)](../5674.md) | 5 | Hi tech looking breastplate | 0 matrices; 0 rewards; 0 community references |
+| 8518 | ![](../../../assets/icons/objects/8518.webp){ .lu-ti width="24" loading="lazy" } [NPC Johnny Thunder Bag (LOT 8518)](../8518.md) | 5 | NPC Johnny Thunder Bag | 0 matrices; 0 rewards; 0 community references |
+| 14112 | ![](../../../assets/icons/objects/14112.webp){ .lu-ti width="24" loading="lazy" } [NPC Maelstrom Armor for NJ Skeleton (LOT 14112)](../14112.md) | 5 | Maelstrom Armor for NJ Skeleton | 0 matrices; 0 rewards; 0 community references |
+| 12607 | ![](../../../assets/icons/objects/12607.webp){ .lu-ti width="24" loading="lazy" } [NPC Paradox Scout Armor (LOT 12607)](../12607.md) | 5 | Paradox Scout Armor | 0 matrices; 0 rewards; 0 community references |
+| 14834 | ![](../../../assets/icons/objects/14834.webp){ .lu-ti width="24" loading="lazy" } [NPC Red Samurai Armor (LOT 14834)](../14834.md) | 5 | NPC Red Samurai Armor | 0 matrices; 0 rewards; 0 community references |
+| 7116 | ![](../../../assets/icons/objects/7116.webp){ .lu-ti width="24" loading="lazy" } [NPC Renee Belt Breastplate (LOT 7116)](../7116.md) | 5 | NPC Belt piece | 0 matrices; 0 rewards; 0 community references |
+| 8286 | ![](../../../assets/icons/objects/8286.webp){ .lu-ti width="24" loading="lazy" } [NPC Rusty Steele Belt (LOT 8286)](../8286.md) | 5 | NPC Rusty Steele Belt | 0 matrices; 0 rewards; 0 community references |
+| 13333 | ![](../../../assets/icons/objects/13333.webp){ .lu-ti width="24" loading="lazy" } [NPC Scuba Tank Vendor (LOT 13333)](../13333.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 1725 | ![](../../../assets/icons/objects/1725.webp){ .lu-ti width="24" loading="lazy" } [NPC Sentinel Breastplate of Armor (LOT 1725)](../1725.md) | 5 | No client description | 1 matrices; 0 rewards; 0 community references |
+| 12649 | ![](../../../assets/icons/objects/12649.webp){ .lu-ti width="24" loading="lazy" } [NPC Sentinel Scout Armor (LOT 12649)](../12649.md) | 5 | NPC Sentinel Scout Armor | 0 matrices; 0 rewards; 0 community references |
+| 16621 | ![](../../../assets/icons/objects/16621.webp){ .lu-ti width="24" loading="lazy" } [NPC Silver Samurai Armor (LOT 16621)](../16621.md) | 5 | NPC Red Samurai Armor | 0 matrices; 0 rewards; 0 community references |
+| 12303 | ![](../../../assets/icons/objects/12303.webp){ .lu-ti width="24" loading="lazy" } [NPC Skeleton Armor 1 (LOT 12303)](../12303.md) | 5 | Armor for NJ Skeleton | 0 matrices; 0 rewards; 0 community references |
+| 12305 | ![](../../../assets/icons/objects/12305.webp){ .lu-ti width="24" loading="lazy" } [NPC Skeleton Big 1 (LOT 12305)](../12305.md) | 5 | Big Head for NJ Skeleton | 0 matrices; 0 rewards; 0 community references |
+| 16055 | ![](../../../assets/icons/objects/16055.webp){ .lu-ti width="24" loading="lazy" } [NPC Skeleton Head Bonezai (LOT 16055)](../16055.md) | 5 | NPC Skeleton Head Bonezai | 0 matrices; 0 rewards; 0 community references |
+| 16052 | ![](../../../assets/icons/objects/16052.webp){ .lu-ti width="24" loading="lazy" } [NPC Skeleton Head Chopov (LOT 16052)](../16052.md) | 5 | NPC Skeleton Head Chopov | 0 matrices; 0 rewards; 0 community references |
+| 16053 | ![](../../../assets/icons/objects/16053.webp){ .lu-ti width="24" loading="lazy" } [NPC Skeleton Head Frakjaw (LOT 16053)](../16053.md) | 5 | NPC Skeleton Head Frakjaw | 0 matrices; 0 rewards; 0 community references |
+| 16054 | ![](../../../assets/icons/objects/16054.webp){ .lu-ti width="24" loading="lazy" } [NPC Skeleton Head Krazi (LOT 16054)](../16054.md) | 5 | NPC Skeleton Head Krazi | 0 matrices; 0 rewards; 0 community references |
+| 14022 | ![](../../../assets/icons/objects/14022.webp){ .lu-ti width="24" loading="lazy" } [NPC Skeleton Head Maelstrom helm on Big 1 (LOT 14022)](../14022.md) | 5 | Big Head with mealstrom helm for NJ Skeleton | 0 matrices; 0 rewards; 0 community references |
+| 14020 | ![](../../../assets/icons/objects/14020.webp){ .lu-ti width="24" loading="lazy" } [NPC Skeleton Maelstrom Armor 1 (LOT 14020)](../14020.md) | 5 | Maelstrom Armor for NJ Skeleton | 0 matrices; 0 rewards; 0 community references |
+| 6502 | ![](../../../assets/icons/objects/6502.webp){ .lu-ti width="24" loading="lazy" } [NPC Skylane Shoulders (LOT 6502)](../6502.md) | 5 | NPC Skylane shoulder pieces | 0 matrices; 0 rewards; 0 community references |
+| 6339 | ![](../../../assets/icons/objects/6339.webp){ .lu-ti width="24" loading="lazy" } [NPC Space chestpiece (LOT 6339)](../6339.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 10476 | ![](../../../assets/icons/objects/10476.webp){ .lu-ti width="24" loading="lazy" } [NPC Strombie Backpack (LOT 10476)](../10476.md) | 1 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 5687 | ![](../../../assets/icons/objects/5687.webp){ .lu-ti width="24" loading="lazy" } [NPC Sword - Back Slung (LOT 5687)](../5687.md) | 5 | Large sword worn on the Minifigure's back | 0 matrices; 0 rewards; 0 community references |
+| 12129 | ![](../../../assets/icons/objects/12129.webp){ .lu-ti width="24" loading="lazy" } [NPC Toy Assember Back Crank (LOT 12129)](../12129.md) | 5 | NPC Toy Assember Back Crank | 0 matrices; 0 rewards; 0 community references |
+| 13115 | ![](../../../assets/icons/objects/13115.webp){ .lu-ti width="24" loading="lazy" } [NPC Vendor Backpack (LOT 13115)](../13115.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 7111 | ![](../../../assets/icons/objects/7111.webp){ .lu-ti width="24" loading="lazy" } [NPC Venture Grunt Breastplate (LOT 7111)](../7111.md) | 5 | NPC Chest piece | 0 matrices; 0 rewards; 0 community references |
+| 12623 | ![](../../../assets/icons/objects/12623.webp){ .lu-ti width="24" loading="lazy" } [NPC Venture Scout Armor (LOT 12623)](../12623.md) | 5 | Venture Scout Armor | 0 matrices; 0 rewards; 0 community references |
+| 12130 | ![](../../../assets/icons/objects/12130.webp){ .lu-ti width="24" loading="lazy" } [NPC Wen Whatzit Clock Armor (LOT 12130)](../12130.md) | 5 | NPC Wen Whatzit Clock Armor | 0 matrices; 0 rewards; 0 community references |
+| 8287 | ![](../../../assets/icons/objects/8287.webp){ .lu-ti width="24" loading="lazy" } [NPC Wisp Lee Scarf (LOT 8287)](../8287.md) | 1 | NPC Wisp Lee Scarf | 0 matrices; 0 rewards; 0 community references |
+| 8639 | ![](../../../assets/icons/objects/8639.webp){ .lu-ti width="24" loading="lazy" } [Obsidian Armor (LOT 8639)](../8639.md) | 2 | No client description | 1 matrices; 0 rewards; 1 community references |
+| 14088 | ![](../../../assets/icons/objects/14088.webp){ .lu-ti width="24" loading="lazy" } [Obsolete NJ SJ Whirlwind Earth equiped (LOT 14088)](../14088.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 12470 | ![](../../../assets/icons/objects/12470.webp){ .lu-ti width="24" loading="lazy" } [Obsolete NJ SJ Whirlwind Imagination (LOT 12470)](../12470.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 14813 | ![](../../../assets/icons/objects/14813.webp){ .lu-ti width="24" loading="lazy" } [Orange Cape (LOT 14813)](../14813.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
+| 9805 | ![](../../../assets/icons/objects/9805.webp){ .lu-ti width="24" loading="lazy" } [Orange Oxygen Bottles (LOT 9805)](../9805.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 6856 | ![](../../../assets/icons/objects/6856.webp){ .lu-ti width="24" loading="lazy" } [Orange Shoulder Parrot (LOT 6856)](../6856.md) | 3 | No client description | 8 matrices; 0 rewards; 1 community references |
+| 14326 | ![](../../../assets/icons/objects/14326.webp){ .lu-ti width="24" loading="lazy" } [Paradox Gear - Space Marauder - shoulder proxy (LOT 14326)](../14326.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 14809 | ![](../../../assets/icons/objects/14809.webp){ .lu-ti width="24" loading="lazy" } [Pink Cape (LOT 14809)](../14809.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
+| 8638 | ![](../../../assets/icons/objects/8638.webp){ .lu-ti width="24" loading="lazy" } [Powered Armor (LOT 8638)](../8638.md) | 3 | No client description | 11 matrices; 0 rewards; 1 community references |
 | 8302 | [Property Claim Marker (LOT 8302)](../8302.md) | 5 | claim marker in property | 0 matrices; 0 rewards; 0 community references |
-| 14814 | [Purple Cape (LOT 14814)](../14814.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
-| 6600 | [PvP Carry Barrel (LOT 6600)](../6600.md) | 5 | Carried by the player during a Siege match | 0 matrices; 0 rewards; 0 community references |
-| 8533 | [Quiver (LOT 8533)](../8533.md) | 4 | No client description | 9 matrices; 0 rewards; 0 community references |
-| 14805 | [Red Cape (LOT 14805)](../14805.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
-| 7570 | [Red Shoulder Parrot (LOT 7570)](../7570.md) | 4 | No client description | 9 matrices; 0 rewards; 1 community references |
-| 8458 | [Samurai Shoulderpads 2 (LOT 8458)](../8458.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 7539 | [Samurai Shoulderpads 3 (LOT 7539)](../7539.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 12992 | [Samurai Shoulderpads 3 (LOT 12992)](../12992.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 15993 | [Scale Mail (LOT 15993)](../15993.md) | 3 | No client description | 0 matrices; 1 rewards; 1 community references |
-| 13548 | [Sentinel Box Disguise (LOT 13548)](../13548.md) | 2 | No client description | 1 matrices; 0 rewards; 0 community references |
-| 14320 | [Sentinel Gear - Knight - shoulder proxy (LOT 14320)](../14320.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 13617 | [Shard Armor (LOT 13617)](../13617.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
-| 15994 | [Shimmering O-Yoroi (LOT 15994)](../15994.md) | 4 | No client description | 27 matrices; 0 rewards; 1 community references |
-| 8461 | [Shinobi Shoulderpads 2 (LOT 8461)](../8461.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 7541 | [Shinobi Shoulderpads 3 (LOT 7541)](../7541.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 12290 | [Snow Parka Back/Neck Proxy (LOT 12290)](../12290.md) | 2 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 8459 | [Sorcerer Shoulderpads 2 (LOT 8459)](../8459.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 7415 | [Sorcerer Shoulderpads 3 (LOT 7415)](../7415.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 12989 | [Sorcerer Shoulderpads 3 (LOT 12989)](../12989.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 8460 | [Space Marauder Shoulderpads 2 (LOT 8460)](../8460.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 7540 | [Space Marauder Shoulderpads 3 (LOT 7540)](../7540.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 12991 | [Space Marauder Shoulderpads 3 (LOT 12991)](../12991.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 8457 | [Space Ranger Pack 2 (LOT 8457)](../8457.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 7538 | [Space Ranger Pack 3 (LOT 7538)](../7538.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 15957 | [Spear Proxy Ninjago (LOT 15957)](../15957.md) | 4 | Spear Proxy Ninjago | 0 matrices; 0 rewards; 0 community references |
-| 8464 | [Summoner Shoulderpads 2 (LOT 8464)](../8464.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 7555 | [Summoner Shoulderpads 3 (LOT 7555)](../7555.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 12923 | [Summoner Shoulderpads 3 (LOT 12923)](../12923.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
-| 8537 | [Tech Armor (LOT 8537)](../8537.md) | 2 | No client description | 18 matrices; 0 rewards; 1 community references |
-| 9864 | [Test Blue Cape (LOT 9864)](../9864.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 14484 | [TEST Bone Axe Proxy (LOT 14484)](../14484.md) | 5 | Bone Axe Proxy | 0 matrices; 0 rewards; 0 community references |
-| 7150 | [Test Breastplate of Gravity (LOT 7150)](../7150.md) | 5 | TEST Chest piece | 0 matrices; 0 rewards; 0 community references |
-| 7690 | [Test Breastplate of Scripting (LOT 7690)](../7690.md) | 5 | TEST Chest piece for scripting exploration | 0 matrices; 0 rewards; 0 community references |
-| 7148 | [Test Breastplate of Taunting (LOT 7148)](../7148.md) | 5 | TEST Chest piece | 0 matrices; 0 rewards; 0 community references |
-| 9869 | [Test Cape (LOT 9869)](../9869.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 9870 | [Test Cape (LOT 9870)](../9870.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 9871 | [Test Cape (LOT 9871)](../9871.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 9872 | [Test Cape (LOT 9872)](../9872.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
-| 9873 | [Test Cape (LOT 9873)](../9873.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 14814 | ![](../../../assets/icons/objects/14814.webp){ .lu-ti width="24" loading="lazy" } [Purple Cape (LOT 14814)](../14814.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
+| 6600 | ![](../../../assets/icons/objects/6600.webp){ .lu-ti width="24" loading="lazy" } [PvP Carry Barrel (LOT 6600)](../6600.md) | 5 | Carried by the player during a Siege match | 0 matrices; 0 rewards; 0 community references |
+| 8533 | ![](../../../assets/icons/objects/8533.webp){ .lu-ti width="24" loading="lazy" } [Quiver (LOT 8533)](../8533.md) | 4 | No client description | 9 matrices; 0 rewards; 0 community references |
+| 14805 | ![](../../../assets/icons/objects/14805.webp){ .lu-ti width="24" loading="lazy" } [Red Cape (LOT 14805)](../14805.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
+| 7570 | ![](../../../assets/icons/objects/7570.webp){ .lu-ti width="24" loading="lazy" } [Red Shoulder Parrot (LOT 7570)](../7570.md) | 4 | No client description | 9 matrices; 0 rewards; 1 community references |
+| 8458 | ![](../../../assets/icons/objects/8458.webp){ .lu-ti width="24" loading="lazy" } [Samurai Shoulderpads 2 (LOT 8458)](../8458.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 7539 | ![](../../../assets/icons/objects/7539.webp){ .lu-ti width="24" loading="lazy" } [Samurai Shoulderpads 3 (LOT 7539)](../7539.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 12992 | ![](../../../assets/icons/objects/12992.webp){ .lu-ti width="24" loading="lazy" } [Samurai Shoulderpads 3 (LOT 12992)](../12992.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 15993 | ![](../../../assets/icons/objects/15993.webp){ .lu-ti width="24" loading="lazy" } [Scale Mail (LOT 15993)](../15993.md) | 3 | No client description | 0 matrices; 1 rewards; 1 community references |
+| 13548 | ![](../../../assets/icons/objects/13548.webp){ .lu-ti width="24" loading="lazy" } [Sentinel Box Disguise (LOT 13548)](../13548.md) | 2 | No client description | 1 matrices; 0 rewards; 0 community references |
+| 14320 | ![](../../../assets/icons/objects/14320.webp){ .lu-ti width="24" loading="lazy" } [Sentinel Gear - Knight - shoulder proxy (LOT 14320)](../14320.md) | 4 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 13617 | ![](../../../assets/icons/objects/13617.webp){ .lu-ti width="24" loading="lazy" } [Shard Armor (LOT 13617)](../13617.md) | 4 | No client description | 1 matrices; 0 rewards; 1 community references |
+| 15994 | ![](../../../assets/icons/objects/15994.webp){ .lu-ti width="24" loading="lazy" } [Shimmering O-Yoroi (LOT 15994)](../15994.md) | 4 | No client description | 27 matrices; 0 rewards; 1 community references |
+| 8461 | ![](../../../assets/icons/objects/8461.webp){ .lu-ti width="24" loading="lazy" } [Shinobi Shoulderpads 2 (LOT 8461)](../8461.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 7541 | ![](../../../assets/icons/objects/7541.webp){ .lu-ti width="24" loading="lazy" } [Shinobi Shoulderpads 3 (LOT 7541)](../7541.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 12290 | ![](../../../assets/icons/objects/12290.webp){ .lu-ti width="24" loading="lazy" } [Snow Parka Back/Neck Proxy (LOT 12290)](../12290.md) | 2 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 8459 | ![](../../../assets/icons/objects/8459.webp){ .lu-ti width="24" loading="lazy" } [Sorcerer Shoulderpads 2 (LOT 8459)](../8459.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 7415 | ![](../../../assets/icons/objects/7415.webp){ .lu-ti width="24" loading="lazy" } [Sorcerer Shoulderpads 3 (LOT 7415)](../7415.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 12989 | ![](../../../assets/icons/objects/12989.webp){ .lu-ti width="24" loading="lazy" } [Sorcerer Shoulderpads 3 (LOT 12989)](../12989.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 8460 | ![](../../../assets/icons/objects/8460.webp){ .lu-ti width="24" loading="lazy" } [Space Marauder Shoulderpads 2 (LOT 8460)](../8460.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 7540 | ![](../../../assets/icons/objects/7540.webp){ .lu-ti width="24" loading="lazy" } [Space Marauder Shoulderpads 3 (LOT 7540)](../7540.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 12991 | ![](../../../assets/icons/objects/12991.webp){ .lu-ti width="24" loading="lazy" } [Space Marauder Shoulderpads 3 (LOT 12991)](../12991.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 8457 | ![](../../../assets/icons/objects/8457.webp){ .lu-ti width="24" loading="lazy" } [Space Ranger Pack 2 (LOT 8457)](../8457.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 7538 | ![](../../../assets/icons/objects/7538.webp){ .lu-ti width="24" loading="lazy" } [Space Ranger Pack 3 (LOT 7538)](../7538.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 15957 | ![](../../../assets/icons/objects/15957.webp){ .lu-ti width="24" loading="lazy" } [Spear Proxy Ninjago (LOT 15957)](../15957.md) | 4 | Spear Proxy Ninjago | 0 matrices; 0 rewards; 0 community references |
+| 8464 | ![](../../../assets/icons/objects/8464.webp){ .lu-ti width="24" loading="lazy" } [Summoner Shoulderpads 2 (LOT 8464)](../8464.md) | 4 | Rank 2 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 7555 | ![](../../../assets/icons/objects/7555.webp){ .lu-ti width="24" loading="lazy" } [Summoner Shoulderpads 3 (LOT 7555)](../7555.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 12923 | ![](../../../assets/icons/objects/12923.webp){ .lu-ti width="24" loading="lazy" } [Summoner Shoulderpads 3 (LOT 12923)](../12923.md) | 4 | Rank 3 Specialty Kit Item | 1 matrices; 0 rewards; 0 community references |
+| 8537 | ![](../../../assets/icons/objects/8537.webp){ .lu-ti width="24" loading="lazy" } [Tech Armor (LOT 8537)](../8537.md) | 2 | No client description | 18 matrices; 0 rewards; 1 community references |
+| 9864 | ![](../../../assets/icons/objects/9864.webp){ .lu-ti width="24" loading="lazy" } [Test Blue Cape (LOT 9864)](../9864.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 14484 | ![](../../../assets/icons/objects/14484.webp){ .lu-ti width="24" loading="lazy" } [TEST Bone Axe Proxy (LOT 14484)](../14484.md) | 5 | Bone Axe Proxy | 0 matrices; 0 rewards; 0 community references |
+| 7150 | ![](../../../assets/icons/objects/7150.webp){ .lu-ti width="24" loading="lazy" } [Test Breastplate of Gravity (LOT 7150)](../7150.md) | 5 | TEST Chest piece | 0 matrices; 0 rewards; 0 community references |
+| 7690 | ![](../../../assets/icons/objects/7690.webp){ .lu-ti width="24" loading="lazy" } [Test Breastplate of Scripting (LOT 7690)](../7690.md) | 5 | TEST Chest piece for scripting exploration | 0 matrices; 0 rewards; 0 community references |
+| 7148 | ![](../../../assets/icons/objects/7148.webp){ .lu-ti width="24" loading="lazy" } [Test Breastplate of Taunting (LOT 7148)](../7148.md) | 5 | TEST Chest piece | 0 matrices; 0 rewards; 0 community references |
+| 9869 | ![](../../../assets/icons/objects/9869.webp){ .lu-ti width="24" loading="lazy" } [Test Cape (LOT 9869)](../9869.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 9870 | ![](../../../assets/icons/objects/9870.webp){ .lu-ti width="24" loading="lazy" } [Test Cape (LOT 9870)](../9870.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 9871 | ![](../../../assets/icons/objects/9871.webp){ .lu-ti width="24" loading="lazy" } [Test Cape (LOT 9871)](../9871.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 9872 | ![](../../../assets/icons/objects/9872.webp){ .lu-ti width="24" loading="lazy" } [Test Cape (LOT 9872)](../9872.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |
+| 9873 | ![](../../../assets/icons/objects/9873.webp){ .lu-ti width="24" loading="lazy" } [Test Cape (LOT 9873)](../9873.md) | 5 | No client description | 0 matrices; 0 rewards; 0 community references |

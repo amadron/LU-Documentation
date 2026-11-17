@@ -14,9 +14,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Shark Rocket Nose Cone (LOT 14692)](../14692.md) | 100%; mean 1 | Not associated with a vendor |
-| [Shark Rocket Cockpit (LOT 14693)](../14693.md) | 100%; mean 1 | Not associated with a vendor |
-| [Shark Rocket Engine (LOT 14694)](../14694.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/14692.webp){ .lu-ti width="24" loading="lazy" } [Shark Rocket Nose Cone (LOT 14692)](../14692.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/14693.webp){ .lu-ti width="24" loading="lazy" } [Shark Rocket Cockpit (LOT 14693)](../14693.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/14694.webp){ .lu-ti width="24" loading="lazy" } [Shark Rocket Engine (LOT 14694)](../14694.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

@@ -12,7 +12,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Tipper Body 4x6-Base (LOT 356)](../356.md) | 100%; mean 2 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/356.webp){ .lu-ti width="24" loading="lazy" } [Tipper Body 4x6-Base (LOT 356)](../356.md) | 100%; mean 2 | Not associated with a vendor |
 
 ## Raw matrix entries
 

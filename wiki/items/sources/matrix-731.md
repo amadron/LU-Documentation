@@ -14,8 +14,8 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Dino-Pack (LOT 11286)](../11286.md) | 100%; mean 1 | Not associated with a vendor |
-| [Ultra Bag of Faction Tokens (LOT 14126)](../14126.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11286.webp){ .lu-ti width="24" loading="lazy" } [Dino-Pack (LOT 11286)](../11286.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/14126.webp){ .lu-ti width="24" loading="lazy" } [Ultra Bag of Faction Tokens (LOT 14126)](../14126.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

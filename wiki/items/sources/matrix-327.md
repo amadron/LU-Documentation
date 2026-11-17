@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Bolt Ox Front Bumper 2 (LOT 9376)](../9376.md) | 10%; mean 0.1 | Not associated with a vendor |
-| [Bolt Ox Engine Panel 2 (LOT 9385)](../9385.md) | 100%; mean 1 | Not associated with a vendor |
-| [Bolt Ox Side Panels 2 (LOT 9395)](../9395.md) | 100%; mean 1 | Not associated with a vendor |
-| [Bolt Ox Rear Panel (LOT 9400)](../9400.md) | 100%; mean 1 | Not associated with a vendor |
-| [Bolt Ox Rear Bumper 2 (LOT 9403)](../9403.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9376.webp){ .lu-ti width="24" loading="lazy" } [Bolt Ox Front Bumper 2 (LOT 9376)](../9376.md) | 10%; mean 0.1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9385.webp){ .lu-ti width="24" loading="lazy" } [Bolt Ox Engine Panel 2 (LOT 9385)](../9385.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9395.webp){ .lu-ti width="24" loading="lazy" } [Bolt Ox Side Panels 2 (LOT 9395)](../9395.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9400.webp){ .lu-ti width="24" loading="lazy" } [Bolt Ox Rear Panel (LOT 9400)](../9400.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9403.webp){ .lu-ti width="24" loading="lazy" } [Bolt Ox Rear Bumper 2 (LOT 9403)](../9403.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

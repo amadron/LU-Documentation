@@ -14,10 +14,10 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Skeleton Ziggurat Model (LOT 12495)](../12495.md) | 100%; mean 1 | Not associated with a vendor |
-| [Skeleton Watchtower Wall Model (LOT 12496)](../12496.md) | 100%; mean 1 | Not associated with a vendor |
-| [Skeleton Corner Wall Model (LOT 12497)](../12497.md) | 100%; mean 1 | Not associated with a vendor |
-| [Skeleton Wall Model (LOT 12498)](../12498.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12495.webp){ .lu-ti width="24" loading="lazy" } [Skeleton Ziggurat Model (LOT 12495)](../12495.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12496.webp){ .lu-ti width="24" loading="lazy" } [Skeleton Watchtower Wall Model (LOT 12496)](../12496.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12497.webp){ .lu-ti width="24" loading="lazy" } [Skeleton Corner Wall Model (LOT 12497)](../12497.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12498.webp){ .lu-ti width="24" loading="lazy" } [Skeleton Wall Model (LOT 12498)](../12498.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

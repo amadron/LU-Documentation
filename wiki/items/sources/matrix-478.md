@@ -14,8 +14,8 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Red Soccer Shirt (LOT 8605)](../8605.md) | 100%; mean 1 | Not associated with a vendor |
-| [Pavilion Model (LOT 9489)](../9489.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/8605.webp){ .lu-ti width="24" loading="lazy" } [Red Soccer Shirt (LOT 8605)](../8605.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9489.webp){ .lu-ti width="24" loading="lazy" } [Pavilion Model (LOT 9489)](../9489.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

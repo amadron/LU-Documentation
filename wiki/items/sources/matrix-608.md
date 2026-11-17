@@ -14,14 +14,14 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Doom Star Module Model 7 (LOT 11673)](../11673.md) | 100%; mean 1 | Not associated with a vendor |
-| [Doom Star Module Model 8 (LOT 11674)](../11674.md) | 100%; mean 1 | Not associated with a vendor |
-| [Doom Star Module Model 9 (LOT 11675)](../11675.md) | 100%; mean 1 | Not associated with a vendor |
-| [Doom Star Module Model 10 (LOT 11676)](../11676.md) | 100%; mean 1 | Not associated with a vendor |
-| [Doom Star Module Model 11 (LOT 11677)](../11677.md) | 100%; mean 1 | Not associated with a vendor |
-| [Doom Star Module Model 12 (LOT 11678)](../11678.md) | 100%; mean 1 | Not associated with a vendor |
-| [Doom Star Trench Model 7 (LOT 11689)](../11689.md) | 100%; mean 1 | Not associated with a vendor |
-| [Doom Star Trench Model 8 (LOT 11690)](../11690.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11673.webp){ .lu-ti width="24" loading="lazy" } [Doom Star Module Model 7 (LOT 11673)](../11673.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11674.webp){ .lu-ti width="24" loading="lazy" } [Doom Star Module Model 8 (LOT 11674)](../11674.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11675.webp){ .lu-ti width="24" loading="lazy" } [Doom Star Module Model 9 (LOT 11675)](../11675.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11676.webp){ .lu-ti width="24" loading="lazy" } [Doom Star Module Model 10 (LOT 11676)](../11676.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11677.webp){ .lu-ti width="24" loading="lazy" } [Doom Star Module Model 11 (LOT 11677)](../11677.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11678.webp){ .lu-ti width="24" loading="lazy" } [Doom Star Module Model 12 (LOT 11678)](../11678.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11689.webp){ .lu-ti width="24" loading="lazy" } [Doom Star Trench Model 7 (LOT 11689)](../11689.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/11690.webp){ .lu-ti width="24" loading="lazy" } [Doom Star Trench Model 8 (LOT 11690)](../11690.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

@@ -12,9 +12,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Hood of Quakes (LOT 14136)](../14136.md) | 100%; mean 1 | Not associated with a vendor |
-| [Pants of Quakes (LOT 14172)](../14172.md) | 100%; mean 1 | Not associated with a vendor |
-| [Gi of Quakes (LOT 14173)](../14173.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/14136.webp){ .lu-ti width="24" loading="lazy" } [Hood of Quakes (LOT 14136)](../14136.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/14172.webp){ .lu-ti width="24" loading="lazy" } [Pants of Quakes (LOT 14172)](../14172.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/14173.webp){ .lu-ti width="24" loading="lazy" } [Gi of Quakes (LOT 14173)](../14173.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

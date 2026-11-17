@@ -12,9 +12,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Gi of Frost (LOT 16267)](../16267.md) | 100%; mean 1 | Not associated with a vendor |
-| [Pants of Frost (LOT 16270)](../16270.md) | 100%; mean 1 | Not associated with a vendor |
-| [Hood of Frost (LOT 16276)](../16276.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/16267.webp){ .lu-ti width="24" loading="lazy" } [Gi of Frost (LOT 16267)](../16267.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/16270.webp){ .lu-ti width="24" loading="lazy" } [Pants of Frost (LOT 16270)](../16270.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/16276.webp){ .lu-ti width="24" loading="lazy" } [Hood of Frost (LOT 16276)](../16276.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

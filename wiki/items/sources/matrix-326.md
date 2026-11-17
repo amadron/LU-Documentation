@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Burst Tamale Front Bumper (LOT 9435)](../9435.md) | 100%; mean 1 | Not associated with a vendor |
-| [Burst Tamale Engine Panel (LOT 9438)](../9438.md) | 100%; mean 1 | Not associated with a vendor |
-| [Burst Tamale Side Panels (LOT 9441)](../9441.md) | 100%; mean 1 | Not associated with a vendor |
-| [Burst Tamale Rear Panel (LOT 9444)](../9444.md) | 100%; mean 1 | Not associated with a vendor |
-| [Burst Tamale Rear Bumper (LOT 9447)](../9447.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9435.webp){ .lu-ti width="24" loading="lazy" } [Burst Tamale Front Bumper (LOT 9435)](../9435.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9438.webp){ .lu-ti width="24" loading="lazy" } [Burst Tamale Engine Panel (LOT 9438)](../9438.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9441.webp){ .lu-ti width="24" loading="lazy" } [Burst Tamale Side Panels (LOT 9441)](../9441.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9444.webp){ .lu-ti width="24" loading="lazy" } [Burst Tamale Rear Panel (LOT 9444)](../9444.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/9447.webp){ .lu-ti width="24" loading="lazy" } [Burst Tamale Rear Bumper (LOT 9447)](../9447.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

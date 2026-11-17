@@ -15,7 +15,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Plate 1x8 (LOT 58)](../58.md) | 100%; mean 5 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/58.webp){ .lu-ti width="24" loading="lazy" } [Plate 1x8 (LOT 58)](../58.md) | 100%; mean 5 | Not associated with a vendor |
 
 ## Raw matrix entries
 

@@ -14,7 +14,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Assembly Package (LOT 7610)](../7610.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/7610.webp){ .lu-ti width="24" loading="lazy" } [Assembly Package (LOT 7610)](../7610.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

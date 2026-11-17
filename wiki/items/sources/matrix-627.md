@@ -14,9 +14,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Morbid Orbit Rocket Cockpit (LOT 12839)](../12839.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
-| [Starskull Rocket Cockpit (LOT 12849)](../12849.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
-| [Terror Comet Rocket Cockpit (LOT 12852)](../12852.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12839.webp){ .lu-ti width="24" loading="lazy" } [Morbid Orbit Rocket Cockpit (LOT 12839)](../12839.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12849.webp){ .lu-ti width="24" loading="lazy" } [Starskull Rocket Cockpit (LOT 12849)](../12849.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/12852.webp){ .lu-ti width="24" loading="lazy" } [Terror Comet Rocket Cockpit (LOT 12852)](../12852.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
 
 ## Raw matrix entries
 

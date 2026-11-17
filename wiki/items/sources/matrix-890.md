@@ -12,9 +12,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| [Gi of Flames (LOT 16268)](../16268.md) | 100%; mean 1 | Not associated with a vendor |
-| [Pants of Flames (LOT 16271)](../16271.md) | 100%; mean 1 | Not associated with a vendor |
-| [Hood of Flames (LOT 16277)](../16277.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/16268.webp){ .lu-ti width="24" loading="lazy" } [Gi of Flames (LOT 16268)](../16268.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/16271.webp){ .lu-ti width="24" loading="lazy" } [Pants of Flames (LOT 16271)](../16271.md) | 100%; mean 1 | Not associated with a vendor |
+| ![](../../../assets/icons/objects/16277.webp){ .lu-ti width="24" loading="lazy" } [Hood of Flames (LOT 16277)](../16277.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 
