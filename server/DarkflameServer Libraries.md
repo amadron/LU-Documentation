@@ -38,6 +38,19 @@ Checked against DarkflameServer revision
 | [libbacktrace](https://github.com/ianlancetaylor/libbacktrace) | Latest at build time | Optional download (Linux, `INCLUDE_BACKTRACE`) | Readable stack traces in crash logs |
 | `dl`, `pthread` | System | Linked on Linux/macOS | Dynamic loading and threads |
 
+## Source code availability
+
+All libraries the server uses are open source; that is why DarkflameServer can ship them in its
+repository or download them while building. The one special case is **RakNet**: the server uses
+a modified copy of version 3.25 kept in `thirdparty/raknet`, chosen for compatibility with the
+game client. RakNet was released as open source under a BSD license by Oculus in 2014
+([repository](https://github.com/facebookarchive/RakNet)), but that release is the later 4.x
+line; the 3.x versions were originally distributed under the license terms of their time. See
+the license notes in `thirdparty/raknet`.
+
+The [client libraries page](../LEGO%20Universe%20Client%20Libraries.md#source-code-availability)
+lists which client components are open source and which open alternatives exist.
+
 ## Notes
 
 - **No physics engine.** The original client uses Havok (see the
