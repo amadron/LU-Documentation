@@ -16,9 +16,11 @@ import xml.etree.ElementTree as ET
 from collections import defaultdict
 from pathlib import Path
 
+import game_paths  # location of the unmodified game data
+
 
 ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_LOCALE = ROOT.parent / "client" / "locale" / "locale.xml"
+DEFAULT_LOCALE = game_paths.LOCALE
 SKILL_KEY = re.compile(r"SkillBehavior_(\d+)_(name|descriptionUI)$")
 # Labels for the tokens in client tooltips such as "%(DamageCombo) 1+2+3 %(ChargeUp)...".
 # AltCombo values appear on Ninjago-era equipment and Spinjitzu skills; the client rollover labels that line

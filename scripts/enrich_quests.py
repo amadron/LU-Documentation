@@ -35,11 +35,13 @@ import sys
 import xml.etree.ElementTree as ET
 from collections import Counter, defaultdict
 
+import game_paths  # location of the unmodified game data
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 DEFAULT_QUESTS = os.path.join(REPO, "wiki", "quests")
-DEFAULT_LOCALE = os.path.join(os.path.dirname(REPO), "client", "locale", "locale.xml")
-DEFAULT_DB = os.path.join(os.path.dirname(REPO), "server", "resServer", "CDServer.sqlite")
+DEFAULT_LOCALE = str(game_paths.LOCALE)
+DEFAULT_DB = str(game_paths.CDSERVER_DB)
 
 LOCALE = "en_US"
 

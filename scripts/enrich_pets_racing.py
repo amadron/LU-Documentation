@@ -33,10 +33,12 @@ import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
+import game_paths  # location of the unmodified game data
+
 ROOT = Path(__file__).resolve().parents[1]
 WIKI = ROOT / "wiki"
-DEFAULT_LOCALE = ROOT.parent / "client" / "locale" / "locale.xml"
-DEFAULT_DB = ROOT.parent / "server" / "resServer" / "CDServer.sqlite"
+DEFAULT_LOCALE = game_paths.LOCALE
+DEFAULT_DB = game_paths.CDSERVER_DB
 
 # Characters that Markdown could interpret inside table cells or link labels.
 _ESCAPES = {"\\": "&#92;", "*": "&#42;", "_": "&#95;", "[": "&#91;", "]": "&#93;",

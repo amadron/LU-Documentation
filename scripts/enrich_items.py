@@ -34,11 +34,13 @@ import sqlite3
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
+import game_paths  # location of the unmodified game data
+
 ROOT = Path(__file__).resolve().parent.parent
 GAME_ROOT = ROOT.parent
 ITEMS = ROOT / "wiki" / "items"
-DEFAULT_LOCALE = GAME_ROOT / "client" / "locale" / "locale.xml"
-DEFAULT_DB = GAME_ROOT / "server" / "resServer" / "CDServer.sqlite"
+DEFAULT_LOCALE = game_paths.LOCALE
+DEFAULT_DB = game_paths.CDSERVER_DB
 
 # Custom development content that must never appear in the generated database.
 IGNORED_LOTS = {16900}

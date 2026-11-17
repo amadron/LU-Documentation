@@ -19,11 +19,13 @@ import sqlite3
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
+import game_paths  # location of the unmodified game data
+
 
 ROOT = Path(__file__).resolve().parents[1]
 GAME_ROOT = ROOT.parent
-DEFAULT_LOCALE = GAME_ROOT / "client" / "locale" / "locale.xml"
-DEFAULT_DB = GAME_ROOT / "server" / "resServer" / "CDServer.sqlite"
+DEFAULT_LOCALE = game_paths.LOCALE
+DEFAULT_DB = game_paths.CDSERVER_DB
 
 # (zoneID, fallback name, kind). Names are replaced by the official English
 # client string when one exists. Excluded on purpose: test/dev maps, the
