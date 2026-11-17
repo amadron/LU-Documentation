@@ -16,12 +16,12 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/15937.webp){ .lu-ti width="24" loading="lazy" } [Ki Filled Hood (LOT 15937)](../15937.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/16082.webp){ .lu-ti width="24" loading="lazy" } [Faded Kosode (LOT 16082)](../16082.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/16083.webp){ .lu-ti width="24" loading="lazy" } [Dark Kosode (LOT 16083)](../16083.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/16084.webp){ .lu-ti width="24" loading="lazy" } [Common Kosode (LOT 16084)](../16084.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/16118.webp){ .lu-ti width="24" loading="lazy" } [Common Kosode Pants (LOT 16118)](../16118.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/16119.webp){ .lu-ti width="24" loading="lazy" } [Dark Kosode Pants (LOT 16119)](../16119.md) | Undefined for generic loot: reversed count range | 100% |
+| [Ki Filled Hood (LOT 15937)](../15937.md) | Undefined for generic loot: reversed count range | 100% |
+| [Faded Kosode (LOT 16082)](../16082.md) | Undefined for generic loot: reversed count range | 100% |
+| [Dark Kosode (LOT 16083)](../16083.md) | Undefined for generic loot: reversed count range | 100% |
+| [Common Kosode (LOT 16084)](../16084.md) | Undefined for generic loot: reversed count range | 100% |
+| [Common Kosode Pants (LOT 16118)](../16118.md) | Undefined for generic loot: reversed count range | 100% |
+| [Dark Kosode Pants (LOT 16119)](../16119.md) | Undefined for generic loot: reversed count range | 100% |
 
 ## Raw matrix entries
 

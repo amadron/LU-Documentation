@@ -15,11 +15,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/8600.webp){ .lu-ti width="24" loading="lazy" } [Old Skool Shirt (LOT 8600)](../8600.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11695.webp){ .lu-ti width="24" loading="lazy" } [Farm Barn Back Model (LOT 11695)](../11695.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11696.webp){ .lu-ti width="24" loading="lazy" } [Farm Barn Front Model (LOT 11696)](../11696.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11697.webp){ .lu-ti width="24" loading="lazy" } [Farm Barn Middle Model (LOT 11697)](../11697.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11711.webp){ .lu-ti width="24" loading="lazy" } [Farm Silo Model 1 (LOT 11711)](../11711.md) | 100%; mean 1 | Not associated with a vendor |
+| [Old Skool Shirt (LOT 8600)](../8600.md) | 100%; mean 1 | Not associated with a vendor |
+| [Farm Barn Back Model (LOT 11695)](../11695.md) | 100%; mean 1 | Not associated with a vendor |
+| [Farm Barn Front Model (LOT 11696)](../11696.md) | 100%; mean 1 | Not associated with a vendor |
+| [Farm Barn Middle Model (LOT 11697)](../11697.md) | 100%; mean 1 | Not associated with a vendor |
+| [Farm Silo Model 1 (LOT 11711)](../11711.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

@@ -14,9 +14,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/9696.webp){ .lu-ti width="24" loading="lazy" } [Nexus Astronaut Shirt (LOT 9696)](../9696.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/9806.webp){ .lu-ti width="24" loading="lazy" } [Nexus Astronaut Helmet (LOT 9806)](../9806.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/9961.webp){ .lu-ti width="24" loading="lazy" } [Nexus Astronaut Pants (LOT 9961)](../9961.md) | 100%; mean 1 | Not associated with a vendor |
+| [Nexus Astronaut Shirt (LOT 9696)](../9696.md) | 100%; mean 1 | Not associated with a vendor |
+| [Nexus Astronaut Helmet (LOT 9806)](../9806.md) | 100%; mean 1 | Not associated with a vendor |
+| [Nexus Astronaut Pants (LOT 9961)](../9961.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

@@ -14,13 +14,13 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/11733.webp){ .lu-ti width="24" loading="lazy" } [Micro City Block 2 Model (LOT 11733)](../11733.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11738.webp){ .lu-ti width="24" loading="lazy" } [Micro City Block Corner 3 Model (LOT 11738)](../11738.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11743.webp){ .lu-ti width="24" loading="lazy" } [Micro City House 2 Model (LOT 11743)](../11743.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11747.webp){ .lu-ti width="24" loading="lazy" } [Micro City Town Hall Model (LOT 11747)](../11747.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11751.webp){ .lu-ti width="24" loading="lazy" } [Micro City Statue Model (LOT 11751)](../11751.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11767.webp){ .lu-ti width="24" loading="lazy" } [Micro City Fire Truck 5 Model (LOT 11767)](../11767.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11770.webp){ .lu-ti width="24" loading="lazy" } [Micro City Semi Truck and Trailer Model (LOT 11770)](../11770.md) | 100%; mean 1 | Not associated with a vendor |
+| [Micro City Block 2 Model (LOT 11733)](../11733.md) | 100%; mean 1 | Not associated with a vendor |
+| [Micro City Block Corner 3 Model (LOT 11738)](../11738.md) | 100%; mean 1 | Not associated with a vendor |
+| [Micro City House 2 Model (LOT 11743)](../11743.md) | 100%; mean 1 | Not associated with a vendor |
+| [Micro City Town Hall Model (LOT 11747)](../11747.md) | 100%; mean 1 | Not associated with a vendor |
+| [Micro City Statue Model (LOT 11751)](../11751.md) | 100%; mean 1 | Not associated with a vendor |
+| [Micro City Fire Truck 5 Model (LOT 11767)](../11767.md) | 100%; mean 1 | Not associated with a vendor |
+| [Micro City Semi Truck and Trailer Model (LOT 11770)](../11770.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

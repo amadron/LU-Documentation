@@ -111,40 +111,40 @@ These rows use the local CDClient ITEM component and are cross-linked to the ful
 
 | Item type | Local object name | English client name (locale.xml) | Item LOT | Client description |
 | --- | --- | --- | --- | --- |
-| PET&#95;INVENTORY&#95;ITEM | Elephant Pet | Elephant Pet | ![](../../assets/icons/objects/3050.webp){ .lu-ti width="24" loading="lazy" } [LOT 3050](../items/3050.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Cat Pet | Cat Pet | ![](../../assets/icons/objects/3054.webp){ .lu-ti width="24" loading="lazy" } [LOT 3054](../items/3054.md) | Tamable Pet |
-| EGG | Test Terrier Egg | (no client string) | ![](../../assets/icons/objects/3191.webp){ .lu-ti width="24" loading="lazy" } [LOT 3191](../items/3191.md) | no longer used |
-| EGG | Test Reindeer Egg | (no client string) | ![](../../assets/icons/objects/3193.webp){ .lu-ti width="24" loading="lazy" } [LOT 3193](../items/3193.md) | no longer used |
-| PET&#95;INVENTORY&#95;ITEM | Triceratops Pet | Triceratops Pet | ![](../../assets/icons/objects/3195.webp){ .lu-ti width="24" loading="lazy" } [LOT 3195](../items/3195.md) | Tamable Pet |
-| PET&#95;FOOD | Test Pet Food | (no client string) | ![](../../assets/icons/objects/3227.webp){ .lu-ti width="24" loading="lazy" } [LOT 3227](../items/3227.md) | no longer used |
-| PET&#95;INVENTORY&#95;ITEM | Terrier Pet | Terrier Pet | ![](../../assets/icons/objects/3254.webp){ .lu-ti width="24" loading="lazy" } [LOT 3254](../items/3254.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Skunk Pet | Skunk Pet | ![](../../assets/icons/objects/3261.webp){ .lu-ti width="24" loading="lazy" } [LOT 3261](../items/3261.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Lion Pet | Lion Pet | ![](../../assets/icons/objects/3520.webp){ .lu-ti width="24" loading="lazy" } [LOT 3520](../items/3520.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Bunny Pet | Bunny Pet | ![](../../assets/icons/objects/3672.webp){ .lu-ti width="24" loading="lazy" } [LOT 3672](../items/3672.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Elephant Pet | Elephant Pet | [LOT 3050](../items/3050.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Cat Pet | Cat Pet | [LOT 3054](../items/3054.md) | Tamable Pet |
+| EGG | Test Terrier Egg | (no client string) | [LOT 3191](../items/3191.md) | no longer used |
+| EGG | Test Reindeer Egg | (no client string) | [LOT 3193](../items/3193.md) | no longer used |
+| PET&#95;INVENTORY&#95;ITEM | Triceratops Pet | Triceratops Pet | [LOT 3195](../items/3195.md) | Tamable Pet |
+| PET&#95;FOOD | Test Pet Food | (no client string) | [LOT 3227](../items/3227.md) | no longer used |
+| PET&#95;INVENTORY&#95;ITEM | Terrier Pet | Terrier Pet | [LOT 3254](../items/3254.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Skunk Pet | Skunk Pet | [LOT 3261](../items/3261.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Lion Pet | Lion Pet | [LOT 3520](../items/3520.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Bunny Pet | Bunny Pet | [LOT 3672](../items/3672.md) | Tamable Pet |
 | PET&#95;INVENTORY&#95;ITEM | Pet Inventory Item | (no client string) | [LOT 3903](../items/3903.md) | Template object for all tamable pets |
-| PET&#95;INVENTORY&#95;ITEM | Crocodile Pet | Crocodile Pet | ![](../../assets/icons/objects/3994.webp){ .lu-ti width="24" loading="lazy" } [LOT 3994](../items/3994.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Crocodile Pet | Crocodile Pet | [LOT 3994](../items/3994.md) | Tamable Pet |
 | PET&#95;INVENTORY&#95;ITEM | Special Pet | (no client string) | [LOT 4826](../items/4826.md) | Don't use |
-| PET&#95;INVENTORY&#95;ITEM | Doberman Pet | Doberman Pet | ![](../../assets/icons/objects/5635.webp){ .lu-ti width="24" loading="lazy" } [LOT 5635](../items/5635.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Buffalo Pet | Buffalo Pet | ![](../../assets/icons/objects/5636.webp){ .lu-ti width="24" loading="lazy" } [LOT 5636](../items/5636.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Robot Dog Pet | Robot Dog Pet | ![](../../assets/icons/objects/5637.webp){ .lu-ti width="24" loading="lazy" } [LOT 5637](../items/5637.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Red Dragon Pet | Red Dragon Pet | ![](../../assets/icons/objects/5639.webp){ .lu-ti width="24" loading="lazy" } [LOT 5639](../items/5639.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Tortoise Pet | Tortoise Pet | ![](../../assets/icons/objects/5640.webp){ .lu-ti width="24" loading="lazy" } [LOT 5640](../items/5640.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Green Dragon Pet | Green Dragon Pet | ![](../../assets/icons/objects/5641.webp){ .lu-ti width="24" loading="lazy" } [LOT 5641](../items/5641.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Mantis Pet | Mantis Pet | ![](../../assets/icons/objects/5642.webp){ .lu-ti width="24" loading="lazy" } [LOT 5642](../items/5642.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Panda Pet | Panda Pet | ![](../../assets/icons/objects/5643.webp){ .lu-ti width="24" loading="lazy" } [LOT 5643](../items/5643.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Doberman Pet | Doberman Pet | [LOT 5635](../items/5635.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Buffalo Pet | Buffalo Pet | [LOT 5636](../items/5636.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Robot Dog Pet | Robot Dog Pet | [LOT 5637](../items/5637.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Red Dragon Pet | Red Dragon Pet | [LOT 5639](../items/5639.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Tortoise Pet | Tortoise Pet | [LOT 5640](../items/5640.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Green Dragon Pet | Green Dragon Pet | [LOT 5641](../items/5641.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Mantis Pet | Mantis Pet | [LOT 5642](../items/5642.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Panda Pet | Panda Pet | [LOT 5643](../items/5643.md) | Tamable Pet |
 | PET&#95;INVENTORY&#95;ITEM | AG - Min Spec Pets | (no client string) | [LOT 6554](../items/6554.md) | Min spec test |
-| PET&#95;INVENTORY&#95;ITEM | Warthog Pet | Warthog Pet | ![](../../assets/icons/objects/6720.webp){ .lu-ti width="24" loading="lazy" } [LOT 6720](../items/6720.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Goat Pet | Goat Pet | ![](../../assets/icons/objects/7638.webp){ .lu-ti width="24" loading="lazy" } [LOT 7638](../items/7638.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Crab Pet | Crab Pet | ![](../../assets/icons/objects/7694.webp){ .lu-ti width="24" loading="lazy" } [LOT 7694](../items/7694.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Reindeer Pet | Reindeer | ![](../../assets/icons/objects/12294.webp){ .lu-ti width="24" loading="lazy" } [LOT 12294](../items/12294.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Stegosaurus Pet | Stegosaurus Pet | ![](../../assets/icons/objects/12431.webp){ .lu-ti width="24" loading="lazy" } [LOT 12431](../items/12431.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Saber Cat Pet | Saber Cat Pet | ![](../../assets/icons/objects/12432.webp){ .lu-ti width="24" loading="lazy" } [LOT 12432](../items/12432.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Gryphon Pet | Gryphon Pet | ![](../../assets/icons/objects/12433.webp){ .lu-ti width="24" loading="lazy" } [LOT 12433](../items/12433.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Alien Pet | Alien Pet | ![](../../assets/icons/objects/12434.webp){ .lu-ti width="24" loading="lazy" } [LOT 12434](../items/12434.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | TEST Untamable Pet for Property | TEST Shane Pet | ![](../../assets/icons/objects/12806.webp){ .lu-ti width="24" loading="lazy" } [LOT 12806](../items/12806.md) | (blank) |
-| PET&#95;INVENTORY&#95;ITEM | Skeleton Dragon Pet | Skeleton Dragon Pet | ![](../../assets/icons/objects/13067.webp){ .lu-ti width="24" loading="lazy" } [LOT 13067](../items/13067.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | Ninjago Earth Dragon Pet | Earth Dragon Pet | ![](../../assets/icons/objects/16210.webp){ .lu-ti width="24" loading="lazy" } [LOT 16210](../items/16210.md) | Tamable Pet |
-| PET&#95;INVENTORY&#95;ITEM | (missing Objects name) | (no client string) | ![](../../assets/icons/objects/16479.webp){ .lu-ti width="24" loading="lazy" } [LOT 16479](../items/16479.md) | (blank) |
+| PET&#95;INVENTORY&#95;ITEM | Warthog Pet | Warthog Pet | [LOT 6720](../items/6720.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Goat Pet | Goat Pet | [LOT 7638](../items/7638.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Crab Pet | Crab Pet | [LOT 7694](../items/7694.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Reindeer Pet | Reindeer | [LOT 12294](../items/12294.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Stegosaurus Pet | Stegosaurus Pet | [LOT 12431](../items/12431.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Saber Cat Pet | Saber Cat Pet | [LOT 12432](../items/12432.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Gryphon Pet | Gryphon Pet | [LOT 12433](../items/12433.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Alien Pet | Alien Pet | [LOT 12434](../items/12434.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | TEST Untamable Pet for Property | TEST Shane Pet | [LOT 12806](../items/12806.md) | (blank) |
+| PET&#95;INVENTORY&#95;ITEM | Skeleton Dragon Pet | Skeleton Dragon Pet | [LOT 13067](../items/13067.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | Ninjago Earth Dragon Pet | Earth Dragon Pet | [LOT 16210](../items/16210.md) | Tamable Pet |
+| PET&#95;INVENTORY&#95;ITEM | (missing Objects name) | (no client string) | [LOT 16479](../items/16479.md) | (blank) |
 
 
 ### Historical taming prerequisite

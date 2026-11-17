@@ -14,8 +14,8 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/14125.webp){ .lu-ti width="24" loading="lazy" } [Mega Bag of Faction Tokens (LOT 14125)](../14125.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/14562.webp){ .lu-ti width="24" loading="lazy" } [Black Cat's Fish (LOT 14562)](../14562.md) | 100%; mean 1 | Not associated with a vendor |
+| [Mega Bag of Faction Tokens (LOT 14125)](../14125.md) | 100%; mean 1 | Not associated with a vendor |
+| [Black Cat's Fish (LOT 14562)](../14562.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

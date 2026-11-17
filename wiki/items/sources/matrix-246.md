@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/20.webp){ .lu-ti width="24" loading="lazy" } [Rank 1 Buccaneer Book (LOT 20)](../20.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7358.webp){ .lu-ti width="24" loading="lazy" } [Buccaneer Scarf 1 (LOT 7358)](../7358.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7376.webp){ .lu-ti width="24" loading="lazy" } [Buccaneer Shirt 1 (LOT 7376)](../7376.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7388.webp){ .lu-ti width="24" loading="lazy" } [Buccaneer Pantaloons 1 (LOT 7388)](../7388.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7400.webp){ .lu-ti width="24" loading="lazy" } [Buccaneer Pistol &amp; Cutlass 1 (LOT 7400)](../7400.md) | 100%; mean 1 | Not associated with a vendor |
+| [Rank 1 Buccaneer Book (LOT 20)](../20.md) | 100%; mean 1 | Not associated with a vendor |
+| [Buccaneer Scarf 1 (LOT 7358)](../7358.md) | 100%; mean 1 | Not associated with a vendor |
+| [Buccaneer Shirt 1 (LOT 7376)](../7376.md) | 100%; mean 1 | Not associated with a vendor |
+| [Buccaneer Pantaloons 1 (LOT 7388)](../7388.md) | 100%; mean 1 | Not associated with a vendor |
+| [Buccaneer Pistol &amp; Cutlass 1 (LOT 7400)](../7400.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

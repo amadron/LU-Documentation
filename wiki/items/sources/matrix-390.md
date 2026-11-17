@@ -14,9 +14,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/9493.webp){ .lu-ti width="24" loading="lazy" } [Castle Weapon Rack Model (LOT 9493)](../9493.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/9591.webp){ .lu-ti width="24" loading="lazy" } [Medieval Wagon Model (LOT 9591)](../9591.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/9649.webp){ .lu-ti width="24" loading="lazy" } [Medieval Village Forge Model (LOT 9649)](../9649.md) | 100%; mean 1 | Not associated with a vendor |
+| [Castle Weapon Rack Model (LOT 9493)](../9493.md) | 100%; mean 1 | Not associated with a vendor |
+| [Medieval Wagon Model (LOT 9591)](../9591.md) | 100%; mean 1 | Not associated with a vendor |
+| [Medieval Village Forge Model (LOT 9649)](../9649.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

@@ -14,7 +14,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/11291.webp){ .lu-ti width="24" loading="lazy" } [White Top Hat (LOT 11291)](../11291.md) | 0% in the generic loot model | Not associated with a vendor |
+| [White Top Hat (LOT 11291)](../11291.md) | 0% in the generic loot model | Not associated with a vendor |
 | Imagination Powerup 3 points (LOT 11910; not an item registration) | 45%; mean 0.675 | Not associated with a vendor |
 | Armor Powerup 2 points (LOT 11912; not an item registration) | 33%; mean 0.33 | Not associated with a vendor |
 | Life Powerup 2 points (LOT 11915; not an item registration) | 33%; mean 0.33 | Not associated with a vendor |

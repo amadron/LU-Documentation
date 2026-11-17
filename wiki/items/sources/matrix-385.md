@@ -14,8 +14,8 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/9658.webp){ .lu-ti width="24" loading="lazy" } [Castle Small Corner Model (LOT 9658)](../9658.md) | 100%; mean 2 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/9672.webp){ .lu-ti width="24" loading="lazy" } [Castle Medium Straight Wall Model (LOT 9672)](../9672.md) | 100%; mean 2 | Not associated with a vendor |
+| [Castle Small Corner Model (LOT 9658)](../9658.md) | 100%; mean 2 | Not associated with a vendor |
+| [Castle Medium Straight Wall Model (LOT 9672)](../9672.md) | 100%; mean 2 | Not associated with a vendor |
 
 ## Raw matrix entries
 

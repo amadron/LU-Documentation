@@ -14,9 +14,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/14446.webp){ .lu-ti width="24" loading="lazy" } [Classic Blue Rocket Engine (LOT 14446)](../14446.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/14453.webp){ .lu-ti width="24" loading="lazy" } [Classic Pink Rocket Engine (LOT 14453)](../14453.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/14456.webp){ .lu-ti width="24" loading="lazy" } [Classic Yellow Rocket Engine (LOT 14456)](../14456.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
+| [Classic Blue Rocket Engine (LOT 14446)](../14446.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
+| [Classic Pink Rocket Engine (LOT 14453)](../14453.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
+| [Classic Yellow Rocket Engine (LOT 14456)](../14456.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
 
 ## Raw matrix entries
 

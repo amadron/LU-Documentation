@@ -16,18 +16,18 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/13590.webp){ .lu-ti width="24" loading="lazy" } [Nexus Dropship Rocket Nose Cone (LOT 13590)](../13590.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/13591.webp){ .lu-ti width="24" loading="lazy" } [Nexus Dropship Rocket Cockpit (LOT 13591)](../13591.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/13592.webp){ .lu-ti width="24" loading="lazy" } [Nexus Dropship Rocket Engine (LOT 13592)](../13592.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/13593.webp){ .lu-ti width="24" loading="lazy" } [Nexus Tower Rocket Nose Cone (LOT 13593)](../13593.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/13594.webp){ .lu-ti width="24" loading="lazy" } [Nexus Tower Rocket Cockpit (LOT 13594)](../13594.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/13595.webp){ .lu-ti width="24" loading="lazy" } [Nexus Tower Rocket Engine (LOT 13595)](../13595.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/13596.webp){ .lu-ti width="24" loading="lazy" } [Venture Koi Rocket Nose Cone (LOT 13596)](../13596.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/13597.webp){ .lu-ti width="24" loading="lazy" } [Venture Koi Rocket Cockpit (LOT 13597)](../13597.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/13598.webp){ .lu-ti width="24" loading="lazy" } [Venture Koi Rocket Engine (LOT 13598)](../13598.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/14310.webp){ .lu-ti width="24" loading="lazy" } [Musclenaut GT Rocket Nose Cone (LOT 14310)](../14310.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/14311.webp){ .lu-ti width="24" loading="lazy" } [Musclenaut GT Rocket Cockpit (LOT 14311)](../14311.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/14312.webp){ .lu-ti width="24" loading="lazy" } [Musclenaut GT Rocket Engine (LOT 14312)](../14312.md) | Undefined for generic loot: reversed count range | 100% |
+| [Nexus Dropship Rocket Nose Cone (LOT 13590)](../13590.md) | Undefined for generic loot: reversed count range | 100% |
+| [Nexus Dropship Rocket Cockpit (LOT 13591)](../13591.md) | Undefined for generic loot: reversed count range | 100% |
+| [Nexus Dropship Rocket Engine (LOT 13592)](../13592.md) | Undefined for generic loot: reversed count range | 100% |
+| [Nexus Tower Rocket Nose Cone (LOT 13593)](../13593.md) | Undefined for generic loot: reversed count range | 100% |
+| [Nexus Tower Rocket Cockpit (LOT 13594)](../13594.md) | Undefined for generic loot: reversed count range | 100% |
+| [Nexus Tower Rocket Engine (LOT 13595)](../13595.md) | Undefined for generic loot: reversed count range | 100% |
+| [Venture Koi Rocket Nose Cone (LOT 13596)](../13596.md) | Undefined for generic loot: reversed count range | 100% |
+| [Venture Koi Rocket Cockpit (LOT 13597)](../13597.md) | Undefined for generic loot: reversed count range | 100% |
+| [Venture Koi Rocket Engine (LOT 13598)](../13598.md) | Undefined for generic loot: reversed count range | 100% |
+| [Musclenaut GT Rocket Nose Cone (LOT 14310)](../14310.md) | Undefined for generic loot: reversed count range | 100% |
+| [Musclenaut GT Rocket Cockpit (LOT 14311)](../14311.md) | Undefined for generic loot: reversed count range | 100% |
+| [Musclenaut GT Rocket Engine (LOT 14312)](../14312.md) | Undefined for generic loot: reversed count range | 100% |
 
 ## Raw matrix entries
 

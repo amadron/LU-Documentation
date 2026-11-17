@@ -14,8 +14,8 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/9596.webp){ .lu-ti width="24" loading="lazy" } [Medieval Vendor Model (LOT 9596)](../9596.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/9648.webp){ .lu-ti width="24" loading="lazy" } [Medieval Village Stable Model (LOT 9648)](../9648.md) | 100%; mean 1 | Not associated with a vendor |
+| [Medieval Vendor Model (LOT 9596)](../9596.md) | 100%; mean 1 | Not associated with a vendor |
+| [Medieval Village Stable Model (LOT 9648)](../9648.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

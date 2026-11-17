@@ -14,12 +14,12 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/10761.webp){ .lu-ti width="24" loading="lazy" } [Fortress Large Outside Corner Model (LOT 10761)](../10761.md) | 100%; mean 2 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10762.webp){ .lu-ti width="24" loading="lazy" } [Fortress Large Wall Model (LOT 10762)](../10762.md) | 100%; mean 4 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10765.webp){ .lu-ti width="24" loading="lazy" } [Fortress Ramp Model (LOT 10765)](../10765.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10766.webp){ .lu-ti width="24" loading="lazy" } [Fortress Small Outside Corner Model (LOT 10766)](../10766.md) | 100%; mean 2 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10767.webp){ .lu-ti width="24" loading="lazy" } [Fortress Small Wall Model (LOT 10767)](../10767.md) | 100%; mean 2 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10771.webp){ .lu-ti width="24" loading="lazy" } [Fortress Watch Tower Model (LOT 10771)](../10771.md) | 100%; mean 1 | Not associated with a vendor |
+| [Fortress Large Outside Corner Model (LOT 10761)](../10761.md) | 100%; mean 2 | Not associated with a vendor |
+| [Fortress Large Wall Model (LOT 10762)](../10762.md) | 100%; mean 4 | Not associated with a vendor |
+| [Fortress Ramp Model (LOT 10765)](../10765.md) | 100%; mean 1 | Not associated with a vendor |
+| [Fortress Small Outside Corner Model (LOT 10766)](../10766.md) | 100%; mean 2 | Not associated with a vendor |
+| [Fortress Small Wall Model (LOT 10767)](../10767.md) | 100%; mean 2 | Not associated with a vendor |
+| [Fortress Watch Tower Model (LOT 10771)](../10771.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

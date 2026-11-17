@@ -31,6 +31,7 @@ These are detailed reference collections rather than walkthroughs:
 | [Pet database](./pets/README.md) | Check a pet's taming evidence, requirements, puzzle details, and mapped locations. |
 | [Player skill database](./skills/README.md) | Find candidate equipment and set skills by ID and linked items. |
 | [Worlds, zones, and maps](./zones/README.md) | Browse known destinations and their textual location evidence. |
+| [Unreleased and cut content](./Unreleased%20Content.md) | See worlds, characters, and gear that are in the client but never reached players. |
 
 ## Quick catalogs
 

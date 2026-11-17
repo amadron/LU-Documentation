@@ -12,9 +12,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/4715.webp){ .lu-ti width="24" loading="lazy" } [Classic Rocket Engine (LOT 4715)](../4715.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/4718.webp){ .lu-ti width="24" loading="lazy" } [Steampunk Rocket Engine (LOT 4718)](../4718.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/4721.webp){ .lu-ti width="24" loading="lazy" } [Pod Rocket Engine (LOT 4721)](../4721.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
+| [Classic Rocket Engine (LOT 4715)](../4715.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
+| [Steampunk Rocket Engine (LOT 4718)](../4718.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
+| [Pod Rocket Engine (LOT 4721)](../4721.md) | 33.33333333%; mean 0.33333333 | Not associated with a vendor |
 
 ## Raw matrix entries
 

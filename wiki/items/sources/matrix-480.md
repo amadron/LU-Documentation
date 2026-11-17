@@ -14,14 +14,14 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/10338.webp){ .lu-ti width="24" loading="lazy" } [House Kitchen Model 3 (LOT 10338)](../10338.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10340.webp){ .lu-ti width="24" loading="lazy" } [House Laundry Model 2 (LOT 10340)](../10340.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10345.webp){ .lu-ti width="24" loading="lazy" } [House Toilet Model 2 (LOT 10345)](../10345.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10347.webp){ .lu-ti width="24" loading="lazy" } [House Vanity Model 2 (LOT 10347)](../10347.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10352.webp){ .lu-ti width="24" loading="lazy" } [House Wall Art Model 2 (LOT 10352)](../10352.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10358.webp){ .lu-ti width="24" loading="lazy" } [House Wall Corner Model 3 (LOT 10358)](../10358.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10359.webp){ .lu-ti width="24" loading="lazy" } [House Wall Fireplace Model 1 (LOT 10359)](../10359.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10363.webp){ .lu-ti width="24" loading="lazy" } [House Window Model 4 (LOT 10363)](../10363.md) | 100%; mean 1 | Not associated with a vendor |
+| [House Kitchen Model 3 (LOT 10338)](../10338.md) | 100%; mean 1 | Not associated with a vendor |
+| [House Laundry Model 2 (LOT 10340)](../10340.md) | 100%; mean 1 | Not associated with a vendor |
+| [House Toilet Model 2 (LOT 10345)](../10345.md) | 100%; mean 1 | Not associated with a vendor |
+| [House Vanity Model 2 (LOT 10347)](../10347.md) | 100%; mean 1 | Not associated with a vendor |
+| [House Wall Art Model 2 (LOT 10352)](../10352.md) | 100%; mean 1 | Not associated with a vendor |
+| [House Wall Corner Model 3 (LOT 10358)](../10358.md) | 100%; mean 1 | Not associated with a vendor |
+| [House Wall Fireplace Model 1 (LOT 10359)](../10359.md) | 100%; mean 1 | Not associated with a vendor |
+| [House Window Model 4 (LOT 10363)](../10363.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

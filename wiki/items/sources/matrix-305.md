@@ -14,7 +14,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/3981.webp){ .lu-ti width="24" loading="lazy" } [Coalessa's Flying Disc (LOT 3981)](../3981.md) | 100%; mean 1 | Not associated with a vendor |
+| [Coalessa's Flying Disc (LOT 3981)](../3981.md) | 100%; mean 1 | Not associated with a vendor |
 | Imagination Powerup 5 points (LOT 11911; not an item registration) | 100%; mean 1.5 | Not associated with a vendor |
 
 ## Raw matrix entries

@@ -14,7 +14,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/9275.webp){ .lu-ti width="24" loading="lazy" } [Picture of Jack Knife's Mom (LOT 9275)](../9275.md) | 100%; mean 1 | Not associated with a vendor |
+| [Picture of Jack Knife's Mom (LOT 9275)](../9275.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

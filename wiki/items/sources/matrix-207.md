@@ -15,10 +15,10 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
 | Imagination Powerup 1 point (LOT 935; not an item registration) | 100%; mean 2 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/1966.webp){ .lu-ti width="24" loading="lazy" } [Healing Banana (LOT 1966)](../1966.md) | 8.25%; mean 0.0825 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/2620.webp){ .lu-ti width="24" loading="lazy" } [Quicksicle (LOT 2620)](../2620.md) | 8.25%; mean 0.0825 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/2999.webp){ .lu-ti width="24" loading="lazy" } [Super Notion Potion (LOT 2999)](../2999.md) | 8.25%; mean 0.0825 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7084.webp){ .lu-ti width="24" loading="lazy" } [Boom Trap Kit (LOT 7084)](../7084.md) | 8.25%; mean 0.0825 | Not associated with a vendor |
+| [Healing Banana (LOT 1966)](../1966.md) | 8.25%; mean 0.0825 | Not associated with a vendor |
+| [Quicksicle (LOT 2620)](../2620.md) | 8.25%; mean 0.0825 | Not associated with a vendor |
+| [Super Notion Potion (LOT 2999)](../2999.md) | 8.25%; mean 0.0825 | Not associated with a vendor |
+| [Boom Trap Kit (LOT 7084)](../7084.md) | 8.25%; mean 0.0825 | Not associated with a vendor |
 
 ## Raw matrix entries
 

@@ -14,8 +14,8 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/4050.webp){ .lu-ti width="24" loading="lazy" } [Short Sleeve Shirt (LOT 4050)](../4050.md) | 87.5%; mean 1.5 | 100% |
-| ![](../../../assets/icons/objects/14459.webp){ .lu-ti width="24" loading="lazy" } [Nic's Test Item for Post Mission Selling (LOT 14459)](../14459.md) | 87.5%; mean 1.5 | 100% |
+| [Short Sleeve Shirt (LOT 4050)](../4050.md) | 87.5%; mean 1.5 | 100% |
+| [Nic's Test Item for Post Mission Selling (LOT 14459)](../14459.md) | 87.5%; mean 1.5 | 100% |
 
 ## Raw matrix entries
 

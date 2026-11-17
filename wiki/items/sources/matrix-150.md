@@ -14,21 +14,21 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/1722.webp){ .lu-ti width="24" loading="lazy" } [NPC Sentinel Shield (LOT 1722)](../1722.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
-| ![](../../../assets/icons/objects/1725.webp){ .lu-ti width="24" loading="lazy" } [NPC Sentinel Breastplate of Armor (LOT 1725)](../1725.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
-| ![](../../../assets/icons/objects/1726.webp){ .lu-ti width="24" loading="lazy" } [Nexus Force Helmet (LOT 1726)](../1726.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
-| ![](../../../assets/icons/objects/1966.webp){ .lu-ti width="24" loading="lazy" } [Healing Banana (LOT 1966)](../1966.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
-| ![](../../../assets/icons/objects/2198.webp){ .lu-ti width="24" loading="lazy" } [Notion Potion (LOT 2198)](../2198.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
-| ![](../../../assets/icons/objects/2620.webp){ .lu-ti width="24" loading="lazy" } [Quicksicle (LOT 2620)](../2620.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
-| ![](../../../assets/icons/objects/2994.webp){ .lu-ti width="24" loading="lazy" } [Healing Cherry (LOT 2994)](../2994.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
-| ![](../../../assets/icons/objects/2998.webp){ .lu-ti width="24" loading="lazy" } [Strong Notion Potion (LOT 2998)](../2998.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
-| ![](../../../assets/icons/objects/5948.webp){ .lu-ti width="24" loading="lazy" } [Basic Shortsword of Knockback (LOT 5948)](../5948.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
-| ![](../../../assets/icons/objects/5952.webp){ .lu-ti width="24" loading="lazy" } [Superior Longsword of Stunning (LOT 5952)](../5952.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
-| ![](../../../assets/icons/objects/5954.webp){ .lu-ti width="24" loading="lazy" } [Great Shortsword of Stunning (LOT 5954)](../5954.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
-| ![](../../../assets/icons/objects/8291.webp){ .lu-ti width="24" loading="lazy" } [Test Faction Currency Item (LOT 8291)](../8291.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10431.webp){ .lu-ti width="24" loading="lazy" } [Basic Shortsword (LOT 10431)](../10431.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10432.webp){ .lu-ti width="24" loading="lazy" } [Basic Spear (LOT 10432)](../10432.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10433.webp){ .lu-ti width="24" loading="lazy" } [Basic Hammer (LOT 10433)](../10433.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
+| [NPC Sentinel Shield (LOT 1722)](../1722.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
+| [NPC Sentinel Breastplate of Armor (LOT 1725)](../1725.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
+| [Nexus Force Helmet (LOT 1726)](../1726.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
+| [Healing Banana (LOT 1966)](../1966.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
+| [Notion Potion (LOT 2198)](../2198.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
+| [Quicksicle (LOT 2620)](../2620.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
+| [Healing Cherry (LOT 2994)](../2994.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
+| [Strong Notion Potion (LOT 2998)](../2998.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
+| [Basic Shortsword of Knockback (LOT 5948)](../5948.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
+| [Superior Longsword of Stunning (LOT 5952)](../5952.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
+| [Great Shortsword of Stunning (LOT 5954)](../5954.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
+| [Test Faction Currency Item (LOT 8291)](../8291.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
+| [Basic Shortsword (LOT 10431)](../10431.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
+| [Basic Spear (LOT 10432)](../10432.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
+| [Basic Hammer (LOT 10433)](../10433.md) | Undefined for generic loot: reversed count range | Not associated with a vendor |
 
 ## Raw matrix entries
 

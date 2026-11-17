@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/10772.webp){ .lu-ti width="24" loading="lazy" } [Fortress Zen Garden Model 1 (LOT 10772)](../10772.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10773.webp){ .lu-ti width="24" loading="lazy" } [Fortress Zen Garden Model 2 (LOT 10773)](../10773.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10774.webp){ .lu-ti width="24" loading="lazy" } [Fortress Zen Garden Model 3 (LOT 10774)](../10774.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10775.webp){ .lu-ti width="24" loading="lazy" } [Fortress Zen Garden Model 4 (LOT 10775)](../10775.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10776.webp){ .lu-ti width="24" loading="lazy" } [Fortress Zen Garden Model 5 (LOT 10776)](../10776.md) | 100%; mean 1 | Not associated with a vendor |
+| [Fortress Zen Garden Model 1 (LOT 10772)](../10772.md) | 100%; mean 1 | Not associated with a vendor |
+| [Fortress Zen Garden Model 2 (LOT 10773)](../10773.md) | 100%; mean 1 | Not associated with a vendor |
+| [Fortress Zen Garden Model 3 (LOT 10774)](../10774.md) | 100%; mean 1 | Not associated with a vendor |
+| [Fortress Zen Garden Model 4 (LOT 10775)](../10775.md) | 100%; mean 1 | Not associated with a vendor |
+| [Fortress Zen Garden Model 5 (LOT 10776)](../10776.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

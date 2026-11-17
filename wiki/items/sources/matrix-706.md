@@ -14,13 +14,13 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/11732.webp){ .lu-ti width="24" loading="lazy" } [Micro City Block 1 Model (LOT 11732)](../11732.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11737.webp){ .lu-ti width="24" loading="lazy" } [Micro City Block Corner 2 Model (LOT 11737)](../11737.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11742.webp){ .lu-ti width="24" loading="lazy" } [Micro City House 1 Model (LOT 11742)](../11742.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11748.webp){ .lu-ti width="24" loading="lazy" } [Micro City Monster with Car Model (LOT 11748)](../11748.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11749.webp){ .lu-ti width="24" loading="lazy" } [Micro City Fountain Model (LOT 11749)](../11749.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11761.webp){ .lu-ti width="24" loading="lazy" } [Micro City Defense Force 2 Model (LOT 11761)](../11761.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11765.webp){ .lu-ti width="24" loading="lazy" } [Micro City Fire Truck 3 Model (LOT 11765)](../11765.md) | 100%; mean 1 | Not associated with a vendor |
+| [Micro City Block 1 Model (LOT 11732)](../11732.md) | 100%; mean 1 | Not associated with a vendor |
+| [Micro City Block Corner 2 Model (LOT 11737)](../11737.md) | 100%; mean 1 | Not associated with a vendor |
+| [Micro City House 1 Model (LOT 11742)](../11742.md) | 100%; mean 1 | Not associated with a vendor |
+| [Micro City Monster with Car Model (LOT 11748)](../11748.md) | 100%; mean 1 | Not associated with a vendor |
+| [Micro City Fountain Model (LOT 11749)](../11749.md) | 100%; mean 1 | Not associated with a vendor |
+| [Micro City Defense Force 2 Model (LOT 11761)](../11761.md) | 100%; mean 1 | Not associated with a vendor |
+| [Micro City Fire Truck 3 Model (LOT 11765)](../11765.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/9598.webp){ .lu-ti width="24" loading="lazy" } [Pine Tree Model 1 (LOT 9598)](../9598.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/9599.webp){ .lu-ti width="24" loading="lazy" } [Pine Tree Model 2 (LOT 9599)](../9599.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/9600.webp){ .lu-ti width="24" loading="lazy" } [Green Tree Model 3 (LOT 9600)](../9600.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/9908.webp){ .lu-ti width="24" loading="lazy" } [Red Tree Model 3 (LOT 9908)](../9908.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/9909.webp){ .lu-ti width="24" loading="lazy" } [Yellow Tree Model 3 (LOT 9909)](../9909.md) | 100%; mean 1 | Not associated with a vendor |
+| [Pine Tree Model 1 (LOT 9598)](../9598.md) | 100%; mean 1 | Not associated with a vendor |
+| [Pine Tree Model 2 (LOT 9599)](../9599.md) | 100%; mean 1 | Not associated with a vendor |
+| [Green Tree Model 3 (LOT 9600)](../9600.md) | 100%; mean 1 | Not associated with a vendor |
+| [Red Tree Model 3 (LOT 9908)](../9908.md) | 100%; mean 1 | Not associated with a vendor |
+| [Yellow Tree Model 3 (LOT 9909)](../9909.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

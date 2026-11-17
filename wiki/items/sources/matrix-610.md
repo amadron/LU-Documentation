@@ -15,7 +15,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 | Imagination Powerup 5 points (LOT 11911; not an item registration) | 100%; mean 2.5 | Not associated with a vendor |
 | Armor Powerup 3 points (LOT 11913; not an item registration) | 100%; mean 1.5 | Not associated with a vendor |
 | Life Powerup 3 points (LOT 11916; not an item registration) | 100%; mean 1.5 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/12323.webp){ .lu-ti width="24" loading="lazy" } [Nexus Talon Datacard (LOT 12323)](../12323.md) | 25%; mean 0.25 | Not associated with a vendor |
+| [Nexus Talon Datacard (LOT 12323)](../12323.md) | 25%; mean 0.25 | Not associated with a vendor |
 
 ## Raw matrix entries
 

@@ -14,10 +14,10 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/10075.webp){ .lu-ti width="24" loading="lazy" } [Pirate Wall Model 1 (LOT 10075)](../10075.md) | 100%; mean 2 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10076.webp){ .lu-ti width="24" loading="lazy" } [Pirate Wall Model 2 (LOT 10076)](../10076.md) | 100%; mean 2 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10077.webp){ .lu-ti width="24" loading="lazy" } [Pirate Wall Model 3 (LOT 10077)](../10077.md) | 100%; mean 2 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10084.webp){ .lu-ti width="24" loading="lazy" } [Pirate Corner Wall Model (LOT 10084)](../10084.md) | 100%; mean 4 | Not associated with a vendor |
+| [Pirate Wall Model 1 (LOT 10075)](../10075.md) | 100%; mean 2 | Not associated with a vendor |
+| [Pirate Wall Model 2 (LOT 10076)](../10076.md) | 100%; mean 2 | Not associated with a vendor |
+| [Pirate Wall Model 3 (LOT 10077)](../10077.md) | 100%; mean 2 | Not associated with a vendor |
+| [Pirate Corner Wall Model (LOT 10084)](../10084.md) | 100%; mean 4 | Not associated with a vendor |
 
 ## Raw matrix entries
 

@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/89.webp){ .lu-ti width="24" loading="lazy" } [Rank 1 Samurai Book (LOT 89)](../89.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7445.webp){ .lu-ti width="24" loading="lazy" } [Samurai Helm 1 (LOT 7445)](../7445.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7469.webp){ .lu-ti width="24" loading="lazy" } [Samurai Breastplate 1 (LOT 7469)](../7469.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7493.webp){ .lu-ti width="24" loading="lazy" } [Samurai Leggings 1 (LOT 7493)](../7493.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7517.webp){ .lu-ti width="24" loading="lazy" } [Samurai Katana 1 (LOT 7517)](../7517.md) | 100%; mean 1 | Not associated with a vendor |
+| [Rank 1 Samurai Book (LOT 89)](../89.md) | 100%; mean 1 | Not associated with a vendor |
+| [Samurai Helm 1 (LOT 7445)](../7445.md) | 100%; mean 1 | Not associated with a vendor |
+| [Samurai Breastplate 1 (LOT 7469)](../7469.md) | 100%; mean 1 | Not associated with a vendor |
+| [Samurai Leggings 1 (LOT 7493)](../7493.md) | 100%; mean 1 | Not associated with a vendor |
+| [Samurai Katana 1 (LOT 7517)](../7517.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

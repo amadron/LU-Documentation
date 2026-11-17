@@ -14,8 +14,8 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/14125.webp){ .lu-ti width="24" loading="lazy" } [Mega Bag of Faction Tokens (LOT 14125)](../14125.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/14560.webp){ .lu-ti width="24" loading="lazy" } [Red Frog's Egg (LOT 14560)](../14560.md) | 100%; mean 1 | Not associated with a vendor |
+| [Mega Bag of Faction Tokens (LOT 14125)](../14125.md) | 100%; mean 1 | Not associated with a vendor |
+| [Red Frog's Egg (LOT 14560)](../14560.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

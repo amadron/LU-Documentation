@@ -14,9 +14,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/11885.webp){ .lu-ti width="24" loading="lazy" } [Winter Reindeer Model (LOT 11885)](../11885.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11886.webp){ .lu-ti width="24" loading="lazy" } [Winter Sleigh Model (LOT 11886)](../11886.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11888.webp){ .lu-ti width="24" loading="lazy" } [Winter Snowmobile Model (LOT 11888)](../11888.md) | 100%; mean 1 | Not associated with a vendor |
+| [Winter Reindeer Model (LOT 11885)](../11885.md) | 100%; mean 1 | Not associated with a vendor |
+| [Winter Sleigh Model (LOT 11886)](../11886.md) | 100%; mean 1 | Not associated with a vendor |
+| [Winter Snowmobile Model (LOT 11888)](../11888.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

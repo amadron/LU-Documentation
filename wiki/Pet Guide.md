@@ -60,32 +60,32 @@ the model out of all the bricks shown.
 
 | World | Pet | Imagination per attempt | Time limit | Pieces | Special requirement |
 | --- | --- | --- | --- | --- | --- |
-| Pet Cove | ![](../assets/icons/objects/3672.webp){ .lu-ti width="24" loading="lazy" } [Bunny](./pets/3672.md) | 4 | 60 s | 6 of 12 | — |
-| Pet Cove | ![](../assets/icons/objects/3254.webp){ .lu-ti width="24" loading="lazy" } [Terrier](./pets/3254.md) | 4 | 60 s | 4 of 9 | — |
-| Pet Cove | ![](../assets/icons/objects/3054.webp){ .lu-ti width="24" loading="lazy" } [Cat](./pets/3054.md) | 4 | 60 s | 6 of 12 | — |
-| Pet Cove | ![](../assets/icons/objects/12433.webp){ .lu-ti width="24" loading="lazy" } [Gryphon](./pets/12433.md) | 10 | 30 s | 6 of 16 | Sentinel faction pet, atop the Pet Cove Lighthouse ("Grab a Gryphon") |
-| Avant Gardens | ![](../assets/icons/objects/5635.webp){ .lu-ti width="24" loading="lazy" } [Doberman](./pets/5635.md) | 8 | 30 s | 4 of 12 | Map spawn needs the not-free-trial (membership) precondition |
-| Avant Gardens | ![](../assets/icons/objects/3195.webp){ .lu-ti width="24" loading="lazy" } [Triceratops](./pets/3195.md) | 10 | 30 s | 6 of 16 | — |
-| Avant Gardens | ![](../assets/icons/objects/5636.webp){ .lu-ti width="24" loading="lazy" } [Buffalo](./pets/5636.md) | 10 | 60 s | 6 of 25 | Map spawn needs the not-free-trial (membership) precondition |
-| Nimbus Station | ![](../assets/icons/objects/3261.webp){ .lu-ti width="24" loading="lazy" } [Skunk](./pets/3261.md) | 8 | 30 s | 6 of 16 | Spray it with water first |
-| Nimbus Station | ![](../assets/icons/objects/5637.webp){ .lu-ti width="24" loading="lazy" } [Robot Dog](./pets/5637.md) | 10 | 30 s | 4 of 9 | — |
-| Gnarled Forest | ![](../assets/icons/objects/3050.webp){ .lu-ti width="24" loading="lazy" } [Elephant](./pets/3050.md) | 10 | 60 s | 5 of 16 | Bag of Peanuts in your inventory |
-| Gnarled Forest | ![](../assets/icons/objects/3994.webp){ .lu-ti width="24" loading="lazy" } [Crocodile](./pets/3994.md) | 10 | 30 s | 6 of 12 | — |
-| Gnarled Forest | ![](../assets/icons/objects/7694.webp){ .lu-ti width="24" loading="lazy" } [Crab](./pets/7694.md) | 10 | 30 s | 6 of 12 | A Gnarled Forest pet dig can spawn one |
-| Gnarled Forest | ![](../assets/icons/objects/5640.webp){ .lu-ti width="24" loading="lazy" } [Tortoise](./pets/5640.md) | 12 | 45 s | 6 of 16 | — |
-| Gnarled Forest | ![](../assets/icons/objects/6720.webp){ .lu-ti width="24" loading="lazy" } [Warthog](./pets/6720.md) | 12 | 30 s | 4 of 12 | — |
-| Forbidden Valley | ![](../assets/icons/objects/5639.webp){ .lu-ti width="24" loading="lazy" } [Red Dragon](./pets/5639.md) | 23 | 60 s | 6 of 16 | Spray it with water first |
-| Forbidden Valley | ![](../assets/icons/objects/5641.webp){ .lu-ti width="24" loading="lazy" } [Green Dragon](./pets/5641.md) | 23 | 30 s | 9 of 16 | Spray it with water first |
-| Forbidden Valley | ![](../assets/icons/objects/5642.webp){ .lu-ti width="24" loading="lazy" } [Mantis](./pets/5642.md) | 18 | 30 s | 7 of 16 | — |
-| Forbidden Valley | ![](../assets/icons/objects/5643.webp){ .lu-ti width="24" loading="lazy" } [Panda](./pets/5643.md) | 15 | 30 s | 6 of 16 | Finish the Foot Race first ("The Way of the Panda") |
-| Forbidden Valley | ![](../assets/icons/objects/7638.webp){ .lu-ti width="24" loading="lazy" } [Goat](./pets/7638.md) | 15 | 30 s | 3 of 9 | — |
-| Crux Prime | ![](../assets/icons/objects/13067.webp){ .lu-ti width="24" loading="lazy" } [Skeleton Dragon](./pets/13067.md) | 15 | 45 s | 7 of 16 | Appears from a pet dig at the far end of the Maelstrom Quarry ("Skullduggery") |
-| Nexus Tower | ![](../assets/icons/objects/12431.webp){ .lu-ti width="24" loading="lazy" } [Stegosaurus](./pets/12431.md) | 10 | 30 s | 6 of 16 | Venture League faction pet; interact with the bowl in the Venture League Observatory |
-| Nexus Tower | ![](../assets/icons/objects/12432.webp){ .lu-ti width="24" loading="lazy" } [Saber Cat](./pets/12432.md) | 10 | 30 s | 6 of 16 | Assembly faction pet, in the Assembly Storeroom |
-| Nexus Tower | ![](../assets/icons/objects/12434.webp){ .lu-ti width="24" loading="lazy" } [Alien](./pets/12434.md) | 10 | 30 s | 6 of 16 | Paradox faction pet; rebuild it with the Paradox Pet-o-Matic |
-| Ninjago Monastery | ![](../assets/icons/objects/16210.webp){ .lu-ti width="24" loading="lazy" } [Earth Dragon](./pets/16210.md) | 8 | 45 s | 6 of 16 | 5 Rockolate Bars; interact with a Dragon statue in the Dojo of Earth |
-| Winter event | ![](../assets/icons/objects/12294.webp){ .lu-ti width="24" loading="lazy" } [Reindeer](./pets/12294.md) | 12 | 30 s | 6 of 12 | Seasonal ("Reindeer Tamer") |
-| Unknown | ![](../assets/icons/objects/3520.webp){ .lu-ti width="24" loading="lazy" } [Lion](./pets/3520.md) | 25 | 30 s | 6 of 16 | No location in the local data; historically Keelhaul Canyon Raceway, Gnarled Forest |
+| Pet Cove | [Bunny](./pets/3672.md) | 4 | 60 s | 6 of 12 | — |
+| Pet Cove | [Terrier](./pets/3254.md) | 4 | 60 s | 4 of 9 | — |
+| Pet Cove | [Cat](./pets/3054.md) | 4 | 60 s | 6 of 12 | — |
+| Pet Cove | [Gryphon](./pets/12433.md) | 10 | 30 s | 6 of 16 | Sentinel faction pet, atop the Pet Cove Lighthouse ("Grab a Gryphon") |
+| Avant Gardens | [Doberman](./pets/5635.md) | 8 | 30 s | 4 of 12 | Map spawn needs the not-free-trial (membership) precondition |
+| Avant Gardens | [Triceratops](./pets/3195.md) | 10 | 30 s | 6 of 16 | — |
+| Avant Gardens | [Buffalo](./pets/5636.md) | 10 | 60 s | 6 of 25 | Map spawn needs the not-free-trial (membership) precondition |
+| Nimbus Station | [Skunk](./pets/3261.md) | 8 | 30 s | 6 of 16 | Spray it with water first |
+| Nimbus Station | [Robot Dog](./pets/5637.md) | 10 | 30 s | 4 of 9 | — |
+| Gnarled Forest | [Elephant](./pets/3050.md) | 10 | 60 s | 5 of 16 | Bag of Peanuts in your inventory |
+| Gnarled Forest | [Crocodile](./pets/3994.md) | 10 | 30 s | 6 of 12 | — |
+| Gnarled Forest | [Crab](./pets/7694.md) | 10 | 30 s | 6 of 12 | A Gnarled Forest pet dig can spawn one |
+| Gnarled Forest | [Tortoise](./pets/5640.md) | 12 | 45 s | 6 of 16 | — |
+| Gnarled Forest | [Warthog](./pets/6720.md) | 12 | 30 s | 4 of 12 | — |
+| Forbidden Valley | [Red Dragon](./pets/5639.md) | 23 | 60 s | 6 of 16 | Spray it with water first |
+| Forbidden Valley | [Green Dragon](./pets/5641.md) | 23 | 30 s | 9 of 16 | Spray it with water first |
+| Forbidden Valley | [Mantis](./pets/5642.md) | 18 | 30 s | 7 of 16 | — |
+| Forbidden Valley | [Panda](./pets/5643.md) | 15 | 30 s | 6 of 16 | Finish the Foot Race first ("The Way of the Panda") |
+| Forbidden Valley | [Goat](./pets/7638.md) | 15 | 30 s | 3 of 9 | — |
+| Crux Prime | [Skeleton Dragon](./pets/13067.md) | 15 | 45 s | 7 of 16 | Appears from a pet dig at the far end of the Maelstrom Quarry ("Skullduggery") |
+| Nexus Tower | [Stegosaurus](./pets/12431.md) | 10 | 30 s | 6 of 16 | Venture League faction pet; interact with the bowl in the Venture League Observatory |
+| Nexus Tower | [Saber Cat](./pets/12432.md) | 10 | 30 s | 6 of 16 | Assembly faction pet, in the Assembly Storeroom |
+| Nexus Tower | [Alien](./pets/12434.md) | 10 | 30 s | 6 of 16 | Paradox faction pet; rebuild it with the Paradox Pet-o-Matic |
+| Ninjago Monastery | [Earth Dragon](./pets/16210.md) | 8 | 45 s | 6 of 16 | 5 Rockolate Bars; interact with a Dragon statue in the Dojo of Earth |
+| Winter event | [Reindeer](./pets/12294.md) | 12 | 30 s | 6 of 12 | Seasonal ("Reindeer Tamer") |
+| Unknown | [Lion](./pets/3520.md) | 25 | 30 s | 6 of 16 | No location in the local data; historically Keelhaul Canyon Raceway, Gnarled Forest |
 
 Notes on the special requirements:
 

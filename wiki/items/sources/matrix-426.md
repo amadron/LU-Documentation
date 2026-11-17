@@ -14,9 +14,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/8337.webp){ .lu-ti width="24" loading="lazy" } [Nexus Force Rocket Nose Cone (LOT 8337)](../8337.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/8338.webp){ .lu-ti width="24" loading="lazy" } [Nexus Force Rocket Cockpit (LOT 8338)](../8338.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/8339.webp){ .lu-ti width="24" loading="lazy" } [Nexus Force Rocket Engine (LOT 8339)](../8339.md) | 100%; mean 1 | Not associated with a vendor |
+| [Nexus Force Rocket Nose Cone (LOT 8337)](../8337.md) | 100%; mean 1 | Not associated with a vendor |
+| [Nexus Force Rocket Cockpit (LOT 8338)](../8338.md) | 100%; mean 1 | Not associated with a vendor |
+| [Nexus Force Rocket Engine (LOT 8339)](../8339.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

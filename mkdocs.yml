@@ -22,6 +22,9 @@ theme:
 extra_css:
   - assets/stylesheets/extra.css
 
+extra_javascript:
+  - assets/javascripts/table-icons.js
+
 hooks:
   - hooks/site_links.py
   - hooks/search_index.py
@@ -81,6 +84,7 @@ nav:
       - Pets: wiki/pets/README.md
       - Player skills: wiki/skills/README.md
       - Worlds and zones: wiki/zones/README.md
+      - Unreleased content: wiki/Unreleased Content.md
   - Data reference:
       - CDClient tables: db/README.md
       - CDClient table reference: LEGO Universe CDClient Table Reference.md

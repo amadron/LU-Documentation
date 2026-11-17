@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/7442.webp){ .lu-ti width="24" loading="lazy" } [Space Ranger Helmet 1 (LOT 7442)](../7442.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7466.webp){ .lu-ti width="24" loading="lazy" } [Space Ranger Armor 1 (LOT 7466)](../7466.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7490.webp){ .lu-ti width="24" loading="lazy" } [Space Ranger Pants 1 (LOT 7490)](../7490.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7514.webp){ .lu-ti width="24" loading="lazy" } [Space Ranger Zipgun 1 (LOT 7514)](../7514.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11924.webp){ .lu-ti width="24" loading="lazy" } [Rank 1 Space Ranger Book (LOT 11924)](../11924.md) | 100%; mean 1 | Not associated with a vendor |
+| [Space Ranger Helmet 1 (LOT 7442)](../7442.md) | 100%; mean 1 | Not associated with a vendor |
+| [Space Ranger Armor 1 (LOT 7466)](../7466.md) | 100%; mean 1 | Not associated with a vendor |
+| [Space Ranger Pants 1 (LOT 7490)](../7490.md) | 100%; mean 1 | Not associated with a vendor |
+| [Space Ranger Zipgun 1 (LOT 7514)](../7514.md) | 100%; mean 1 | Not associated with a vendor |
+| [Rank 1 Space Ranger Book (LOT 11924)](../11924.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

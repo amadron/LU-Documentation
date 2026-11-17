@@ -14,8 +14,8 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/14521.webp){ .lu-ti width="24" loading="lazy" } [Jaw Bone (LOT 14521)](../14521.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/16012.webp){ .lu-ti width="24" loading="lazy" } [Frakjaw's Maelstrom Battle Mace (LOT 16012)](../16012.md) | 100%; mean 1 | Not associated with a vendor |
+| [Jaw Bone (LOT 14521)](../14521.md) | 100%; mean 1 | Not associated with a vendor |
+| [Frakjaw's Maelstrom Battle Mace (LOT 16012)](../16012.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

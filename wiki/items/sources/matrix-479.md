@@ -14,8 +14,8 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/10130.webp){ .lu-ti width="24" loading="lazy" } [Weightlifter Shirt (LOT 10130)](../10130.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10888.webp){ .lu-ti width="24" loading="lazy" } [Birdhouse Model (LOT 10888)](../10888.md) | 100%; mean 1 | Not associated with a vendor |
+| [Weightlifter Shirt (LOT 10130)](../10130.md) | 100%; mean 1 | Not associated with a vendor |
+| [Birdhouse Model (LOT 10888)](../10888.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

@@ -14,8 +14,8 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/6921.webp){ .lu-ti width="24" loading="lazy" } [Breastplate of Armor 1 (LOT 6921)](../6921.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10884.webp){ .lu-ti width="24" loading="lazy" } [Water Well Model (LOT 10884)](../10884.md) | 100%; mean 1 | Not associated with a vendor |
+| [Breastplate of Armor 1 (LOT 6921)](../6921.md) | 100%; mean 1 | Not associated with a vendor |
+| [Water Well Model (LOT 10884)](../10884.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

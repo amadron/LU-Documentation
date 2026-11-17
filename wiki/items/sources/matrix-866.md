@@ -12,7 +12,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/16496.webp){ .lu-ti width="24" loading="lazy" } [Lightning Ninja Kit (LOT 16496)](../16496.md) | 100%; mean 1 | Not associated with a vendor |
+| [Lightning Ninja Kit (LOT 16496)](../16496.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

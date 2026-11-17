@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/10075.webp){ .lu-ti width="24" loading="lazy" } [Pirate Wall Model 1 (LOT 10075)](../10075.md) | 100%; mean 2 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10076.webp){ .lu-ti width="24" loading="lazy" } [Pirate Wall Model 2 (LOT 10076)](../10076.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10077.webp){ .lu-ti width="24" loading="lazy" } [Pirate Wall Model 3 (LOT 10077)](../10077.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10080.webp){ .lu-ti width="24" loading="lazy" } [Pirate Wall Bridge Model (LOT 10080)](../10080.md) | 100%; mean 2 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10088.webp){ .lu-ti width="24" loading="lazy" } [Pirate T-Wall Model (LOT 10088)](../10088.md) | 100%; mean 1 | Not associated with a vendor |
+| [Pirate Wall Model 1 (LOT 10075)](../10075.md) | 100%; mean 2 | Not associated with a vendor |
+| [Pirate Wall Model 2 (LOT 10076)](../10076.md) | 100%; mean 1 | Not associated with a vendor |
+| [Pirate Wall Model 3 (LOT 10077)](../10077.md) | 100%; mean 1 | Not associated with a vendor |
+| [Pirate Wall Bridge Model (LOT 10080)](../10080.md) | 100%; mean 2 | Not associated with a vendor |
+| [Pirate T-Wall Model (LOT 10088)](../10088.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

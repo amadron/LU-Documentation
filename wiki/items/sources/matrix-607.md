@@ -14,14 +14,14 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/11667.webp){ .lu-ti width="24" loading="lazy" } [Doom Star Module Model 1 (LOT 11667)](../11667.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11668.webp){ .lu-ti width="24" loading="lazy" } [Doom Star Module Model 2 (LOT 11668)](../11668.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11669.webp){ .lu-ti width="24" loading="lazy" } [Doom Star Module Model 3 (LOT 11669)](../11669.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11670.webp){ .lu-ti width="24" loading="lazy" } [Doom Star Module Model 4 (LOT 11670)](../11670.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11671.webp){ .lu-ti width="24" loading="lazy" } [Doom Star Module Model 5 (LOT 11671)](../11671.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11672.webp){ .lu-ti width="24" loading="lazy" } [Doom Star Module Model 6 (LOT 11672)](../11672.md) | 0% in the generic loot model | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11687.webp){ .lu-ti width="24" loading="lazy" } [Doom Star Trench Model 5 (LOT 11687)](../11687.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11688.webp){ .lu-ti width="24" loading="lazy" } [Doom Star Trench Model 6 (LOT 11688)](../11688.md) | 100%; mean 1 | Not associated with a vendor |
+| [Doom Star Module Model 1 (LOT 11667)](../11667.md) | 100%; mean 1 | Not associated with a vendor |
+| [Doom Star Module Model 2 (LOT 11668)](../11668.md) | 100%; mean 1 | Not associated with a vendor |
+| [Doom Star Module Model 3 (LOT 11669)](../11669.md) | 100%; mean 1 | Not associated with a vendor |
+| [Doom Star Module Model 4 (LOT 11670)](../11670.md) | 100%; mean 1 | Not associated with a vendor |
+| [Doom Star Module Model 5 (LOT 11671)](../11671.md) | 100%; mean 1 | Not associated with a vendor |
+| [Doom Star Module Model 6 (LOT 11672)](../11672.md) | 0% in the generic loot model | Not associated with a vendor |
+| [Doom Star Trench Model 5 (LOT 11687)](../11687.md) | 100%; mean 1 | Not associated with a vendor |
+| [Doom Star Trench Model 6 (LOT 11688)](../11688.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

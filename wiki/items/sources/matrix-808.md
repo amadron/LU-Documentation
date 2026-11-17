@@ -14,9 +14,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/1966.webp){ .lu-ti width="24" loading="lazy" } [Healing Banana (LOT 1966)](../1966.md) | 70.37037037%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/2994.webp){ .lu-ti width="24" loading="lazy" } [Healing Cherry (LOT 2994)](../2994.md) | 70.37037037%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/8375.webp){ .lu-ti width="24" loading="lazy" } [Sushi (LOT 8375)](../8375.md) | 70.37037037%; mean 1 | Not associated with a vendor |
+| [Healing Banana (LOT 1966)](../1966.md) | 70.37037037%; mean 1 | Not associated with a vendor |
+| [Healing Cherry (LOT 2994)](../2994.md) | 70.37037037%; mean 1 | Not associated with a vendor |
+| [Sushi (LOT 8375)](../8375.md) | 70.37037037%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

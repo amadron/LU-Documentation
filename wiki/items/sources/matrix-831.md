@@ -14,9 +14,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/14695.webp){ .lu-ti width="24" loading="lazy" } [Pencil Rocket Nose Cone (LOT 14695)](../14695.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/14696.webp){ .lu-ti width="24" loading="lazy" } [Pencil Rocket Cockpit (LOT 14696)](../14696.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/14697.webp){ .lu-ti width="24" loading="lazy" } [Pencil Rocket Engine (LOT 14697)](../14697.md) | 100%; mean 1 | Not associated with a vendor |
+| [Pencil Rocket Nose Cone (LOT 14695)](../14695.md) | 100%; mean 1 | Not associated with a vendor |
+| [Pencil Rocket Cockpit (LOT 14696)](../14696.md) | 100%; mean 1 | Not associated with a vendor |
+| [Pencil Rocket Engine (LOT 14697)](../14697.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

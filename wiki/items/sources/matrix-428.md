@@ -12,7 +12,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/10507.webp){ .lu-ti width="24" loading="lazy" } [Carrot (LOT 10507)](../10507.md) | 10%; mean 0.1 | Not associated with a vendor |
+| [Carrot (LOT 10507)](../10507.md) | 10%; mean 0.1 | Not associated with a vendor |
 | Imagination Powerup 3 points (LOT 11910; not an item registration) | 100%; mean 1.5 | Not associated with a vendor |
 | Armor Powerup 2 points (LOT 11912; not an item registration) | 100%; mean 1.5 | Not associated with a vendor |
 | Life Powerup 2 points (LOT 11915; not an item registration) | 100%; mean 1.5 | Not associated with a vendor |

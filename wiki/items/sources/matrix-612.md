@@ -17,31 +17,31 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/11777.webp){ .lu-ti width="24" loading="lazy" } [Office Chair 1 Model (LOT 11777)](../11777.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11778.webp){ .lu-ti width="24" loading="lazy" } [Office Chair 2 Model (LOT 11778)](../11778.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11779.webp){ .lu-ti width="24" loading="lazy" } [Office Copier Model (LOT 11779)](../11779.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11780.webp){ .lu-ti width="24" loading="lazy" } [Office Credenza 1 Model (LOT 11780)](../11780.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11781.webp){ .lu-ti width="24" loading="lazy" } [Office Credenza 2 Model (LOT 11781)](../11781.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11782.webp){ .lu-ti width="24" loading="lazy" } [Office Desk 1 Model (LOT 11782)](../11782.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11783.webp){ .lu-ti width="24" loading="lazy" } [Office Desk 2 Model (LOT 11783)](../11783.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11784.webp){ .lu-ti width="24" loading="lazy" } [Office Desk 3 Model (LOT 11784)](../11784.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11785.webp){ .lu-ti width="24" loading="lazy" } [Office Desk 4 Model (LOT 11785)](../11785.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11786.webp){ .lu-ti width="24" loading="lazy" } [Office Desk 5 Model (LOT 11786)](../11786.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11787.webp){ .lu-ti width="24" loading="lazy" } [Office Desk 6 Model (LOT 11787)](../11787.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11788.webp){ .lu-ti width="24" loading="lazy" } [Office File Cabinet 1 Model (LOT 11788)](../11788.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11789.webp){ .lu-ti width="24" loading="lazy" } [Office File Cabinet 2 Model (LOT 11789)](../11789.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11790.webp){ .lu-ti width="24" loading="lazy" } [Office Partition 1 Model (LOT 11790)](../11790.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11791.webp){ .lu-ti width="24" loading="lazy" } [Office Partition 2 Model (LOT 11791)](../11791.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11792.webp){ .lu-ti width="24" loading="lazy" } [Office Plant 1 Model (LOT 11792)](../11792.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11793.webp){ .lu-ti width="24" loading="lazy" } [Office Plant 2 Model (LOT 11793)](../11793.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11794.webp){ .lu-ti width="24" loading="lazy" } [Office Plant 3 Model (LOT 11794)](../11794.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11795.webp){ .lu-ti width="24" loading="lazy" } [Office Shelf 1 Model (LOT 11795)](../11795.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11796.webp){ .lu-ti width="24" loading="lazy" } [Office Shelf 2 Model (LOT 11796)](../11796.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11797.webp){ .lu-ti width="24" loading="lazy" } [Office Shelf 3 Model (LOT 11797)](../11797.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11798.webp){ .lu-ti width="24" loading="lazy" } [Office Stapler Model (LOT 11798)](../11798.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11799.webp){ .lu-ti width="24" loading="lazy" } [Office Table 1 Model (LOT 11799)](../11799.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11800.webp){ .lu-ti width="24" loading="lazy" } [Office Table 2 Model (LOT 11800)](../11800.md) | Undefined for generic loot: reversed count range | 100% |
-| ![](../../../assets/icons/objects/11801.webp){ .lu-ti width="24" loading="lazy" } [Office Water Cooler Model (LOT 11801)](../11801.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Chair 1 Model (LOT 11777)](../11777.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Chair 2 Model (LOT 11778)](../11778.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Copier Model (LOT 11779)](../11779.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Credenza 1 Model (LOT 11780)](../11780.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Credenza 2 Model (LOT 11781)](../11781.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Desk 1 Model (LOT 11782)](../11782.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Desk 2 Model (LOT 11783)](../11783.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Desk 3 Model (LOT 11784)](../11784.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Desk 4 Model (LOT 11785)](../11785.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Desk 5 Model (LOT 11786)](../11786.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Desk 6 Model (LOT 11787)](../11787.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office File Cabinet 1 Model (LOT 11788)](../11788.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office File Cabinet 2 Model (LOT 11789)](../11789.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Partition 1 Model (LOT 11790)](../11790.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Partition 2 Model (LOT 11791)](../11791.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Plant 1 Model (LOT 11792)](../11792.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Plant 2 Model (LOT 11793)](../11793.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Plant 3 Model (LOT 11794)](../11794.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Shelf 1 Model (LOT 11795)](../11795.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Shelf 2 Model (LOT 11796)](../11796.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Shelf 3 Model (LOT 11797)](../11797.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Stapler Model (LOT 11798)](../11798.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Table 1 Model (LOT 11799)](../11799.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Table 2 Model (LOT 11800)](../11800.md) | Undefined for generic loot: reversed count range | 100% |
+| [Office Water Cooler Model (LOT 11801)](../11801.md) | Undefined for generic loot: reversed count range | 100% |
 
 ## Raw matrix entries
 

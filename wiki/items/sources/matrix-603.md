@@ -14,15 +14,15 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/11698.webp){ .lu-ti width="24" loading="lazy" } [Farm Chicken Model (LOT 11698)](../11698.md) | 100%; mean 3 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11699.webp){ .lu-ti width="24" loading="lazy" } [Farm Chicken Coop Model (LOT 11699)](../11699.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11703.webp){ .lu-ti width="24" loading="lazy" } [Farm Feed Trough Model (LOT 11703)](../11703.md) | 100%; mean 2 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11710.webp){ .lu-ti width="24" loading="lazy" } [Farm Sheep Model (LOT 11710)](../11710.md) | 100%; mean 3 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11711.webp){ .lu-ti width="24" loading="lazy" } [Farm Silo Model 1 (LOT 11711)](../11711.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11716.webp){ .lu-ti width="24" loading="lazy" } [Farm Windmill Model (LOT 11716)](../11716.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11717.webp){ .lu-ti width="24" loading="lazy" } [Farm Fence Gate Model (LOT 11717)](../11717.md) | 100%; mean 2 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11718.webp){ .lu-ti width="24" loading="lazy" } [Farm Fence Short Model (LOT 11718)](../11718.md) | 100%; mean 5 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11719.webp){ .lu-ti width="24" loading="lazy" } [Farm Fence Tall Model (LOT 11719)](../11719.md) | 100%; mean 5 | Not associated with a vendor |
+| [Farm Chicken Model (LOT 11698)](../11698.md) | 100%; mean 3 | Not associated with a vendor |
+| [Farm Chicken Coop Model (LOT 11699)](../11699.md) | 100%; mean 1 | Not associated with a vendor |
+| [Farm Feed Trough Model (LOT 11703)](../11703.md) | 100%; mean 2 | Not associated with a vendor |
+| [Farm Sheep Model (LOT 11710)](../11710.md) | 100%; mean 3 | Not associated with a vendor |
+| [Farm Silo Model 1 (LOT 11711)](../11711.md) | 100%; mean 1 | Not associated with a vendor |
+| [Farm Windmill Model (LOT 11716)](../11716.md) | 100%; mean 1 | Not associated with a vendor |
+| [Farm Fence Gate Model (LOT 11717)](../11717.md) | 100%; mean 2 | Not associated with a vendor |
+| [Farm Fence Short Model (LOT 11718)](../11718.md) | 100%; mean 5 | Not associated with a vendor |
+| [Farm Fence Tall Model (LOT 11719)](../11719.md) | 100%; mean 5 | Not associated with a vendor |
 
 ## Raw matrix entries
 

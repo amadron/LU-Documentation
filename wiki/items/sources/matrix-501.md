@@ -17,7 +17,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 | Imagination Powerup 2 points (LOT 4035; not an item registration) | 100%; mean 1 | Not associated with a vendor |
 | Armor Powerup 2 points (LOT 11912; not an item registration) | 50%; mean 0.5 | Not associated with a vendor |
 | Life Powerup 2 points (LOT 11915; not an item registration) | 25%; mean 0.25 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/12317.webp){ .lu-ti width="24" loading="lazy" } [Aura Blossoms (LOT 12317)](../12317.md) | 100%; mean 1 | Not associated with a vendor |
+| [Aura Blossoms (LOT 12317)](../12317.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

@@ -37,18 +37,18 @@ faction mission that joining completes.
 
 | Class | Faction | Role (summary) | Weapon | Rank-1 head ability | Rank-3 signature ability |
 | --- | --- | --- | --- | --- | --- |
-| [Engineer](./classes/engineer.md) | Assembly | Support / builder | Engineer Wrench | ![](../assets/icons/skills/624.webp){ .lu-ti width="24" loading="lazy" } [Deploy Turret 1](./skills/624.md) | ![](../assets/icons/skills/649.webp){ .lu-ti width="24" loading="lazy" } [Personal Fortress](./skills/649.md) |
-| [Inventor](./classes/inventor.md) ¹ | Assembly | Support / summoner | Inventor Improved Launcher | ![](../assets/icons/skills/1055.webp){ .lu-ti width="24" loading="lazy" } [Summon Make-Shift Buddy 1](./skills/1055.md) | ![](../assets/icons/skills/1058.webp){ .lu-ti width="24" loading="lazy" } [Gadgets Extreme](./skills/1058.md) |
-| [Summoner](./classes/summoner.md) | Assembly | Summoner / support | Summoner Staff | ![](../assets/icons/skills/631.webp){ .lu-ti width="24" loading="lazy" } [Summon Bulper 1](./skills/631.md) | ![](../assets/icons/skills/673.webp){ .lu-ti width="24" loading="lazy" } [Summon Scratch](./skills/673.md) |
-| [Shinobi](./classes/shinobi.md) ¹ | Paradox | Melee damage | Shinobi Katana | ![](../assets/icons/skills/1075.webp){ .lu-ti width="24" loading="lazy" } [Dark Lightning 1](./skills/1075.md) | ![](../assets/icons/skills/482.webp){ .lu-ti width="24" loading="lazy" } [Shuriken Barrage](./skills/482.md) |
-| [Sorcerer](./classes/sorcerer.md) | Paradox | Caster / imagination support | Sorcerer Wand | ![](../assets/icons/skills/346.webp){ .lu-ti width="24" loading="lazy" } [Maelstrom Breath 1](./skills/346.md) | ![](../assets/icons/skills/655.webp){ .lu-ti width="24" loading="lazy" } [Last Blast](./skills/655.md) |
-| [Space Marauder](./classes/space-marauder.md) | Paradox | Ranged damage | Space Marauder Blaster | ![](../assets/icons/skills/458.webp){ .lu-ti width="24" loading="lazy" } [Plasma Ball 1](./skills/458.md) | ![](../assets/icons/skills/606.webp){ .lu-ti width="24" loading="lazy" } [Cluster Strike](./skills/606.md) |
-| [Knight](./classes/knight.md) | Sentinels | Defender | Knight Greatsword | ![](../assets/icons/skills/777.webp){ .lu-ti width="24" loading="lazy" } [Strengthen Armor 1](./skills/777.md) | ![](../assets/icons/skills/338.webp){ .lu-ti width="24" loading="lazy" } [Roundhouse](./skills/338.md) |
-| [Samurai](./classes/samurai.md) | Sentinels | Defender | Samurai Katana | ![](../assets/icons/skills/777.webp){ .lu-ti width="24" loading="lazy" } [Strengthen Armor 1](./skills/777.md) | ![](../assets/icons/skills/550.webp){ .lu-ti width="24" loading="lazy" } [Ronin Rush](./skills/550.md) |
-| [Space Ranger](./classes/space-ranger.md) ¹ | Sentinels | Crowd control | Space Ranger Zipgun | ![](../assets/icons/skills/1088.webp){ .lu-ti width="24" loading="lazy" } [Gravity Well 1](./skills/1088.md) | ![](../assets/icons/skills/1093.webp){ .lu-ti width="24" loading="lazy" } [Sentinel Blast](./skills/1093.md) |
-| [Adventurer](./classes/adventurer.md) ¹ | Venture League | Support / mobility | Adventurer Crossbow | ![](../assets/icons/skills/1070.webp){ .lu-ti width="24" loading="lazy" } [Path Cutter 1](./skills/1070.md) | ![](../assets/icons/skills/1073.webp){ .lu-ti width="24" loading="lazy" } [Rations](./skills/1073.md) |
-| [Buccaneer](./classes/buccaneer.md) | Venture League | Hybrid damage | Buccaneer Pistol &amp; Cutlass | ![](../assets/icons/skills/445.webp){ .lu-ti width="24" loading="lazy" } [Super Jump 1](./skills/445.md) | ![](../assets/icons/skills/383.webp){ .lu-ti width="24" loading="lazy" } [Funky Monkey 1](./skills/383.md) |
-| [Daredevil](./classes/daredevil.md) | Venture League | Ranged damage / mobility | Daredevil Flareguns | ![](../assets/icons/skills/445.webp){ .lu-ti width="24" loading="lazy" } [Super Jump 1](./skills/445.md) | ![](../assets/icons/skills/599.webp){ .lu-ti width="24" loading="lazy" } [Fire Extinguisher 3](./skills/599.md) |
+| [Engineer](./classes/engineer.md) | Assembly | Support / builder | Engineer Wrench | [Deploy Turret 1](./skills/624.md) | [Personal Fortress](./skills/649.md) |
+| [Inventor](./classes/inventor.md) ¹ | Assembly | Support / summoner | Inventor Improved Launcher | [Summon Make-Shift Buddy 1](./skills/1055.md) | [Gadgets Extreme](./skills/1058.md) |
+| [Summoner](./classes/summoner.md) | Assembly | Summoner / support | Summoner Staff | [Summon Bulper 1](./skills/631.md) | [Summon Scratch](./skills/673.md) |
+| [Shinobi](./classes/shinobi.md) ¹ | Paradox | Melee damage | Shinobi Katana | [Dark Lightning 1](./skills/1075.md) | [Shuriken Barrage](./skills/482.md) |
+| [Sorcerer](./classes/sorcerer.md) | Paradox | Caster / imagination support | Sorcerer Wand | [Maelstrom Breath 1](./skills/346.md) | [Last Blast](./skills/655.md) |
+| [Space Marauder](./classes/space-marauder.md) | Paradox | Ranged damage | Space Marauder Blaster | [Plasma Ball 1](./skills/458.md) | [Cluster Strike](./skills/606.md) |
+| [Knight](./classes/knight.md) | Sentinels | Defender | Knight Greatsword | [Strengthen Armor 1](./skills/777.md) | [Roundhouse](./skills/338.md) |
+| [Samurai](./classes/samurai.md) | Sentinels | Defender | Samurai Katana | [Strengthen Armor 1](./skills/777.md) | [Ronin Rush](./skills/550.md) |
+| [Space Ranger](./classes/space-ranger.md) ¹ | Sentinels | Crowd control | Space Ranger Zipgun | [Gravity Well 1](./skills/1088.md) | [Sentinel Blast](./skills/1093.md) |
+| [Adventurer](./classes/adventurer.md) ¹ | Venture League | Support / mobility | Adventurer Crossbow | [Path Cutter 1](./skills/1070.md) | [Rations](./skills/1073.md) |
+| [Buccaneer](./classes/buccaneer.md) | Venture League | Hybrid damage | Buccaneer Pistol &amp; Cutlass | [Super Jump 1](./skills/445.md) | [Funky Monkey 1](./skills/383.md) |
+| [Daredevil](./classes/daredevil.md) | Venture League | Ranged damage / mobility | Daredevil Flareguns | [Super Jump 1](./skills/445.md) | [Fire Extinguisher 3](./skills/599.md) |
 
 ¹ Added in a later content update; not covered by the 2010 guide.
 

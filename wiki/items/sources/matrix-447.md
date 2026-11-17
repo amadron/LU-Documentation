@@ -14,10 +14,10 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/11197.webp){ .lu-ti width="24" loading="lazy" } [Shipwreck Hideout Model 1 (LOT 11197)](../11197.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11198.webp){ .lu-ti width="24" loading="lazy" } [Shipwreck Hideout Model 2 (LOT 11198)](../11198.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11199.webp){ .lu-ti width="24" loading="lazy" } [Shipwreck Hideout Model 3 (LOT 11199)](../11199.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11200.webp){ .lu-ti width="24" loading="lazy" } [Shipwreck Hideout Model 4 (LOT 11200)](../11200.md) | 100%; mean 1 | Not associated with a vendor |
+| [Shipwreck Hideout Model 1 (LOT 11197)](../11197.md) | 100%; mean 1 | Not associated with a vendor |
+| [Shipwreck Hideout Model 2 (LOT 11198)](../11198.md) | 100%; mean 1 | Not associated with a vendor |
+| [Shipwreck Hideout Model 3 (LOT 11199)](../11199.md) | 100%; mean 1 | Not associated with a vendor |
+| [Shipwreck Hideout Model 4 (LOT 11200)](../11200.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

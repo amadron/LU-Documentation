@@ -14,10 +14,10 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/12503.webp){ .lu-ti width="24" loading="lazy" } [Skeleton Repair Facility Model (LOT 12503)](../12503.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/12504.webp){ .lu-ti width="24" loading="lazy" } [Skeleton Wall Pillars Model (LOT 12504)](../12504.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/12505.webp){ .lu-ti width="24" loading="lazy" } [Skeleton Mobile Drilling Rig Model (LOT 12505)](../12505.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/12506.webp){ .lu-ti width="24" loading="lazy" } [Skeleton Hover Drone Model (LOT 12506)](../12506.md) | 100%; mean 1 | Not associated with a vendor |
+| [Skeleton Repair Facility Model (LOT 12503)](../12503.md) | 100%; mean 1 | Not associated with a vendor |
+| [Skeleton Wall Pillars Model (LOT 12504)](../12504.md) | 100%; mean 1 | Not associated with a vendor |
+| [Skeleton Mobile Drilling Rig Model (LOT 12505)](../12505.md) | 100%; mean 1 | Not associated with a vendor |
+| [Skeleton Hover Drone Model (LOT 12506)](../12506.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

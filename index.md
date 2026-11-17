@@ -24,6 +24,7 @@ technical documentation for DarkflameServer.
 - [Pet database](wiki/pets/README.md)
 - [Player skill database](wiki/skills/README.md)
 - [Worlds, zones, and maps](wiki/zones/README.md)
+- [Unreleased and cut content](wiki/Unreleased%20Content.md)
 
 Search finds item and quest detail pages by name, ID, and description; their
 technical sections and catalog tables are not fully indexed. All details

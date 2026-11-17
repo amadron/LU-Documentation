@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/14708.webp){ .lu-ti width="24" loading="lazy" } [Duck Car Front Bumper (LOT 14708)](../14708.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/14709.webp){ .lu-ti width="24" loading="lazy" } [Duck Car Engine Panel (LOT 14709)](../14709.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/14710.webp){ .lu-ti width="24" loading="lazy" } [Duck Car Side Panels (LOT 14710)](../14710.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/14711.webp){ .lu-ti width="24" loading="lazy" } [Duck Car Rear Panel (LOT 14711)](../14711.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/14712.webp){ .lu-ti width="24" loading="lazy" } [Duck Car Rear Bumper (LOT 14712)](../14712.md) | 100%; mean 1 | Not associated with a vendor |
+| [Duck Car Front Bumper (LOT 14708)](../14708.md) | 100%; mean 1 | Not associated with a vendor |
+| [Duck Car Engine Panel (LOT 14709)](../14709.md) | 100%; mean 1 | Not associated with a vendor |
+| [Duck Car Side Panels (LOT 14710)](../14710.md) | 100%; mean 1 | Not associated with a vendor |
+| [Duck Car Rear Panel (LOT 14711)](../14711.md) | 100%; mean 1 | Not associated with a vendor |
+| [Duck Car Rear Bumper (LOT 14712)](../14712.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

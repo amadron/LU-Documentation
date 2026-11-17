@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/80.webp){ .lu-ti width="24" loading="lazy" } [Rank 1 Knight Book (LOT 80)](../80.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7355.webp){ .lu-ti width="24" loading="lazy" } [Knight Helm 1 (LOT 7355)](../7355.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7367.webp){ .lu-ti width="24" loading="lazy" } [Knight Breastplate 1 (LOT 7367)](../7367.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7379.webp){ .lu-ti width="24" loading="lazy" } [Knight Leggings 1 (LOT 7379)](../7379.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7391.webp){ .lu-ti width="24" loading="lazy" } [Knight Greatsword 1 (LOT 7391)](../7391.md) | 100%; mean 1 | Not associated with a vendor |
+| [Rank 1 Knight Book (LOT 80)](../80.md) | 100%; mean 1 | Not associated with a vendor |
+| [Knight Helm 1 (LOT 7355)](../7355.md) | 100%; mean 1 | Not associated with a vendor |
+| [Knight Breastplate 1 (LOT 7367)](../7367.md) | 100%; mean 1 | Not associated with a vendor |
+| [Knight Leggings 1 (LOT 7379)](../7379.md) | 100%; mean 1 | Not associated with a vendor |
+| [Knight Greatsword 1 (LOT 7391)](../7391.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/21.webp){ .lu-ti width="24" loading="lazy" } [Rank 1 Daredevil Book (LOT 21)](../21.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7463.webp){ .lu-ti width="24" loading="lazy" } [Daredevil Helmet 1 (LOT 7463)](../7463.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7487.webp){ .lu-ti width="24" loading="lazy" } [Daredevil Jacket 1 (LOT 7487)](../7487.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7511.webp){ .lu-ti width="24" loading="lazy" } [Daredevil Pants 1 (LOT 7511)](../7511.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7535.webp){ .lu-ti width="24" loading="lazy" } [Daredevil Flareguns 1 (LOT 7535)](../7535.md) | 100%; mean 1 | Not associated with a vendor |
+| [Rank 1 Daredevil Book (LOT 21)](../21.md) | 100%; mean 1 | Not associated with a vendor |
+| [Daredevil Helmet 1 (LOT 7463)](../7463.md) | 100%; mean 1 | Not associated with a vendor |
+| [Daredevil Jacket 1 (LOT 7487)](../7487.md) | 100%; mean 1 | Not associated with a vendor |
+| [Daredevil Pants 1 (LOT 7511)](../7511.md) | 100%; mean 1 | Not associated with a vendor |
+| [Daredevil Flareguns 1 (LOT 7535)](../7535.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

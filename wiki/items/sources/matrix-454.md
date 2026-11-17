@@ -14,7 +14,7 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/11211.webp){ .lu-ti width="24" loading="lazy" } [Moonbase Fuel Rod (LOT 11211)](../11211.md) | 40%; mean 0.4 | Not associated with a vendor |
+| [Moonbase Fuel Rod (LOT 11211)](../11211.md) | 40%; mean 0.4 | Not associated with a vendor |
 | Imagination Powerup 3 points (LOT 11910; not an item registration) | 100%; mean 2.5 | Not associated with a vendor |
 | Armor Powerup 2 points (LOT 11912; not an item registration) | 100%; mean 1.5 | Not associated with a vendor |
 | Life Powerup 2 points (LOT 11915; not an item registration) | 100%; mean 1 | Not associated with a vendor |

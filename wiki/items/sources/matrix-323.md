@@ -14,12 +14,12 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/8130.webp){ .lu-ti width="24" loading="lazy" } [Steel Rim Wheels (LOT 8130)](../8130.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/8131.webp){ .lu-ti width="24" loading="lazy" } [Hyperstarter Engine Panel (LOT 8131)](../8131.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/9318.webp){ .lu-ti width="24" loading="lazy" } [Hyperstarter Front Bumper (LOT 9318)](../9318.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/9343.webp){ .lu-ti width="24" loading="lazy" } [Hyperstarter Side Panels (LOT 9343)](../9343.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/9353.webp){ .lu-ti width="24" loading="lazy" } [Hyperstarter Rear Panel (LOT 9353)](../9353.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/9363.webp){ .lu-ti width="24" loading="lazy" } [Hyperstarter Rear Bumper (LOT 9363)](../9363.md) | 100%; mean 1 | Not associated with a vendor |
+| [Steel Rim Wheels (LOT 8130)](../8130.md) | 100%; mean 1 | Not associated with a vendor |
+| [Hyperstarter Engine Panel (LOT 8131)](../8131.md) | 100%; mean 1 | Not associated with a vendor |
+| [Hyperstarter Front Bumper (LOT 9318)](../9318.md) | 100%; mean 1 | Not associated with a vendor |
+| [Hyperstarter Side Panels (LOT 9343)](../9343.md) | 100%; mean 1 | Not associated with a vendor |
+| [Hyperstarter Rear Panel (LOT 9353)](../9353.md) | 100%; mean 1 | Not associated with a vendor |
+| [Hyperstarter Rear Bumper (LOT 9363)](../9363.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

@@ -15,10 +15,10 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/4713.webp){ .lu-ti width="24" loading="lazy" } [Classic Rocket Nose Cone (LOT 4713)](../4713.md) | 25%; mean 0.25 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/14444.webp){ .lu-ti width="24" loading="lazy" } [Classic Blue Rocket Nose Cone (LOT 14444)](../14444.md) | 25%; mean 0.25 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/14451.webp){ .lu-ti width="24" loading="lazy" } [Classic Pink Rocket Nose Cone (LOT 14451)](../14451.md) | 25%; mean 0.25 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/14454.webp){ .lu-ti width="24" loading="lazy" } [Classic Yellow Rocket Nose Cone (LOT 14454)](../14454.md) | 25%; mean 0.25 | Not associated with a vendor |
+| [Classic Rocket Nose Cone (LOT 4713)](../4713.md) | 25%; mean 0.25 | Not associated with a vendor |
+| [Classic Blue Rocket Nose Cone (LOT 14444)](../14444.md) | 25%; mean 0.25 | Not associated with a vendor |
+| [Classic Pink Rocket Nose Cone (LOT 14451)](../14451.md) | 25%; mean 0.25 | Not associated with a vendor |
+| [Classic Yellow Rocket Nose Cone (LOT 14454)](../14454.md) | 25%; mean 0.25 | Not associated with a vendor |
 
 ## Raw matrix entries
 

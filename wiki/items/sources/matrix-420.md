@@ -14,10 +14,10 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/10336.webp){ .lu-ti width="24" loading="lazy" } [House Kitchen Model 1 (LOT 10336)](../10336.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10337.webp){ .lu-ti width="24" loading="lazy" } [House Kitchen Model 2 (LOT 10337)](../10337.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10345.webp){ .lu-ti width="24" loading="lazy" } [House Toilet Model 2 (LOT 10345)](../10345.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/10348.webp){ .lu-ti width="24" loading="lazy" } [House Vanity Model 3 (LOT 10348)](../10348.md) | 100%; mean 1 | Not associated with a vendor |
+| [House Kitchen Model 1 (LOT 10336)](../10336.md) | 100%; mean 1 | Not associated with a vendor |
+| [House Kitchen Model 2 (LOT 10337)](../10337.md) | 100%; mean 1 | Not associated with a vendor |
+| [House Toilet Model 2 (LOT 10345)](../10345.md) | 100%; mean 1 | Not associated with a vendor |
+| [House Vanity Model 3 (LOT 10348)](../10348.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

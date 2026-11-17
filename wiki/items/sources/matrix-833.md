@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/14739.webp){ .lu-ti width="24" loading="lazy" } [Dune Buggy Front Bumper (LOT 14739)](../14739.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/14740.webp){ .lu-ti width="24" loading="lazy" } [Dune Buggy Engine Panel (LOT 14740)](../14740.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/14741.webp){ .lu-ti width="24" loading="lazy" } [Dune Buggy Side Panels (LOT 14741)](../14741.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/14742.webp){ .lu-ti width="24" loading="lazy" } [Dune Buggy Rear Panel (LOT 14742)](../14742.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/14743.webp){ .lu-ti width="24" loading="lazy" } [Dune Buggy Rear Bumper (LOT 14743)](../14743.md) | 100%; mean 1 | Not associated with a vendor |
+| [Dune Buggy Front Bumper (LOT 14739)](../14739.md) | 100%; mean 1 | Not associated with a vendor |
+| [Dune Buggy Engine Panel (LOT 14740)](../14740.md) | 100%; mean 1 | Not associated with a vendor |
+| [Dune Buggy Side Panels (LOT 14741)](../14741.md) | 100%; mean 1 | Not associated with a vendor |
+| [Dune Buggy Rear Panel (LOT 14742)](../14742.md) | 100%; mean 1 | Not associated with a vendor |
+| [Dune Buggy Rear Bumper (LOT 14743)](../14743.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

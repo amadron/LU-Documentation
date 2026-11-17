@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/118.webp){ .lu-ti width="24" loading="lazy" } [Rank 1 Sorcerer Book (LOT 118)](../118.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7357.webp){ .lu-ti width="24" loading="lazy" } [Sorcerer Hat 1 (LOT 7357)](../7357.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7373.webp){ .lu-ti width="24" loading="lazy" } [Sorcerer Breastplate 1 (LOT 7373)](../7373.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7385.webp){ .lu-ti width="24" loading="lazy" } [Sorcerer Pants 1 (LOT 7385)](../7385.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7397.webp){ .lu-ti width="24" loading="lazy" } [Sorcerer Wand 1 (LOT 7397)](../7397.md) | 100%; mean 1 | Not associated with a vendor |
+| [Rank 1 Sorcerer Book (LOT 118)](../118.md) | 100%; mean 1 | Not associated with a vendor |
+| [Sorcerer Hat 1 (LOT 7357)](../7357.md) | 100%; mean 1 | Not associated with a vendor |
+| [Sorcerer Breastplate 1 (LOT 7373)](../7373.md) | 100%; mean 1 | Not associated with a vendor |
+| [Sorcerer Pants 1 (LOT 7385)](../7385.md) | 100%; mean 1 | Not associated with a vendor |
+| [Sorcerer Wand 1 (LOT 7397)](../7397.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

@@ -14,11 +14,11 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/7460.webp){ .lu-ti width="24" loading="lazy" } [Adventurer Hat 1 (LOT 7460)](../7460.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7484.webp){ .lu-ti width="24" loading="lazy" } [Adventurer Coat 1 (LOT 7484)](../7484.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7508.webp){ .lu-ti width="24" loading="lazy" } [Adventurer Pants 1 (LOT 7508)](../7508.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/7532.webp){ .lu-ti width="24" loading="lazy" } [Adventurer Crossbow 1 (LOT 7532)](../7532.md) | 100%; mean 1 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/11923.webp){ .lu-ti width="24" loading="lazy" } [Rank 1 Adventurer Book (LOT 11923)](../11923.md) | 100%; mean 1 | Not associated with a vendor |
+| [Adventurer Hat 1 (LOT 7460)](../7460.md) | 100%; mean 1 | Not associated with a vendor |
+| [Adventurer Coat 1 (LOT 7484)](../7484.md) | 100%; mean 1 | Not associated with a vendor |
+| [Adventurer Pants 1 (LOT 7508)](../7508.md) | 100%; mean 1 | Not associated with a vendor |
+| [Adventurer Crossbow 1 (LOT 7532)](../7532.md) | 100%; mean 1 | Not associated with a vendor |
+| [Rank 1 Adventurer Book (LOT 11923)](../11923.md) | 100%; mean 1 | Not associated with a vendor |
 
 ## Raw matrix entries
 

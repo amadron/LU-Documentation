@@ -14,9 +14,9 @@ Default vendor-stock probabilities are shown only when this matrix has a registe
 
 | Item | Modeled loot chance / expected count | Default vendor stock |
 | --- | --- | --- |
-| ![](../../../assets/icons/objects/15918.webp){ .lu-ti width="24" loading="lazy" } [Athlete's Shade (LOT 15918)](../15918.md) | 0.0005%; mean 0.000005 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/15990.webp){ .lu-ti width="24" loading="lazy" } [Crimson Guard (LOT 15990)](../15990.md) | 0.0115%; mean 0.000115 | Not associated with a vendor |
-| ![](../../../assets/icons/objects/16123.webp){ .lu-ti width="24" loading="lazy" } [Murasaki Hakama (LOT 16123)](../16123.md) | 0.0005%; mean 0.000005 | Not associated with a vendor |
+| [Athlete's Shade (LOT 15918)](../15918.md) | 0.0005%; mean 0.000005 | Not associated with a vendor |
+| [Crimson Guard (LOT 15990)](../15990.md) | 0.0115%; mean 0.000115 | Not associated with a vendor |
+| [Murasaki Hakama (LOT 16123)](../16123.md) | 0.0005%; mean 0.000005 | Not associated with a vendor |
 
 ## Raw matrix entries
 
