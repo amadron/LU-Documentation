@@ -42,10 +42,10 @@
         var id = match[3];
         var key = kind + "/" + id;
         link.dataset.luIcon = "1";
-        if (seen[key] || !manifest[kind] || !manifest[kind][id]) continue;
+        if (seen[key] || !manifest.icons[kind] || !manifest.icons[kind][id]) continue;
         seen[key] = true;
         var img = document.createElement("img");
-        img.className = "lu-ti";
+        img.className = "lu-ti " + (manifest.light[kind][id] ? "lu-on-dark" : "lu-on-light");
         img.width = 24;
         img.height = 24;
         img.loading = "lazy";
@@ -65,10 +65,12 @@
       .then(function (response) { return response.ok ? response.json() : null; })
       .then(function (data) {
         if (!data) return;
-        manifest = {};
-        Object.keys(data).forEach(function (kind) {
-          manifest[kind] = {};
-          data[kind].forEach(function (id) { manifest[kind][id] = true; });
+        manifest = { icons: {}, light: {} };
+        ["icons", "light"].forEach(function (group) {
+          Object.keys(data[group] || {}).forEach(function (kind) {
+            manifest[group][kind] = {};
+            data[group][kind].forEach(function (id) { manifest[group][kind][id] = true; });
+          });
         });
         decorate(document);
       })

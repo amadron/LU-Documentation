@@ -8,6 +8,7 @@ Usage (from the documentation root):
 """
 
 import html
+import json
 import re
 import sqlite3
 import sys
@@ -286,11 +287,21 @@ class Data:
     def item_link(self, info):
         return self.icon("objects", info["lot"]) + self.lot_link(info["lot"])
 
-    @staticmethod
-    def icon(kind, ident, width=32):
-        """Inline icon from assets/ (written by scripts/build_media.py), if it exists."""
+    _light = None
+
+    @classmethod
+    def icon(cls, kind, ident, width=32):
+        """Inline icon from assets/ (written by scripts/build_media.py), if it exists. The icon list
+        says which icons are light and need a dark backdrop."""
         if (ROOT / "assets" / "icons" / kind / f"{ident}.webp").exists():
-            return f'![](../../assets/icons/{kind}/{ident}.webp){{ .lu-ci width="{width}" }} '
+            if cls._light is None:
+                try:
+                    data = json.loads((ROOT / "assets" / "icons" / "index.json").read_text(encoding="utf-8"))
+                    cls._light = {k: set(v) for k, v in data.get("light", {}).items()}
+                except (OSError, ValueError):
+                    cls._light = {}
+            backdrop = "lu-on-dark" if ident in cls._light.get(kind, ()) else "lu-on-light"
+            return f'![](../../assets/icons/{kind}/{ident}.webp){{ .lu-ci .{backdrop} width="{width}" }} '
         return ""
 
 

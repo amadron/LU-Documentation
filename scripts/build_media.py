@@ -20,7 +20,7 @@ import re
 import sqlite3
 from pathlib import Path
 
-from PIL import Image
+from PIL import Image, ImageStat
 
 import game_paths  # location of the unmodified game data
 
@@ -35,6 +35,25 @@ EXCLUDED_LOTS = {16900}      # custom development content, not original game dat
 EXCLUDED_ZONES = {1650}
 MINIMAP_ZOOM = "zoom_1"      # 6x6 tiles of 256 px for the large worlds
 MINIMAP_MAX = 1024
+# Icons whose opaque pixels are brighter than this (0-255) get a dark backdrop, the rest a light
+# one, so both white and black icons stay visible.
+LIGHT_THRESHOLD = 110
+_LIGHT_CACHE = {}
+
+
+def icon_is_light(path):
+    if path not in _LIGHT_CACHE:
+        image = Image.open(path).convert("RGBA")
+        mask = image.getchannel("A").point(lambda value: 255 if value > 128 else 0)
+        if not mask.getbbox():
+            _LIGHT_CACHE[path] = False
+        else:
+            _LIGHT_CACHE[path] = ImageStat.Stat(image.convert("L"), mask=mask).mean[0] > LIGHT_THRESHOLD
+    return _LIGHT_CACHE[path]
+
+
+def backdrop_class(path):
+    return "lu-on-dark" if icon_is_light(path) else "lu-on-light"
 
 
 def resolve(client, path):
@@ -189,7 +208,8 @@ def main():
             target = ASSETS / asset_dir / f"{page_id}.webp"
             if source and convert_icon(source, target, args.force):
                 rel = os.path.relpath(target, folder).replace(os.sep, "/")
-                line = f'![{alt_for(page_id)}]({rel}){{ .lu-icon width="{width}" loading="lazy" }}'
+                line = (f'![{alt_for(page_id)}]({rel}){{ .lu-icon .{backdrop_class(target)} '
+                        f'width="{width}" loading="lazy" }}')
                 changed += set_block(page, [line])
                 done += 1
             else:
@@ -274,9 +294,14 @@ def write_table_icon_manifest():
     """Table icons are added in the browser by assets/javascripts/table-icons.js, which reads this
     list of available icons. Keeping them out of the Markdown keeps the site build fast.
     Also removes table icons that older versions of this script wrote into the pages."""
-    manifest = {
-        kind: sorted(int(p.stem) for p in (ASSETS / "icons" / kind).glob("*.webp") if p.stem.isdigit())
+    icons = {
+        kind: sorted((int(p.stem), p) for p in (ASSETS / "icons" / kind).glob("*.webp") if p.stem.isdigit())
         for kind in ("objects", "skills", "missions")
+    }
+    manifest = {
+        "icons": {kind: [ident for ident, _ in entries] for kind, entries in icons.items()},
+        # icons that need a dark backdrop; all others get a light one
+        "light": {kind: [ident for ident, path in entries if icon_is_light(path)] for kind, entries in icons.items()},
     }
     target = ASSETS / "icons" / "index.json"
     target.write_text(json.dumps(manifest, separators=(",", ":")), encoding="utf-8")
@@ -287,7 +312,7 @@ def write_table_icon_manifest():
             continue
         page.write_text(TABLE_ICON.sub("", text), encoding="utf-8", newline="")
         cleaned += 1
-    return sum(len(ids) for ids in manifest.values()), cleaned
+    return sum(len(ids) for ids in manifest["icons"].values()), cleaned
 
 
 if __name__ == "__main__":

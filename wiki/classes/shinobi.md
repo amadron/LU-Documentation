@@ -17,13 +17,13 @@ tooltips.
 
 | Rank | Slot | Ability | Effect | IP cost | Cooldown |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Head | ![](../../assets/icons/skills/1075.webp){ .lu-ci width="24" } [Dark Lightning 1](../skills/1075.md) | Damage: 5. Strikes enemies with lightning, doing 5 damage. | 6 | 10 s |
-| 1 | Main hand | ![](../../assets/icons/skills/1081.webp){ .lu-ci width="24" } [Shadow Blade 1](../skills/1081.md) | Damage: 1+2+2. Charge attack: Restores 2 Imagination for nearby characters. | — | 1.25 s |
-| 2 | Head | ![](../../assets/icons/skills/1076.webp){ .lu-ci width="24" } [Dark Lightning 2](../skills/1076.md) | Damage: 7. Strikes enemies with lightning, doing 7 damage. | 7 | 10 s |
-| 2 | Main hand | ![](../../assets/icons/skills/1082.webp){ .lu-ci width="24" } [Shadow Blade 2](../skills/1082.md) | Damage: 2+2+3. Charge attack: Restores up to 5 Imagination for nearby characters - charge longer for more Imagination. | — | 1.25 s |
-| 3 | Head | ![](../../assets/icons/skills/1077.webp){ .lu-ci width="24" } [Dark Lightning 3](../skills/1077.md) | Damage: 9. Strikes enemies with lightning, doing 9 damage. | 8 | 10 s |
-| 3 | Main hand | ![](../../assets/icons/skills/1083.webp){ .lu-ci width="24" } [Shadow Blade 3](../skills/1083.md) | Damage: 3+3+3. Charge attack: Restores up to 11 Imagination for nearby characters - charge longer for more Imagination. | — | 1.25 s |
-| 3 | Neck/back | ![](../../assets/icons/skills/482.webp){ .lu-ci width="24" } [Shuriken Barrage](../skills/482.md) | Damage: 12. Throws shuriken that do 12 damage to enemies. | 10 | 20 s |
+| 1 | Head | ![](../../assets/icons/skills/1075.webp){ .lu-ci .lu-on-dark width="24" } [Dark Lightning 1](../skills/1075.md) | Damage: 5. Strikes enemies with lightning, doing 5 damage. | 6 | 10 s |
+| 1 | Main hand | ![](../../assets/icons/skills/1081.webp){ .lu-ci .lu-on-dark width="24" } [Shadow Blade 1](../skills/1081.md) | Damage: 1+2+2. Charge attack: Restores 2 Imagination for nearby characters. | — | 1.25 s |
+| 2 | Head | ![](../../assets/icons/skills/1076.webp){ .lu-ci .lu-on-dark width="24" } [Dark Lightning 2](../skills/1076.md) | Damage: 7. Strikes enemies with lightning, doing 7 damage. | 7 | 10 s |
+| 2 | Main hand | ![](../../assets/icons/skills/1082.webp){ .lu-ci .lu-on-dark width="24" } [Shadow Blade 2](../skills/1082.md) | Damage: 2+2+3. Charge attack: Restores up to 5 Imagination for nearby characters - charge longer for more Imagination. | — | 1.25 s |
+| 3 | Head | ![](../../assets/icons/skills/1077.webp){ .lu-ci .lu-on-dark width="24" } [Dark Lightning 3](../skills/1077.md) | Damage: 9. Strikes enemies with lightning, doing 9 damage. | 8 | 10 s |
+| 3 | Main hand | ![](../../assets/icons/skills/1083.webp){ .lu-ci .lu-on-dark width="24" } [Shadow Blade 3](../skills/1083.md) | Damage: 3+3+3. Charge attack: Restores up to 11 Imagination for nearby characters - charge longer for more Imagination. | — | 1.25 s |
+| 3 | Neck/back | ![](../../assets/icons/skills/482.webp){ .lu-ci .lu-on-dark width="24" } [Shuriken Barrage](../skills/482.md) | Damage: 12. Throws shuriken that do 12 damage to enemies. | 10 | 20 s |
 
 ## Unlocking the class
 
@@ -50,10 +50,10 @@ variants, and valiant gear at [Sutoro Hatto - Paradox Vendor (LOT 13378)](../ite
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | ![](../../assets/icons/objects/7451.webp){ .lu-ci width="32" } [Shinobi Hood 1 (LOT 7451)](../items/7451.md) | 5 | 25 | [Dark Lightning 1](../skills/1075.md) (6 IP, 10 s) |
-| Chest | ![](../../assets/icons/objects/7475.webp){ .lu-ci width="32" } [Shinobi Gi 1 (LOT 7475)](../items/7475.md) | 5 | 25 | — |
-| Legs | ![](../../assets/icons/objects/7499.webp){ .lu-ci width="32" } [Shinobi Leggings 1 (LOT 7499)](../items/7499.md) | 5 | 25 | — |
-| Main hand | ![](../../assets/icons/objects/7523.webp){ .lu-ci width="32" } [Shinobi Katana 1 (LOT 7523)](../items/7523.md) | 5 | 25 | [Shadow Blade 1](../skills/1081.md) (1.25 s) |
+| Head | ![](../../assets/icons/objects/7451.webp){ .lu-ci .lu-on-light width="32" } [Shinobi Hood 1 (LOT 7451)](../items/7451.md) | 5 | 25 | [Dark Lightning 1](../skills/1075.md) (6 IP, 10 s) |
+| Chest | ![](../../assets/icons/objects/7475.webp){ .lu-ci .lu-on-dark width="32" } [Shinobi Gi 1 (LOT 7475)](../items/7475.md) | 5 | 25 | — |
+| Legs | ![](../../assets/icons/objects/7499.webp){ .lu-ci .lu-on-dark width="32" } [Shinobi Leggings 1 (LOT 7499)](../items/7499.md) | 5 | 25 | — |
+| Main hand | ![](../../assets/icons/objects/7523.webp){ .lu-ci .lu-on-light width="32" } [Shinobi Katana 1 (LOT 7523)](../items/7523.md) | 5 | 25 | [Shadow Blade 1](../skills/1081.md) (1.25 s) |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
@@ -63,11 +63,11 @@ variants, and valiant gear at [Sutoro Hatto - Paradox Vendor (LOT 13378)](../ite
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | ![](../../assets/icons/objects/7452.webp){ .lu-ci width="32" } [Shinobi Hood 2 (LOT 7452)](../items/7452.md) | 15 | 60 | [Dark Lightning 2](../skills/1076.md) (7 IP, 10 s) |
-| Chest | ![](../../assets/icons/objects/7476.webp){ .lu-ci width="32" } [Shinobi Gi 2 (LOT 7476)](../items/7476.md) | 15 | 60 | — |
-| Legs | ![](../../assets/icons/objects/7500.webp){ .lu-ci width="32" } [Shinobi Leggings 2 (LOT 7500)](../items/7500.md) | 15 | 60 | — |
-| Main hand | ![](../../assets/icons/objects/7524.webp){ .lu-ci width="32" } [Shinobi Katana 2 (LOT 7524)](../items/7524.md) | 15 | 120 | [Shadow Blade 2](../skills/1082.md) (1.25 s) |
-| Neck/back | ![](../../assets/icons/objects/8461.webp){ .lu-ci width="32" } [Shinobi Shoulderpads 2 (LOT 8461)](../items/8461.md) | 15 | 60 | — |
+| Head | ![](../../assets/icons/objects/7452.webp){ .lu-ci .lu-on-dark width="32" } [Shinobi Hood 2 (LOT 7452)](../items/7452.md) | 15 | 60 | [Dark Lightning 2](../skills/1076.md) (7 IP, 10 s) |
+| Chest | ![](../../assets/icons/objects/7476.webp){ .lu-ci .lu-on-dark width="32" } [Shinobi Gi 2 (LOT 7476)](../items/7476.md) | 15 | 60 | — |
+| Legs | ![](../../assets/icons/objects/7500.webp){ .lu-ci .lu-on-light width="32" } [Shinobi Leggings 2 (LOT 7500)](../items/7500.md) | 15 | 60 | — |
+| Main hand | ![](../../assets/icons/objects/7524.webp){ .lu-ci .lu-on-light width="32" } [Shinobi Katana 2 (LOT 7524)](../items/7524.md) | 15 | 120 | [Shadow Blade 2](../skills/1082.md) (1.25 s) |
+| Neck/back | ![](../../assets/icons/objects/8461.webp){ .lu-ci .lu-on-dark width="32" } [Shinobi Shoulderpads 2 (LOT 8461)](../items/8461.md) | 15 | 60 | — |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
@@ -79,12 +79,12 @@ variants, and valiant gear at [Sutoro Hatto - Paradox Vendor (LOT 13378)](../ite
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | ![](../../assets/icons/objects/7453.webp){ .lu-ci width="32" } [Shinobi Hood 3 (LOT 7453)](../items/7453.md) | 30 | 180 | [Dark Lightning 3](../skills/1077.md) (8 IP, 10 s) |
-| Chest | ![](../../assets/icons/objects/7477.webp){ .lu-ci width="32" } [Shinobi Gi 3 (LOT 7477)](../items/7477.md) | 30 | 180 | — |
-| Legs | ![](../../assets/icons/objects/7501.webp){ .lu-ci width="32" } [Shinobi Leggings 3 (LOT 7501)](../items/7501.md) | 30 | 180 | — |
-| Main hand | ![](../../assets/icons/objects/7525.webp){ .lu-ci width="32" } [Shinobi Katana 3 (LOT 7525)](../items/7525.md) | 30 | 360 | [Shadow Blade 3](../skills/1083.md) (1.25 s) |
-| Neck/back | ![](../../assets/icons/objects/7541.webp){ .lu-ci width="32" } [Shinobi Shoulderpads 3 (LOT 7541)](../items/7541.md) | 30 | 180 | [Shuriken Barrage](../skills/482.md) (10 IP, 20 s) |
-| Neck/back | ![](../../assets/icons/objects/16190.webp){ .lu-ci width="32" } [Valiant Shinobi's Cape (LOT 16190)](../items/16190.md) (valiant) | 40 | 250 | [Shuriken Barrage](../skills/482.md) (10 IP, 20 s) |
+| Head | ![](../../assets/icons/objects/7453.webp){ .lu-ci .lu-on-light width="32" } [Shinobi Hood 3 (LOT 7453)](../items/7453.md) | 30 | 180 | [Dark Lightning 3](../skills/1077.md) (8 IP, 10 s) |
+| Chest | ![](../../assets/icons/objects/7477.webp){ .lu-ci .lu-on-light width="32" } [Shinobi Gi 3 (LOT 7477)](../items/7477.md) | 30 | 180 | — |
+| Legs | ![](../../assets/icons/objects/7501.webp){ .lu-ci .lu-on-light width="32" } [Shinobi Leggings 3 (LOT 7501)](../items/7501.md) | 30 | 180 | — |
+| Main hand | ![](../../assets/icons/objects/7525.webp){ .lu-ci .lu-on-light width="32" } [Shinobi Katana 3 (LOT 7525)](../items/7525.md) | 30 | 360 | [Shadow Blade 3](../skills/1083.md) (1.25 s) |
+| Neck/back | ![](../../assets/icons/objects/7541.webp){ .lu-ci .lu-on-dark width="32" } [Shinobi Shoulderpads 3 (LOT 7541)](../items/7541.md) | 30 | 180 | [Shuriken Barrage](../skills/482.md) (10 IP, 20 s) |
+| Neck/back | ![](../../assets/icons/objects/16190.webp){ .lu-ci .lu-on-light width="32" } [Valiant Shinobi's Cape (LOT 16190)](../items/16190.md) (valiant) | 40 | 250 | [Shuriken Barrage](../skills/482.md) (10 IP, 20 s) |
 
 Listed in `ItemSets` without an object definition in this database (likely an unreleased valiant weapon): LOT 13275.
 

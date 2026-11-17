@@ -14,16 +14,16 @@ tooltips.
 
 | Rank | Slot | Ability | Effect | IP cost | Cooldown |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Head | ![](../../assets/icons/skills/777.webp){ .lu-ci width="24" } [Strengthen Armor 1](../skills/777.md) | Boosts Armor of nearby characters by 2 for 60 seconds and angers enemies. | 3 | 8 s |
-| 1 | Main hand | ![](../../assets/icons/skills/572.webp){ .lu-ci width="24" } [Katana Mastery 1](../skills/572.md) | Damage: 1+2+3. Charge attack: Blocks 3 attacks while charged. | — | 1 s |
-| 2 | Head | ![](../../assets/icons/skills/778.webp){ .lu-ci width="24" } [Strengthen Armor 2](../skills/778.md) | Boosts Armor of nearby characters by 4 for 60 seconds and angers enemies. | 5 | 8 s |
-| 2 | Main hand | ![](../../assets/icons/skills/573.webp){ .lu-ci width="24" } [Katana Mastery 2](../skills/573.md) | Damage: 2+3+3. Charge attack: Blocks 5 attacks while charged. | — | — |
-| 2 | Off hand | ![](../../assets/icons/skills/558.webp){ .lu-ci width="24" } [Flaming Arrow 1](../skills/558.md) | Damage: 5. Shoots a flaming arrow that does up to 5 damage over time. | 4 | 8 s |
-| 3 | Head | ![](../../assets/icons/skills/779.webp){ .lu-ci width="24" } [Strengthen Armor 3](../skills/779.md) | Boosts Armor of nearby characters by 6 for 60 seconds and angers enemies. | 7 | 8 s |
-| 3 | Main hand | ![](../../assets/icons/skills/574.webp){ .lu-ci width="24" } [Katana Mastery 3](../skills/574.md) | Damage: 2+3+3. Charge attack: Blocks 7 attacks while charged. | — | — |
-| 3 | Main hand (valiant) | ![](../../assets/icons/skills/1021.webp){ .lu-ci width="24" } [Valiant Attack](../skills/1021.md) | Damage: 3+3+4. Charge attack: Spins you around, doing 10 damage to enemies. | — | — |
-| 3 | Off hand | ![](../../assets/icons/skills/571.webp){ .lu-ci width="24" } [Flaming Arrow 2](../skills/571.md) | Damage: 10. Shoots a flaming arrow that does up to 10 damage over time. | 6 | 8 s |
-| 3 | Neck/back | ![](../../assets/icons/skills/550.webp){ .lu-ci width="24" } [Ronin Rush](../skills/550.md) | Damage: 12. Makes you perform a flying kick, doing 12 damage and knocking down enemies. | 9 | 7 s |
+| 1 | Head | ![](../../assets/icons/skills/777.webp){ .lu-ci .lu-on-dark width="24" } [Strengthen Armor 1](../skills/777.md) | Boosts Armor of nearby characters by 2 for 60 seconds and angers enemies. | 3 | 8 s |
+| 1 | Main hand | ![](../../assets/icons/skills/572.webp){ .lu-ci .lu-on-dark width="24" } [Katana Mastery 1](../skills/572.md) | Damage: 1+2+3. Charge attack: Blocks 3 attacks while charged. | — | 1 s |
+| 2 | Head | ![](../../assets/icons/skills/778.webp){ .lu-ci .lu-on-dark width="24" } [Strengthen Armor 2](../skills/778.md) | Boosts Armor of nearby characters by 4 for 60 seconds and angers enemies. | 5 | 8 s |
+| 2 | Main hand | ![](../../assets/icons/skills/573.webp){ .lu-ci .lu-on-dark width="24" } [Katana Mastery 2](../skills/573.md) | Damage: 2+3+3. Charge attack: Blocks 5 attacks while charged. | — | — |
+| 2 | Off hand | ![](../../assets/icons/skills/558.webp){ .lu-ci .lu-on-light width="24" } [Flaming Arrow 1](../skills/558.md) | Damage: 5. Shoots a flaming arrow that does up to 5 damage over time. | 4 | 8 s |
+| 3 | Head | ![](../../assets/icons/skills/779.webp){ .lu-ci .lu-on-dark width="24" } [Strengthen Armor 3](../skills/779.md) | Boosts Armor of nearby characters by 6 for 60 seconds and angers enemies. | 7 | 8 s |
+| 3 | Main hand | ![](../../assets/icons/skills/574.webp){ .lu-ci .lu-on-dark width="24" } [Katana Mastery 3](../skills/574.md) | Damage: 2+3+3. Charge attack: Blocks 7 attacks while charged. | — | — |
+| 3 | Main hand (valiant) | ![](../../assets/icons/skills/1021.webp){ .lu-ci .lu-on-dark width="24" } [Valiant Attack](../skills/1021.md) | Damage: 3+3+4. Charge attack: Spins you around, doing 10 damage to enemies. | — | — |
+| 3 | Off hand | ![](../../assets/icons/skills/571.webp){ .lu-ci .lu-on-light width="24" } [Flaming Arrow 2](../skills/571.md) | Damage: 10. Shoots a flaming arrow that does up to 10 damage over time. | 6 | 8 s |
+| 3 | Neck/back | ![](../../assets/icons/skills/550.webp){ .lu-ci .lu-on-dark width="24" } [Ronin Rush](../skills/550.md) | Damage: 12. Makes you perform a flying kick, doing 12 damage and knocking down enemies. | 9 | 7 s |
 
 ## Unlocking the class
 
@@ -50,10 +50,10 @@ variants, and valiant gear at [Nikolai Gammapulse - Sentinel Vendor (LOT 13376)]
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | ![](../../assets/icons/objects/7445.webp){ .lu-ci width="32" } [Samurai Helm 1 (LOT 7445)](../items/7445.md) | 5 | 25 | [Strengthen Armor 1](../skills/777.md) (3 IP, 8 s) |
-| Chest | ![](../../assets/icons/objects/7469.webp){ .lu-ci width="32" } [Samurai Breastplate 1 (LOT 7469)](../items/7469.md) | 5 | 25 | — |
-| Legs | ![](../../assets/icons/objects/7493.webp){ .lu-ci width="32" } [Samurai Leggings 1 (LOT 7493)](../items/7493.md) | 5 | 25 | — |
-| Main hand | ![](../../assets/icons/objects/7517.webp){ .lu-ci width="32" } [Samurai Katana 1 (LOT 7517)](../items/7517.md) | 5 | 25 | [Katana Mastery 1](../skills/572.md) (1 s) |
+| Head | ![](../../assets/icons/objects/7445.webp){ .lu-ci .lu-on-light width="32" } [Samurai Helm 1 (LOT 7445)](../items/7445.md) | 5 | 25 | [Strengthen Armor 1](../skills/777.md) (3 IP, 8 s) |
+| Chest | ![](../../assets/icons/objects/7469.webp){ .lu-ci .lu-on-light width="32" } [Samurai Breastplate 1 (LOT 7469)](../items/7469.md) | 5 | 25 | — |
+| Legs | ![](../../assets/icons/objects/7493.webp){ .lu-ci .lu-on-light width="32" } [Samurai Leggings 1 (LOT 7493)](../items/7493.md) | 5 | 25 | — |
+| Main hand | ![](../../assets/icons/objects/7517.webp){ .lu-ci .lu-on-dark width="32" } [Samurai Katana 1 (LOT 7517)](../items/7517.md) | 5 | 25 | [Katana Mastery 1](../skills/572.md) (1 s) |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
@@ -63,12 +63,12 @@ variants, and valiant gear at [Nikolai Gammapulse - Sentinel Vendor (LOT 13376)]
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | ![](../../assets/icons/objects/7446.webp){ .lu-ci width="32" } [Samurai Helm 2 (LOT 7446)](../items/7446.md) | 15 | 60 | [Strengthen Armor 2](../skills/778.md) (5 IP, 8 s) |
-| Chest | ![](../../assets/icons/objects/7470.webp){ .lu-ci width="32" } [Samurai Breastplate 2 (LOT 7470)](../items/7470.md) | 15 | 60 | — |
-| Legs | ![](../../assets/icons/objects/7494.webp){ .lu-ci width="32" } [Samurai Leggings 2 (LOT 7494)](../items/7494.md) | 15 | 60 | — |
-| Main hand | ![](../../assets/icons/objects/7518.webp){ .lu-ci width="32" } [Samurai Katana 2 (LOT 7518)](../items/7518.md) | 15 | 60 | [Katana Mastery 2](../skills/573.md) |
-| Off hand | ![](../../assets/icons/objects/7546.webp){ .lu-ci width="32" } [Samurai Bow 2 (LOT 7546)](../items/7546.md) | 15 | 60 | [Flaming Arrow 1](../skills/558.md) (4 IP, 8 s) |
-| Neck/back | ![](../../assets/icons/objects/8458.webp){ .lu-ci width="32" } [Samurai Shoulderpads 2 (LOT 8458)](../items/8458.md) | 15 | 60 | — |
+| Head | ![](../../assets/icons/objects/7446.webp){ .lu-ci .lu-on-dark width="32" } [Samurai Helm 2 (LOT 7446)](../items/7446.md) | 15 | 60 | [Strengthen Armor 2](../skills/778.md) (5 IP, 8 s) |
+| Chest | ![](../../assets/icons/objects/7470.webp){ .lu-ci .lu-on-light width="32" } [Samurai Breastplate 2 (LOT 7470)](../items/7470.md) | 15 | 60 | — |
+| Legs | ![](../../assets/icons/objects/7494.webp){ .lu-ci .lu-on-light width="32" } [Samurai Leggings 2 (LOT 7494)](../items/7494.md) | 15 | 60 | — |
+| Main hand | ![](../../assets/icons/objects/7518.webp){ .lu-ci .lu-on-dark width="32" } [Samurai Katana 2 (LOT 7518)](../items/7518.md) | 15 | 60 | [Katana Mastery 2](../skills/573.md) |
+| Off hand | ![](../../assets/icons/objects/7546.webp){ .lu-ci .lu-on-dark width="32" } [Samurai Bow 2 (LOT 7546)](../items/7546.md) | 15 | 60 | [Flaming Arrow 1](../skills/558.md) (4 IP, 8 s) |
+| Neck/back | ![](../../assets/icons/objects/8458.webp){ .lu-ci .lu-on-light width="32" } [Samurai Shoulderpads 2 (LOT 8458)](../items/8458.md) | 15 | 60 | — |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
@@ -80,20 +80,20 @@ variants, and valiant gear at [Nikolai Gammapulse - Sentinel Vendor (LOT 13376)]
 
 | Slot | Item | Level | Tokens | Item abilities (IP cost, cooldown) |
 | --- | --- | --- | --- | --- |
-| Head | ![](../../assets/icons/objects/7447.webp){ .lu-ci width="32" } [Samurai Helm 3 (LOT 7447)](../items/7447.md) | 30 | 180 | [Strengthen Armor 3](../skills/779.md) (7 IP, 8 s) |
-| Head | ![](../../assets/icons/objects/12976.webp){ .lu-ci width="32" } [Samurai Helm 3 (LOT 12976)](../items/12976.md) (color variant) | 30 | 180 | [Strengthen Armor 3](../skills/779.md) (7 IP, 8 s) |
-| Chest | ![](../../assets/icons/objects/7471.webp){ .lu-ci width="32" } [Samurai Breastplate 3 (LOT 7471)](../items/7471.md) | 30 | 180 | — |
-| Chest | ![](../../assets/icons/objects/12952.webp){ .lu-ci width="32" } [Samurai Breastplate 3 (LOT 12952)](../items/12952.md) (color variant) | 30 | 180 | — |
-| Legs | ![](../../assets/icons/objects/7495.webp){ .lu-ci width="32" } [Samurai Leggings 3 (LOT 7495)](../items/7495.md) | 30 | 180 | — |
-| Legs | ![](../../assets/icons/objects/12953.webp){ .lu-ci width="32" } [Samurai Leggings 3 (LOT 12953)](../items/12953.md) (color variant) | 30 | 180 | — |
-| Main hand | ![](../../assets/icons/objects/7519.webp){ .lu-ci width="32" } [Samurai Katana 3 (LOT 7519)](../items/7519.md) | 30 | 180 | [Katana Mastery 3](../skills/574.md) |
-| Main hand | ![](../../assets/icons/objects/12977.webp){ .lu-ci width="32" } [Samurai Katana 3 (LOT 12977)](../items/12977.md) (color variant) | 30 | 180 | [Katana Mastery 3](../skills/574.md) |
-| Main hand | ![](../../assets/icons/objects/12642.webp){ .lu-ci width="32" } [The Samuraizor (LOT 12642)](../items/12642.md) (valiant) | 35 | 500 | [Valiant Attack](../skills/1021.md) |
-| Off hand | ![](../../assets/icons/objects/7547.webp){ .lu-ci width="32" } [Samurai Bow 3 (LOT 7547)](../items/7547.md) | 30 | 180 | [Flaming Arrow 2](../skills/571.md) (6 IP, 8 s) |
-| Off hand | ![](../../assets/icons/objects/12978.webp){ .lu-ci width="32" } [Samurai Bow 3 (LOT 12978)](../items/12978.md) (color variant) | 30 | 180 | [Flaming Arrow 2](../skills/1216.md) (6 IP, 8 s) |
-| Neck/back | ![](../../assets/icons/objects/7539.webp){ .lu-ci width="32" } [Samurai Shoulderpads 3 (LOT 7539)](../items/7539.md) | 30 | 180 | [Ronin Rush](../skills/550.md) (9 IP, 7 s) |
-| Neck/back | ![](../../assets/icons/objects/12992.webp){ .lu-ci width="32" } [Samurai Shoulderpads 3 (LOT 12992)](../items/12992.md) (color variant) | 30 | 180 | [Ronin Rush](../skills/550.md) (9 IP, 7 s) |
-| Neck/back | ![](../../assets/icons/objects/16180.webp){ .lu-ci width="32" } [Valiant Samurai's Cape (LOT 16180)](../items/16180.md) (valiant) | 40 | 250 | [Ronin Rush](../skills/550.md) (9 IP, 7 s) |
+| Head | ![](../../assets/icons/objects/7447.webp){ .lu-ci .lu-on-dark width="32" } [Samurai Helm 3 (LOT 7447)](../items/7447.md) | 30 | 180 | [Strengthen Armor 3](../skills/779.md) (7 IP, 8 s) |
+| Head | ![](../../assets/icons/objects/12976.webp){ .lu-ci .lu-on-dark width="32" } [Samurai Helm 3 (LOT 12976)](../items/12976.md) (color variant) | 30 | 180 | [Strengthen Armor 3](../skills/779.md) (7 IP, 8 s) |
+| Chest | ![](../../assets/icons/objects/7471.webp){ .lu-ci .lu-on-light width="32" } [Samurai Breastplate 3 (LOT 7471)](../items/7471.md) | 30 | 180 | — |
+| Chest | ![](../../assets/icons/objects/12952.webp){ .lu-ci .lu-on-dark width="32" } [Samurai Breastplate 3 (LOT 12952)](../items/12952.md) (color variant) | 30 | 180 | — |
+| Legs | ![](../../assets/icons/objects/7495.webp){ .lu-ci .lu-on-light width="32" } [Samurai Leggings 3 (LOT 7495)](../items/7495.md) | 30 | 180 | — |
+| Legs | ![](../../assets/icons/objects/12953.webp){ .lu-ci .lu-on-light width="32" } [Samurai Leggings 3 (LOT 12953)](../items/12953.md) (color variant) | 30 | 180 | — |
+| Main hand | ![](../../assets/icons/objects/7519.webp){ .lu-ci .lu-on-dark width="32" } [Samurai Katana 3 (LOT 7519)](../items/7519.md) | 30 | 180 | [Katana Mastery 3](../skills/574.md) |
+| Main hand | ![](../../assets/icons/objects/12977.webp){ .lu-ci .lu-on-dark width="32" } [Samurai Katana 3 (LOT 12977)](../items/12977.md) (color variant) | 30 | 180 | [Katana Mastery 3](../skills/574.md) |
+| Main hand | ![](../../assets/icons/objects/12642.webp){ .lu-ci .lu-on-dark width="32" } [The Samuraizor (LOT 12642)](../items/12642.md) (valiant) | 35 | 500 | [Valiant Attack](../skills/1021.md) |
+| Off hand | ![](../../assets/icons/objects/7547.webp){ .lu-ci .lu-on-dark width="32" } [Samurai Bow 3 (LOT 7547)](../items/7547.md) | 30 | 180 | [Flaming Arrow 2](../skills/571.md) (6 IP, 8 s) |
+| Off hand | ![](../../assets/icons/objects/12978.webp){ .lu-ci .lu-on-light width="32" } [Samurai Bow 3 (LOT 12978)](../items/12978.md) (color variant) | 30 | 180 | [Flaming Arrow 2](../skills/1216.md) (6 IP, 8 s) |
+| Neck/back | ![](../../assets/icons/objects/7539.webp){ .lu-ci .lu-on-light width="32" } [Samurai Shoulderpads 3 (LOT 7539)](../items/7539.md) | 30 | 180 | [Ronin Rush](../skills/550.md) (9 IP, 7 s) |
+| Neck/back | ![](../../assets/icons/objects/12992.webp){ .lu-ci .lu-on-dark width="32" } [Samurai Shoulderpads 3 (LOT 12992)](../items/12992.md) (color variant) | 30 | 180 | [Ronin Rush](../skills/550.md) (9 IP, 7 s) |
+| Neck/back | ![](../../assets/icons/objects/16180.webp){ .lu-ci .lu-on-light width="32" } [Valiant Samurai's Cape (LOT 16180)](../items/16180.md) (valiant) | 40 | 250 | [Ronin Rush](../skills/550.md) (9 IP, 7 s) |
 
 **Set bonuses** (tiers add up as you equip more pieces of this rank):
 
