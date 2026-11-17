@@ -4,11 +4,12 @@
 
 Factions give your Minifigure a theme and access to specialty classes. Each of
 the four factions offers three classes, and a class is defined by its kit: the
-equipment you wear gives you its abilities. The original 2010 guide describes
-the faction choice in Nimbus Station after you meet the four representatives.
-Read the in-game confirmation before choosing: the historical guide describes
-faction choice as permanent. Whether a server offers a way to change it is
-server-specific.
+equipment you wear gives you its abilities. You join a faction in Nimbus
+Station by talking to Nexus Jay after earning the approval of all four factions
+(see [Joining a faction](#joining-a-faction) below). The joining mission cannot
+be repeated, and neither the client data nor the DarkflameServer code contains
+an in-game way to switch factions afterwards, so treat the choice as permanent.
+A server operator may still change it by hand.
 
 ## The factions
 
@@ -19,8 +20,16 @@ server-specific.
 | Sentinels | [Knight](./classes/knight.md), [Samurai](./classes/samurai.md), [Space Ranger](./classes/space-ranger.md) | Combat and protection. |
 | Venture League | [Adventurer](./classes/adventurer.md), [Buccaneer](./classes/buccaneer.md), [Daredevil](./classes/daredevil.md) | Exploration, mobility, and adventurous fighting styles. |
 
+A few lines from the client match these themes. Nexus Jay calls Assembly
+"masters of building and Imagination". Johnny Thunder's recruiting line is
+"Blaze your own trail! Travel the Universe! Join the Venture League!" Cog Blammo
+says "Paradox peers into the Maelstrom", and Wisp Lee calls Paradox "the most
+secretive Faction in the Nexus Force".
+
 Once you join a faction you can unlock all three of its classes; you are not
-locked into the first starter kit you choose.
+locked into the first starter kit you choose. The rank-1 book achievements for
+the original classes (for example *Assembly Engineer 1*) need only the hidden
+faction mission that joining completes.
 
 ## Compare the classes
 
@@ -52,27 +61,88 @@ Each class page lists its abilities by rank, how to unlock it, and every piece
 of equipment with costs and set bonuses. [How classes work](./classes/README.md)
 covers ranks, class books, vendors, and faction tokens.
 
-## Historical introduction at Nimbus Station
+## Joining a faction
 
-The 2010 guide describes Nexus Jay sending players to meet the representatives
-and earn four badges before returning to choose:
+Before you can join, you need the approval of all four factions. Each approval
+is a badge item that a mission gives as its reward. Two come from Avant Gardens
+and two from Nimbus Station. The missions below use their English client names
+and are listed in the usual story order.
 
-- **Assembly:** help Mardolf with a rocket-building assignment.
-- **Paradox:** collect Maelstrom Bricks for Silas Penumbra.
-- **Sentinels:** complete a survival challenge for Melodie Foxtrot.
-- **Venture League:** help Johnny Thunder find treasure chests.
+**Avant Gardens: Sentinels and Paradox**
 
-Names and objectives are useful starting clues, but the live mission journal
-is authoritative. See the [Quest Guide](./Quest%20Guide.md) and
-[quest database](./quests/README.md) to check a particular objective.
+| Faction | NPC | Missions | What you do | Reward |
+|---|---|---|---|---|
+| Sentinels | Beck Strongheart (Sentinel Faction Commander) | [The Sentinel Shield](./quests/939.md), [Your Action Bar](./quests/940.md), [Impress the Sentinel Faction](./quests/479.md) | Buy and use a Sentinel Shield, then interact with the Battle Tower and last 1 minute in Avant Gardens Survival. Entry costs 1 Green Imaginite. | Sentinel Faction Approval |
+| Paradox | Wisp Lee (Paradox Researcher), reached through Epsilon Starcracker | [Seal of Approval](./quests/1847.md), [The Perils of Paradox](./quests/1848.md), [Secrets of the Maelstrom](./quests/477.md), [Slot Five](./quests/1151.md), [Following the Trail](./quests/1849.md), [Lightning Strikes Twice](./quests/1850.md) | Collect 15 Maelstrom-infected bricks. Use the Maelstrom Vacuum to collect 8 Maelstrom Samples, then apply the Maelstrom Cube to the bricks in the Paradox Lab cage. | Paradox Approval |
+
+**Nimbus Station: Assembly and Venture League**
+
+After the Avant Gardens story, Sky Lane sends you on to Nimbus Station
+([Check In with Sky Lane](./quests/320.md), then [Faction Time](./quests/483.md):
+"Talk to Nexus Jay in Nimbus Station and find out how to join a Faction!").
+Nexus Jay, the Nexus Force Recruiter in Nimbus Plaza, then sends you to the two
+remaining factions:
+
+| Faction | NPC | Missions | What you do | Reward |
+|---|---|---|---|---|
+| Assembly | Mardolf the Orange (Assembly Wizard), Brick Annex | [Find Mardolf the Orange](./quests/476.md), [Rocket Builder](./quests/809.md), [Back to Nexus Jay](./quests/475.md) | Build a new rocket with a Nimbus rocket part at the Build Area across from Mardolf. *Find Mardolf the Orange* also lets you choose a Nimbus Rocket Nose Cone, Cockpit or Engine. | Assembly Approval |
+| Venture League | Johnny Thunder (Venture League Hero), Red Blocks | [Find Johnny Thunder](./quests/478.md), [A Thunderous Collection](./quests/482.md) | Find 3 floating treasure chests hidden around Nimbus Station. | Venture League Approval |
+
+**The choice.** Johnny Thunder then offers [Choose a Faction](./quests/474.md):
+"Talk to Nexus Jay in Nimbus Plaza. Then select a Faction to join!" Its reward
+is a choice of four *Nexus Force Commendation* items, one for each faction. The
+commendation you pick is your faction. In DarkflameServer
+(`NsGetFactionMissionServer`), choosing the reward:
+
+- completes the hidden faction mission (544 Assembly, 555 Venture League,
+  566 Sentinels, 577 Paradox) and the faction's join achievement:
+  [Join Assembly!](./quests/545.md), [Join Venture League!](./quests/556.md),
+  [Join The Sentinels!](./quests/567.md) or [Join Paradox!](./quests/578.md);
+- completes [Join a Faction](./quests/778.md) ("Go to Nimbus Station and join a
+  Faction!");
+- sets the player flag *joined a faction* (45) plus the faction's flag
+  (46 Venture League, 47 Assembly, 48 Paradox, 49 Sentinels).
+
+Your faction token type, faction loot and token consoles follow these
+missions and flags. *Choose a Faction* is not repeatable, and the server code
+has no player-facing way to undo or switch the choice.
+
+## Your first Specialty Kit
+
+Joining unlocks a kit mission from Nexus Jay. You turn it in at your faction's
+vendor in Nimbus Plaza and pick one of three Rank 1 Kit Packages there:
+
+| Faction | Mission | Vendor | Kit choices |
+|---|---|---|---|
+| Assembly | [Get your Assembly Gear!](./quests/588.md) | Meldric Steamvalve (Assembly Vendor) | Engineer, Summoner, Inventor |
+| Venture League | [Get your Venture League Gear!](./quests/589.md) | Magnus Bumperdent (Venture League Vendor) | Buccaneer, Daredevil, Adventurer |
+| Paradox | [Get your Paradox Gear!](./quests/590.md) | Cog Blammo (Paradox Vendor) | Sorcerer, Space Marauder, Shinobi |
+| Sentinels | [Get your Sentinel Faction Gear!](./quests/591.md) | Xeno Blueblade (Sentinel Vendor) | Knight, Samurai, Space Ranger |
+
+Next, that vendor asks you to open the package, read the Rank 1 book and equip
+all four pieces. These missions are [Assembly Specialty Kit](./quests/815.md),
+[Venture League Specialty Kit](./quests/812.md),
+[Paradox Specialty Kit](./quests/813.md) and
+[Sentinel Specialty Kit](./quests/814.md). The vendor then sends you back to
+Nexus Jay with *Nexus Orders*. Nexus Jay also asks you to buy a faction supply
+with your first Faction Tokens:
+
+- Assembly: *Aid Me!* (Assembly Awesome-Ade)
+- Venture League: *Of Vital Importance* (Venture Vitality Vial)
+- Paradox: *Notion for a Potion* (Paradox Power Potion)
+- Sentinels: *Thirsty Work* (Sentinel Super Soda)
 
 ## Choosing and progressing
 
-1. Decide which faction's classes appeal to you — compare them in the table above.
-2. Confirm the faction choice only after reading any permanence warning.
-3. Choose a starter kit from Nexus Jay's *Get your … Gear!* mission.
+1. Decide which faction's classes appeal to you. Compare them in the table above.
+2. Pick that faction's commendation in *Choose a Faction*. You can't change it
+   later in the game.
+3. Choose a starter kit at your faction vendor through *Get your … Gear!*.
 4. Rank up by wearing complete sets and buying the next rank with faction tokens;
    see [how classes work](./classes/README.md).
+
+See the [Quest Guide](./Quest%20Guide.md) and
+[quest database](./quests/README.md) for details on any of these missions.
 
 An item or ability listed in a reference may be unavailable, modified, or
 incomplete on your server. See the [Item Guide](./Item%20Guide.md) for
@@ -81,8 +151,14 @@ for skill details.
 
 ## Source and limitations
 
-Historical faction names, introductory assignments, and themes are summarized
-from the user-provided *LEGO Universe Official Game Guide* (2010), pp. 9–10 and
-22–39. The class comparison is generated from the supplied game data by
-`scripts/build_classes.py`. Later game content and DarkflameServer behavior may
-differ.
+The joining flow, mission names, NPC names, rewards and quoted lines come from
+the client database (`Missions`, `MissionTasks` and `Objects` in
+`CDServer.sqlite`) and the English client strings (`locale.xml`: mission
+names, `MissionText` offer, in-progress and completion texts, and object names).
+What happens when you pick the commendation, and the faction flags 45–49, come
+from DarkflameServer's `NsGetFactionMissionServer.cpp` and `ePlayerFlag.h`.
+The general theme column in the faction table is summarized from the
+user-provided *LEGO Universe Official Game Guide* (2010), pp. 9–10 and 22–39.
+That guide's representative names for Paradox and the Sentinels do not match
+the client data. The class comparison is generated from the supplied game data
+by `scripts/build_classes.py`. Custom content on a particular server may differ.
