@@ -33,6 +33,34 @@
   white-space: nowrap;
 }
 
+.lu-location-map__filter input[data-category="items"] {
+  accent-color: #d54b22;
+}
+
+.lu-location-map__filter input[data-category="pets"] {
+  accent-color: #286fc2;
+}
+
+.lu-location-map__filter input[data-category="npcs"] {
+  accent-color: #228b4d;
+}
+
+.lu-location-map__filter input[data-category="enemies"] {
+  accent-color: #a92828;
+}
+
+.lu-location-map__filter input[data-category="shops"] {
+  accent-color: #8a45a3;
+}
+
+.lu-location-map__filter input[data-category="launchpads"] {
+  accent-color: #d4a000;
+}
+
+.lu-location-map__filter input[data-category="transitions"] {
+  accent-color: #1298a8;
+}
+
 .lu-location-map__count {
   margin: 0.5rem 0;
   font-size: 0.85rem;
@@ -71,6 +99,26 @@
 
 .lu-location-map__marker--pets circle {
   fill: #286fc2;
+}
+
+.lu-location-map__marker--npcs circle {
+  fill: #228b4d;
+}
+
+.lu-location-map__marker--enemies circle {
+  fill: #a92828;
+}
+
+.lu-location-map__marker--shops circle {
+  fill: #8a45a3;
+}
+
+.lu-location-map__marker--launchpads circle {
+  fill: #d4a000;
+}
+
+.lu-location-map__marker--transitions circle {
+  fill: #1298a8;
 }
 
 .lu-location-map__marker:hover circle,
@@ -150,6 +198,11 @@
 }
 
 .lu-location-map__source {
+  font-size: 0.8rem;
+}
+
+.lu-location-map__details {
+  color: var(--md-default-fg-color--light);
   font-size: 0.8rem;
 }
 

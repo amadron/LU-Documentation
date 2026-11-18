@@ -1574,6 +1574,83 @@
       "path": "wiki/items/sources/object-3646/"
     },
     {
+      "category": "launchpads",
+      "name": "NS - AG Rocket Launch Pad",
+      "x": -154.5,
+      "y": 372.1300354003906,
+      "z": 397.55999755859375,
+      "pixelX": 589.25,
+      "pixelY": 313.22,
+      "details": "Destination zone 1100; scene AGLaunch",
+      "lot": 14242
+    },
+    {
+      "category": "launchpads",
+      "name": "NS - FV Rocket Launch Pad",
+      "x": 172.44000244140625,
+      "y": 333.82000732421875,
+      "z": -156.32000732421875,
+      "pixelX": 425.78,
+      "pixelY": 590.16,
+      "details": "Destination zone 1400; scene FVGate",
+      "lot": 14246
+    },
+    {
+      "category": "launchpads",
+      "name": "NS - GF Rocket Launch Pad",
+      "x": -264.7496032714844,
+      "y": 293.6600036621094,
+      "z": -212.3287353515625,
+      "pixelX": 644.375,
+      "pixelY": 618.164,
+      "details": "Destination zone 1300; scene GFLanding",
+      "lot": 14245
+    },
+    {
+      "category": "launchpads",
+      "name": "NS - NS PROP Medium",
+      "x": -375.9218444824219,
+      "y": 291.1999206542969,
+      "z": 109.1373291015625,
+      "pixelX": 699.961,
+      "pixelY": 457.431,
+      "details": "Destination zone 1251",
+      "lot": 14290
+    },
+    {
+      "category": "launchpads",
+      "name": "NS - NS PROP Small",
+      "x": -407.6199951171875,
+      "y": 291.3701171875,
+      "z": 17.100000381469727,
+      "pixelX": 715.81,
+      "pixelY": 503.45,
+      "details": "Destination zone 1250",
+      "lot": 14289
+    },
+    {
+      "category": "launchpads",
+      "name": "NS - NT Rocket Launch Pad",
+      "x": 204.14999389648438,
+      "y": 341.2401123046875,
+      "z": 373.1000061035156,
+      "pixelX": 409.925,
+      "pixelY": 325.45,
+      "details": "Destination zone 1900",
+      "lot": 14215
+    },
+    {
+      "category": "launchpads",
+      "name": "NS - Pet Cove Rocket Launch Pad",
+      "x": -442.30999755859375,
+      "y": 290.699951171875,
+      "z": 197.97000122070312,
+      "pixelX": 733.155,
+      "pixelY": 413.015,
+      "details": "Destination zone 1201; scene PR_Landing",
+      "lot": 14243
+    },
+    {
       "category": "pets",
       "name": "Robot Dog",
       "lot": 5637,
@@ -1740,6 +1817,266 @@
       "pixelY": 469.4,
       "details": "Spawner path: Pet_Skunk; No gate/mission/inactive marker recorded",
       "path": "wiki/pets/3261/"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in ANNEX",
+      "x": -745.8509521484375,
+      "y": 192.68524169921875,
+      "z": -83.31491088867188,
+      "pixelX": 884.925,
+      "pixelY": 553.657,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in ANNEX",
+      "x": -745.4200439453125,
+      "y": 192.6851806640625,
+      "z": -80.7308349609375,
+      "pixelX": 884.71,
+      "pixelY": 552.365,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in ANNEX",
+      "x": -742.5552978515625,
+      "y": 192.6851806640625,
+      "z": -90.32400512695312,
+      "pixelX": 883.278,
+      "pixelY": 557.162,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in ANNEX",
+      "x": -741.3986206054688,
+      "y": 192.6851806640625,
+      "z": -93.6146240234375,
+      "pixelX": 882.699,
+      "pixelY": 558.807,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in ANNEX",
+      "x": -740.64013671875,
+      "y": 192.6851806640625,
+      "z": -83.73681640625,
+      "pixelX": 882.32,
+      "pixelY": 553.868,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in CONCERT",
+      "x": -231.0286407470703,
+      "y": 192.685302734375,
+      "z": -964.5672607421875,
+      "pixelX": 627.514,
+      "pixelY": 994.284,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in CONCERT",
+      "x": -222.74136352539062,
+      "y": 192.68505859375,
+      "z": -959.5590209960938,
+      "pixelX": 623.371,
+      "pixelY": 991.78,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in CONCERT",
+      "x": -221.57257080078125,
+      "y": 192.6851806640625,
+      "z": -956.3342895507812,
+      "pixelX": 622.786,
+      "pixelY": 990.167,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in PLAZA",
+      "x": 460.8427734375,
+      "y": 192.685302734375,
+      "z": 3.970367431640625,
+      "pixelX": 281.579,
+      "pixelY": 510.015,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in PLAZA",
+      "x": 463.6143798828125,
+      "y": 192.68524169921875,
+      "z": -5.192401885986328,
+      "pixelX": 280.193,
+      "pixelY": 514.596,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in PLAZA",
+      "x": 469.9194641113281,
+      "y": 192.685302734375,
+      "z": 6.771514892578125,
+      "pixelX": 277.04,
+      "pixelY": 508.614,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in PLAZA",
+      "x": 473.1148376464844,
+      "y": 192.68524169921875,
+      "z": 3.9046478271484375,
+      "pixelX": 275.443,
+      "pixelY": 510.048,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in PLAZA",
+      "x": 477.5748291015625,
+      "y": 192.685302734375,
+      "z": 1.29864501953125,
+      "pixelX": 273.213,
+      "pixelY": 511.351,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in PLAZA",
+      "x": 478.2843322753906,
+      "y": 192.68524169921875,
+      "z": 6.120141983032227,
+      "pixelX": 272.858,
+      "pixelY": 508.94,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in PLAZA",
+      "x": 479.68023681640625,
+      "y": 192.68536376953125,
+      "z": 6.088907241821289,
+      "pixelX": 272.16,
+      "pixelY": 508.956,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in PLAZA",
+      "x": 480.6264953613281,
+      "y": 192.685302734375,
+      "z": -4.540435791015625,
+      "pixelX": 271.687,
+      "pixelY": 514.27,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in PLAZA",
+      "x": 482.56829833984375,
+      "y": 192.6854248046875,
+      "z": 10.22119140625,
+      "pixelX": 270.716,
+      "pixelY": 506.889,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in PLAZA",
+      "x": 485.1961364746094,
+      "y": 192.685302734375,
+      "z": -0.7294998168945312,
+      "pixelX": 269.402,
+      "pixelY": 512.365,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in PLAZA",
+      "x": 485.6582946777344,
+      "y": 192.68524169921875,
+      "z": 5.1129913330078125,
+      "pixelX": 269.171,
+      "pixelY": 509.444,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in PLAZA",
+      "x": 488.9418640136719,
+      "y": 192.68524169921875,
+      "z": 4.020143508911133,
+      "pixelX": 267.529,
+      "pixelY": 509.99,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in PLAZA",
+      "x": 493.20416259765625,
+      "y": 192.685302734375,
+      "z": -3.0356597900390625,
+      "pixelX": 265.398,
+      "pixelY": 513.518,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in PLAZA",
+      "x": 498.2016296386719,
+      "y": 192.685302734375,
+      "z": -10.834711074829102,
+      "pixelX": 262.899,
+      "pixelY": 517.417,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in RACEPLACE",
+      "x": 434.3990478515625,
+      "y": 192.6851806640625,
+      "z": 216.77496337890625,
+      "pixelX": 294.8,
+      "pixelY": 403.613,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in RACEPLACE",
+      "x": 439.81573486328125,
+      "y": 192.6851806640625,
+      "z": 219.65444946289062,
+      "pixelX": 292.092,
+      "pixelY": 402.173,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in RACEPLACE",
+      "x": 443.18792724609375,
+      "y": 192.68511962890625,
+      "z": 226.50466918945312,
+      "pixelX": 290.406,
+      "pixelY": 398.748,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in RACEPLACE",
+      "x": 445.29541015625,
+      "y": 192.6851806640625,
+      "z": 223.352294921875,
+      "pixelX": 289.352,
+      "pixelY": 400.324,
+      "details": "Connected scene: Audio"
     }
   ]
 }

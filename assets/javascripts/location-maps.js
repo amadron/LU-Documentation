@@ -3,6 +3,11 @@
   const CATEGORY_LABELS = {
     items: "Item sources",
     pets: "Pet placements",
+    npcs: "NPCs",
+    enemies: "Enemies",
+    shops: "Shops",
+    launchpads: "Rocket launchpads",
+    transitions: "Level transitions",
   };
 
   function element(tag, className, text) {
@@ -19,7 +24,13 @@
   }
 
   function markerDescription(marker) {
-    return `${marker.name} (LOT ${marker.lot}) — XYZ ${marker.x}, ${marker.y}, ${marker.z}. ${marker.details}`;
+    const lot = marker.lot ? ` (LOT ${marker.lot})` : "";
+    const details = marker.details ? `. ${marker.details}` : "";
+    return `${marker.name}${lot} — XYZ ${marker.x}, ${marker.y}, ${marker.z}${details}`;
+  }
+
+  function markerLabel(marker) {
+    return `${marker.name}${marker.lot ? ` (LOT ${marker.lot})` : ""}`;
   }
 
   function renderMap(container, data) {
@@ -69,11 +80,21 @@
     svg.append(image);
 
     const markerNodes = baseMarkers.map((marker) => {
-      const link = svgElement("a", `lu-location-map__marker lu-location-map__marker--${marker.category}`);
-      link.setAttribute("href", new URL(marker.path, siteRoot).href);
-      link.setAttribute("tabindex", "0");
-      link.setAttribute("aria-label", markerDescription(marker));
-      link.dataset.search = `${marker.name} ${marker.lot} ${marker.x} ${marker.y} ${marker.z}`.toLocaleLowerCase();
+      const node = svgElement(
+        marker.path ? "a" : "g",
+        `lu-location-map__marker lu-location-map__marker--${marker.category}`,
+      );
+      if (marker.path) {
+        node.setAttribute("href", new URL(marker.path, siteRoot).href);
+        node.setAttribute("tabindex", "0");
+      } else {
+        node.setAttribute("role", "img");
+      }
+      node.setAttribute("aria-label", markerDescription(marker));
+      node.dataset.search = [
+        marker.name, marker.lot || "", marker.x, marker.y, marker.z,
+        marker.details || "", CATEGORY_LABELS[marker.category] || marker.category,
+      ].join(" ").toLocaleLowerCase();
       const highlight = svgElement("circle", "lu-location-map__marker-highlight");
       highlight.setAttribute("cx", marker.pixelX);
       highlight.setAttribute("cy", marker.pixelY);
@@ -83,19 +104,19 @@
       circle.setAttribute("r", "5");
       const title = svgElement("title");
       title.textContent = markerDescription(marker);
-      link.append(highlight, circle, title);
-      svg.append(link);
-      return { marker, link };
+      node.append(highlight, circle, title);
+      svg.append(node);
+      return { marker, node };
     });
 
     let selectedMarker = null;
     const list = element("ul", "lu-location-map__list");
-    const listNodes = markerNodes.map(({ marker, link }) => {
+    const listNodes = markerNodes.map(({ marker, node }) => {
       const item = element("li", "lu-location-map__list-item");
       const select = element("button", "lu-location-map__select",
-        `${marker.name} (LOT ${marker.lot})`);
+        markerLabel(marker));
       select.type = "button";
-      select.setAttribute("aria-label", `Show ${marker.name} (LOT ${marker.lot}) on map`);
+      select.setAttribute("aria-label", `Show ${markerLabel(marker)} on map`);
       select.setAttribute("aria-pressed", "false");
       select.addEventListener("click", () => {
         const deselecting = selectedMarker === marker;
@@ -104,19 +125,27 @@
           update();
           return;
         }
-        svg.append(link);
+        svg.append(node);
         update();
         svg.scrollIntoView({ behavior: "smooth", block: "center" });
       });
 
-      const source = element("a", "lu-location-map__source", "Details");
-      source.href = new URL(marker.path, siteRoot).href;
-      source.setAttribute("aria-label", `Open details for ${marker.name} (LOT ${marker.lot})`);
+      if (marker.path) {
+        const source = element("a", "lu-location-map__source", "Details");
+        source.href = new URL(marker.path, siteRoot).href;
+        source.setAttribute("aria-label", `Open details for ${markerLabel(marker)}`);
+        item.append(select, source);
+      } else {
+        item.append(select);
+        if (marker.details) {
+          item.append(element("span", "lu-location-map__details", marker.details));
+        }
+      }
       const coordinates = element("span", "lu-location-map__coordinates",
         `XYZ ${marker.x}, ${marker.y}, ${marker.z}`);
-      item.append(select, source, coordinates);
+      item.append(coordinates);
       list.append(item);
-      return { marker, link, item, select };
+      return { marker, node, item, select };
     });
 
     const update = () => {
@@ -125,12 +154,12 @@
         ? new Set(categoryInputs.filter((input) => input.checked).map((input) => input.dataset.category))
         : new Set(availableCategories);
       let shown = 0;
-      for (const { marker, link, item, select } of listNodes) {
+      for (const { marker, node, item, select } of listNodes) {
         const visible = marker.category !== undefined
           && checkedCategories.has(marker.category)
-          && link.dataset.search.includes(query);
-        link.classList.toggle("is-hidden", !visible);
-        link.classList.toggle("is-selected", selectedMarker === marker);
+          && node.dataset.search.includes(query);
+        node.classList.toggle("is-hidden", !visible);
+        node.classList.toggle("is-selected", selectedMarker === marker);
         item.hidden = !visible;
         select.setAttribute("aria-pressed", String(selectedMarker === marker));
         if (visible) shown += 1;

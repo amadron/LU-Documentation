@@ -7,8 +7,8 @@ from mkdocs.plugins import event_priority
 
 
 log = logging.getLogger("mkdocs")
-_DETAIL = re.compile(r"^wiki/(?:items|quests)/\d+/$")
-_CATALOG = re.compile(r"^wiki/(?:items|quests)/(?:sources|types|indexes|locations)/")
+_DETAIL = re.compile(r"^wiki/(?:items|quests|npcs)/\d+/$")
+_CATALOG = re.compile(r"^wiki/(?:items|quests|npcs)/(?:sources|types|indexes|locations)/")
 
 
 def compact_documents(documents):

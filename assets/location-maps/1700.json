@@ -228,6 +228,39 @@
       "pixelY": 495.756,
       "details": "Scene nd_lego_club.lvl (Global Scene); LOT 176 spawner; No additional condition recorded",
       "path": "wiki/items/sources/object-10285/"
+    },
+    {
+      "category": "launchpads",
+      "name": "LEGO Club - AG Rocket Launch Pad",
+      "x": -288.3999938964844,
+      "y": 1053.40966796875,
+      "z": -358.8699951171875,
+      "pixelX": 656.2,
+      "pixelY": 691.435,
+      "details": "Destination zone 1100; scene AGLaunch",
+      "lot": 14330
+    },
+    {
+      "category": "launchpads",
+      "name": "LEGO Club - FV Rocket Launch Pad",
+      "x": -189.8300018310547,
+      "y": 1044.4395751953125,
+      "z": -142.72999572753906,
+      "pixelX": 606.915,
+      "pixelY": 583.365,
+      "details": "Destination zone 1400; scene FVGate",
+      "lot": 14332
+    },
+    {
+      "category": "launchpads",
+      "name": "LEGO Club - GF Rocket Launch Pad",
+      "x": -359.0799865722656,
+      "y": 1037.5296630859375,
+      "z": -200.25,
+      "pixelX": 691.54,
+      "pixelY": 612.125,
+      "details": "Destination zone 1300; scene GFLanding",
+      "lot": 14331
     }
   ]
 }

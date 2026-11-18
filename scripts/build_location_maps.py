@@ -8,6 +8,7 @@ terrain bounds to each minimap and remain provisional until checked against
 in-game landmarks.
 """
 
+import csv
 import html
 import json
 import math
@@ -67,6 +68,8 @@ ITEM_TITLE_SUFFIX = re.compile(r"\s+[—-]\s+source LOT \d+$", re.I)
 PET_LINK = re.compile(r"^\[(.*?)\]\(\.\./(\d+)\.md\)$")
 SEPARATOR_CELL = re.compile(r"^:?-{3,}:?$")
 NUMBER = re.compile(r"^-?(?:\d+(?:\.\d*)?|\.\d+)(?:[eE][+-]?\d+)?$")
+WORLD_MARKER_CATEGORIES = {"npcs", "enemies", "shops", "launchpads", "transitions"}
+WORLD_MARKER_PROFILE_CATEGORIES = {"npcs", "enemies", "shops"}
 
 
 def read_text(path):
@@ -206,6 +209,64 @@ def pet_markers(root, zone):
     return markers
 
 
+def world_markers(root, zone):
+    path = root / "scripts" / "location_map_world_markers.csv"
+    if not path.is_file():
+        raise FileNotFoundError(f"World marker source CSV not found: {path}")
+
+    markers = []
+    with path.open(encoding="utf-8-sig", newline="") as file:
+        reader = csv.DictReader(file)
+        required = {"zone", "category", "name", "lot", "x", "y", "z", "details", "path"}
+        if not required.issubset(reader.fieldnames or set()):
+            raise ValueError(f"{path}: missing required columns in world marker CSV")
+        for line_number, row in enumerate(reader, start=2):
+            try:
+                marker_zone = int(row["zone"])
+            except (TypeError, ValueError) as error:
+                raise ValueError(f"{path}:{line_number}: invalid zone ID {row['zone']!r}") from error
+            if marker_zone not in ZONE_CONFIGS:
+                raise ValueError(f"{path}:{line_number}: unsupported zone ID {marker_zone}")
+            category = row["category"]
+            if category not in WORLD_MARKER_CATEGORIES:
+                raise ValueError(f"{path}:{line_number}: unsupported world marker category {category!r}")
+            name = html.unescape(row["name"].strip())
+            if not name:
+                raise ValueError(f"{path}:{line_number}: world marker name must not be empty")
+            if marker_zone != zone:
+                continue
+
+            x = parse_coordinate(row["x"], path, line_number)
+            y = parse_coordinate(row["y"], path, line_number)
+            z = parse_coordinate(row["z"], path, line_number)
+            pixel_x, pixel_y = coordinates_to_pixel(x, z, zone, path, line_number)
+            marker = {
+                "category": category,
+                "name": name,
+                "x": x,
+                "y": y,
+                "z": z,
+                "pixelX": pixel_x,
+                "pixelY": pixel_y,
+                "details": html.unescape(row["details"].strip()),
+            }
+            if row["lot"].strip():
+                try:
+                    marker["lot"] = int(row["lot"])
+                except ValueError as error:
+                    raise ValueError(
+                        f"{path}:{line_number}: invalid LOT {row['lot']!r}"
+                    ) from error
+            if row["path"].strip():
+                marker["path"] = row["path"].strip()
+            elif category in WORLD_MARKER_PROFILE_CATEGORIES and "lot" in marker:
+                profile = root / "wiki" / "npcs" / f"{marker['lot']}.md"
+                if profile.is_file():
+                    marker["path"] = f"wiki/npcs/{marker['lot']}/"
+            markers.append(marker)
+    return markers
+
+
 def render_block(page, category, zone):
     page_url_depth = len(page.with_suffix("").parts)
     site_root = "../" * page_url_depth
@@ -215,12 +276,12 @@ def render_block(page, category, zone):
         START,
         "## Location map",
         "",
-        "*Location overlay: its terrain-bounds projection is still provisional pending an in-game landmark check. The XYZ coordinates in the source tables remain authoritative.*",
+        "*Location overlay: its terrain-bounds projection is still provisional pending an in-game landmark check. Recorded XYZ values remain authoritative; NPC and enemy markers show potential spawn points, not live availability.*",
         "",
         f'<div class="lu-location-map" data-location-map data-zone="{zone}" '
         f'data-category="{category}" data-map-data="{data_url}" '
         f'data-map-image="{image_url}" data-site-root="{site_root}">',
-        "<p>Interactive map markers are loading. The coordinate tables remain available below.</p>",
+        "<p>Interactive map markers are loading. Their recorded coordinates remain available in the source documentation.</p>",
         "</div>",
         END,
     ))
@@ -258,11 +319,15 @@ def build(root=ROOT, zone=1100):
     if not map_image.is_file():
         raise FileNotFoundError(f"Required zone {zone} minimap not found: {map_image}")
 
-    markers = item_source_markers(root, zone) + pet_markers(root, zone)
+    markers = (
+        item_source_markers(root, zone)
+        + pet_markers(root, zone)
+        + world_markers(root, zone)
+    )
     if not markers:
         raise RuntimeError(f"No exact-coordinate locations found for zone {zone}")
     markers.sort(key=lambda marker: (
-        marker["category"], marker["name"].casefold(), marker["lot"],
+        marker["category"], marker["name"].casefold(), marker.get("lot", 0),
         marker["x"], marker["z"],
     ))
 
@@ -317,6 +382,10 @@ def build(root=ROOT, zone=1100):
         "markers": len(markers),
         "items": sum(marker["category"] == "items" for marker in markers),
         "pets": sum(marker["category"] == "pets" for marker in markers),
+        **{
+            category: sum(marker["category"] == category for marker in markers)
+            for category in WORLD_MARKER_CATEGORIES
+        },
         "updated_pages": updated_pages,
         "data_updated": data_updated,
     }
@@ -325,9 +394,14 @@ def build(root=ROOT, zone=1100):
 def main():
     for zone in ZONE_CONFIGS:
         stats = build(zone=zone)
+        categories = ", ".join(
+            f"{stats[category]} {category}"
+            for category in sorted(WORLD_MARKER_CATEGORIES)
+        )
         print(
             f"Zone {zone}: {stats['markers']} markers "
-            f"({stats['items']} item sources, {stats['pets']} pet placements); "
+            f"({stats['items']} item sources, {stats['pets']} pet placements, "
+            f"{categories}); "
             f"{stats['updated_pages']} pages updated."
         )
 

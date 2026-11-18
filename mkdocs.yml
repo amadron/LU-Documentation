@@ -81,6 +81,7 @@ nav:
       - Pets: wiki/Pet Guide.md
   - Game databases:
       - Items: wiki/items/README.md
+      - NPCs and enemies: wiki/npcs/README.md
       - Quests and achievements: wiki/quests/README.md
       - Racing: wiki/racing/README.md
       - Pets: wiki/pets/README.md

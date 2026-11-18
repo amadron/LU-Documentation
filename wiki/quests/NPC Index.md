@@ -2,6 +2,8 @@
 
 [Quest database](./README.md)
 
+For broader character and enemy template details, see the [NPC and enemy catalog](../npcs/README.md).
+
 Objects can be givers, receivers, or random-selector candidates. Check the role on the quest page; not every association offers every quest.
 
 | NPC / object | Mapped zones | Definitions |

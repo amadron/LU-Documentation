@@ -14,6 +14,42 @@
   },
   "markers": [
     {
+      "category": "enemies",
+      "name": "Blastbreath - Maelstrom Dragon",
+      "x": 187.80999755859375,
+      "y": 272.04998779296875,
+      "z": 56.41999816894531,
+      "pixelX": 324.19,
+      "pixelY": 464.983,
+      "details": "Spawner: MiddleDragon; maximum 1",
+      "lot": 7805,
+      "path": "wiki/npcs/7805/"
+    },
+    {
+      "category": "enemies",
+      "name": "Burnshout - Maelstrom Dragon",
+      "x": 29.690000534057617,
+      "y": 252.39999389648438,
+      "z": -72.18000030517578,
+      "pixelX": 482.31,
+      "pixelY": 572.15,
+      "details": "Spawner: LeftDragon; maximum 1",
+      "lot": 11226,
+      "path": "wiki/npcs/11226/"
+    },
+    {
+      "category": "enemies",
+      "name": "Torchblight - Maelstrom Dragon",
+      "x": -5.460000038146973,
+      "y": 247.72999572753906,
+      "z": 257.0,
+      "pixelX": 517.46,
+      "pixelY": 297.833,
+      "details": "Spawner: RightDragon; maximum 1",
+      "lot": 11225,
+      "path": "wiki/npcs/11225/"
+    },
+    {
       "category": "items",
       "name": "FV Hammer Smashable Gong smashable",
       "lot": 9617,

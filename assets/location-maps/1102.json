@@ -14,6 +14,18 @@
   },
   "markers": [
     {
+      "category": "enemies",
+      "name": "Maelstrom Spider Queen",
+      "x": -12.606830596923828,
+      "y": 432.79998779296875,
+      "z": -68.28369140625,
+      "pixelX": 533.011,
+      "pixelY": 625.806,
+      "details": "Spawner: SpiderBoss; maximum 1",
+      "lot": 14381,
+      "path": "wiki/npcs/14381/"
+    },
+    {
       "category": "items",
       "name": "FT - Spider Boss Arena Egg",
       "lot": 14375,
@@ -312,6 +324,18 @@
       "pixelY": 503.767,
       "details": "Spawner path: PropertyGuard; Spawner inactive on load; script activation required",
       "path": "wiki/items/sources/object-9632/"
+    },
+    {
+      "category": "npcs",
+      "name": "Vance Bulwark - Property Guard",
+      "x": -24.340225219726562,
+      "y": 440.21142578125,
+      "z": 4.939859390258789,
+      "pixelX": 552.567,
+      "pixelY": 503.767,
+      "details": "Spawner: PropertyGuard; maximum 1",
+      "lot": 9632,
+      "path": "wiki/npcs/9632/"
     }
   ]
 }

@@ -49,6 +49,12 @@ class LocationMapTests(unittest.TestCase):
             "[Zones](./README.md)\n",
             encoding="utf-8",
         )
+        scripts = root / "scripts"
+        scripts.mkdir(parents=True)
+        (scripts / "location_map_world_markers.csv").write_text(
+            "zone,category,name,lot,x,y,z,details,path\n",
+            encoding="utf-8",
+        )
 
     def test_builds_pilot_markers_with_coordinate_projection(self):
         with tempfile.TemporaryDirectory() as temp:
@@ -101,6 +107,67 @@ class LocationMapTests(unittest.TestCase):
             self.assertEqual(stats["updated_pages"], 0)
             zone_page = (root / "wiki" / "zones" / "1100.md").read_text(encoding="utf-8")
             self.assertEqual(zone_page.count(maps.START), 1)
+
+    def test_builds_world_markers_without_required_lots_or_detail_links(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            self.create_root(root)
+            source = root / "scripts" / "location_map_world_markers.csv"
+            source.write_text(
+                "zone,category,name,lot,x,y,z,details,path\n"
+                "1100,launchpads,AG launch pad,14216,10,0,20,Destination zone 1150,\n"
+                "1100,transitions,Scene transition,,0,0,0,Connected scene: Main Scene,\n",
+                encoding="utf-8",
+            )
+
+            stats = maps.build(root)
+            data = json.loads(
+                (root / "assets" / "location-maps" / "1100.json").read_text(encoding="utf-8")
+            )
+            markers = {marker["name"]: marker for marker in data["markers"]}
+
+            self.assertEqual(stats["launchpads"], 1)
+            self.assertEqual(stats["transitions"], 1)
+            self.assertEqual(markers["AG launch pad"]["lot"], 14216)
+            self.assertNotIn("path", markers["AG launch pad"])
+            self.assertNotIn("lot", markers["Scene transition"])
+            self.assertEqual(markers["Scene transition"]["pixelX"], 512.0)
+
+    def test_links_actor_markers_to_existing_npc_pages(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            self.create_root(root)
+            npc_page = root / "wiki" / "npcs" / "14381.md"
+            npc_page.parent.mkdir(parents=True)
+            npc_page.write_text("# Spider Queen\n", encoding="utf-8")
+            source = root / "scripts" / "location_map_world_markers.csv"
+            source.write_text(
+                "zone,category,name,lot,x,y,z,details,path\n"
+                "1100,enemies,Spider Queen,14381,10,0,20,Spawner: SpiderBoss,\n",
+                encoding="utf-8",
+            )
+
+            maps.build(root)
+            data = json.loads(
+                (root / "assets" / "location-maps" / "1100.json").read_text(encoding="utf-8")
+            )
+            marker = next(marker for marker in data["markers"] if marker["name"] == "Spider Queen")
+
+            self.assertEqual(marker["path"], "wiki/npcs/14381/")
+
+    def test_rejects_world_markers_outside_calibrated_map(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            self.create_root(root)
+            source = root / "scripts" / "location_map_world_markers.csv"
+            source.write_text(
+                "zone,category,name,lot,x,y,z,details,path\n"
+                "1100,transitions,Invalid transition,,2000,0,0,,\n",
+                encoding="utf-8",
+            )
+
+            with self.assertRaisesRegex(ValueError, "projects outside"):
+                maps.build(root)
 
     def test_rejects_points_outside_calibrated_map(self):
         with self.assertRaisesRegex(ValueError, "projects outside"):

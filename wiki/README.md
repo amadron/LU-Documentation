@@ -26,6 +26,7 @@ These are detailed reference collections rather than walkthroughs:
 | Reference | Use it to... |
 |---|---|
 | [Item database](./items/README.md) | Search item entries, possible sources, rewards, and mapped source locations. |
+| [NPC and enemy catalog](./npcs/README.md) | Look up character and enemy templates by name or LOT, including registered components and mapped placements. |
 | [Quest and achievement database](./quests/README.md) | Look up a mission or achievement by title, ID, objective, NPC association, or region. |
 | [Racing database](./racing/README.md) | Check track-specific rules, entry evidence, rewards, and linked racing objectives. |
 | [Pet database](./pets/README.md) | Check a pet's taming evidence, requirements, puzzle details, and mapped locations. |

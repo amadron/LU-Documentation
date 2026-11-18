@@ -950,6 +950,17 @@
       "path": "wiki/items/sources/object-3646/"
     },
     {
+      "category": "launchpads",
+      "name": "Pet Cove - NS Rocket Launch Pad",
+      "x": 109.63579559326172,
+      "y": 235.16012573242188,
+      "z": 199.5000457763672,
+      "pixelX": 374.955,
+      "pixelY": 262.625,
+      "details": "Destination zone 1200; scene NS_PR",
+      "lot": 14244
+    },
+    {
       "category": "pets",
       "name": "Bunny",
       "lot": 3672,

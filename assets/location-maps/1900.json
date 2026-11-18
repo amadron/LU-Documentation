@@ -876,6 +876,3520 @@
       "pixelY": 274.045,
       "details": "Scene nd_nexus_tower_31_subscene_31.lvl (Subscene 31); LOT 176 spawner; No additional condition recorded",
       "path": "wiki/items/sources/object-12262/"
+    },
+    {
+      "category": "launchpads",
+      "name": "NT - Njhub Rocket Launch Pad",
+      "x": -73.25171661376953,
+      "y": 1182.2923583984375,
+      "z": -610.0477905273438,
+      "pixelX": 557.782,
+      "pixelY": 893.28,
+      "details": "Destination zone 2000; scene NJHubLanding",
+      "lot": 16627
+    },
+    {
+      "category": "launchpads",
+      "name": "NT - NS Rocket Launch Pad",
+      "x": 186.3000030517578,
+      "y": 1165.94970703125,
+      "z": -566.8400268554688,
+      "pixelX": 395.562,
+      "pixelY": 866.275,
+      "details": "Destination zone 1200; scene NS_NT",
+      "lot": 14199
+    },
+    {
+      "category": "shops",
+      "name": "Mr. Ree - Shady Vendor",
+      "x": -623.34912109375,
+      "y": 1116.9300537109375,
+      "z": 159.6696014404297,
+      "pixelX": 901.593,
+      "pixelY": 412.206,
+      "details": "Spawner: ShadyVendor",
+      "lot": 13569,
+      "path": "wiki/npcs/13569/"
+    },
+    {
+      "category": "shops",
+      "name": "Mr. Ree - Shady Vendor",
+      "x": -471.52899169921875,
+      "y": 1063.2120361328125,
+      "z": 460.5690612792969,
+      "pixelX": 806.706,
+      "pixelY": 224.144,
+      "details": "Spawner: ShadyVendor",
+      "lot": 13569,
+      "path": "wiki/npcs/13569/"
+    },
+    {
+      "category": "shops",
+      "name": "Mr. Ree - Shady Vendor",
+      "x": -369.9648742675781,
+      "y": 1077.8699951171875,
+      "z": 371.29791259765625,
+      "pixelX": 743.228,
+      "pixelY": 279.939,
+      "details": "Spawner: ShadyVendor",
+      "lot": 13569,
+      "path": "wiki/npcs/13569/"
+    },
+    {
+      "category": "shops",
+      "name": "Mr. Ree - Shady Vendor",
+      "x": -163.152587890625,
+      "y": 1128.760009765625,
+      "z": 259.8002014160156,
+      "pixelX": 613.97,
+      "pixelY": 349.625,
+      "details": "Spawner: ShadyVendor",
+      "lot": 13569,
+      "path": "wiki/npcs/13569/"
+    },
+    {
+      "category": "shops",
+      "name": "Mr. Ree - Shady Vendor",
+      "x": -125.38314056396484,
+      "y": 1218.239990234375,
+      "z": 47.22087478637695,
+      "pixelX": 590.364,
+      "pixelY": 482.487,
+      "details": "Spawner: ShadyVendor",
+      "lot": 13569,
+      "path": "wiki/npcs/13569/"
+    },
+    {
+      "category": "shops",
+      "name": "Mr. Ree - Shady Vendor",
+      "x": -23.114225387573242,
+      "y": 1148.18994140625,
+      "z": -104.91972351074219,
+      "pixelX": 526.446,
+      "pixelY": 577.575,
+      "details": "Spawner: ShadyVendor",
+      "lot": 13569,
+      "path": "wiki/npcs/13569/"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in Fish Tank",
+      "x": 192.88893127441406,
+      "y": 225.485595703125,
+      "z": 656.04150390625,
+      "pixelX": 391.444,
+      "pixelY": 101.974,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in Fish Tank",
+      "x": 203.0787811279297,
+      "y": 225.4854736328125,
+      "z": 675.0833740234375,
+      "pixelX": 385.076,
+      "pixelY": 90.073,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in Fish Tank",
+      "x": 203.43081665039062,
+      "y": 225.485595703125,
+      "z": 654.92919921875,
+      "pixelX": 384.856,
+      "pixelY": 102.669,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in Fish Tank",
+      "x": 212.8242950439453,
+      "y": 225.485595703125,
+      "z": 663.878173828125,
+      "pixelX": 378.985,
+      "pixelY": 97.076,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in Fish Tank",
+      "x": 214.46197509765625,
+      "y": 225.4853515625,
+      "z": 675.7142944335938,
+      "pixelX": 377.961,
+      "pixelY": 89.679,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in Fish Tank",
+      "x": 218.77696228027344,
+      "y": 225.485595703125,
+      "z": 648.7626953125,
+      "pixelX": 375.264,
+      "pixelY": 106.523,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in Fish Tank",
+      "x": 227.41738891601562,
+      "y": 225.48553466796875,
+      "z": 662.8707275390625,
+      "pixelX": 369.864,
+      "pixelY": 97.706,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS1",
+      "x": 782.3274536132812,
+      "y": 225.48541259765625,
+      "z": -720.7210693359375,
+      "pixelX": 23.045,
+      "pixelY": 962.451,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS1",
+      "x": 793.4379272460938,
+      "y": 225.4853515625,
+      "z": -721.2880249023438,
+      "pixelX": 16.101,
+      "pixelY": 962.805,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS1",
+      "x": 795.2864990234375,
+      "y": 225.4853515625,
+      "z": -700.130859375,
+      "pixelX": 14.946,
+      "pixelY": 949.582,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS10",
+      "x": 786.2802124023438,
+      "y": 225.4854736328125,
+      "z": 100.0799560546875,
+      "pixelX": 20.575,
+      "pixelY": 449.45,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS10",
+      "x": 791.9013671875,
+      "y": 225.4853515625,
+      "z": 108.35491943359375,
+      "pixelX": 17.062,
+      "pixelY": 444.278,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS10",
+      "x": 797.6873168945312,
+      "y": 225.4853515625,
+      "z": 100.09600830078125,
+      "pixelX": 13.445,
+      "pixelY": 449.44,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS11",
+      "x": 780.3838500976562,
+      "y": 225.4853515625,
+      "z": 182.171875,
+      "pixelX": 24.26,
+      "pixelY": 398.143,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS11",
+      "x": 789.6619873046875,
+      "y": 225.4853515625,
+      "z": 192.466796875,
+      "pixelX": 18.461,
+      "pixelY": 391.708,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS11",
+      "x": 790.9093627929688,
+      "y": 225.4854736328125,
+      "z": 172.07891845703125,
+      "pixelX": 17.682,
+      "pixelY": 404.451,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS11",
+      "x": 795.3598022460938,
+      "y": 225.485595703125,
+      "z": 181.881591796875,
+      "pixelX": 14.9,
+      "pixelY": 398.324,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS12",
+      "x": 777.5758666992188,
+      "y": 225.4853515625,
+      "z": 263.8074951171875,
+      "pixelX": 26.015,
+      "pixelY": 347.12,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS12",
+      "x": 781.18212890625,
+      "y": 225.4854736328125,
+      "z": 270.83770751953125,
+      "pixelX": 23.761,
+      "pixelY": 342.726,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS12",
+      "x": 789.001220703125,
+      "y": 225.4853515625,
+      "z": 256.91015625,
+      "pixelX": 18.874,
+      "pixelY": 351.431,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS12",
+      "x": 798.6233520507812,
+      "y": 225.4854736328125,
+      "z": 270.12249755859375,
+      "pixelX": 12.86,
+      "pixelY": 343.173,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS13",
+      "x": 783.0997924804688,
+      "y": 225.4853515625,
+      "z": 347.7850036621094,
+      "pixelX": 22.563,
+      "pixelY": 294.634,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS13",
+      "x": 788.2219848632812,
+      "y": 225.4854736328125,
+      "z": 363.04833984375,
+      "pixelX": 19.361,
+      "pixelY": 285.095,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS13",
+      "x": 795.1664428710938,
+      "y": 225.4854736328125,
+      "z": 343.24859619140625,
+      "pixelX": 15.021,
+      "pixelY": 297.47,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS13",
+      "x": 795.7752685546875,
+      "y": 225.4853515625,
+      "z": 329.25,
+      "pixelX": 14.64,
+      "pixelY": 306.219,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS14",
+      "x": 780.0668334960938,
+      "y": 225.485595703125,
+      "z": 430.835205078125,
+      "pixelX": 24.458,
+      "pixelY": 242.728,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS14",
+      "x": 786.923828125,
+      "y": 225.4854736328125,
+      "z": 437.4184875488281,
+      "pixelX": 20.173,
+      "pixelY": 238.613,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS14",
+      "x": 789.3855590820312,
+      "y": 225.4854736328125,
+      "z": 444.4553527832031,
+      "pixelX": 18.634,
+      "pixelY": 234.215,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS14",
+      "x": 793.56005859375,
+      "y": 225.4853515625,
+      "z": 422.80810546875,
+      "pixelX": 16.025,
+      "pixelY": 247.745,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS14",
+      "x": 797.5999145507812,
+      "y": 225.4853515625,
+      "z": 436.0963134765625,
+      "pixelX": 13.5,
+      "pixelY": 239.44,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS14",
+      "x": 798.406982421875,
+      "y": 225.4853515625,
+      "z": 418.09613037109375,
+      "pixelX": 12.996,
+      "pixelY": 250.69,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS15",
+      "x": 776.77880859375,
+      "y": 225.4853515625,
+      "z": 494.1993408203125,
+      "pixelX": 26.513,
+      "pixelY": 203.125,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS15",
+      "x": 780.7789916992188,
+      "y": 225.4853515625,
+      "z": 507.12420654296875,
+      "pixelX": 24.013,
+      "pixelY": 195.047,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS15",
+      "x": 791.3983764648438,
+      "y": 225.4853515625,
+      "z": 505.99456787109375,
+      "pixelX": 17.376,
+      "pixelY": 195.753,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS17",
+      "x": 785.132568359375,
+      "y": 225.4853515625,
+      "z": 662.1371459960938,
+      "pixelX": 21.292,
+      "pixelY": 98.164,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS17",
+      "x": 788.7293090820312,
+      "y": 225.4853515625,
+      "z": 647.4286499023438,
+      "pixelX": 19.044,
+      "pixelY": 107.357,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS17",
+      "x": 799.019775390625,
+      "y": 225.4854736328125,
+      "z": 655.287353515625,
+      "pixelX": 12.613,
+      "pixelY": 102.445,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS18",
+      "x": 781.4193115234375,
+      "y": 225.4853515625,
+      "z": 727.123291015625,
+      "pixelX": 23.613,
+      "pixelY": 57.548,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS18",
+      "x": 786.9201049804688,
+      "y": 225.4853515625,
+      "z": 712.1282348632812,
+      "pixelX": 20.175,
+      "pixelY": 66.92,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS18",
+      "x": 787.502197265625,
+      "y": 225.485595703125,
+      "z": 729.5604248046875,
+      "pixelX": 19.811,
+      "pixelY": 56.025,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS18",
+      "x": 795.1251220703125,
+      "y": 225.4854736328125,
+      "z": 723.2914428710938,
+      "pixelX": 15.047,
+      "pixelY": 59.943,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS19",
+      "x": 786.099609375,
+      "y": 225.4853515625,
+      "z": 804.1765747070312,
+      "pixelX": 20.688,
+      "pixelY": 9.39,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS19",
+      "x": 792.8609008789062,
+      "y": 225.4853515625,
+      "z": 783.1638793945312,
+      "pixelX": 16.462,
+      "pixelY": 22.523,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS19",
+      "x": 794.7064208984375,
+      "y": 225.485595703125,
+      "z": 790.7236938476562,
+      "pixelX": 15.308,
+      "pixelY": 17.798,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS19",
+      "x": 802.0584716796875,
+      "y": 225.4853515625,
+      "z": 800.8367309570312,
+      "pixelX": 10.713,
+      "pixelY": 11.477,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS2",
+      "x": 779.227783203125,
+      "y": 225.4854736328125,
+      "z": -640.958740234375,
+      "pixelX": 24.983,
+      "pixelY": 912.599,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS2",
+      "x": 792.1575317382812,
+      "y": 225.4853515625,
+      "z": -621.8464965820312,
+      "pixelX": 16.902,
+      "pixelY": 900.654,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS2",
+      "x": 802.2069091796875,
+      "y": 225.4854736328125,
+      "z": -606.8389892578125,
+      "pixelX": 10.621,
+      "pixelY": 891.274,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS20",
+      "x": 710.125732421875,
+      "y": 225.4854736328125,
+      "z": -784.3530883789062,
+      "pixelX": 68.171,
+      "pixelY": 1002.221,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS20",
+      "x": 711.7620239257812,
+      "y": 225.4853515625,
+      "z": -771.2247924804688,
+      "pixelX": 67.149,
+      "pixelY": 994.015,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS20",
+      "x": 718.7449340820312,
+      "y": 225.4854736328125,
+      "z": -779.5701904296875,
+      "pixelX": 62.784,
+      "pixelY": 999.231,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS21",
+      "x": 717.7009887695312,
+      "y": 225.4854736328125,
+      "z": -696.996826171875,
+      "pixelX": 63.437,
+      "pixelY": 947.623,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS21",
+      "x": 723.5147094726562,
+      "y": 225.4854736328125,
+      "z": -691.9328002929688,
+      "pixelX": 59.803,
+      "pixelY": 944.458,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS21",
+      "x": 729.7930297851562,
+      "y": 225.485595703125,
+      "z": -710.3771362304688,
+      "pixelX": 55.879,
+      "pixelY": 955.986,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS22",
+      "x": 709.4029541015625,
+      "y": 225.4853515625,
+      "z": -623.7047119140625,
+      "pixelX": 68.623,
+      "pixelY": 901.815,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS22",
+      "x": 721.2758178710938,
+      "y": 225.485107421875,
+      "z": -609.0585327148438,
+      "pixelX": 61.203,
+      "pixelY": 892.662,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS22",
+      "x": 721.7516479492188,
+      "y": 225.4853515625,
+      "z": -621.803466796875,
+      "pixelX": 60.905,
+      "pixelY": 900.627,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS23",
+      "x": 717.5972290039062,
+      "y": 225.4854736328125,
+      "z": -538.06103515625,
+      "pixelX": 63.502,
+      "pixelY": 848.288,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS23",
+      "x": 723.5910034179688,
+      "y": 225.4853515625,
+      "z": -531.8135986328125,
+      "pixelX": 59.756,
+      "pixelY": 844.383,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS23",
+      "x": 728.1704711914062,
+      "y": 225.4857177734375,
+      "z": -519.91064453125,
+      "pixelX": 56.893,
+      "pixelY": 836.944,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS23",
+      "x": 731.7055053710938,
+      "y": 225.485595703125,
+      "z": -528.0603637695312,
+      "pixelX": 54.684,
+      "pixelY": 842.038,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS24",
+      "x": 717.0472412109375,
+      "y": 225.485595703125,
+      "z": -422.384033203125,
+      "pixelX": 63.845,
+      "pixelY": 775.99,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS24",
+      "x": 718.6865844726562,
+      "y": 225.485595703125,
+      "z": -438.00927734375,
+      "pixelX": 62.821,
+      "pixelY": 785.756,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS24",
+      "x": 724.3136596679688,
+      "y": 225.4853515625,
+      "z": -434.476806640625,
+      "pixelX": 59.304,
+      "pixelY": 783.548,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS24",
+      "x": 734.0326538085938,
+      "y": 225.485595703125,
+      "z": -416.2890625,
+      "pixelX": 53.23,
+      "pixelY": 772.181,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS24",
+      "x": 737.9600219726562,
+      "y": 225.4854736328125,
+      "z": -428.090087890625,
+      "pixelX": 50.775,
+      "pixelY": 779.556,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS25",
+      "x": 723.76806640625,
+      "y": 225.4853515625,
+      "z": -328.88543701171875,
+      "pixelX": 59.645,
+      "pixelY": 717.553,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS25",
+      "x": 726.2203979492188,
+      "y": 225.4853515625,
+      "z": -346.2078857421875,
+      "pixelX": 58.112,
+      "pixelY": 728.38,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS25",
+      "x": 734.3641357421875,
+      "y": 225.4854736328125,
+      "z": -337.83477783203125,
+      "pixelX": 53.022,
+      "pixelY": 723.147,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS26",
+      "x": 712.3724365234375,
+      "y": 225.4857177734375,
+      "z": -254.86993408203125,
+      "pixelX": 66.767,
+      "pixelY": 671.294,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS26",
+      "x": 724.8353881835938,
+      "y": 225.485595703125,
+      "z": -239.06298828125,
+      "pixelX": 58.978,
+      "pixelY": 661.414,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS27",
+      "x": 712.7635498046875,
+      "y": 225.4853515625,
+      "z": -162.7542724609375,
+      "pixelX": 66.523,
+      "pixelY": 613.721,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS27",
+      "x": 717.6249389648438,
+      "y": 225.4854736328125,
+      "z": -175.99267578125,
+      "pixelX": 63.484,
+      "pixelY": 621.995,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS27",
+      "x": 722.7505493164062,
+      "y": 225.4853515625,
+      "z": -161.4949951171875,
+      "pixelX": 60.281,
+      "pixelY": 612.934,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS28",
+      "x": 711.1358032226562,
+      "y": 225.4854736328125,
+      "z": -93.03314208984375,
+      "pixelX": 67.54,
+      "pixelY": 570.146,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS28",
+      "x": 726.377197265625,
+      "y": 225.4853515625,
+      "z": -87.9984130859375,
+      "pixelX": 58.014,
+      "pixelY": 566.999,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS29",
+      "x": 723.0965576171875,
+      "y": 225.4854736328125,
+      "z": -0.6361083984375,
+      "pixelX": 60.065,
+      "pixelY": 512.398,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS29",
+      "x": 731.5285034179688,
+      "y": 225.4853515625,
+      "z": 6.198974609375,
+      "pixelX": 54.795,
+      "pixelY": 508.126,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS3",
+      "x": 785.06201171875,
+      "y": 225.4854736328125,
+      "z": -546.12451171875,
+      "pixelX": 21.336,
+      "pixelY": 853.328,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS3",
+      "x": 798.83056640625,
+      "y": 225.4853515625,
+      "z": -529.033203125,
+      "pixelX": 12.731,
+      "pixelY": 842.646,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS3",
+      "x": 804.17431640625,
+      "y": 225.4853515625,
+      "z": -520.994384765625,
+      "pixelX": 9.391,
+      "pixelY": 837.621,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS30",
+      "x": 724.8849487304688,
+      "y": 225.4854736328125,
+      "z": 94.91217041015625,
+      "pixelX": 58.947,
+      "pixelY": 452.68,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS30",
+      "x": 735.14990234375,
+      "y": 225.4853515625,
+      "z": 107.46917724609375,
+      "pixelX": 52.531,
+      "pixelY": 444.832,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS31",
+      "x": 734.6581420898438,
+      "y": 225.485595703125,
+      "z": 190.97216796875,
+      "pixelX": 52.839,
+      "pixelY": 392.642,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS32",
+      "x": 724.5187377929688,
+      "y": 225.4853515625,
+      "z": 267.566650390625,
+      "pixelX": 59.176,
+      "pixelY": 344.771,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS32",
+      "x": 732.0765991210938,
+      "y": 225.4853515625,
+      "z": 255.957275390625,
+      "pixelX": 54.452,
+      "pixelY": 352.027,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS33",
+      "x": 725.1691284179688,
+      "y": 225.4853515625,
+      "z": 347.998291015625,
+      "pixelX": 58.769,
+      "pixelY": 294.501,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS33",
+      "x": 732.909423828125,
+      "y": 225.4853515625,
+      "z": 349.1443786621094,
+      "pixelX": 53.932,
+      "pixelY": 293.785,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS34",
+      "x": 719.1620483398438,
+      "y": 225.4853515625,
+      "z": 421.34503173828125,
+      "pixelX": 62.524,
+      "pixelY": 248.659,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS34",
+      "x": 727.2988891601562,
+      "y": 225.4853515625,
+      "z": 430.1637878417969,
+      "pixelX": 57.438,
+      "pixelY": 243.148,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS35",
+      "x": 716.0115966796875,
+      "y": 225.4853515625,
+      "z": 508.03466796875,
+      "pixelX": 64.493,
+      "pixelY": 194.478,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS35",
+      "x": 724.2118530273438,
+      "y": 225.4853515625,
+      "z": 505.34637451171875,
+      "pixelX": 59.368,
+      "pixelY": 196.159,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS35",
+      "x": 726.317626953125,
+      "y": 225.4854736328125,
+      "z": 497.7555236816406,
+      "pixelX": 58.051,
+      "pixelY": 200.903,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS35",
+      "x": 728.969970703125,
+      "y": 225.4854736328125,
+      "z": 509.778076171875,
+      "pixelX": 56.394,
+      "pixelY": 193.389,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS36",
+      "x": 714.2156982421875,
+      "y": 225.4853515625,
+      "z": 577.214111328125,
+      "pixelX": 65.615,
+      "pixelY": 151.241,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS36",
+      "x": 722.7671508789062,
+      "y": 225.4853515625,
+      "z": 579.6531982421875,
+      "pixelX": 60.271,
+      "pixelY": 149.717,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS36",
+      "x": 724.6897583007812,
+      "y": 225.4853515625,
+      "z": 581.8173217773438,
+      "pixelX": 59.069,
+      "pixelY": 148.364,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS36",
+      "x": 730.7669677734375,
+      "y": 225.4854736328125,
+      "z": 563.80908203125,
+      "pixelX": 55.271,
+      "pixelY": 159.619,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS37",
+      "x": 720.55859375,
+      "y": 225.485595703125,
+      "z": 655.1354370117188,
+      "pixelX": 61.651,
+      "pixelY": 102.54,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS37",
+      "x": 721.2560424804688,
+      "y": 225.4853515625,
+      "z": 650.4603271484375,
+      "pixelX": 61.215,
+      "pixelY": 105.462,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS37",
+      "x": 725.7841186523438,
+      "y": 225.4853515625,
+      "z": 664.4923095703125,
+      "pixelX": 58.385,
+      "pixelY": 96.692,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS37",
+      "x": 725.9579467773438,
+      "y": 225.4854736328125,
+      "z": 648.0023193359375,
+      "pixelX": 58.276,
+      "pixelY": 106.999,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS38",
+      "x": 718.8704223632812,
+      "y": 225.4853515625,
+      "z": 725.80224609375,
+      "pixelX": 62.706,
+      "pixelY": 58.374,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS38",
+      "x": 722.6126098632812,
+      "y": 225.4854736328125,
+      "z": 718.5742797851562,
+      "pixelX": 60.367,
+      "pixelY": 62.891,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS38",
+      "x": 726.4910278320312,
+      "y": 225.4853515625,
+      "z": 730.9790649414062,
+      "pixelX": 57.943,
+      "pixelY": 55.138,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS38",
+      "x": 727.5537109375,
+      "y": 225.4853515625,
+      "z": 727.5823364257812,
+      "pixelX": 57.279,
+      "pixelY": 57.261,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS38",
+      "x": 734.3468627929688,
+      "y": 225.4853515625,
+      "z": 733.2615966796875,
+      "pixelX": 53.033,
+      "pixelY": 53.712,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS4",
+      "x": 793.5875244140625,
+      "y": 225.48583984375,
+      "z": -432.87176513671875,
+      "pixelX": 16.008,
+      "pixelY": 782.545,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS4",
+      "x": 793.986572265625,
+      "y": 225.485595703125,
+      "z": -448.569091796875,
+      "pixelX": 15.758,
+      "pixelY": 792.356,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS4",
+      "x": 800.3710327148438,
+      "y": 225.485595703125,
+      "z": -426.0805969238281,
+      "pixelX": 11.768,
+      "pixelY": 778.3,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS5",
+      "x": 779.3619384765625,
+      "y": 225.485595703125,
+      "z": -349.16015625,
+      "pixelX": 24.899,
+      "pixelY": 730.225,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS5",
+      "x": 784.5317993164062,
+      "y": 225.4853515625,
+      "z": -345.685791015625,
+      "pixelX": 21.668,
+      "pixelY": 728.054,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS5",
+      "x": 789.0732421875,
+      "y": 225.485595703125,
+      "z": -334.27362060546875,
+      "pixelX": 18.829,
+      "pixelY": 720.921,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS5",
+      "x": 797.5134887695312,
+      "y": 225.485595703125,
+      "z": -347.6962890625,
+      "pixelX": 13.554,
+      "pixelY": 729.31,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS57",
+      "x": 721.2208251953125,
+      "y": 225.4853515625,
+      "z": 790.2957153320312,
+      "pixelX": 61.237,
+      "pixelY": 18.065,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS57",
+      "x": 732.1669921875,
+      "y": 225.4853515625,
+      "z": 791.7740478515625,
+      "pixelX": 54.396,
+      "pixelY": 17.141,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS59",
+      "x": 647.1519775390625,
+      "y": 225.4854736328125,
+      "z": -773.0860595703125,
+      "pixelX": 107.53,
+      "pixelY": 995.179,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS59",
+      "x": 662.7967529296875,
+      "y": 225.4853515625,
+      "z": -762.1754760742188,
+      "pixelX": 97.752,
+      "pixelY": 988.36,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS6",
+      "x": 787.5950927734375,
+      "y": 225.4854736328125,
+      "z": -239.00042724609375,
+      "pixelX": 19.753,
+      "pixelY": 661.375,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS6",
+      "x": 793.0663452148438,
+      "y": 225.4853515625,
+      "z": -248.58734130859375,
+      "pixelX": 16.334,
+      "pixelY": 667.367,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS6",
+      "x": 794.902099609375,
+      "y": 225.4854736328125,
+      "z": -259.26104736328125,
+      "pixelX": 15.186,
+      "pixelY": 674.038,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS7",
+      "x": 787.8792114257812,
+      "y": 225.4854736328125,
+      "z": -163.9801025390625,
+      "pixelX": 19.575,
+      "pixelY": 614.488,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS7",
+      "x": 792.274658203125,
+      "y": 225.48556518554688,
+      "z": -163.70704650878906,
+      "pixelX": 16.828,
+      "pixelY": 614.317,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS7",
+      "x": 792.7161254882812,
+      "y": 225.4854736328125,
+      "z": -155.2879638671875,
+      "pixelX": 16.552,
+      "pixelY": 609.055,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS9",
+      "x": 788.21044921875,
+      "y": 225.4854736328125,
+      "z": 27.852783203125,
+      "pixelX": 19.368,
+      "pixelY": 494.592,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS9",
+      "x": 793.4263916015625,
+      "y": 225.485595703125,
+      "z": 5.6585693359375,
+      "pixelX": 16.109,
+      "pixelY": 508.463,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in FX SS9",
+      "x": 796.0592041015625,
+      "y": 225.4853515625,
+      "z": 15.091796875,
+      "pixelX": 14.463,
+      "pixelY": 502.568,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G1",
+      "x": 104.2301025390625,
+      "y": 225.4854736328125,
+      "z": -684.136474609375,
+      "pixelX": 446.856,
+      "pixelY": 939.585,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G1",
+      "x": 115.13803100585938,
+      "y": 225.48541259765625,
+      "z": -689.0256958007812,
+      "pixelX": 440.039,
+      "pixelY": 942.641,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G1",
+      "x": 118.2855224609375,
+      "y": 225.4854736328125,
+      "z": -695.404052734375,
+      "pixelX": 438.072,
+      "pixelY": 946.628,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G1",
+      "x": 122.05810546875,
+      "y": 225.4854736328125,
+      "z": -696.031982421875,
+      "pixelX": 435.714,
+      "pixelY": 947.02,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G1",
+      "x": 125.32684326171875,
+      "y": 225.48550415039062,
+      "z": -702.5452880859375,
+      "pixelX": 433.671,
+      "pixelY": 951.091,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G1",
+      "x": 126.35552978515625,
+      "y": 225.48544311523438,
+      "z": -704.5542602539062,
+      "pixelX": 433.028,
+      "pixelY": 952.346,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G1",
+      "x": 126.512939453125,
+      "y": 225.48550415039062,
+      "z": -692.1442260742188,
+      "pixelX": 432.929,
+      "pixelY": 944.59,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G1",
+      "x": 128.14483642578125,
+      "y": 225.48544311523438,
+      "z": -707.0233764648438,
+      "pixelX": 431.909,
+      "pixelY": 953.89,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G1",
+      "x": 128.68804931640625,
+      "y": 225.4854736328125,
+      "z": -705.06494140625,
+      "pixelX": 431.57,
+      "pixelY": 952.666,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G1",
+      "x": 134.0220947265625,
+      "y": 225.48553466796875,
+      "z": -705.619873046875,
+      "pixelX": 428.236,
+      "pixelY": 953.012,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G1",
+      "x": 134.313720703125,
+      "y": 225.4854736328125,
+      "z": -704.336181640625,
+      "pixelX": 428.054,
+      "pixelY": 952.21,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G1",
+      "x": 136.3336181640625,
+      "y": 225.48541259765625,
+      "z": -729.4180908203125,
+      "pixelX": 426.791,
+      "pixelY": 967.886,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G1",
+      "x": 138.3863525390625,
+      "y": 225.4854736328125,
+      "z": -694.39306640625,
+      "pixelX": 425.509,
+      "pixelY": 945.996,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G1",
+      "x": 139.64187622070312,
+      "y": 225.4854736328125,
+      "z": -709.3753051757812,
+      "pixelX": 424.724,
+      "pixelY": 955.36,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G1",
+      "x": 162.2938232421875,
+      "y": 225.485595703125,
+      "z": -689.9757690429688,
+      "pixelX": 410.566,
+      "pixelY": 943.235,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G10",
+      "x": -289.1315002441406,
+      "y": 225.48538208007812,
+      "z": 635.63623046875,
+      "pixelX": 692.707,
+      "pixelY": 114.727,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G10",
+      "x": -280.38311767578125,
+      "y": 225.48541259765625,
+      "z": 624.8651123046875,
+      "pixelX": 687.239,
+      "pixelY": 121.459,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G10",
+      "x": -248.34732055664062,
+      "y": 225.4854736328125,
+      "z": 623.4354248046875,
+      "pixelX": 667.217,
+      "pixelY": 122.353,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G11",
+      "x": 280.7406005859375,
+      "y": 225.4853515625,
+      "z": 89.43161010742188,
+      "pixelX": 336.537,
+      "pixelY": 456.105,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G11",
+      "x": 286.6917724609375,
+      "y": 225.48541259765625,
+      "z": 48.0126953125,
+      "pixelX": 332.818,
+      "pixelY": 481.992,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G11",
+      "x": 292.3160705566406,
+      "y": 225.48532104492188,
+      "z": 63.0242919921875,
+      "pixelX": 329.302,
+      "pixelY": 472.61,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G12",
+      "x": -749.1910400390625,
+      "y": 225.4854736328125,
+      "z": 451.88848876953125,
+      "pixelX": 980.244,
+      "pixelY": 229.57,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G12",
+      "x": -743.1669921875,
+      "y": 225.4854736328125,
+      "z": 410.21978759765625,
+      "pixelX": 976.479,
+      "pixelY": 255.613,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G12",
+      "x": -727.7613525390625,
+      "y": 225.48553466796875,
+      "z": 450.0987243652344,
+      "pixelX": 966.851,
+      "pixelY": 230.688,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G12",
+      "x": -715.7462158203125,
+      "y": 225.485595703125,
+      "z": 449.17626953125,
+      "pixelX": 959.341,
+      "pixelY": 231.265,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G12",
+      "x": -713.95654296875,
+      "y": 225.48550415039062,
+      "z": 446.9653015136719,
+      "pixelX": 958.223,
+      "pixelY": 232.647,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G12",
+      "x": -713.3466796875,
+      "y": 225.48544311523438,
+      "z": 454.25750732421875,
+      "pixelX": 957.842,
+      "pixelY": 228.089,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G12",
+      "x": -713.162353515625,
+      "y": 225.48553466796875,
+      "z": 448.6519775390625,
+      "pixelX": 957.726,
+      "pixelY": 231.593,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G12",
+      "x": -713.111328125,
+      "y": 225.48553466796875,
+      "z": 455.7048034667969,
+      "pixelX": 957.695,
+      "pixelY": 227.184,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G12",
+      "x": -712.0572509765625,
+      "y": 225.48553466796875,
+      "z": 453.70074462890625,
+      "pixelX": 957.036,
+      "pixelY": 228.437,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G12",
+      "x": -710.4765625,
+      "y": 225.48556518554688,
+      "z": 439.7951965332031,
+      "pixelX": 956.048,
+      "pixelY": 237.128,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G12",
+      "x": -709.7173461914062,
+      "y": 225.4854736328125,
+      "z": 453.8270263671875,
+      "pixelX": 955.573,
+      "pixelY": 228.358,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G12",
+      "x": -709.642333984375,
+      "y": 225.48550415039062,
+      "z": 457.72821044921875,
+      "pixelX": 955.526,
+      "pixelY": 225.92,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G12",
+      "x": -708.538330078125,
+      "y": 225.48553466796875,
+      "z": 447.7002868652344,
+      "pixelX": 954.836,
+      "pixelY": 232.187,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G12",
+      "x": -705.8864135742188,
+      "y": 225.48556518554688,
+      "z": 458.2377014160156,
+      "pixelX": 953.179,
+      "pixelY": 225.601,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G12",
+      "x": -702.644775390625,
+      "y": 225.48541259765625,
+      "z": 450.802490234375,
+      "pixelX": 951.153,
+      "pixelY": 230.248,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G12",
+      "x": -701.3619384765625,
+      "y": 225.48550415039062,
+      "z": 460.399658203125,
+      "pixelX": 950.351,
+      "pixelY": 224.25,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G12",
+      "x": -693.7327880859375,
+      "y": 225.4854736328125,
+      "z": 439.32891845703125,
+      "pixelX": 945.583,
+      "pixelY": 237.419,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G13",
+      "x": -712.935302734375,
+      "y": 225.48532104492188,
+      "z": 610.1388549804688,
+      "pixelX": 957.585,
+      "pixelY": 130.663,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G13",
+      "x": -697.3038940429688,
+      "y": 225.4853515625,
+      "z": 611.6743774414062,
+      "pixelX": 947.815,
+      "pixelY": 129.704,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G13",
+      "x": -680.6492919921875,
+      "y": 225.4853515625,
+      "z": 606.0062866210938,
+      "pixelX": 937.406,
+      "pixelY": 133.246,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G13",
+      "x": -669.6878662109375,
+      "y": 225.48538208007812,
+      "z": 613.3403930664062,
+      "pixelX": 930.555,
+      "pixelY": 128.662,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G13",
+      "x": -664.337158203125,
+      "y": 225.48556518554688,
+      "z": 621.1913452148438,
+      "pixelX": 927.211,
+      "pixelY": 123.755,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G13",
+      "x": -655.8660278320312,
+      "y": 225.4853515625,
+      "z": 654.4154663085938,
+      "pixelX": 921.916,
+      "pixelY": 102.99,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G13",
+      "x": -655.5543212890625,
+      "y": 225.4853515625,
+      "z": 626.6558837890625,
+      "pixelX": 921.721,
+      "pixelY": 120.34,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G13",
+      "x": -650.6183471679688,
+      "y": 225.4853515625,
+      "z": 638.3975219726562,
+      "pixelX": 918.636,
+      "pixelY": 113.002,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G14",
+      "x": -773.1202392578125,
+      "y": 225.4854736328125,
+      "z": 249.7749481201172,
+      "pixelX": 995.2,
+      "pixelY": 355.891,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G14",
+      "x": -756.3193359375,
+      "y": 225.48541259765625,
+      "z": 248.5369873046875,
+      "pixelX": 984.7,
+      "pixelY": 356.664,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G14",
+      "x": -750.878173828125,
+      "y": 225.48541259765625,
+      "z": 241.40245056152344,
+      "pixelX": 981.299,
+      "pixelY": 361.123,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G14",
+      "x": -749.0941162109375,
+      "y": 225.48541259765625,
+      "z": 245.8914794921875,
+      "pixelX": 980.184,
+      "pixelY": 358.318,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G14",
+      "x": -740.4285888671875,
+      "y": 225.4854736328125,
+      "z": 231.8675537109375,
+      "pixelX": 974.768,
+      "pixelY": 367.083,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G14",
+      "x": -738.9976806640625,
+      "y": 225.48541259765625,
+      "z": 246.6339111328125,
+      "pixelX": 973.874,
+      "pixelY": 357.854,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G14",
+      "x": -736.014404296875,
+      "y": 225.48538208007812,
+      "z": 232.00958251953125,
+      "pixelX": 972.009,
+      "pixelY": 366.994,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G14",
+      "x": -733.607421875,
+      "y": 225.485595703125,
+      "z": 255.41049194335938,
+      "pixelX": 970.505,
+      "pixelY": 352.368,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G14",
+      "x": -733.1895141601562,
+      "y": 225.48541259765625,
+      "z": 237.9364471435547,
+      "pixelX": 970.243,
+      "pixelY": 363.29,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G14",
+      "x": -722.0938720703125,
+      "y": 225.48544311523438,
+      "z": 230.09872436523438,
+      "pixelX": 963.309,
+      "pixelY": 368.188,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G14",
+      "x": -719.1259765625,
+      "y": 225.4853515625,
+      "z": 232.20733642578125,
+      "pixelX": 961.454,
+      "pixelY": 366.87,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G14",
+      "x": -696.6536254882812,
+      "y": 225.485595703125,
+      "z": 227.8191375732422,
+      "pixelX": 947.409,
+      "pixelY": 369.613,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G15",
+      "x": -787.7848510742188,
+      "y": 225.4853515625,
+      "z": 107.08740234375,
+      "pixelX": 1004.366,
+      "pixelY": 445.07,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G15",
+      "x": -778.6453857421875,
+      "y": 225.4854736328125,
+      "z": 97.93759155273438,
+      "pixelX": 998.653,
+      "pixelY": 450.789,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G15",
+      "x": -776.1697998046875,
+      "y": 225.48529052734375,
+      "z": 52.70808410644531,
+      "pixelX": 997.106,
+      "pixelY": 479.057,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G15",
+      "x": -775.9806518554688,
+      "y": 225.4853515625,
+      "z": 98.93478393554688,
+      "pixelX": 996.988,
+      "pixelY": 450.166,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G15",
+      "x": -775.803955078125,
+      "y": 225.4853515625,
+      "z": 125.22128295898438,
+      "pixelX": 996.877,
+      "pixelY": 433.737,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G15",
+      "x": -771.0523071289062,
+      "y": 225.4853515625,
+      "z": 93.66694641113281,
+      "pixelX": 993.908,
+      "pixelY": 453.458,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G15",
+      "x": -761.59814453125,
+      "y": 225.4853515625,
+      "z": 98.38984680175781,
+      "pixelX": 987.999,
+      "pixelY": 450.506,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G15",
+      "x": -761.5060424804688,
+      "y": 225.48541259765625,
+      "z": 68.01614379882812,
+      "pixelX": 987.941,
+      "pixelY": 469.49,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G15",
+      "x": -760.0671997070312,
+      "y": 225.4854736328125,
+      "z": 92.11404418945312,
+      "pixelX": 987.042,
+      "pixelY": 454.429,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G15",
+      "x": -755.006591796875,
+      "y": 225.48541259765625,
+      "z": 86.62430572509766,
+      "pixelX": 983.879,
+      "pixelY": 457.86,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G16",
+      "x": -677.388671875,
+      "y": 225.48553466796875,
+      "z": -398.04376220703125,
+      "pixelX": 935.368,
+      "pixelY": 760.777,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G16",
+      "x": -670.997802734375,
+      "y": 225.48553466796875,
+      "z": -393.70379638671875,
+      "pixelX": 931.374,
+      "pixelY": 758.065,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G16",
+      "x": -667.9818115234375,
+      "y": 225.4854736328125,
+      "z": -400.82525634765625,
+      "pixelX": 929.489,
+      "pixelY": 762.516,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G16",
+      "x": -666.1470947265625,
+      "y": 225.48541259765625,
+      "z": -375.47430419921875,
+      "pixelX": 928.342,
+      "pixelY": 746.671,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G16",
+      "x": -664.9021606445312,
+      "y": 225.4854736328125,
+      "z": -379.28558349609375,
+      "pixelX": 927.564,
+      "pixelY": 749.053,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G16",
+      "x": -660.19091796875,
+      "y": 225.48553466796875,
+      "z": -368.38238525390625,
+      "pixelX": 924.619,
+      "pixelY": 742.239,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G16",
+      "x": -658.4557495117188,
+      "y": 225.4854736328125,
+      "z": -379.75506591796875,
+      "pixelX": 923.535,
+      "pixelY": 749.347,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G16",
+      "x": -658.2470703125,
+      "y": 225.485595703125,
+      "z": -377.2675476074219,
+      "pixelX": 923.404,
+      "pixelY": 747.792,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G16",
+      "x": -658.2037963867188,
+      "y": 225.4854736328125,
+      "z": -375.8832092285156,
+      "pixelX": 923.377,
+      "pixelY": 746.927,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G16",
+      "x": -657.5985107421875,
+      "y": 225.48541259765625,
+      "z": -378.0754699707031,
+      "pixelX": 922.999,
+      "pixelY": 748.297,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G16",
+      "x": -657.51611328125,
+      "y": 225.48553466796875,
+      "z": -374.6013488769531,
+      "pixelX": 922.948,
+      "pixelY": 746.126,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G16",
+      "x": -657.0729370117188,
+      "y": 225.4854736328125,
+      "z": -380.8287353515625,
+      "pixelX": 922.671,
+      "pixelY": 750.018,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G16",
+      "x": -655.4340209960938,
+      "y": 225.48541259765625,
+      "z": -393.4138488769531,
+      "pixelX": 921.646,
+      "pixelY": 757.884,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G17",
+      "x": -739.1009521484375,
+      "y": 225.4854736328125,
+      "z": -205.44110107421875,
+      "pixelX": 973.938,
+      "pixelY": 640.401,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G17",
+      "x": -735.5404663085938,
+      "y": 225.4853515625,
+      "z": -197.54884338378906,
+      "pixelX": 971.713,
+      "pixelY": 635.468,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G17",
+      "x": -735.1671142578125,
+      "y": 225.48541259765625,
+      "z": -209.85128784179688,
+      "pixelX": 971.479,
+      "pixelY": 643.157,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G17",
+      "x": -732.091552734375,
+      "y": 225.48541259765625,
+      "z": -200.8408966064453,
+      "pixelX": 969.557,
+      "pixelY": 637.526,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G17",
+      "x": -730.7986450195312,
+      "y": 225.48541259765625,
+      "z": -209.91571044921875,
+      "pixelX": 968.749,
+      "pixelY": 643.197,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G17",
+      "x": -729.365234375,
+      "y": 225.48541259765625,
+      "z": -199.85409545898438,
+      "pixelX": 967.853,
+      "pixelY": 636.909,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G17",
+      "x": -728.5497436523438,
+      "y": 225.48541259765625,
+      "z": -214.94515991210938,
+      "pixelX": 967.344,
+      "pixelY": 646.341,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G17",
+      "x": -726.8917236328125,
+      "y": 225.4854736328125,
+      "z": -188.609619140625,
+      "pixelX": 966.307,
+      "pixelY": 629.881,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G17",
+      "x": -723.0050048828125,
+      "y": 225.4853515625,
+      "z": -214.2122039794922,
+      "pixelX": 963.878,
+      "pixelY": 645.883,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G17",
+      "x": -718.53759765625,
+      "y": 225.48529052734375,
+      "z": -243.35313415527344,
+      "pixelX": 961.086,
+      "pixelY": 664.096,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G18",
+      "x": -532.59228515625,
+      "y": 225.4854736328125,
+      "z": -449.3681640625,
+      "pixelX": 844.87,
+      "pixelY": 792.855,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G18",
+      "x": -521.995849609375,
+      "y": 225.4853515625,
+      "z": -486.4639587402344,
+      "pixelX": 838.247,
+      "pixelY": 816.04,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G18",
+      "x": -510.6561279296875,
+      "y": 225.4854736328125,
+      "z": -480.5087890625,
+      "pixelX": 831.16,
+      "pixelY": 812.318,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G18",
+      "x": -504.6193542480469,
+      "y": 225.4854736328125,
+      "z": -476.9910583496094,
+      "pixelX": 827.387,
+      "pixelY": 810.119,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G18",
+      "x": -502.2937927246094,
+      "y": 225.48541259765625,
+      "z": -475.4923095703125,
+      "pixelX": 825.934,
+      "pixelY": 809.183,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G18",
+      "x": -500.59149169921875,
+      "y": 225.48553466796875,
+      "z": -469.8890380859375,
+      "pixelX": 824.87,
+      "pixelY": 805.681,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G18",
+      "x": -499.19244384765625,
+      "y": 225.4854736328125,
+      "z": -480.54998779296875,
+      "pixelX": 823.995,
+      "pixelY": 812.344,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G18",
+      "x": -487.682861328125,
+      "y": 225.4854736328125,
+      "z": -468.1017150878906,
+      "pixelX": 816.802,
+      "pixelY": 804.564,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G19",
+      "x": -789.54296875,
+      "y": 225.4854736328125,
+      "z": 726.3216552734375,
+      "pixelX": 1005.464,
+      "pixelY": 58.049,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G19",
+      "x": -777.306396484375,
+      "y": 225.485595703125,
+      "z": 739.2620849609375,
+      "pixelX": 997.816,
+      "pixelY": 49.961,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G19",
+      "x": -776.860595703125,
+      "y": 225.48553466796875,
+      "z": 722.8995361328125,
+      "pixelX": 997.538,
+      "pixelY": 60.188,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G19",
+      "x": -774.6069946289062,
+      "y": 225.48553466796875,
+      "z": 715.5782470703125,
+      "pixelX": 996.129,
+      "pixelY": 64.764,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G19",
+      "x": -772.8506469726562,
+      "y": 225.48553466796875,
+      "z": 719.39111328125,
+      "pixelX": 995.032,
+      "pixelY": 62.381,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G19",
+      "x": -769.8754272460938,
+      "y": 225.48553466796875,
+      "z": 718.8613891601562,
+      "pixelX": 993.172,
+      "pixelY": 62.712,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G19",
+      "x": -754.3438720703125,
+      "y": 225.485595703125,
+      "z": 727.0291137695312,
+      "pixelX": 983.465,
+      "pixelY": 57.607,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G2",
+      "x": -132.98870849609375,
+      "y": 225.48544311523438,
+      "z": -713.2327270507812,
+      "pixelX": 595.118,
+      "pixelY": 957.77,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G2",
+      "x": -125.50466918945312,
+      "y": 225.48544311523438,
+      "z": -719.7625732421875,
+      "pixelX": 590.44,
+      "pixelY": 961.852,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G2",
+      "x": -118.37519073486328,
+      "y": 225.485595703125,
+      "z": -716.5550537109375,
+      "pixelX": 585.984,
+      "pixelY": 959.847,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G2",
+      "x": -116.76448059082031,
+      "y": 225.48544311523438,
+      "z": -718.197998046875,
+      "pixelX": 584.978,
+      "pixelY": 960.874,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G2",
+      "x": -109.96697998046875,
+      "y": 225.48550415039062,
+      "z": -727.7390747070312,
+      "pixelX": 580.729,
+      "pixelY": 966.837,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G2",
+      "x": -102.14503479003906,
+      "y": 225.4854736328125,
+      "z": -723.4882202148438,
+      "pixelX": 575.841,
+      "pixelY": 964.18,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G2",
+      "x": -99.94558715820312,
+      "y": 225.48550415039062,
+      "z": -711.5435791015625,
+      "pixelX": 574.466,
+      "pixelY": 956.715,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G2",
+      "x": -90.51248931884766,
+      "y": 225.48550415039062,
+      "z": -719.2119140625,
+      "pixelX": 568.57,
+      "pixelY": 961.507,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G2",
+      "x": -89.58058166503906,
+      "y": 225.48544311523438,
+      "z": -707.1051025390625,
+      "pixelX": 567.988,
+      "pixelY": 953.941,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G2",
+      "x": -82.07469177246094,
+      "y": 225.48550415039062,
+      "z": -719.3436889648438,
+      "pixelX": 563.297,
+      "pixelY": 961.59,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G2",
+      "x": -80.82562255859375,
+      "y": 225.4853515625,
+      "z": -736.8732299804688,
+      "pixelX": 562.516,
+      "pixelY": 972.546,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G2",
+      "x": -73.54507446289062,
+      "y": 225.48544311523438,
+      "z": -718.2828369140625,
+      "pixelX": 557.966,
+      "pixelY": 960.927,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G20",
+      "x": -391.5661315917969,
+      "y": 225.4854736328125,
+      "z": -518.8072509765625,
+      "pixelX": 756.729,
+      "pixelY": 836.255,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G20",
+      "x": -367.5686950683594,
+      "y": 225.48541259765625,
+      "z": -510.9374694824219,
+      "pixelX": 741.73,
+      "pixelY": 831.336,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G20",
+      "x": -365.1507568359375,
+      "y": 225.48544311523438,
+      "z": -498.4507141113281,
+      "pixelX": 740.219,
+      "pixelY": 823.532,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G20",
+      "x": -363.94256591796875,
+      "y": 225.4854736328125,
+      "z": -510.4800109863281,
+      "pixelX": 739.464,
+      "pixelY": 831.05,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G20",
+      "x": -361.23553466796875,
+      "y": 225.48544311523438,
+      "z": -505.49981689453125,
+      "pixelX": 737.772,
+      "pixelY": 827.937,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G20",
+      "x": -360.08447265625,
+      "y": 225.48550415039062,
+      "z": -529.2015380859375,
+      "pixelX": 737.053,
+      "pixelY": 842.751,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G20",
+      "x": -359.91802978515625,
+      "y": 225.48541259765625,
+      "z": -493.85150146484375,
+      "pixelX": 736.949,
+      "pixelY": 820.657,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G20",
+      "x": -359.2828674316406,
+      "y": 225.48541259765625,
+      "z": -494.99700927734375,
+      "pixelX": 736.552,
+      "pixelY": 821.373,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G20",
+      "x": -358.59906005859375,
+      "y": 225.4854736328125,
+      "z": -502.79132080078125,
+      "pixelX": 736.124,
+      "pixelY": 826.245,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G20",
+      "x": -358.5395812988281,
+      "y": 225.4853515625,
+      "z": -503.785888671875,
+      "pixelX": 736.087,
+      "pixelY": 826.866,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G20",
+      "x": -348.6258850097656,
+      "y": 225.4854736328125,
+      "z": -505.0064697265625,
+      "pixelX": 729.891,
+      "pixelY": 827.629,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G20",
+      "x": -342.84271240234375,
+      "y": 225.485595703125,
+      "z": -547.8710327148438,
+      "pixelX": 726.277,
+      "pixelY": 854.419,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G20",
+      "x": -335.0009765625,
+      "y": 225.4853515625,
+      "z": -521.68408203125,
+      "pixelX": 721.376,
+      "pixelY": 838.053,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G3",
+      "x": -220.64517211914062,
+      "y": 225.48553466796875,
+      "z": -557.9419555664062,
+      "pixelX": 649.903,
+      "pixelY": 860.714,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G3",
+      "x": -211.1717529296875,
+      "y": 225.48550415039062,
+      "z": -542.054443359375,
+      "pixelX": 643.982,
+      "pixelY": 850.784,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G3",
+      "x": -209.04579162597656,
+      "y": 225.48553466796875,
+      "z": -557.2776489257812,
+      "pixelX": 642.654,
+      "pixelY": 860.299,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G3",
+      "x": -208.09353637695312,
+      "y": 225.4854736328125,
+      "z": -565.06689453125,
+      "pixelX": 642.058,
+      "pixelY": 865.167,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G3",
+      "x": -205.29843139648438,
+      "y": 225.4854736328125,
+      "z": -551.2898559570312,
+      "pixelX": 640.312,
+      "pixelY": 856.556,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G3",
+      "x": -200.74896240234375,
+      "y": 225.48529052734375,
+      "z": -544.8150024414062,
+      "pixelX": 637.468,
+      "pixelY": 852.509,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G3",
+      "x": -199.4136962890625,
+      "y": 225.48553466796875,
+      "z": -540.1715698242188,
+      "pixelX": 636.634,
+      "pixelY": 849.607,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G3",
+      "x": -196.700439453125,
+      "y": 225.4854736328125,
+      "z": -547.7978515625,
+      "pixelX": 634.938,
+      "pixelY": 854.374,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G3",
+      "x": -195.45263671875,
+      "y": 225.48541259765625,
+      "z": -554.2713623046875,
+      "pixelX": 634.158,
+      "pixelY": 858.42,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G3",
+      "x": -195.2276611328125,
+      "y": 225.48541259765625,
+      "z": -534.3606567382812,
+      "pixelX": 634.017,
+      "pixelY": 845.975,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G3",
+      "x": -194.07550048828125,
+      "y": 225.48544311523438,
+      "z": -539.3414916992188,
+      "pixelX": 633.297,
+      "pixelY": 849.088,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G3",
+      "x": -178.77752685546875,
+      "y": 225.4854736328125,
+      "z": -582.3060302734375,
+      "pixelX": 623.736,
+      "pixelY": 875.941,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G3",
+      "x": -175.01824951171875,
+      "y": 225.4854736328125,
+      "z": -514.0031127929688,
+      "pixelX": 621.386,
+      "pixelY": 833.252,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G4",
+      "x": 306.9557800292969,
+      "y": 225.48553466796875,
+      "z": -97.57034301757812,
+      "pixelX": 320.153,
+      "pixelY": 572.981,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G4",
+      "x": 311.1287841796875,
+      "y": 225.48553466796875,
+      "z": -94.18472290039062,
+      "pixelX": 317.545,
+      "pixelY": 570.865,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G4",
+      "x": 314.7950134277344,
+      "y": 225.48553466796875,
+      "z": -106.92269897460938,
+      "pixelX": 315.253,
+      "pixelY": 578.827,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G4",
+      "x": 315.640869140625,
+      "y": 225.485595703125,
+      "z": -96.90243530273438,
+      "pixelX": 314.724,
+      "pixelY": 572.564,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G4",
+      "x": 324.49957275390625,
+      "y": 225.48553466796875,
+      "z": -100.32711791992188,
+      "pixelX": 309.188,
+      "pixelY": 574.704,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G4",
+      "x": 325.6832275390625,
+      "y": 225.4854736328125,
+      "z": -96.82632446289062,
+      "pixelX": 308.448,
+      "pixelY": 572.516,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G4",
+      "x": 327.8721618652344,
+      "y": 225.48565673828125,
+      "z": -113.3343505859375,
+      "pixelX": 307.08,
+      "pixelY": 582.834,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G4",
+      "x": 336.065673828125,
+      "y": 225.485595703125,
+      "z": -58.960052490234375,
+      "pixelX": 301.959,
+      "pixelY": 548.85,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G4",
+      "x": 336.21630859375,
+      "y": 225.485595703125,
+      "z": -92.5328369140625,
+      "pixelX": 301.865,
+      "pixelY": 569.833,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G4",
+      "x": 339.056640625,
+      "y": 225.48553466796875,
+      "z": -96.9979248046875,
+      "pixelX": 300.09,
+      "pixelY": 572.624,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G4",
+      "x": 341.8252258300781,
+      "y": 225.48553466796875,
+      "z": -99.8099365234375,
+      "pixelX": 298.359,
+      "pixelY": 574.381,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G4",
+      "x": 355.3330993652344,
+      "y": 225.48553466796875,
+      "z": -72.16177368164062,
+      "pixelX": 289.917,
+      "pixelY": 557.101,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G5",
+      "x": 272.6623840332031,
+      "y": 225.48541259765625,
+      "z": 228.96658325195312,
+      "pixelX": 341.586,
+      "pixelY": 368.896,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G5",
+      "x": 303.47088623046875,
+      "y": 225.4854736328125,
+      "z": 206.7659912109375,
+      "pixelX": 322.331,
+      "pixelY": 382.771,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G5",
+      "x": 308.8505859375,
+      "y": 225.48541259765625,
+      "z": 213.32373046875,
+      "pixelX": 318.968,
+      "pixelY": 378.673,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G5",
+      "x": 310.6129150390625,
+      "y": 225.48541259765625,
+      "z": 221.1834716796875,
+      "pixelX": 317.867,
+      "pixelY": 373.76,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G5",
+      "x": 317.12030029296875,
+      "y": 225.4854736328125,
+      "z": 206.0645751953125,
+      "pixelX": 313.8,
+      "pixelY": 383.21,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G5",
+      "x": 318.279541015625,
+      "y": 225.48541259765625,
+      "z": 210.251953125,
+      "pixelX": 313.075,
+      "pixelY": 380.593,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G5",
+      "x": 319.31982421875,
+      "y": 225.4854736328125,
+      "z": 202.96258544921875,
+      "pixelX": 312.425,
+      "pixelY": 385.148,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G5",
+      "x": 326.5917053222656,
+      "y": 225.4853515625,
+      "z": 221.55316162109375,
+      "pixelX": 307.88,
+      "pixelY": 373.529,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G5",
+      "x": 330.1284484863281,
+      "y": 225.485595703125,
+      "z": 243.32421875,
+      "pixelX": 305.67,
+      "pixelY": 359.922,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G5",
+      "x": 330.6761474609375,
+      "y": 225.4853515625,
+      "z": 201.23953247070312,
+      "pixelX": 305.327,
+      "pixelY": 386.225,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G5",
+      "x": 347.60205078125,
+      "y": 225.4853515625,
+      "z": 207.13818359375,
+      "pixelX": 294.749,
+      "pixelY": 382.539,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G6",
+      "x": 11.02337646484375,
+      "y": 225.48529052734375,
+      "z": 571.28857421875,
+      "pixelX": 505.11,
+      "pixelY": 154.945,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G6",
+      "x": 34.64667510986328,
+      "y": 225.48526000976562,
+      "z": 550.5894775390625,
+      "pixelX": 490.346,
+      "pixelY": 167.882,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G6",
+      "x": 35.914710998535156,
+      "y": 225.48529052734375,
+      "z": 561.1487426757812,
+      "pixelX": 489.553,
+      "pixelY": 161.282,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G6",
+      "x": 38.549461364746094,
+      "y": 225.4853515625,
+      "z": 561.0609741210938,
+      "pixelX": 487.907,
+      "pixelY": 161.337,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G6",
+      "x": 39.8563232421875,
+      "y": 225.48526000976562,
+      "z": 555.175537109375,
+      "pixelX": 487.09,
+      "pixelY": 165.015,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G6",
+      "x": 40.389892578125,
+      "y": 225.4853515625,
+      "z": 586.48583984375,
+      "pixelX": 486.756,
+      "pixelY": 145.446,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G6",
+      "x": 46.005218505859375,
+      "y": 225.48529052734375,
+      "z": 558.775146484375,
+      "pixelX": 483.247,
+      "pixelY": 162.766,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G6",
+      "x": 46.39599609375,
+      "y": 225.4853515625,
+      "z": 548.61767578125,
+      "pixelX": 483.003,
+      "pixelY": 169.114,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G6",
+      "x": 61.28913879394531,
+      "y": 225.48548889160156,
+      "z": 531.7147216796875,
+      "pixelX": 473.694,
+      "pixelY": 179.678,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G6",
+      "x": 62.23004913330078,
+      "y": 225.48532104492188,
+      "z": 550.26416015625,
+      "pixelX": 473.106,
+      "pixelY": 168.085,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G6",
+      "x": 74.03817749023438,
+      "y": 225.4852294921875,
+      "z": 535.107177734375,
+      "pixelX": 465.726,
+      "pixelY": 177.558,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G7",
+      "x": 236.5982666015625,
+      "y": 225.48544311523438,
+      "z": 470.8360290527344,
+      "pixelX": 364.126,
+      "pixelY": 217.727,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G7",
+      "x": 253.46005249023438,
+      "y": 225.48541259765625,
+      "z": 468.9019470214844,
+      "pixelX": 353.587,
+      "pixelY": 218.936,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G7",
+      "x": 259.5546875,
+      "y": 225.48544311523438,
+      "z": 484.3576965332031,
+      "pixelX": 349.778,
+      "pixelY": 209.276,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G7",
+      "x": 261.9356994628906,
+      "y": 225.48541259765625,
+      "z": 490.283203125,
+      "pixelX": 348.29,
+      "pixelY": 205.573,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G7",
+      "x": 263.9856872558594,
+      "y": 225.48544311523438,
+      "z": 477.4429931640625,
+      "pixelX": 347.009,
+      "pixelY": 213.598,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G7",
+      "x": 265.2939147949219,
+      "y": 225.48538208007812,
+      "z": 478.504638671875,
+      "pixelX": 346.191,
+      "pixelY": 212.935,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G7",
+      "x": 267.4044189453125,
+      "y": 225.48541259765625,
+      "z": 476.5771789550781,
+      "pixelX": 344.872,
+      "pixelY": 214.139,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G7",
+      "x": 269.9412536621094,
+      "y": 225.4853515625,
+      "z": 476.31573486328125,
+      "pixelX": 343.287,
+      "pixelY": 214.303,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G7",
+      "x": 270.69207763671875,
+      "y": 225.4854736328125,
+      "z": 486.5484619140625,
+      "pixelX": 342.817,
+      "pixelY": 207.907,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G7",
+      "x": 277.56488037109375,
+      "y": 225.48553466796875,
+      "z": 480.13555908203125,
+      "pixelX": 338.522,
+      "pixelY": 211.915,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G7",
+      "x": 285.2624206542969,
+      "y": 225.4853515625,
+      "z": 487.1956787109375,
+      "pixelX": 333.711,
+      "pixelY": 207.503,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G7",
+      "x": 296.6080322265625,
+      "y": 225.4854736328125,
+      "z": 445.32244873046875,
+      "pixelX": 326.62,
+      "pixelY": 233.673,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G8",
+      "x": -474.65283203125,
+      "y": 225.48541259765625,
+      "z": 620.0086669921875,
+      "pixelX": 808.658,
+      "pixelY": 124.495,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G8",
+      "x": -458.8913879394531,
+      "y": 225.4853515625,
+      "z": 621.7784423828125,
+      "pixelX": 798.807,
+      "pixelY": 123.388,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G8",
+      "x": -447.0748596191406,
+      "y": 225.4853515625,
+      "z": 681.6776733398438,
+      "pixelX": 791.422,
+      "pixelY": 85.951,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G8",
+      "x": -445.48541259765625,
+      "y": 225.4853515625,
+      "z": 643.0665893554688,
+      "pixelX": 790.428,
+      "pixelY": 110.083,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G8",
+      "x": -445.36700439453125,
+      "y": 225.4853515625,
+      "z": 658.3724365234375,
+      "pixelX": 790.354,
+      "pixelY": 100.517,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G8",
+      "x": -441.33819580078125,
+      "y": 225.48541259765625,
+      "z": 666.286376953125,
+      "pixelX": 787.836,
+      "pixelY": 95.571,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G9",
+      "x": -126.56298828125,
+      "y": 225.48550415039062,
+      "z": 588.1359252929688,
+      "pixelX": 591.102,
+      "pixelY": 144.415,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G9",
+      "x": -122.29364013671875,
+      "y": 225.48556518554688,
+      "z": 585.9949340820312,
+      "pixelX": 588.434,
+      "pixelY": 145.753,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G9",
+      "x": -120.11093139648438,
+      "y": 225.48553466796875,
+      "z": 600.6226806640625,
+      "pixelX": 587.069,
+      "pixelY": 136.611,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G9",
+      "x": -105.9349365234375,
+      "y": 225.48553466796875,
+      "z": 600.3497314453125,
+      "pixelX": 578.209,
+      "pixelY": 136.781,
+      "details": "Connected scene: FXs"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G9",
+      "x": -103.67486572265625,
+      "y": 225.48553466796875,
+      "z": 599.4716796875,
+      "pixelX": 576.797,
+      "pixelY": 137.33,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G9",
+      "x": -102.52638244628906,
+      "y": 225.485595703125,
+      "z": 582.1215209960938,
+      "pixelX": 576.079,
+      "pixelY": 148.174,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G9",
+      "x": -98.03189086914062,
+      "y": 225.48550415039062,
+      "z": 606.0313110351562,
+      "pixelX": 573.27,
+      "pixelY": 133.23,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G9",
+      "x": -96.55418395996094,
+      "y": 225.48553466796875,
+      "z": 589.3576049804688,
+      "pixelX": 572.346,
+      "pixelY": 143.651,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G9",
+      "x": -95.96566772460938,
+      "y": 225.48553466796875,
+      "z": 597.6935424804688,
+      "pixelX": 571.979,
+      "pixelY": 138.442,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G9",
+      "x": -94.13507843017578,
+      "y": 225.48562622070312,
+      "z": 587.791748046875,
+      "pixelX": 570.834,
+      "pixelY": 144.63,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G9",
+      "x": -79.67520141601562,
+      "y": 225.485595703125,
+      "z": 577.229248046875,
+      "pixelX": 561.797,
+      "pixelY": 151.232,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in G9",
+      "x": -77.9344253540039,
+      "y": 225.48553466796875,
+      "z": 587.010986328125,
+      "pixelX": 560.709,
+      "pixelY": 145.118,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in TOWER_EXTERIOR",
+      "x": 400.70635986328125,
+      "y": 225.4852294921875,
+      "z": -542.6053466796875,
+      "pixelX": 261.559,
+      "pixelY": 851.128,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in TOWER_EXTERIOR",
+      "x": 422.94622802734375,
+      "y": 225.4854736328125,
+      "z": -539.4505615234375,
+      "pixelX": 247.659,
+      "pixelY": 849.157,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in TOWER_EXTERIOR",
+      "x": 428.10565185546875,
+      "y": 225.4857177734375,
+      "z": -523.9256591796875,
+      "pixelX": 244.434,
+      "pixelY": 839.454,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in TOWER_EXTERIOR",
+      "x": 443.43438720703125,
+      "y": 225.4852294921875,
+      "z": -572.715576171875,
+      "pixelX": 234.854,
+      "pixelY": 869.947,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in TOWER_EXTERIOR",
+      "x": 454.80108642578125,
+      "y": 225.4853515625,
+      "z": -558.765380859375,
+      "pixelX": 227.749,
+      "pixelY": 861.228,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in TOWER_EXTERIOR",
+      "x": 461.17584228515625,
+      "y": 225.4854736328125,
+      "z": -585.4381713867188,
+      "pixelX": 223.765,
+      "pixelY": 877.899,
+      "details": "Connected scene: Audio"
+    },
+    {
+      "category": "transitions",
+      "name": "Transition in TOWER_EXTERIOR",
+      "x": 462.154052734375,
+      "y": 225.4853515625,
+      "z": -543.1103515625,
+      "pixelX": 223.154,
+      "pixelY": 851.444,
+      "details": "Connected scene: Audio"
     }
   ]
 }

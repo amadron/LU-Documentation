@@ -48,6 +48,17 @@
       "pixelY": 357.765,
       "details": "Scene nd_starbase3001.lvl (Global Scene); LOT 176 spawner; No additional condition recorded",
       "path": "wiki/items/sources/object-10023/"
+    },
+    {
+      "category": "launchpads",
+      "name": "Starbase 3001 Rocket launch Pad",
+      "x": 52.58000183105469,
+      "y": 1548.5699462890625,
+      "z": -157.22999572753906,
+      "pixelX": 485.71,
+      "pixelY": 590.615,
+      "details": "Destination zone 0",
+      "lot": 14333
     }
   ]
 }

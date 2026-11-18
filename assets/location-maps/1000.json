@@ -312,6 +312,50 @@
       "pixelY": 486.444,
       "details": "Scene nd_space_ship.lvl (Global Scene); LOT 176 spawner; No additional condition recorded",
       "path": "wiki/items/sources/object-5997/"
+    },
+    {
+      "category": "launchpads",
+      "name": "SS - Rocket Launch Pad Piece",
+      "x": -107.4800033569336,
+      "y": 589.5,
+      "z": 32.75,
+      "pixelX": 565.74,
+      "pixelY": 495.625,
+      "details": "Destination zone 1100; scene AGLanding",
+      "lot": 14214
+    },
+    {
+      "category": "launchpads",
+      "name": "SS - Rocket Launch Pad Piece",
+      "x": -104.05000305175781,
+      "y": 589.5,
+      "z": -92.18000030517578,
+      "pixelX": 564.025,
+      "pixelY": 558.09,
+      "details": "Destination zone 1100; scene AGLanding",
+      "lot": 14214
+    },
+    {
+      "category": "launchpads",
+      "name": "SS - Rocket Launch Pad Piece",
+      "x": -83.29000091552734,
+      "y": 589.5,
+      "z": -51.91999816894531,
+      "pixelX": 553.645,
+      "pixelY": 537.96,
+      "details": "Destination zone 1100; scene AGLanding",
+      "lot": 14214
+    },
+    {
+      "category": "launchpads",
+      "name": "SS - Rocket Launch Pad Piece",
+      "x": -82.93000030517578,
+      "y": 589.5,
+      "z": -7.590000152587891,
+      "pixelX": 553.465,
+      "pixelY": 515.795,
+      "details": "Destination zone 1100; scene AGLanding",
+      "lot": 14214
     }
   ]
 }

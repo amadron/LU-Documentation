@@ -30,10 +30,31 @@ py -3 scripts\prepare_site.py
 Open the local address printed by MkDocs. To build the static website without
 starting a preview server, run `.\.venv\Scripts\mkdocs build --strict`.
 
-Location-map overlays for zones with both minimaps and exact item or pet
-coordinates are generated from the existing location tables. After refreshing
-those pages, run `py -3 scripts\build_location_maps.py` before
-`scripts\prepare_site.py`.
+Location-map overlays for zones with minimaps and exact item or pet coordinates
+are generated from the existing location tables. They also include world
+markers extracted from local `.luz` and `.lvl` resources. To refresh those
+markers, provide the client resource root, then rebuild the overlays:
+
+```powershell
+py -3 scripts\extract_location_map_world_markers.py --client-res "C:\path\to\res\res"
+py -3 scripts\build_location_maps.py
+```
+
+The extracted coordinate CSV is committed; client binaries are not. Run
+`scripts\prepare_site.py` after refreshing the overlays.
+
+NPC and enemy template pages are generated from the local
+`LEGO Universe NPC List.csv` catalog and the committed world-marker CSV:
+
+```powershell
+py -3 scripts\build_npc_pages.py
+py -3 scripts\build_location_maps.py
+py -3 scripts\prepare_site.py
+```
+
+The NPC catalog CSV is local and ignored by Git; the generated reference pages
+and map links are committed. Pages show registered template data and potential
+map placements, not live entities or guaranteed server availability.
 
 ## Publish with GitHub Pages
 

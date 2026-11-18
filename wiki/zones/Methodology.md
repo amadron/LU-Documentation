@@ -66,6 +66,18 @@ pet coordinates: 1000, 1001, 1100, 1102, 1150, 1151, 1200, 1201, 1204, 1250,
 Recorded XYZ values remain authoritative; quest associations and other
 non-coordinate evidence are not turned into invented markers.
 
+World markers are extracted from local `.luz` and `.lvl` resources and joined
+with the documented object/component tables. They include rocket launch and
+landing objects, property and multi-zone entrances, scene-transition
+endpoints, NPC and enemy spawner waypoints, and vendor spawns. NPCs, enemies,
+and shops have separate map filters. Spawner markers show potential spawn
+locations, not a guarantee that an entity is currently active or available.
+Scene-transition markers show stored endpoint coordinates, not the full
+transition area. Refresh the committed coordinate source with
+`scripts/extract_location_map_world_markers.py --client-res <res/res path>`,
+then run `scripts/build_location_maps.py`; the client binaries are not
+included in this repository.
+
 Each projection maps the client's parsed `.raw` terrain bounds to the
 1024-by-1024 overlay and reverses X and Z. The bounds are composed of
 204.8-world-unit terrain chunks; the asset's actual world-space center is used
