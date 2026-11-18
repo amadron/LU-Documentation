@@ -74,39 +74,66 @@
       link.setAttribute("tabindex", "0");
       link.setAttribute("aria-label", markerDescription(marker));
       link.dataset.search = `${marker.name} ${marker.lot} ${marker.x} ${marker.y} ${marker.z}`.toLocaleLowerCase();
+      const highlight = svgElement("circle", "lu-location-map__marker-highlight");
+      highlight.setAttribute("cx", marker.pixelX);
+      highlight.setAttribute("cy", marker.pixelY);
       const circle = svgElement("circle");
       circle.setAttribute("cx", marker.pixelX);
       circle.setAttribute("cy", marker.pixelY);
       circle.setAttribute("r", "5");
       const title = svgElement("title");
       title.textContent = markerDescription(marker);
-      link.append(circle, title);
+      link.append(highlight, circle, title);
       svg.append(link);
       return { marker, link };
     });
 
+    let selectedMarker = null;
     const list = element("ul", "lu-location-map__list");
+    const listNodes = markerNodes.map(({ marker, link }) => {
+      const item = element("li", "lu-location-map__list-item");
+      const select = element("button", "lu-location-map__select",
+        `${marker.name} (LOT ${marker.lot})`);
+      select.type = "button";
+      select.setAttribute("aria-label", `Show ${marker.name} (LOT ${marker.lot}) on map`);
+      select.setAttribute("aria-pressed", "false");
+      select.addEventListener("click", () => {
+        const deselecting = selectedMarker === marker;
+        selectedMarker = deselecting ? null : marker;
+        if (deselecting) {
+          update();
+          return;
+        }
+        svg.append(link);
+        update();
+        svg.scrollIntoView({ behavior: "smooth", block: "center" });
+      });
+
+      const source = element("a", "lu-location-map__source", "Details");
+      source.href = new URL(marker.path, siteRoot).href;
+      source.setAttribute("aria-label", `Open details for ${marker.name} (LOT ${marker.lot})`);
+      const coordinates = element("span", "lu-location-map__coordinates",
+        `XYZ ${marker.x}, ${marker.y}, ${marker.z}`);
+      item.append(select, source, coordinates);
+      list.append(item);
+      return { marker, link, item, select };
+    });
+
     const update = () => {
       const query = search.value.trim().toLocaleLowerCase();
       const checkedCategories = categoryInputs.length
         ? new Set(categoryInputs.filter((input) => input.checked).map((input) => input.dataset.category))
         : new Set(availableCategories);
       let shown = 0;
-      list.replaceChildren();
-      for (const { marker, link } of markerNodes) {
+      for (const { marker, link, item, select } of listNodes) {
         const visible = marker.category !== undefined
           && checkedCategories.has(marker.category)
           && link.dataset.search.includes(query);
         link.classList.toggle("is-hidden", !visible);
-        if (!visible) continue;
-        shown += 1;
-        const item = element("li", "lu-location-map__list-item");
-        const anchor = element("a", "", `${marker.name} (LOT ${marker.lot})`);
-        anchor.href = new URL(marker.path, siteRoot).href;
-        const coordinates = element("span", "lu-location-map__coordinates",
-          `XYZ ${marker.x}, ${marker.y}, ${marker.z}`);
-        item.append(anchor, coordinates);
-        list.append(item);
+        link.classList.toggle("is-selected", selectedMarker === marker);
+        item.hidden = !visible;
+        select.setAttribute("aria-pressed", String(selectedMarker === marker));
+        if (visible) shown += 1;
       }
       count.textContent = `${shown} of ${baseMarkers.length} locations shown`;
     };

@@ -61,6 +61,10 @@
   opacity: 0.9;
 }
 
+.lu-location-map__marker-highlight {
+  display: none;
+}
+
 .lu-location-map__marker--items circle {
   fill: #d54b22;
 }
@@ -74,6 +78,37 @@
   stroke: #ffd54f;
   stroke-width: 4;
   opacity: 1;
+}
+
+.lu-location-map__marker.is-selected .lu-location-map__marker-highlight {
+  display: block;
+  r: 15px;
+  fill: #ffeb3b;
+  fill-opacity: 0.75;
+  stroke: #101820;
+  stroke-width: 4;
+  filter: drop-shadow(0 0 4px #fff);
+  animation: lu-location-map-pulse 0.9s ease-in-out 3;
+}
+
+.lu-location-map__marker.is-selected circle:not(.lu-location-map__marker-highlight) {
+  r: 7px;
+  stroke: #fff3a0;
+  stroke-width: 4;
+  opacity: 1;
+}
+
+@keyframes lu-location-map-pulse {
+  50% {
+    fill-opacity: 1;
+    stroke: #fff;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .lu-location-map__marker.is-selected .lu-location-map__marker-highlight {
+    animation: none;
+  }
 }
 
 .lu-location-map__marker.is-hidden {
@@ -90,8 +125,32 @@
 .lu-location-map__list-item {
   display: flex;
   flex-wrap: wrap;
+  align-items: baseline;
   gap: 0.25rem 0.75rem;
   padding: 0.2rem 0;
+}
+
+.lu-location-map__select {
+  border: 0;
+  padding: 0;
+  color: var(--md-typeset-a-color);
+  background: none;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.lu-location-map__select:hover,
+.lu-location-map__select:focus-visible {
+  text-decoration: underline;
+}
+
+.lu-location-map__select[aria-pressed="true"] {
+  font-weight: 700;
+}
+
+.lu-location-map__source {
+  font-size: 0.8rem;
 }
 
 .lu-location-map__coordinates {
