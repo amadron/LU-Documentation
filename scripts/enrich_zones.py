@@ -154,8 +154,9 @@ def status_lines(zone, row, strings, zones, activities):
             map_file = winter["mapFolder"].replace("\\", "/").rsplit("/", 1)[-1]
             lines.append(
                 f"- **Related ZoneTable row:** zone {WINTER_TRACK_ROW}, internal name "
-                f"&quot;{escape(winter['name'])}&quot;, references the same map file "
-                f"(`{map_file}`) under a different folder. That row has `locStatus` "
+                f"&quot;{escape(winter['name'])}&quot;, references the same map filename "
+                f"(`{map_file}`) under a different folder; this is not an exact asset-path match. "
+                "That row has `locStatus` "
                 f"{winter['locStatus']} (unreleased) and no localized client name, so "
                 "it is not listed as a separate zone page.")
         return lines
@@ -205,7 +206,9 @@ def build(root, strings, zones, tips, activities):
         "textual map evidence; they do not include original map graphics.", "",
         "A record or mapped placement does not guarantee that the area, entrance, "
         "or activity is available on your server. The status column reflects the "
-        "client ZoneTable `locStatus` flag; see [Methodology](./Methodology.md).", "",
+        "client ZoneTable `locStatus` flag; neither that status nor catalog "
+        "inclusion proves that the server can load or players can reach the map. "
+        "See [Methodology](./Methodology.md) for the distinction.", "",
         "| Zone | Kind | Status | Related location evidence |",
         "| --- | --- | --- | --- |",
     ]

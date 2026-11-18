@@ -16,12 +16,13 @@ This page lists what the client data shows, with the evidence for each entry.
 
 ## Worlds that ship in the client but were never opened
 
-These maps are part of the client files, so the areas were built, but their zone entries
-were never localized and no launch pad leads to them.
+These map files are present in the client, but their zone entries were never localized
+and no launch pad leads to them. The listed path is the local client asset path matched
+by filename; it is not proof that the ZoneTable's stored path resolves to that asset.
 
 | Zone | Internal name | Map file | Status | Notes |
 | --- | --- | --- | --- | --- |
-| 556 | Winter Racetrack | `maps/seasonal&#95;live maps/december/ns&#95;winter&#95;racetrack/nd&#95;nimbus&#95;station&#95;winter-racetrack.luz` | Not localized | Winter racetrack; the seasonal race shipped as activity "Space Blizzard Racetrack" (1261), see the [Racing Guide](./Racing%20Guide.md). |
+| 556 | Winter Racetrack | `maps/seasonal&#95;live maps/december/ns&#95;winter&#95;racetrack/nd&#95;nimbus&#95;station&#95;winter-racetrack.luz` | Not localized | Winter racetrack; a local asset has this filename, but its path does not exactly match the stored ZoneTable path. The seasonal race shipped as activity "Space Blizzard Racetrack" (1261), see the [Racing Guide](./Racing%20Guide.md). |
 | 1152 | Avant Gardens Large Property | `maps/2011&#95;live&#95;maps/pp&#95;ag&#95;large/nd&#95;ag&#95;property&#95;large.luz` | Not localized | Large property for Avant Gardens. |
 | 1202 | NS Shooting Gallery | `maps/01&#95;live&#95;maps/nimbus&#95;station/shooting&#95;gallery/nd&#95;ns&#95;sg&#95;ducks.luz` | Not localized | A duck shooting gallery for Nimbus Station; single-player activity 7583 is defined for it. |
 | [1301](./zones/1301.md) | Gnarled Forest Survival | `maps/01&#95;live&#95;maps/gnarled&#95;forest/survival/nd&#95;gf&#95;survival&#95;battle.luz` | Not localized | Survival mode for Gnarled Forest. |
@@ -50,8 +51,10 @@ The zone table names these areas, but the client has no map for them.
 ## Seasonal and partly released content
 
 - **Space Blizzard Racetrack** (activity 60, see [zone 1261](./zones/1261.md)) was a winter
-  event race. It has no zone-table row of its own; zone 556 "Winter Racetrack" uses the same
-  map file and is not localized. DarkflameServer can only load worlds that have a zone row.
+  event race. It has no ZoneTable row of its own; zone 556 "Winter Racetrack" has the same
+  map filename but a different stored path and is not localized. Instance 1261 has no
+  ZoneTable row, so the server's normal map lookup cannot resolve a zone asset for that ID;
+  activity and asset evidence alone do not establish that it loads or is reachable.
 - **Seasonal map objects** are switched on by event gates in the map files. DarkflameServer
   enables them through the `event_1` … `event_8` settings in `worldconfig.ini`.
 - **Avant Grove** ([zone 1151](./zones/1151.md)) is only partly localized (locStatus 1).

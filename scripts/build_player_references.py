@@ -379,7 +379,9 @@ def build_zones(root, tables):
         "properties, and historical destinations. These pages link to existing "
         "textual map evidence; they do not include original map graphics.", "",
         "A record or mapped placement does not guarantee that the area, entrance, "
-        "or activity is available on your server.", "",
+        "or activity is available on your server. Neither catalog inclusion nor "
+        "`locStatus` proves that the server can load or players can reach the map; "
+        "see the methodology for the distinction.", "",
         "| Zone | Kind | Related location evidence |",
         "| --- | --- | --- |",
     ]

@@ -37,7 +37,7 @@ Defaults and `-1` sentinel handling are implemented in code; do not assume an em
 
 The current parser reads versioned zone metadata, scene references, boundaries, spawn information, raw-terrain path, scene transitions, and path data. Each referenced scene/level file must be present and valid for its parser. Terrain data may be optional in some cases, but a missing required zone file aborts loading.
 
-Keep the CDClient `zoneName` and the actual resource layout aligned. Also test the separate accessibility check: `dZoneManager::CheckIfAccessibleZone` looks for a zone-table row and an asset at `maps/` plus the stored zone name.
+Keep the CDClient `zoneName` and the actual resource layout aligned. In the inspected revision, `dZoneManager::CheckIfAccessibleZone` returns true only when a zone-table row exists and `AssetManager::HasFile("maps/" + zoneName)` succeeds. It does not inspect `locStatus`, parse the zone or its scenes, or verify a player route; only selected code paths call this helper, so it is not a general playability check. A filename match at a different resource path is insufficient.
 
 ## 4. Define scenes and transitions
 
@@ -66,7 +66,7 @@ Do not change a global `WorldConfig` value to solve a problem that is specific t
 
 ## 6. Load and validate
 
-Use the normal master-managed startup path so that the world receives the correct map, instance, clone, and port arguments. Confirm the world reaches `WORLD_READY`; inspect the world log for zone-file, scene, terrain, component, or script-load errors.
+Use the normal master-managed startup path so that the world receives the correct map, instance, clone, and port arguments. Confirm the world reaches `WORLD_READY`, but do not treat that signal alone as proof that all zone content loaded: inspect the world log for zone-file, scene, terrain, component, or script-load errors. The loader can return without map data when no zone row resolves, and missing referenced level files may be logged without stopping initialization.
 
 Validate incrementally:
 

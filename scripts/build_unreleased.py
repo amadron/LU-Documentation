@@ -44,7 +44,11 @@ PLANNED_ZONES = {
     20147: "Older entry with the same name as the released zone 1602; its map was removed.",
 }
 ZONE_NOTES = {
-    556: "Winter racetrack; the seasonal race shipped as activity \"Space Blizzard Racetrack\" (1261), see the [Racing Guide](./Racing%20Guide.md).",
+    556: (
+        "Winter racetrack; a local asset has this filename, but its path does not exactly match "
+        "the stored ZoneTable path. The seasonal race shipped as activity "
+        "\"Space Blizzard Racetrack\" (1261), see the [Racing Guide](./Racing%20Guide.md)."
+    ),
     1152: "Large property for Avant Gardens.",
     1202: "A duck shooting gallery for Nimbus Station; single-player activity 7583 is defined for it.",
     1301: "Survival mode for Gnarled Forest.",
@@ -148,8 +152,9 @@ def main():
         rows.append(f"| {page('zones', zone, str(zone))} | {label} | `{escape(shipped[luz])}` "
                     f"| {'Partly localized' if status == 1 else 'Not localized'} | {ZONE_NOTES.get(zone, '')} |")
     out += ["## Worlds that ship in the client but were never opened", "",
-            "These maps are part of the client files, so the areas were built, but their zone entries",
-            "were never localized and no launch pad leads to them.", "",
+            "These map files are present in the client, but their zone entries were never localized",
+            "and no launch pad leads to them. The listed path is the local client asset path matched",
+            "by filename; it is not proof that the ZoneTable's stored path resolves to that asset.", "",
             "| Zone | Internal name | Map file | Status | Notes |", "| --- | --- | --- | --- | --- |"] + rows + [""]
     if duplicates:
         out += ["Some never-localized zone entries only point at the map of a released world and are",
@@ -177,8 +182,10 @@ def main():
     frakjaw = (client_activities.get(58),) if 58 in client_activities else None
     out += ["## Seasonal and partly released content", "",
             "- **Space Blizzard Racetrack** (activity 60, see [zone 1261](./zones/1261.md)) was a winter",
-            "  event race. It has no zone-table row of its own; zone 556 \"Winter Racetrack\" uses the same",
-            "  map file and is not localized. DarkflameServer can only load worlds that have a zone row.",
+            "  event race. It has no ZoneTable row of its own; zone 556 \"Winter Racetrack\" has the same",
+            "  map filename but a different stored path and is not localized. Instance 1261 has no",
+            "  ZoneTable row, so the server's normal map lookup cannot resolve a zone asset for that ID;",
+            "  activity and asset evidence alone do not establish that it loads or is reachable.",
             "- **Seasonal map objects** are switched on by event gates in the map files. DarkflameServer",
             "  enables them through the `event_1` … `event_8` settings in `worldconfig.ini`.",
             "- **Avant Grove** ([zone 1151](./zones/1151.md)) is only partly localized (locStatus 1).",

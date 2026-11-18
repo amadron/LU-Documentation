@@ -4,7 +4,7 @@
 
 Browse a curated selection of known worlds, activity instances, properties, World Builder Planets, and historical destinations. Names are the official English client strings. These pages link to existing textual map evidence; they do not include original map graphics.
 
-A record or mapped placement does not guarantee that the area, entrance, or activity is available on your server. The status column reflects the client ZoneTable `locStatus` flag; see [Methodology](./Methodology.md).
+A record or mapped placement does not guarantee that the area, entrance, or activity is available on your server. The status column reflects the client ZoneTable `locStatus` flag; neither that status nor catalog inclusion proves that the server can load or players can reach the map. See [Methodology](./Methodology.md) for the distinction.
 
 | Zone | Kind | Status | Related location evidence |
 | --- | --- | --- | --- |
