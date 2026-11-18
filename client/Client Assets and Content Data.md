@@ -70,6 +70,8 @@ clients whose checksum differs.
 
 ## World files in `res/maps`
 
+The binary layouts are described in [World file formats](./Client%20World%20File%20Formats.md).
+
 | Type | Count | Content |
 | --- | ---: | --- |
 | `.luz` | 39 | **Zone file**: spawn point, list of scenes (`.lvl`), terrain file, boundaries, paths (NPC routes, moving platforms, spawner networks), and the revision numbers of its scenes |

@@ -107,6 +107,93 @@ Example: a minigame's server script counts points and sets a network variable `s
 client script receives the update and calls `UI:SendMessage("UpdateSG", ...)` to refresh the
 scoreboard.
 
+## Worked example: the organ in Gnarled Forest
+
+The organ next to Captain Jack in Gnarled Forest plays music when a player uses it and cannot be
+used again for five seconds. Its script component names
+`scripts\ai\GF\L_GF_ORGAN.lua` (server) and `scripts\client\ai\GF\L_GF_ORGAN_CLIENT.lua` (client).
+Both files ship with the client.
+
+**Original server script** (`res/scripts/ai/gf/l_gf_organ.lua`, abridged):
+
+```lua
+function onUse(self, msg)
+    self:PlayNDAudioEmitter{ m_NDAudioEventGUID = "{15d5f8bd-139a-4c31-8904-970c480cd70f}" }
+    self:SetNetworkVar('bIsInUse', true)
+    GAMEOBJ:GetTimer():AddTimerWithCancel(5, "reset", self)
+    msg.user:PlayAnimation{ animationID = "jig", bPlayImmediate = true }
+end
+
+function onTimerDone(self, msg)
+    if msg.name == "reset" then
+        self:SetNetworkVar('bIsInUse', false)
+    end
+end
+```
+
+**Client script** (`res/scripts/client/ai/gf/l_gf_organ_client.lua`, abridged):
+
+```lua
+function onCheckUseRequirements(self, msg)      -- before the player can click
+    if self:GetNetworkVar('bIsInUse') then
+        msg.bCanUse = false
+        return msg
+    end
+end
+
+function onScriptNetworkVarUpdate(self, msg)    -- the server changed a network variable
+    if msg.tableOfVars["bIsInUse"] ~= nil then
+        self:RequestPickTypeUpdate()            -- refresh cursor
+        if not msg.tableOfVars["bIsInUse"] then
+            GAMEOBJ:GetControlledID():TerminateInteraction{ type = 'fromInteraction', ObjIDTerminator = self }
+        end
+    end
+end
+
+function onGetPriorityPickListType(self, msg)   -- which cursor to show
+    if self:GetNetworkVar('bIsInUse') then msg.ePickType = -1 else msg.ePickType = 14 end
+    return msg
+end
+```
+
+The exchange:
+
+```text
+Client                                   Server
+  | player clicks: onCheckUseRequirements  |
+  |   bIsInUse not set → allowed           |
+  |-- REQUEST_USE (organ) ---------------->| onUse
+  |<- PLAY_ND_AUDIO_EMITTER ---------------|  music
+  |<- PLAY_ANIMATION "jig" (player) -------|
+  |<- SCRIPT_NETWORK_VAR_UPDATE bIsInUse=1-|  client: cursor off, clicks refused locally
+  |                 ... 5 seconds ...      |
+  |<- SCRIPT_NETWORK_VAR_UPDATE bIsInUse=0-|  client: cursor back, interaction ended
+```
+
+The variable name `bIsInUse` is the contract between the two scripts. DarkflameServer
+reimplements the server script as
+[GfOrgan.cpp](https://github.com/DarkflameUniverse/DarkflameServer/blob/8b7d1b946b5e7df18f2c82ccabcb2634aefc11f4/dScripts/ai/GF/GfOrgan.cpp).
+At the documented revision it stores `bIsInUse` with `SetBoolean`, which is a server-only variable,
+instead of `SetNetworkVar`. Music and animation work, and the server refuses a second use, but
+the client never receives the variable: the cursor stays "interactive" during the five seconds
+and the client-side end of the interaction (`TerminateInteraction`) is never triggered. This is
+the typical kind of gap described in
+[contract S1](./Server%20Contract.md#7-client-scripts).
+
+## Tracing an object across client and server
+
+1. Find the object's LOT (for example from the scene file, the item database, or a GM command).
+2. Look up its script component: `ComponentsRegistry` (type 5) → `ScriptComponent`
+   (`script_name`, `client_script_name`). A scene object can override both with
+   `custom_script_server` / `custom_script_client` in its configuration.
+3. Read the client script in `res/scripts`. Collect every `GetNetworkVar`, `msg.tableOfVars[...]`,
+   `onNotifyClientObject` name, `onFireEvent` argument, and `FireEventServerSide` argument.
+4. Read the original server script (if shipped in `res/scripts`) to see which side sends what.
+5. Find the server implementation (in DarkflameServer: the class registered for the script path
+   in [CppScripts.cpp](https://github.com/DarkflameUniverse/DarkflameServer/blob/8b7d1b946b5e7df18f2c82ccabcb2634aefc11f4/dScripts/CppScripts.cpp))
+   and check that it sends the same names with `SetNetworkVar`, `NotifyClientObject`, and
+   `FireEventClientSide`, and handles the client's `FireEventServerSide` arguments.
+
 ## What this means for a server
 
 - Client scripts are **content**. A server cannot change them, but it must feed them: the

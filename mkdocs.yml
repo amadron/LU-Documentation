@@ -106,6 +106,8 @@ nav:
       - Assets and content data: client/Client Assets and Content Data.md
       - Networking: client/Client Networking.md
       - Server contract: client/Server Contract.md
+      - Packet formats: client/Client Packet Formats.md
+      - World file formats: client/Client World File Formats.md
       - Troubleshooting: client/Client Troubleshooting.md
       - Reference tables: client/Client Reference Tables.md
       - Libraries: client/Client Libraries.md

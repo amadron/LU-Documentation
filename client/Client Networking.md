@@ -3,8 +3,8 @@
 [Client overview](./README.md) | [Server contract](./Server%20Contract.md) | [Server protocol](../server/DarkflameServer%20Client-Server%20Protocol%20and%20Gameplay.md)
 
 This page describes networking from the client's point of view: which servers it talks to, in
-which order, and which kinds of data it exchanges. Field layouts are documented in the server
-source; the server's
+which order, and which kinds of data it exchanges. Field layouts of the login and zone-entry
+packets are on [Packet formats](./Client%20Packet%20Formats.md); the server's
 [Client-Server Protocol](../server/DarkflameServer%20Client-Server%20Protocol%20and%20Gameplay.md)
 page explains the server side of the same flows.
 
@@ -15,6 +15,7 @@ page explains the server side of the same flows.
 | Library | RakNet, protocol of version 3.25 (DarkflameServer ships a compatible, modified RakNet 3.25) |
 | Transport | UDP with RakNet's reliability layer (reliable, ordered, sequenced channels) |
 | Connection password | `3.25 ND1` (RakNet's incoming password; a server must set it or the client cannot connect) |
+| Encryption | RakNet's secure connection (`InitializeSecurity`); DarkflameServer enables it on the auth, chat, and world servers, and disables it only for internal connections to the master server |
 | Network version | `171022` for the final client; the server announces it in the handshake (`client_net_version` in DarkflameServer's `sharedconfig.ini`) |
 | Byte order and encoding | Little-endian binary through `RakNet::BitStream`; text as fixed-length or length-prefixed ASCII (`LUString`) or UTF-16 (`LUWString`) |
 | Compression | zlib for large payloads (character data, some LDF blocks) |

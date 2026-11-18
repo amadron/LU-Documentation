@@ -42,6 +42,7 @@ remain available on the pages.
   [assets and content data](client/Client%20Assets%20and%20Content%20Data.md),
   [networking](client/Client%20Networking.md).
 - [Server contract](client/Server%20Contract.md) — what a server must provide for the unmodified client to work.
+- [Packet formats](client/Client%20Packet%20Formats.md) and [world file formats](client/Client%20World%20File%20Formats.md) — field layouts of the login and zone packets and of the zone files.
 - [Troubleshooting](client/Client%20Troubleshooting.md) and [reference tables](client/Client%20Reference%20Tables.md) — symptoms and causes; packet, message, and component IDs.
 
 ## Reference and server documentation

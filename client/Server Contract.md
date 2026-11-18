@@ -36,6 +36,7 @@ The server sends only IDs; the client looks everything up in its own files.
 | --- | --- | --- |
 | N1 | Accept RakNet 3.25-compatible connections on UDP. A RakNet from another major version is not compatible. | MUST |
 | N2 | Set RakNet's incoming password to `3.25 ND1` ([dNetCommon.h](https://github.com/DarkflameUniverse/DarkflameServer/blob/8b7d1b946b5e7df18f2c82ccabcb2634aefc11f4/dNet/dNetCommon.h)). | MUST |
+| N2a | Enable RakNet's secure connection on every server the client connects to, as DarkflameServer does ([dServer.cpp](https://github.com/DarkflameUniverse/DarkflameServer/blob/8b7d1b946b5e7df18f2c82ccabcb2634aefc11f4/dNet/dServer.cpp)). Whether the client also accepts unencrypted connections was not verified for this page. | MUST |
 | N3 | Answer the client's `COMMON / VERSION_CONFIRM` with network version `171022` and the server's service type. | MUST |
 | N4 | Frame every application packet with the 8-byte header (`0x53`, service, message ID, padding) and serialize fields in exactly the order and width the client expects. There are no per-field tags or lengths. | MUST |
 | N5 | Run the authentication service at the address the client's `boot.cfg` names (`AUTHSERVERIP`); DarkflameServer's default port is 1001. | MUST |

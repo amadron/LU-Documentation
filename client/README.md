@@ -29,6 +29,8 @@ read directly from a file, the page says so.
 | Networking | [Networking](./Client%20Networking.md) | RakNet connection, packet families, login, world transfer, replication |
 | Server contract | [Server Contract](./Server%20Contract.md) | Requirements a server must meet for the client to work, as a checklist |
 | Troubleshooting | [Troubleshooting](./Client%20Troubleshooting.md) | Symptoms, client log lines, likely causes, related contract requirements |
+| Packet formats | [Packet Formats](./Client%20Packet%20Formats.md) | Field layouts of handshake, login, character, transfer, zone-load, and game-message packets |
+| World files | [World File Formats](./Client%20World%20File%20Formats.md) | `.luz`, `.lvl`, `.raw`, `.lutriggers`; map checksum; which scene objects the server creates |
 | Reference | [Reference Tables](./Client%20Reference%20Tables.md) | Packet and game-message IDs, component type IDs, LDF types, character XML, object ID flags |
 | Middleware | [Client Libraries](./Client%20Libraries.md) | Third-party libraries, versions, open alternatives |
 
