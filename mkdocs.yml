@@ -92,9 +92,23 @@ nav:
       - CDClient tables: db/README.md
       - CDClient table reference: LEGO Universe CDClient Table Reference.md
       - Data model: LEGO Universe Data Model and Public Research.md
-      - Client libraries: LEGO Universe Client Libraries.md
   - Community:
       - Mods and improvements: wiki/Community Mods and Improvements.md
+  - Client documentation:
+      - Overview: client/README.md
+      - Architecture and startup: client/Client Architecture and Startup.md
+      - Rendering: client/Client Rendering.md
+      - User interface: client/Client User Interface.md
+      - Audio and video: client/Client Audio and Video.md
+      - Input and camera: client/Client Input and Camera.md
+      - Physics and building: client/Client Physics and Building.md
+      - Scripting: client/Client Scripting.md
+      - Assets and content data: client/Client Assets and Content Data.md
+      - Networking: client/Client Networking.md
+      - Server contract: client/Server Contract.md
+      - Troubleshooting: client/Client Troubleshooting.md
+      - Reference tables: client/Client Reference Tables.md
+      - Libraries: client/Client Libraries.md
   - Server documentation:
       - Overview: server/README.md
       - Architecture: server/DarkflameServer Architecture and Repository Structure.md

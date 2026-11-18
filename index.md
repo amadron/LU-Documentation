@@ -30,11 +30,25 @@ Search finds item and quest detail pages by name, ID, and description; their
 technical sections and catalog tables are not fully indexed. All details
 remain available on the pages.
 
+## Client documentation
+
+- [Client overview](client/README.md) — subsystems of the game client and how they fit together.
+- Areas: [architecture and startup](client/Client%20Architecture%20and%20Startup.md),
+  [rendering](client/Client%20Rendering.md), [user interface](client/Client%20User%20Interface.md),
+  [audio and video](client/Client%20Audio%20and%20Video.md),
+  [input and camera](client/Client%20Input%20and%20Camera.md),
+  [physics and building](client/Client%20Physics%20and%20Building.md),
+  [scripting](client/Client%20Scripting.md),
+  [assets and content data](client/Client%20Assets%20and%20Content%20Data.md),
+  [networking](client/Client%20Networking.md).
+- [Server contract](client/Server%20Contract.md) — what a server must provide for the unmodified client to work.
+- [Troubleshooting](client/Client%20Troubleshooting.md) and [reference tables](client/Client%20Reference%20Tables.md) — symptoms and causes; packet, message, and component IDs.
+
 ## Reference and server documentation
 
 - [CDClient table schemas](db/Schema.md) — table names, columns, and summaries; no exported table rows.
 - [Data model and public research](LEGO%20Universe%20Data%20Model%20and%20Public%20Research.md)
-- [Client libraries](LEGO%20Universe%20Client%20Libraries.md) — middleware and libraries used by the game client.
+- [Client libraries](client/Client%20Libraries.md) — middleware and libraries used by the game client.
 - [Server libraries](server/DarkflameServer%20Libraries.md) — third-party libraries used by DarkflameServer.
 - [DarkflameServer overview](server/README.md)
 - [Gamemaster Guide](server/DarkflameServer%20Gamemaster%20Guide.md)

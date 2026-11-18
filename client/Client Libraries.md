@@ -1,6 +1,6 @@
 # LEGO Universe Client Libraries
 
-[Home](./index.md) | [Data model](./LEGO%20Universe%20Data%20Model%20and%20Public%20Research.md) | [Server libraries](./server/DarkflameServer%20Libraries.md)
+[Home](../index.md) | [Client documentation](./README.md) | [Data model](../LEGO%20Universe%20Data%20Model%20and%20Public%20Research.md) | [Server libraries](../server/DarkflameServer%20Libraries.md)
 
 The LEGO Universe client (`legouniverse.exe`, final version from 2011) is built on licensed
 middleware. Some libraries ship as separate DLLs next to the executable; others are linked into
@@ -45,7 +45,7 @@ The client also ships data from LEGO's own tools rather than third-party code:
 - **LEGO Digital Designer brick data** (`res/brickdb.zip`, `res/brickprimitives`): the brick
   geometry and connection points used for building models, shared with LEGO Digital Designer.
 - **`cdclient.fdb`**: the content database in LEGO Universe's own "FDB" format. DarkflameServer
-  converts it to SQLite (`CDServer.sqlite`); see the [table reference](./LEGO%20Universe%20CDClient%20Table%20Reference.md).
+  converts it to SQLite (`CDServer.sqlite`); see the [table reference](../LEGO%20Universe%20CDClient%20Table%20Reference.md).
 
 ## Source code availability
 

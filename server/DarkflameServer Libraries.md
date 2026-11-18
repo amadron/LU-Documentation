@@ -1,6 +1,6 @@
 # DarkflameServer Libraries
 
-[Server documentation](./README.md) | [Architecture](./DarkflameServer%20Architecture%20and%20Repository%20Structure.md) | [Client libraries](../LEGO%20Universe%20Client%20Libraries.md)
+[Server documentation](./README.md) | [Architecture](./DarkflameServer%20Architecture%20and%20Repository%20Structure.md) | [Client libraries](../client/Client%20Libraries.md)
 
 DarkflameServer is written in C++ and builds with CMake. Apart from the system C/C++
 runtime, it relies on the third-party libraries below. Most are kept in the repository under
@@ -48,13 +48,13 @@ game client. RakNet was released as open source under a BSD license by Oculus in
 line; the 3.x versions were originally distributed under the license terms of their time. See
 the license notes in `thirdparty/raknet`.
 
-The [client libraries page](../LEGO%20Universe%20Client%20Libraries.md#source-code-availability)
+The [client libraries page](../client/Client%20Libraries.md#source-code-availability)
 lists which client components are open source and which open alternatives exist.
 
 ## Notes
 
 - **No physics engine.** The original client uses Havok (see the
-  [client libraries](../LEGO%20Universe%20Client%20Libraries.md)). DarkflameServer does not use
+  [client libraries](../client/Client%20Libraries.md)). DarkflameServer does not use
   Havok or another physics library; `dPhysics` contains its own simple shapes and collision
   checks.
 - **Client data is read directly.** The server reads the game's content database
