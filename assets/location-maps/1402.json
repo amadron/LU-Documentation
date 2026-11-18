@@ -1,0 +1,65 @@
+{
+  "zone": 1402,
+  "projection": {
+    "originX": 512.0,
+    "originY": 512.0,
+    "worldCenterX": 0.0,
+    "worldCenterZ": 0.0,
+    "pixelsPerWorldUnit": null,
+    "pixelsPerWorldUnitX": 1.0,
+    "pixelsPerWorldUnitZ": 0.8333333333333334,
+    "xAxisReversed": true,
+    "zAxisUp": true,
+    "provisional": true
+  },
+  "markers": [
+    {
+      "category": "items",
+      "name": "FV Hammer Smashable Gong smashable",
+      "lot": 9617,
+      "x": -69.931,
+      "y": 253.913,
+      "z": 2.802,
+      "pixelX": 581.931,
+      "pixelY": 509.665,
+      "details": "Scene nd_fv_dragon_crevice.lvl (Global Scene); LOT 176 spawner; No additional condition recorded",
+      "path": "wiki/items/sources/object-9617/"
+    },
+    {
+      "category": "items",
+      "name": "FV Hammer Smashable Gong smashable",
+      "lot": 9617,
+      "x": 70.423,
+      "y": 253.634,
+      "z": 150.517,
+      "pixelX": 441.577,
+      "pixelY": 386.569,
+      "details": "Scene nd_fv_dragon_crevice.lvl (Global Scene); LOT 176 spawner; No additional condition recorded",
+      "path": "wiki/items/sources/object-9617/"
+    },
+    {
+      "category": "items",
+      "name": "FV Hammer Smashable Gong smashable",
+      "lot": 9617,
+      "x": 78.247,
+      "y": 277.996,
+      "z": -0.976,
+      "pixelX": 433.753,
+      "pixelY": 512.813,
+      "details": "Scene nd_fv_dragon_crevice.lvl (Global Scene); LOT 176 spawner; No additional condition recorded",
+      "path": "wiki/items/sources/object-9617/"
+    },
+    {
+      "category": "items",
+      "name": "HF - Pet Dig Treasure Node Cylinder",
+      "lot": 3495,
+      "x": 13.728,
+      "y": 235.077,
+      "z": 130.41,
+      "pixelX": 498.272,
+      "pixelY": 403.325,
+      "details": "Scene nd_fv_dragon_crevice.lvl (Global Scene); LOT 176 spawner; No additional condition recorded",
+      "path": "wiki/items/sources/object-3495/"
+    }
+  ]
+}

@@ -376,8 +376,9 @@ def build_zones(root, tables):
         "[Game Guide](../README.md) | [Worlds guide](../Worlds%20Guide.md) | "
         "[Methodology](./Methodology.md)", "",
         "Browse a curated selection of known worlds, activity instances, "
-        "properties, and historical destinations. These pages link to existing "
-        "textual map evidence; they do not include original map graphics.", "",
+        "properties, and historical destinations. Zone pages show available "
+        "client minimaps; zones with both minimaps and exact item or pet XYZ "
+        "coordinates also show provisional location overlays.", "",
         "A record or mapped placement does not guarantee that the area, entrance, "
         "or activity is available on your server. Neither catalog inclusion nor "
         "`locStatus` proves that the server can load or players can reach the map; "

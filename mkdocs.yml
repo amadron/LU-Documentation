@@ -21,9 +21,11 @@ theme:
 
 extra_css:
   - assets/stylesheets/extra.css
+  - assets/stylesheets/location-maps.css
 
 extra_javascript:
   - assets/javascripts/table-icons.js
+  - assets/javascripts/location-maps.js
 
 hooks:
   - hooks/site_links.py

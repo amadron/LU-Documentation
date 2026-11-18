@@ -30,6 +30,11 @@ py -3 scripts\prepare_site.py
 Open the local address printed by MkDocs. To build the static website without
 starting a preview server, run `.\.venv\Scripts\mkdocs build --strict`.
 
+Location-map overlays for zones with both minimaps and exact item or pet
+coordinates are generated from the existing location tables. After refreshing
+those pages, run `py -3 scripts\build_location_maps.py` before
+`scripts\prepare_site.py`.
+
 ## Publish with GitHub Pages
 
 The workflow in `.github/workflows/pages.yml` builds and deploys the site

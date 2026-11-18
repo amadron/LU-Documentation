@@ -1,0 +1,106 @@
+.lu-location-map {
+  margin: 1rem 0 2rem;
+}
+
+.lu-location-map__controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: flex-start;
+  margin-bottom: 0.5rem;
+}
+
+.lu-location-map__search {
+  flex: 1 1 18rem;
+  min-width: 12rem;
+  padding: 0.45rem 0.6rem;
+}
+
+.lu-location-map__filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  margin: 0;
+  padding: 0.35rem 0.75rem 0.55rem;
+}
+
+.lu-location-map__filters legend {
+  padding: 0 0.25rem;
+  font-size: 0.8rem;
+}
+
+.lu-location-map__filter {
+  white-space: nowrap;
+}
+
+.lu-location-map__count {
+  margin: 0.5rem 0;
+  font-size: 0.85rem;
+}
+
+.lu-location-map__frame {
+  max-width: 48rem;
+  overflow: hidden;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  background: #101820;
+}
+
+.lu-location-map__svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.lu-location-map__marker {
+  cursor: pointer;
+}
+
+.lu-location-map__marker circle {
+  stroke: #fff;
+  stroke-width: 2;
+  opacity: 0.9;
+}
+
+.lu-location-map__marker--items circle {
+  fill: #d54b22;
+}
+
+.lu-location-map__marker--pets circle {
+  fill: #286fc2;
+}
+
+.lu-location-map__marker:hover circle,
+.lu-location-map__marker:focus circle {
+  stroke: #ffd54f;
+  stroke-width: 4;
+  opacity: 1;
+}
+
+.lu-location-map__marker.is-hidden {
+  display: none;
+}
+
+.lu-location-map__list {
+  max-height: 18rem;
+  overflow: auto;
+  margin: 0.75rem 0 0;
+  padding: 0.25rem 0.5rem 0.25rem 1.75rem;
+}
+
+.lu-location-map__list-item {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.75rem;
+  padding: 0.2rem 0;
+}
+
+.lu-location-map__coordinates {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.8rem;
+}
+
+.lu-location-map__error {
+  padding: 0.75rem;
+  border-left: 0.2rem solid #d54b22;
+  background: var(--md-default-fg-color--lightest);
+}

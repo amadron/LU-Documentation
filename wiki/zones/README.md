@@ -2,7 +2,7 @@
 
 [Game Guide](../README.md) | [Worlds guide](../Worlds%20Guide.md) | [Methodology](./Methodology.md)
 
-Browse a curated selection of known worlds, activity instances, properties, World Builder Planets, and historical destinations. Names are the official English client strings. These pages link to existing textual map evidence; they do not include original map graphics.
+Browse a curated selection of known worlds, activity instances, properties, World Builder Planets, and historical destinations. Names are the official English client strings. Zone pages show available client minimaps; zones with both a minimap and exact item or pet XYZ coordinates also show a provisional location overlay.
 
 A record or mapped placement does not guarantee that the area, entrance, or activity is available on your server. The status column reflects the client ZoneTable `locStatus` flag; neither that status nor catalog inclusion proves that the server can load or players can reach the map. See [Methodology](./Methodology.md) for the distinction.
 

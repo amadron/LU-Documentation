@@ -1,0 +1,53 @@
+{
+  "zone": 1600,
+  "projection": {
+    "originX": 512.0,
+    "originY": 512.0,
+    "worldCenterX": 0.0,
+    "worldCenterZ": 0.0,
+    "pixelsPerWorldUnit": 0.5,
+    "pixelsPerWorldUnitX": 0.5,
+    "pixelsPerWorldUnitZ": 0.5,
+    "xAxisReversed": true,
+    "zAxisUp": true,
+    "provisional": true
+  },
+  "markers": [
+    {
+      "category": "items",
+      "name": "Forge Honcho - Starbase Captain",
+      "lot": 11981,
+      "x": 51.998,
+      "y": 1527.111,
+      "z": 245.869,
+      "pixelX": 486.001,
+      "pixelY": 389.065,
+      "details": "Scene nd_starbase3001.lvl (Global Scene); LOT 176 spawner; No additional condition recorded",
+      "path": "wiki/items/sources/object-11981/"
+    },
+    {
+      "category": "items",
+      "name": "Hess LaCoil - Starbase Technician",
+      "lot": 10099,
+      "x": 44.996,
+      "y": 1567.38,
+      "z": 95.052,
+      "pixelX": 489.502,
+      "pixelY": 464.474,
+      "details": "Scene nd_starbase3001.lvl (Global Scene); LOT 176 spawner; No additional condition recorded",
+      "path": "wiki/items/sources/object-10099/"
+    },
+    {
+      "category": "items",
+      "name": "Nova Starbeam - Model Vendor",
+      "lot": 10023,
+      "x": 52.665,
+      "y": 1529.254,
+      "z": 308.469,
+      "pixelX": 485.668,
+      "pixelY": 357.765,
+      "details": "Scene nd_starbase3001.lvl (Global Scene); LOT 176 spawner; No additional condition recorded",
+      "path": "wiki/items/sources/object-10023/"
+    }
+  ]
+}

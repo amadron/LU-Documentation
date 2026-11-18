@@ -35,6 +35,7 @@ EXCLUDED_LOTS = {16900}      # custom development content, not original game dat
 EXCLUDED_ZONES = {1650}
 MINIMAP_ZOOM = "zoom_1"      # 6x6 tiles of 256 px for the large worlds
 MINIMAP_MAX = 1024
+MINIMAP_DISPLAY_WIDTH = 240
 # Icons whose opaque pixels are brighter than this (0-255) get a dark backdrop, the rest a light
 # one, so both white and black icons stay visible.
 LIGHT_THRESHOLD = 110
@@ -271,7 +272,7 @@ def main():
             rel = os.path.relpath(target, zones).replace(os.sep, "/")
             name = first_heading(page)
             changed += set_block(page, [
-                f'![Minimap of {name}]({rel}){{ width="480" loading="lazy" }}',
+                f'![Minimap of {name}]({rel}){{ width="{MINIMAP_DISPLAY_WIDTH}" loading="lazy" }}',
                 "",
                 "*In-game minimap from the client (stitched from the minimap tiles).*",
             ])

@@ -59,9 +59,28 @@ track's filename is zone 556 ("Winter Racetrack"), which has `locStatus` 0
 and no localized name; its stored path does not exactly match the local track
 asset path.
 
-No original map image is published here. The catalog is text and links to
-previously documented location evidence; it does not provide graphical maps
-or claim that every location has coordinate coverage.
+Client minimaps are published on zone pages when an image is available.
+Location overlays are generated for zones that also have exact item-source or
+pet coordinates: 1000, 1001, 1100, 1102, 1150, 1151, 1200, 1201, 1204, 1250,
+1251, 1300, 1350, 1400, 1402, 1450, 1600, 1700, 1800, 1900, and 2000.
+Recorded XYZ values remain authoritative; quest associations and other
+non-coordinate evidence are not turned into invented markers.
+
+Each projection maps the client's parsed `.raw` terrain bounds to the
+1024-by-1024 overlay and reverses X and Z. The bounds are composed of
+204.8-world-unit terrain chunks; the asset's actual world-space center is used
+as the projection origin, which is not always `(0, 0)`. Zone 1100 retains its
+previous tile-grid estimate of `5/12` pixels per world unit. Zones with unequal X/Z
+bounds, such as 1402, use separate axis scales. The three assets without
+recorded chunk dimensions use their terrain chunk grid and minimap tile grid
+for scale. These are map-specific transforms, not a confirmed universal
+transform.
+
+Canvas checks test whether projected markers land on non-transparent minimap
+pixels. This is a useful coverage check, but it does not prove exact alignment
+with in-game landmarks. Treat the overlays as a visual index, not navigation
+instructions. Markers represent static map evidence, not live-spawn or
+availability verification.
 
 Zone names, summaries, and loading-screen tips are the official English
 (`en_US`) client strings from `locale.xml` (`ZoneTable_<id>_DisplayDescription`,
